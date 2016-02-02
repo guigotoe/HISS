@@ -1,0 +1,1335 @@
+Entry	Entry name	Cross-reference (EMBL)	Cross-reference (GenBank)	Gene names	Protein names
+D5MGQ8	D5MGQ8_9BACT	FP565575;		norZ DAMO_1889	Nitric-oxide reductase, qNOR-like (NorZ) (EC 1.7.99.7)
+B3Y963	B3Y963_GEOSE	AB450501;		norZ	Nitric oxide reductase
+A4IL19	A4IL19_GEOTN	CP000557;		norZ GTNG_0643	Nitric oxide reductase
+J5HQ95	J5HQ95_9PAST	ALJP01000009;		norZ HMPREF1128_1761	Nitric oxide reductase, NorZ
+D3IIG8	D3IIG8_9BACT	GG740072;		norZ HMPREF0670_01137	Nitric oxide reductase, NorZ
+I3BCV3	I3BCV3_HAEPA	AJTC01000037;		norZ HMPREF1119_1398	Nitric oxide reductase, NorZ
+I2J437	I2J437_HAEPA	AJMW01000055;		norZ HMPREF1118_1478	Nitric oxide reductase, NorZ
+T0CI20	T0CI20_9DELT	AUMC01000003;		norZ M902_2484	Nitric oxide reductase, NorZ
+J5UZQ2	J5UZQ2_9FLAO	ALNN01000062;		norZ HMPREF1154_0315	Nitric oxide reductase, NorZ
+J4XBG0	J4XBG0_9PROT	ALJJ01000009;		norZ HMPREF1139_0467	Nitric oxide reductase, NorZ
+A4G197	A4G197_HERAR	CU207211;		norZ HEAR0048	Nitric oxide reductase
+Q39PX6	Q39PX6_GEOMG	CP000148;		norZ Gmet_3493	Nitric oxide reductase, cytochrome b
+B5EFD8	B5EFD8_GEOBB	CP001124;		norZ Gbem_3901	Nitric oxide reductase, cytochrome b
+A1V632	A1V632_BURMS	CP000526;		BMASAVP1_A2379	Putative nitric oxide reductase norZ
+A3NXB8	A3NXB8_BURP0	CP000572;		BURPS1106A_2738	Putative nitric oxide reductase NorZ
+A3MLU9	A3MLU9_BURM7	CP000548;		BMA10247_1694	Putative nitric oxide reductase norZ
+Q62LK4	Q62LK4_BURMA	CP000010;		BMA0633	Nitric oxide reductase norZ, putative
+K9YN67	K9YN67_CYASC	CP003940;		Cyast_2435	Nitric oxide reductase, NorZ apoprotein
+F4GR23	F4GR23_PUSST	CP002663;		PT7_2183	Nitric oxide reductase NorB/NorZ-like protein
+K9Z803	K9Z803_CYAAP	CP003947;		Cyan10605_3228	Nitric oxide reductase, NorZ apoprotein
+F4GMY3	F4GMY3_PUSST	CP002663;		PT7_0538	Nitric oxide reductase NorB/NorZ-like protein
+A2SA85	A2SA85_BURM9	CP000546;		BMA10229_A2908	Putative nitric oxide reductase norZ
+E6XCC1	E6XCC1_CELAD	CP002453;		Celal_3930	Nitric oxide reductase, NorZ apoprotein
+D5MIZ0	D5MIZ0_9BACT	FP565575;		DAMO_2437	Putative Cytochrome c oxidase subunit I nitric oxide reductase-like (NorZ)
+E4NUW2	E4NUW2_HALBP	CP001692;AOHT01000020;		Hbor_34300 C499_06795	Nitric oxide reductase, NorZ apoprotein
+A3PWR0	A3PWR0_MYCSJ	CP000580;		Mjls_1539	Nitric oxide reductase, NorZ apoprotein
+M0MK72	M0MK72_9EURY	AOMD01000015;		C449_05212	Nitric oxide reductase, NorZ apoprotein
+M0BHU6	M0BHU6_9EURY	AOIQ01000017;		C479_10425	Nitric oxide reductase, NorZ apoprotein
+M0AQM2	M0AQM2_9EURY	AOIP01000053;		C480_19077	Nitric oxide reductase, NorZ apoprotein
+M0H7S6	M0H7S6_9EURY	AOLI01000014;		C455_06881	Nitric oxide reductase, NorZ apoprotein
+M0M9Z8	M0M9Z8_HALMO	AOMC01000125;		C448_10577	Nitric oxide reductase, NorZ apoprotein
+M0HK41	M0HK41_9EURY	AOLK01000019;		C453_12621	Nitric oxide reductase, NorZ apoprotein
+M0N7M8	M0N7M8_9EURY	AOMF01000152;		C451_09660	Nitric oxide reductase, NorZ apoprotein
+M0MV31	M0MV31_9EURY	AOME01000087;		C450_18944	Nitric oxide reductase, NorZ apoprotein
+M0A5N3	M0A5N3_9EURY	AOIL01000019;		C484_07201	Nitric oxide reductase, NorZ apoprotein
+A4WI80	A4WI80_PYRAR	CP000660;		Pars_0502	Nitric oxide reductase, NorZ apoprotein
+A3MXF7	A3MXF7_PYRCJ	CP000561;		Pcal_1908	Nitric oxide reductase, NorZ apoprotein
+H1LLB6	H1LLB6_9PAST	AGRK01000002;		HMPREF9096_00051	Nitric oxide reductase, NorZ
+F3P6I4	F3P6I4_9ACTO	AFBL01000014;		HMPREF9056_00645	Putative nitric oxide reductase, NorZ
+J5W131	J5W131_9PORP	ALKJ01000003;		norZ HMPREF1323_0464	Nitric oxide reductase, NorZ
+B7CM81	B7CM81_BURPE	ACCE01000003;		BUC_3000	Putative nitric oxide reductase NorZ
+U2IXG0	U2IXG0_9PORP	AWUX01000051;		HMPREF1556_00828	Nitric oxide reductase, NorZ
+X8E063	X8E063_MYCXE	JAOB01000011;		norZ I553_9454	Nitric oxide reductase domain protein (EC 1.7.2.5)
+R0CS37	R0CS37_RALPI	APMQ01000002;		OR214_00958	Nitric oxide reductase, NorZ apoprotein
+I9E082	I9E082_9FLAO	AJZR01000040;		norZ HMPREF1321_1370	Nitric oxide reductase, NorZ
+A0A072NQA7	A0A072NQA7_BACAZ	JJRY01000004;		M670_01459	Nitric oxide reductase, NorZ apoprotein (EC 1.7.2.5)
+A0A072NTY5	A0A072NTY5_BACAZ	JJRY01000001;		M670_00384	Nitric oxide reductase, NorZ apoprotein (EC 1.7.2.5)
+A4LDP6	A4LDP6_BURPE	AAYX01000001;		BURPS305_7410	Putative nitric oxide reductase NorZ
+I2NVI8	I2NVI8_NEISI	AJMT01000042;		norZ HMPREF1051_1503	Nitric oxide reductase, NorZ
+G9ZBI5	G9ZBI5_9GAMM	AGCM01000006;		HMPREF9080_00108	Nitric oxide reductase, NorZ
+G8A419	G8A419_9NEIS	GU066897;		norZ	Nitric oxide reductase (Fragment)
+A0A069ZTY0	A0A069ZTY0_9PORP	JNOS01000002;		HMPREF1121_00752	Nitric oxide reductase, NorZ
+F5WBD7	F5WBD7_STAAU	AFNP01000014;		SA21310_0750	Putative nitric oxide reductase, NorZ
+M1Z8S6	M1Z8S6_9CLOT	CARA01000079;		norZ CULT_170049	Nitric oxide reductase
+A0A031GYY8	A0A031GYY8_9BURK	JFYR01000001;		norZ BW37_00467	Nitric oxide reductase
+U1QK77	U1QK77_9ACTO	AWSE01000161;		HMPREF1979_02443	Putative nitric oxide reductase, NorZ
+F9NPM8	F9NPM8_PROAA	AFUM01000009;		HMPREF9205_1241	Putative nitric oxide reductase, NorZ
+Z4WZJ5	Z4WZJ5_9PORP	JDFF01000011;		HMPREF0636_0726	Putative nitric oxide reductase, NorZ
+L1NA71	L1NA71_9PORP	AMEQ01000040;		HMPREF9134_01562	Nitric oxide reductase, NorZ
+U1PH73	U1PH73_9ACTO	AWSD01000353;		HMPREF1549_02942	Putative nitric oxide reductase, NorZ
+J0MXR0	J0MXR0_9FLAO	AKFR01000019;		norZ HMPREF1320_1968	Nitric oxide reductase, NorZ
+C0YFB9	C0YFB9_BURPE	ACKA01000064;		BUH_2790	Putative nitric oxide reductase NorZ
+I6AHY7	I6AHY7_BURTH	JH692062;		A33K_14898	Putative nitric oxide reductase norZ
+J0NBS5	J0NBS5_9ACTO	AKFT01000149;		HMPREF1318_2394	Putative nitric oxide reductase, NorZ
+F9N7V0	F9N7V0_9ACTO	AFUK01000001;		HMPREF9949_0105	Putative nitric oxide reductase, NorZ
+O30375	O30375_CUPNE	AF002661;		norZ	Nitric oxide reductase
+Q9JPL2	Q9JPL2_NEIME	AJ391256;		norZ	Nitric oxide reductase (Fragment)
+U1SEM3	U1SEM3_9PAST	AWSH01000007;		HMPREF9065_00205	Nitric oxide reductase, NorZ
+W3Y3T5	W3Y3T5_9FIRM	AZYX01000009;		norZ HMPREF1521_1715	Nitric oxide reductase, NorZ
+L1PAK9	L1PAK9_9FLAO	AMET01000018;		HMPREF9075_00271	Nitric oxide reductase, NorZ
+C5NLY1	C5NLY1_BURML	AAZP01000166;		BMAPRL20_A0645	Putative nitric oxide reductase NorZ
+J3JJY4	J3JJY4_ACTNH	ALJK01000118;		HMPREF1129_0047	Putative nitric oxide reductase, NorZ
+A0A069QIS9	A0A069QIS9_PRELO	JNGW01000084;		HMPREF1991_01941	Nitric oxide reductase, NorZ
+L1P6D3	L1P6D3_9FLAO	AMEV01000152;		HMPREF9072_02443	Nitric oxide reductase, NorZ
+L1NZ87	L1NZ87_9FLAO	AMES01000056;		HMPREF9078_00785	Nitric oxide reductase, NorZ
+L1PL36	L1PL36_9FLAO	AMEU01000124;		HMPREF9073_01856	Putative nitric oxide reductase, NorZ
+F9PHS7	F9PHS7_9ACTO	AFUR01000001;		HMPREF9058_2710	Putative nitric oxide reductase, NorZ
+J0NE15	J0NE15_CAPOC	AKFV01000040;		norZ HMPREF1319_1856	Nitric oxide reductase, NorZ
+H1ZBQ3	H1ZBQ3_MYROD	CM001437;		Myrod_2504	Nitric oxide reductase, NorZ apoprotein
+B9M7T7	B9M7T7_GEODF	CP001390;		norZ Geob_0018	Nitric oxide reductase, cytochrome b
+A1VLW5	A1VLW5_POLNA	CP000529;		Pnap_1328	Nitric oxide reductase, NorZ apoprotein
+A1UD93	A1UD93_MYCSK	CP000518;		Mkms_1593	Nitric oxide reductase, NorZ apoprotein
+Q46R31	Q46R31_CUPPJ	CP000091;		Reut_B5055	Nitric oxide reductase, NorZ apoprotein
+A5WFM2	A5WFM2_PSYWF	CP000713;		PsycPRwf_1520	Nitric oxide reductase, NorZ apoprotein
+C7RQ31	C7RQ31_ACCPU	CP001715;		CAP2UW1_2326	Putative nitric oxide reductase NorZ
+A3NBI3	A3NBI3_BURP6	CP000570;		BURPS668_2680	Putative nitric oxide reductase NorZ
+K9S4D4	K9S4D4_9CYAN	CP003591;		GEI7407_0530	Nitric oxide reductase, NorZ apoprotein
+E6S6W7	E6S6W7_INTC7	CP002343;		Intca_0298	Nitric oxide reductase, NorZ apoprotein
+Q1BBQ4	Q1BBQ4_MYCSS	CP000384;		Mmcs_1569	Nitric oxide reductase, NorZ apoprotein
+C5ZKD1	C5ZKD1_BURPE	CM000774;		BURPS1106B_A1960	Putative nitric oxide reductase NorZ
+K9U1Y4	K9U1Y4_9CYAN	CP003597;		Chro_3365	Nitric oxide reductase, NorZ apoprotein
+A1W272	A1W272_ACISJ	CP000539;		Ajs_0092	Nitric oxide reductase, NorZ apoprotein
+Q2IQU7	Q2IQU7_ANADE	CP000251;		Adeh_1403	Nitric oxide reductase, NorZ apoprotein
+Q2IED9	Q2IED9_ANADE	CP000251;		Adeh_3178	Nitric oxide reductase, NorZ apoprotein
+Q2IFX8	Q2IFX8_ANADE	CP000251;		Adeh_3720	Nitric oxide reductase, NorZ apoprotein
+Q1IUT1	Q1IUT1_KORVE	CP000360;		Acid345_0364	Nitric oxide reductase, NorZ apoprotein
+K9VBB2	K9VBB2_9CYAN	CP003614;		Osc7112_0369	Nitric oxide reductase, NorZ apoprotein
+K9XKN7	K9XKN7_9CHRO	CP003646;		Glo7428_4622	Nitric oxide reductase, NorZ apoprotein
+Q97XY4	Q97XY4_SULSO	AE006641;		norB-1 SSO1571	Nitric oxide reductase, subunit I (Cytochrome B) (NorB-1)
+G8PWM5	G8PWM5_PSEFL	CP003150;		norB1 PSF113_3759	NorB1 (EC 1.7.2.5)
+Q9K4V0	NORR1_CUPNH	AJ278371;AY305378;		norR1 PHG246	Nitric oxide reductase transcription regulator NorR1
+M7NAX1	M7NAX1_9BACT	AODQ01000006;		norB_1 ADICEAN_00451	Nitric oxide reductase subunit B (EC 1.7.2.5)
+W7WPV7	W7WPV7_9BURK	AZSO01000248;		norB_1 Y695_01911	Nitric oxide reductase subunit B (EC 1.7.2.5)
+C6S9X5	C6S9X5_NEIME	AM889137;		norB1 NME_0084	Nitric oxide reductase (EC 1.7.99.7)
+C6SHK2	C6SHK2_NEIME	AM889138;		norB1 NMW_0421	Nitric oxide reductase (EC 1.7.99.7)
+K1L596	K1L596_9BACT	AMGM01000015;		norB_1 B879_01376	Nitric oxide reductase subunit B (EC 1.7.2.5)
+W6JZQ2	W6JZQ2_9MICO	CAJA01000335;		BN11_400018	Putative Nitric oxide reductase subunit B (NorB) (EC 1.7.2.5)
+A0A077M5V5	A0A077M5V5_9MICO	CAJB01000429;		BN12_930010	Putative Nitric oxide reductase subunit B (NorB) (EC 1.7.2.5)
+P23295	NOR_FUSOX	M63340;D14517;		CYP55A1 CYP55	NADP nitrous oxide-forming nitric oxide reductase (NOR) (EC 1.7.1.14) (CYPLVA1) (Cytochrome P450 55A1) (Cytochrome P450 DNIR) (Cytochrome P450nor) (Fungal nitric oxide reductase)
+P98008	NORB_PSEST	X53676;		norB	Nitric oxide reductase subunit B (EC 1.7.2.5) (NOR large subunit) (Nitric oxide reductase cytochrome b subunit)
+Q59647	NORB_PSEAE	D38133;AE004091;		norB PA0524	Nitric oxide reductase subunit B (EC 1.7.2.5) (NOR large subunit) (Nitric oxide reductase cytochrome b subunit)
+Q52527	NORC_PSEST	X53676;		norC	Nitric oxide reductase subunit C (NOR small subunit) (Nitric oxide reductase cytochrome c subunit)
+Q59646	NORC_PSEAE	D38133;AE004091;		norC PA0523	Nitric oxide reductase subunit C (NOR small subunit) (Nitric oxide reductase cytochrome c subunit)
+Q51662	NORC_PARDE	U28078;AB014090;		norC	Nitric oxide reductase subunit C (NOR small subunit) (Nitric oxide reductase cytochrome c subunit)
+O50651	NORC_HALHD	AB010889;		norC	Nitric oxide reductase subunit C (NOR small subunit) (Nitric oxide reductase cytochrome c subunit)
+O06844	NORC_RHOS5	AF000233;CP000661;		norC Rsph17025_0970	Nitric oxide reductase subunit C (NOR small subunit) (Nitric oxide reductase cytochrome c subunit)
+Q8FX40	Q8FX40_BRUSU	AE014292;CP002998;JELT01000038;JMUC01000016;		norB BRA0249 BS1330_II0246 BF16_10240 DK66_312	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5) (Nitric-oxide reductase, large subunit) (EC 1.7.2.5)
+Q65IZ0	Q65IZ0_BACLD	CP000002;AE017333;		norB BL01473 BLi02084	Nitric oxide reductase beta subunit NorB (EC 1.7.2.5) (Nitric oxide reductase cytochrome b subunit)
+Q8FX41	Q8FX41_BRUSU	AE014292;CP002998;JELT01000038;JMUC01000016;		norC BRA0248 BS1330_II0245 BF16_10235 DK66_311	Cytochrome C (Nitric oxide reductase subunit C) (Nitric-oxide reductase, small subunit) (EC 1.7.2.5)
+B0SP10	B0SP10_LEPBP	CP000786;		norB LEPBI_I2954	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit NOR large subunit) putative membrane protein (EC 1.7.2.5)
+Q8YBA2	Q8YBA2_BRUME	AE008918;CP007762;GG703779;		norB BMEII0998 BAWG_1601 DK63_2258	Cytochrome c oxidase (Nitric oxide reductase subunit B) (EC 1.7.2.5) (Nitric-oxide reductase subunit b) (EC 1.7.2.5)
+A4YP25	A4YP25_BRASO	CU234118;		norB BRADO1777	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.99.7)
+D3DFZ8	D3DFZ8_HYDTT	CP002221;AP011112;		norB HTH_0283 Hydth_0280	Nitric oxide reductase cytochrome b subunit (Nitric-oxide reductase) (EC 1.7.2.5)
+Q8YBA1	Q8YBA1_BRUME	AE008918;CP007762;GG703779;		norC BMEII0999 BAWG_1600 DK63_2257	Cytochrome c heme-binding site (Nitric oxide reductase subunit C) (Nitric-oxide reductase cytochrome c chain) (EC 1.7.2.5)
+A4YP24	A4YP24_BRASO	CU234118;		norC BRADO1776	Nitric-oxide reductase subunit C (Nitric oxide reductase cytochrome c subunit) (NOR small subunit) (EC 1.7.99.7)
+D3DFZ9	D3DFZ9_HYDTT	CP002221;AP011112;		norC HTH_0284 Hydth_0281	Nitric oxide reductase cytochrome c subunit (Nitric-oxide reductase subunit C)
+A9CGJ8	A9CGJ8_AGRT5	AE007870;		norB Atu4388	Nitric oxide reductase, cytochrome b subunit
+D4GUU4	D4GUU4_HALVD	CP001956;AOHU01000040;		norB HVO_2147 C498_06018	Cytochrome B subunit of nitric oxide reductase (Nitric oxide reductase (Cytochrome c)) (EC 1.7.2.5)
+Q8FX43	Q8FX43_BRUSU	AE014292;CP002998;JELT01000038;JMUC01000016;		BRA0246 BS1330_II0243 BF16_10225 DK66_309	Cytochrome c oxidase subunit III family protein (Cytochrome c oxidase, subunit III) (NorE accessory protein for nitric oxide reductase)
+U4Q873	U4Q873_9RHIZ	HG518324;		norB BN877_p0535	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+H8WET2	H8WET2_MARHY	FO203363;		norB MARHY3054	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+U4Q4U0	U4Q4U0_9RHIZ	HG518324;		norC BN877_p0536	Nitric-oxide reductase subunit C (Nitric oxide reductase cytochrome c subunit) (NOR small subunit) (EC 1.7.2.5)
+H8WET1	H8WET1_MARHY	FO203363;		norC MARHY3053	Nitric-oxide reductase subunit C (Nitric oxide reductase cytochrome c subunit) (NOR small subunit) (EC 1.7.2.5)
+A9CGJ9	A9CGJ9_AGRT5	AE007870;		norE Atu4391	Nitric oxide reductase NorE protein
+Q9UAG7	FHBA_DICDI	AB025583;AAFI02000190;		fhbA DDB_G0292378	Flavohemoprotein A (EC 1.14.12.17) (DdFHa) (Flavohemoglobin A) (Hemoglobin-like protein A) (Nitric oxide dioxygenase A) (NO oxygenase A) (NOD A)
+Q54D73	FHBB_DICDI	AB025584;AAFI02000190;		fhbB DDB_G0292380	Flavohemoprotein B (EC 1.14.12.17) (DdFHb) (Flavohemoglobin B) (Hemoglobin-like protein B) (Nitric oxide dioxygenase B) (NO oxygenase B) (NOD B)
+Q03331	FHP_CANNO	X68849;			Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)
+Q9URY5	FHP_SCHPO	CU329670;		SPAC869.02c	Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)
+P39676	FHP_YEAST	X87941;Z73019;AY692964;AF239759;BK006941;		YHB1 YHB YGR234W G8572	Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)
+P39662	HMP_CUPNH	X74334;AY305378;		hmp fhp PHG200	Flavohemoprotein (FHP) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)
+P24232	HMP_ECOLI	X58872;U00096;AP009048;J01620;		hmp fsrB hmpA b2552 JW2536	Flavohemoprotein (Flavohemoglobin) (HMP) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD) (EC 1.14.12.17)
+Q51700	NIRS_PARDP	U05002;CP000489;		nirS Pden_2487	Nitrite reductase (EC 1.7.2.1) (Cytochrome cd1) (Cytochrome oxidase) (Hydroxylamine reductase) (EC 1.7.99.1)
+E7QZI3	E7QZI3_9EURY	AEMG01000029;		ZOD2009_20962	Nitric-oxide reductase
+M0F807	M0F807_9EURY	AOJO01000038;		C467_08255	Cytochrome b subunit of nitric oxide reductase
+M0KUZ9	M0KUZ9_9EURY	AOLW01000008;		C442_03152	Cytochrome B subunit of nitric oxide reductase
+M0JGE1	M0JGE1_9EURY	AOLP01000001;		C438_00085	Cytochrome B subunit of nitric oxide reductase
+M0PIQ4	M0PIQ4_9EURY	AOJJ01000082;		C462_13751	Cytochrome b subunit of nitric oxide reductase (Fragment)
+M0G9P4	M0G9P4_9EURY	AOLF01000021;		C458_09821	Cytochrome B subunit of nitric oxide reductase
+M0DD37	M0DD37_9EURY	AOIW01000050;		C473_08117	Cytochrome b subunit of nitric oxide reductase (Fragment)
+M0NND6	M0NND6_9EURY	AOJG01000030;		C469_10751	Cytochrome b subunit of nitric oxide reductase
+M0JT91	M0JT91_HALVA	AOLQ01000007;		C437_02672	Cytochrome B subunit of nitric oxide reductase
+M0HWC3	M0HWC3_9EURY	AOLL01000028;		C452_14550	Cytochrome B subunit of nitric oxide reductase
+A0A063V406	A0A063V406_9EURY	JHUT01000204;		norB HTG_0216	Cytochrome B subunit of nitric oxide reductase (EC 1.7.2.5) (Fragment)
+M0E5V6	M0E5V6_9EURY	AOJE01000011;		C471_03208	Cytochrome b subunit of nitric oxide reductase
+M0DE01	M0DE01_9EURY	AOJD01000075;		C472_13887	Cytochrome B subunit of nitric oxide reductase
+M0F9I5	M0F9I5_9EURY	AOLD01000042;		C460_14510	Cytochrome B subunit of nitric oxide reductase
+M0DAN2	M0DAN2_9EURY	AOIV01000011;		C474_06912	Cytochrome B subunit of nitric oxide reductase
+M0G841	M0G841_9EURY	AOLE01000009;		C459_01923	Cytochrome B subunit of nitric oxide reductase
+M0PA50	M0PA50_9EURY	AOJI01000024;		C461_09572	Cytochrome b subunit of nitric oxide reductase
+M0EQ72	M0EQ72_9EURY	AOJM01000043;		C465_06448	Cytochrome b subunit of nitric oxide reductase (Fragment)
+M0K5G2	M0K5G2_9EURY	AOLR01000008;		C436_04645	Cytochrome B subunit of nitric oxide reductase
+M0NL42	M0NL42_9EURY	AOJF01000053;		C470_12543	Cytochrome b subunit of nitric oxide reductase (Fragment)
+M0FCZ2	M0FCZ2_9EURY	AOJN01000018;		C466_03289	Cytochrome b subunit of nitric oxide reductase
+V6DXV5	V6DXV5_9EURY	CBVY010000048;		C467_08255 BN903_1	Cytochrome b subunit of nitric oxide reductase (EC 1.7.2.5)
+M0HXN0	M0HXN0_9EURY	AOLM01000026;		C441_15834	Cytochrome B subunit of nitric oxide reductase
+M0GSL5	M0GSL5_HALL2	AOLH01000010;		C456_06222	Cytochrome B subunit of nitric oxide reductase
+L5NU20	L5NU20_9EURY	ANPG01000281;		D320_12220	Cytochrome B subunit of nitric oxide reductase
+M0KJY0	M0KJY0_HALAR	AOLX01000023;		C443_14822	Cytochrome B subunit of nitric oxide reductase
+M0H8I4	M0H8I4_9EURY	AOLJ01000018;		C454_12498	Cytochrome B subunit of nitric oxide reductase
+M0LLI0	M0LLI0_HALJP	AOLY01000006;		C444_03052	Cytochrome B subunit of nitric oxide reductase
+M0K5B7	M0K5B7_9EURY	AOLS01000062;		C435_12080	Cytochrome B subunit of nitric oxide reductase
+M0G0G2	M0G0G2_9EURY	AOLG01000053;		C457_16187	Cytochrome B subunit of nitric oxide reductase
+I3R6L7	I3R6L7_HALMT	CP001868;CP007551;AOLO01000011;		norB HFX_2188 BM92_11685 C439_12744	Cytochrome B (Cytochrome b subunit of nitric oxide reductase) (EC 1.7.2.5)
+E4NUW2	E4NUW2_HALBP	CP001692;AOHT01000020;		Hbor_34300 C499_06795	Nitric oxide reductase, NorZ apoprotein
+G0HRI4	G0HRI4_HALHT	CP002921;		norB HAH_2739	Cytochrome B subunit of nitric oxide reductase (EC 1.7.2.5)
+C7NVW4	C7NVW4_HALMD	CP001688;		Hmuk_1980	Nitric-oxide reductase (EC 1.7.2.5)
+Q97XY3	Q97XY3_SULSO	AE006641;		norB-2 SSO1573	Nitric oxide reductase, subunit I (Cytochrome B) (NorB-2)
+Q97XY4	Q97XY4_SULSO	AE006641;		norB-1 SSO1571	Nitric oxide reductase, subunit I (Cytochrome B) (NorB-1)
+G7VIA4	G7VIA4_9CREN	CP003098;		P186_0748	Nitric oxide reductase, cytochrome b subunit
+D2RU14	D2RU14_HALTV	CP001860;		Htur_0182	Nitric-oxide reductase (EC 1.7.2.5)
+D2RXT4	D2RXT4_HALTV	CP001860;		Htur_0873	Nitric-oxide reductase (EC 1.7.2.5)
+D9Q165	D9Q165_ACIS3	CP001742;		ASAC_0647	Nitric oxide reductase, cytochrome b subunit
+A8MAU8	A8MAU8_CALMQ	CP000852;		Cmaq_0286	Nitric oxide reductase, cytochrome b subunit
+Q8ZSS8	Q8ZSS8_PYRAE	AE009441;		PAE3603	Nitric oxide reductase, cytochrome b subunit
+I7CSN0	I7CSN0_NATSJ	CP003412;		NJ7G_0368	Nitric-oxide reductase
+Q5V053	Q5V053_HALMA	AY596297;		norB rrnAC2272	Cytochrome B subunit of nitric oxide reductase
+B9LQ42	B9LQ42_HALLT	CP001365;		Hlac_1902	Cytochrome b subunit of nitric oxide reductase (EC 1.7.2.5)
+E1QSX0	E1QSX0_VULDI	CP002100;		Vdis_1451	Nitric oxide reductase, cytochrome b subunit
+F8D3W3	F8D3W3_HALXS	CP002839;		Halxa_4018	Nitric-oxide reductase (EC 1.7.2.5)
+F8D2Z9	F8D2Z9_HALXS	CP002839;		Halxa_1516	Nitric-oxide reductase (EC 1.7.2.5)
+F2L272	F2L272_THEU7	CP002590;		TUZN_1529	Nitric oxide reductase, cytochrome b subunit
+Q8NKB4	Q8NKB4_ASPOZ	AB055659;		CYP55A5	Cytochrome P450nor
+Q96WS9	Q96WS9_TRICU	AB052733;		CYP55A4	Cytochrome P450nor
+A8JD25	A8JD25_CHLRE	DS496159;		CYP55B1 CHLREDRAFT_196664	Cytochrome P450, nitric oxide reductase
+C9V6M3	C9V6M3_BRUNE	EQ999575;AZBJ02000095;JMSC01000004;		norB BANG_02696 DK64_573 X658_0213690	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+C9V6M6	C9V6M6_BRUNE	EQ999575;AZBJ02000095;JMSC01000004;		BANG_02699 DK64_576 X658_0213675	Cytochrome c oxidase subunit III (Cytochrome c oxidase subunit III family protein) (NorE accessory protein for nitric oxide reductase)
+C9V6M4	C9V6M4_BRUNE	EQ999575;AZBJ02000095;JMSC01000004;		norC BANG_02697 DK64_574 X658_0213685	Cytochrome C (Nitric oxide reductase) (Nitric oxide reductase subunit C)
+Q1ZYX0	Q1ZYX0_9PSED	DQ420244;DQ420250;		cnorB	Nitric oxide reductase (Fragment)
+A5A3K5	A5A3K5_9BACT	EF523580;EF523583;		norB	Nitric oxide reductase (Fragment)
+A5A3K3	A5A3K3_9BACT	EF523578;EF523579;EF523581;EF523582;EF523584;EF523585;		norB	Nitric oxide reductase (Fragment)
+A5A3J3	A5A3J3_9BACT	EF523568;EF523569;EF523570;EF523571;EF523572;EF523573;EF523574;EF523575;EF523576;EF523577;		norB	Nitric oxide reductase (Fragment)
+N7RPH0	N7RPH0_BRUAO	AQIS01000010;JPHK01000004;		B977_03076 IB63_02640	NorE accessory protein for nitric oxide reductase (Uncharacterized protein)
+N7SSI9	N7SSI9_BRUAO	AQIS01000010;JPHK01000004;		B977_03073 IB63_02625	Nitric oxide reductase (Uncharacterized protein)
+X4Y5Y5	X4Y5Y5_9BACT	KJ020989;KJ020990;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4YJ50	X4YJ50_9BACT	KJ021002;KJ021003;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+Q9X7J4	Q9X7J4_PSEST	CP007509;AJ131715;X53676;		dnrD UIB01_03665	DnrD protein (DnrD regulator) (Transcription factor)
+X4Y370	X4Y370_9BACT	KJ020991;KJ020994;KJ020995;KJ020996;KJ021000;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4YJ44	X4YJ44_9BACT	KJ020981;KJ020992;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+F0ESI9	F0ESI9_HAEPA	AEWU01000013;AFQS01000019;		norB HMPREF9417_0833 HMPREF9953_0893	Nitric oxide reductase (EC 1.7.2.5) (Uncharacterized protein)
+C9UH31	C9UH31_BRUAO	DS999881;JMSB01000042;		norB BABG_00995 DK59_814	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+Q1ZYW9	Q1ZYW9_9PSED	DQ420249;DQ420251;		cnorB	Nitric oxide reductase (Fragment)
+Q1ZYW7	Q1ZYW7_PSEBR	DQ420236;DQ420253;		cnorB	Nitric oxide reductase (Fragment)
+K1DLK3	K1DLK3_PSEAI	AKZH01000020;AXRR01000009;		norB P998_04596 PAE2_0495	Nitric oxide reductase subunit B (Nitric-oxide reductase subunit B)
+C0A1E4	C0A1E4_OCHAN	CP008819;AB490236;JENZ01000011;		norC BG46_04600 DR92_3858	Cytochrome C (Nitric oxide reductase subunit C) (NorC nitric oxide reductase)
+A0A071KU93	A0A071KU93_PSEAI	AP014622;HG974234;JJOD01000030;JHEU01000867;JMQH01000052;JFJU01000007;JOVK01000001;		norC CH80_22680 CR64_24905 DQ20_05995 DR97_3491 NCGM1900_0534 PSE305_61610 RLJV_28340	Cytochrome C (Nitric oxide reductase subunit C) (Nitric-oxide reductase subunit C)
+A0A072ZET2	A0A072ZET2_PSEAI	AP014622;JJOD01000030;JMQH01000052;JFJU01000007;JOVK01000001;		norB CH80_22675 DQ20_05990 DR97_3492 NCGM1900_0535 RLJV_28345	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5) (Nitric-oxide reductase subunit B)
+D0W9P1	D0W9P1_NEILA	ACEQ02000013;JOVI01000002;		norB DR91_589 NEILACOT_04254	Cytochrome C and Quinol oxidase polypeptide I family protein (Nitric oxide reductase) (EC 1.7.2.5)
+B6BHE5	B6BHE5_SULGG	DS995286;AFRZ01000001;		norC CBGD1_393 SMGD1_1415	Nitric oxide reductase cytochrome c subunit (EC 1.7.2.5)
+B6BHE4	B6BHE4_SULGG	DS995286;AFRZ01000001;		norB CBGD1_748 SMGD1_1414	Nitric-oxide reductase subunit B (EC 1.7.99.7) (Nitric-oxide reductase, large subunit) (EC 1.7.2.5)
+B2XVV7	B2XVV7_AZOBR	EU194339;EU221421;		norC	Nitric oxide reductase small subunit (EC 1.7.99.7) (Nitric-oxide reductase subunit C)
+S0J9W5	S0J9W5_PSEAI	ASWU01000002;AZUG01000353;		PAK_00739 Y880_0124510	Nitric oxide reductase (Nitric oxide reductase subunit B)
+C9VED1	C9VED1_9RHIZ	EQ999619;AZBH02000159;		BAQG_02150 IL61_0215685	Cytochrome C (Nitric oxide reductase)
+C9VED2	C9VED2_9RHIZ	EQ999619;AZBH02000159;		BAQG_02151 IL61_0215690	Nitric oxide reductase
+U9HT93	U9HT93_PSEAI	AXPG01000003;		Q074_00576	Nitric oxide reductase subunit B
+H1LLB6	H1LLB6_9PAST	AGRK01000002;		HMPREF9096_00051	Nitric oxide reductase, NorZ
+D2GIT4	D2GIT4_STAAU	GG730269;		SDAG_00734	Nitric-oxide reductase cytochrome b-containing subunit I
+A1JHM0	A1JHM0_9RHOO	AM284377;		cnorB	Nitric oxide reductase CnorB (Fragment)
+Q1ZYY1	Q1ZYY1_9PSED	DQ420239;		cnorB	Nitric oxide reductase (Fragment)
+U9Q1Q1	U9Q1Q1_PSEAI	AXRL01000016;		Q004_05492	Nitric oxide reductase subunit B
+U8YV67	U8YV67_PSEAI	AXRD01000020;		Q012_04094	Nitric oxide reductase subunit B
+Q1ZYY0	Q1ZYY0_9PSED	DQ420240;		cnorB	Nitric oxide reductase (Fragment)
+C6S9X5	C6S9X5_NEIME	AM889137;		norB1 NME_0084	Nitric oxide reductase (EC 1.7.99.7)
+F3P6I4	F3P6I4_9ACTO	AFBL01000014;		HMPREF9056_00645	Putative nitric oxide reductase, NorZ
+C6S9X6	C6S9X6_NEIME	AM889137;		norB3 NME_0085	Nitric oxide reductase (EC 1.7.99.7)
+D2FIC2	D2FIC2_STAAU	GG730161;		SATG_01500	Nitric-oxide reductase, cytochrome b-containing subunit I
+T5HG44	T5HG44_BACLI	AVEZ01000030;		N399_11630	Nitric oxide reductase
+I2QBX5	I2QBX5_9BRAD	JH600073;		Bra1253DRAFT_01939	Nitric oxide reductase large subunit
+A1JHM5	A1JHM5_9RHOO	AM284382;		cnorB	Nitric oxide reductase CnorB (Fragment)
+D5P4M6	D5P4M6_9MYCO	ADNV01000087;		norQ2 HMPREF0591_1120	ATPase family associated with various cellular activities (AAA) (EC 1.7.2.5)
+D6J474	D6J474_STAAU	GG749323;		SAZG_00392	Nitric-oxide reductase, cytochrome b-containing subunit I
+W7WPV7	W7WPV7_9BURK	AZSO01000248;		norB_1 Y695_01911	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A1JHM4	A1JHM4_9RHOO	AM284381;		cnorB	Nitric oxide reductase CnorB (Fragment)
+W7WPN2	W7WPN2_9BURK	AZSO01000951;		norB_2 Y695_03530	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A1JHM6	A1JHM6_9RHOO	AM284383;		cnorB	Nitric oxide reductase CnorB (Fragment)
+Q6YJJ1	Q6YJJ1_9PROT	AY139084;		norB	Nitric oxide reductase (Fragment)
+U9G4R2	U9G4R2_PSEAI	AXPE01000021;		Q076_05170	Nitric oxide reductase subunit B
+H7G4S2	H7G4S2_STAA5	AIDT01000004;		ST398NM02_0277	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+J5W131	J5W131_9PORP	ALKJ01000003;		norZ HMPREF1323_0464	Nitric oxide reductase, NorZ
+C5NT85	C5NT85_9RHIZ	AB508908;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+U9Q3G5	U9Q3G5_PSEAI	AXRH01000001;		Q008_00490	Nitric oxide reductase subunit B
+H3TW14	H3TW14_STAAU	AHKU01000108;		SA21342_0505	Putative nitric oxide reductase
+C8AM02	C8AM02_STAAU	GG700615;		SAEG_00733	Nitric oxide reductase
+D6KQI9	D6KQI9_9FIRM	GG770216;		HMPREF0874_01230	Nitric oxide reductase
+U8ZR71	U8ZR71_PSEAI	AXRF01000017;		Q010_05317	Nitric oxide reductase subunit B
+A1JHK8	A1JHK8_9RHIZ	AM284365;		cnorB	Nitric oxide reductase CnorB (Fragment)
+A3KZR6	A3KZR6_PSEAI	CH482383;		PACG_03315	Nitric-oxide reductase subunit B
+G2UHH8	G2UHH8_PSEAI	DF126593;		norB NCGM1179_4244	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+V6S9R1	V6S9R1_9FLAO	AVCS01000009;		FEDK69T_15560	Nitric-oxide reductase subunit B
+L8XBK9	L8XBK9_9VIBR	AMDG01000056;		B878_15690	Nitric oxide reductase cytochrome b subunit
+T2LET5	T2LET5_9GAMM	CBRE010000113;		norB HALA3H3_890070	Nitric oxide reductase subunit B (EC 1.7.2.5)
+D6CH89	D6CH89_9BRAD	FN600627;		cnorB	Cytochrome c dependent nitric oxide reductase (Fragment)
+U8Q4I7	U8Q4I7_PSEAI	AXQH01000011;		Q034_05778	Nitric oxide reductase subunit B
+U8NYM1	U8NYM1_PSEAI	AXQE01000013;		Q037_06098	Nitric oxide reductase subunit B
+V4ZCH9	V4ZCH9_PSEAI	AYNE01000010;		DPADHS01_02590	Nitric oxide reductase
+T2LDQ8	T2LDQ8_9GAMM	CBRE010000113;		norC HALA3H3_890071	Nitric oxide reductase subunit C
+D0P5W6	D0P5W6_BRUSS	DS999712;		BAEG_02211	Nitric oxide reductase
+C6M551	C6M551_NEISI	ACKO02000008;		norB NEISICOT_01650	Nitric oxide reductase (EC 1.7.2.5)
+X7C4I8	X7C4I8_PSEAI	AZZO01000024;		Q044_05659	Nitric oxide reductase subunit B
+W9TRJ2	W9TRJ2_9PSED	AZSV01000025;		norB BAY1663_02193	Nitric-oxide reductase subunit B
+J6Z8R3	J6Z8R3_PSEAI	AKBD01000053;		norB PACIG1_0606	Nitric-oxide reductase subunit B
+B7CZN8	B7CZN8_BURPE	ACCE01000014;		BUC_6221	Nitric oxide reductase
+B7CM81	B7CM81_BURPE	ACCE01000003;		BUC_3000	Putative nitric oxide reductase NorZ
+U9BKW1	U9BKW1_PSEAI	AXRK01000015;		Q005_04661	Nitric oxide reductase subunit B
+M7NAX1	M7NAX1_9BACT	AODQ01000006;		norB_1 ADICEAN_00451	Nitric oxide reductase subunit B (EC 1.7.2.5)
+J5HQ95	J5HQ95_9PAST	ALJP01000009;		norZ HMPREF1128_1761	Nitric oxide reductase, NorZ
+M7N802	M7N802_9BACT	AODQ01000027;		norB_2 ADICEAN_01486	Nitric oxide reductase subunit B (EC 1.7.2.5)
+I0K1G0	I0K1G0_9BACT	CAHT01000107;		norB MFUM_970100	Putative nitric oxide reductase B subunit
+C0G9I6	C0G9I6_9RHIZ	ACJD01000006;		BCETI_6000559	Nitric oxide reductase subunit B
+L9U2P4	L9U2P4_STAAU	AOCQ01000010;		C428_0923	Nitric-oxide reductase cytochrome b-containing subunit I
+C5NT82	C5NT82_9PROT	AB508905;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+F9GR97	F9GR97_HAEHA	AFQO01000016;		GG9_1557	Putative quinol dependent nitric oxide reductase
+I0WBX5	I0WBX5_9FLAO	AJJU01000017;		W5A_10010	Nitric-oxide reductase subunit B
+U8KTJ5	U8KTJ5_PSEAI	AXPR01000010;		Q063_02458	Nitric oxide reductase subunit B
+K1D4I0	K1D4I0_PSEAI	AKZF01000067;		norB PABE177_0545	Nitric-oxide reductase subunit B
+A1JHK4	A1JHK4_9BURK	AM284361;		cnorB	Nitric oxide reductase CnorB (Fragment)
+H3TC70	H3TC70_PSEAE	AHKN01000024;		O1Q_09642	Nitric-oxide reductase subunit B
+E2PII2	E2PII2_NEIPO	ADBE01000130;		norB NEIPOLOT_02445	Nitric oxide reductase (EC 1.7.2.5)
+S3XJC8	S3XJC8_9ACTO	ATFM01000003;		HMPREF1485_00655	Nitric oxide reductase subunit B
+D1D6M5	D1D6M5_NEIGO	DS999979;		NGBG_02000	Nitric oxide reductase
+B5VZ89	B5VZ89_ARTMA	ABYK01000010;		AmaxDRAFT_1831	Cytochrome b subunit of nitric oxide reductase
+D1ETG7	D1ETG7_BRUML	EQ999555;		BAMG_01593	Nitric oxide reductase
+B5VZ88	B5VZ88_ARTMA	ABYK01000010;		AmaxDRAFT_1830	Cytochrome b subunit of nitric oxide reductase
+U8ZRK5	U8ZRK5_PSEAI	AXRE01000023;		Q011_05398	Nitric oxide reductase subunit B
+A1JHI1	A1JHI1_9RHIZ	AM284338;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U8UUT6	U8UUT6_PSEAI	AXQQ01000001;		Q025_00531	Nitric oxide reductase subunit B
+U8TE97	U8TE97_PSEAI	AXQO01000006;		Q027_03891	Nitric oxide reductase subunit B
+F3LRU2	F3LRU2_9BURK	AEWG01000101;		RBXJA2T_12067	Nitric-oxide reductase subunit B
+X7DHG0	X7DHG0_PSEAI	AZZP01000001;		Q043_00352	Nitric oxide reductase subunit B
+K5YER2	K5YER2_9PSED	AMSL01000018;		C211_03130	Nitric-oxide reductase subunit B
+K5YQ78	K5YQ78_9PSED	AMSL01000022;		C211_03710	Nitric-oxide reductase subunit B
+A0A085KFR1	A0A085KFR1_STAAU	AYLT01000062;		norB_4 D484_01248	Nitric oxide reductase subunit B (EC 1.7.2.5)
+U8PG20	U8PG20_PSEAI	AXQD01000005;		Q038_03910	Nitric oxide reductase subunit B
+U8SHL6	U8SHL6_PSEAI	AXQL01000016;		Q030_05825	Nitric oxide reductase subunit B
+Q9F0W6	Q9F0W6_PSEFL	AF197467;		norB	Nitric oxide reductase cytochrome b subunit
+Q2HX24	Q2HX24_HYDTH	AB232055;		norB	Nitric oxide reductase cytochrome b subunit
+D3IIG8	D3IIG8_9BACT	GG740072;		norZ HMPREF0670_01137	Nitric oxide reductase, NorZ
+A1JHI5	A1JHI5_9RHIZ	AM284342;		cnorB	Nitric oxide reductase CnorB (Fragment)
+G2FJZ6	G2FJZ6_9GAMM	AFZB01000075;		norB TevJSym_cv00020	Nitric oxide reductase subunit B (EC 1.7.2.5)
+U9J3S5	U9J3S5_PSEAI	AXPU01000010;		Q060_04515	Nitric oxide reductase subunit B
+A0A017HQR4	A0A017HQR4_9RHOB	AOSK01000041;		Rumeso_01684	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+C5NT79	C5NT79_9PROT	AB508902;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+C4IWF0	C4IWF0_BRUAO	ACOR01000007;		BAAA_7000946	Nitric oxide reductase subunit B
+C8A7S3	C8A7S3_STAAU	GG700574;		SACG_00732	Nitric oxide reductase
+X8E0H1	X8E0H1_MYCXE	JAOB01000011;		I553_9451	Putative nitric oxide reductase (Subunit B) transmembrane protein
+X8E063	X8E063_MYCXE	JAOB01000011;		norZ I553_9454	Nitric oxide reductase domain protein (EC 1.7.2.5)
+I0RU44	I0RU44_MYCXE	AJFI01000042;		MXEN_08492	Nitric-oxide reductase subunit B
+D1EJ42	D1EJ42_9RHIZ	EQ999534;		BALG_02700	Nitric oxide reductase
+K6ZQ71	K6ZQ71_9ALTE	BAER01000006;		norB GPLA_0107	Nitric oxide reductase, cytochrome b-containing subunit I (EC 1.7.2.5)
+S0HIR4	S0HIR4_PSEAI	ASWW01000013;		L346_03995	Nitric oxide reductase subunit B
+U9B0J0	U9B0J0_PSEAI	AXRG01000001;		Q009_00278	Nitric oxide reductase subunit B
+A0A067A9N1	A0A067A9N1_9PSED	JHTS01000039;		norB BV82_3245	Nitric oxide reductase subunit B (EC 1.7.2.5)
+U9KXC1	U9KXC1_PSEAI	AXPX01000005;		Q057_02462	Nitric oxide reductase subunit B
+R0FFQ5	R0FFQ5_9RHOB	AQCH01000125;		K529_10552	Nitric-oxide reductase subunit B
+A1JHG9	A1JHG9_9BURK	AM284326;		qnorB	Nitric oxide reductase QnorB (Fragment)
+A1JHL9	A1JHL9_9RHIZ	AM284376;		cnorB	Nitric oxide reductase CnorB (Fragment)
+V5CET0	V5CET0_PROAA	APCV01000083;		H497_10564	Nitric-oxide reductase subunit B
+U9BLH7	U9BLH7_PSEAI	AXRJ01000011;		Q006_03898	Nitric oxide reductase subunit B
+X7CIF5	X7CIF5_PSEAI	AZZN01000004;		Q045_00532	Nitric oxide reductase subunit B
+S7SXG0	S7SXG0_9BACI	ATCO01000066;		I656_01557	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+S7SX82	S7SX82_9BACI	ATCO01000066;		I656_01558	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+U8F301	U8F301_PSEAI	AXOV01000001;		Q085_00562	Nitric oxide reductase subunit B
+U9F6Z7	U9F6Z7_PSEAI	AXPC01000013;		Q078_03925	Nitric oxide reductase subunit B
+E0DQA9	E0DQA9_9RHIZ	ADEZ01000033;		BIBO1_2248	Nitric oxide reductase subunit B
+F5S751	F5S751_9NEIS	AFHS01000036;		norB HMPREF0476_1034	Nitric oxide reductase (EC 1.7.2.5)
+I3BCV3	I3BCV3_HAEPA	AJTC01000037;		norZ HMPREF1119_1398	Nitric oxide reductase, NorZ
+U8JX50	U8JX50_PSEAI	AXPQ01000003;		Q064_00540	Nitric oxide reductase subunit B
+B0B0S8	B0B0S8_9BACI	AM404295;		qnorB	Nitric oxide reductase (Fragment)
+C5NT86	C5NT86_9BURK	AB508909;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+A1JHJ7	A1JHJ7_9RHIZ	AM284354;		cnorB	Nitric oxide reductase CnorB (Fragment)
+A1JHM1	A1JHM1_9RHOO	AM284378;		cnorB	Nitric oxide reductase CnorB (Fragment)
+I2J437	I2J437_HAEPA	AJMW01000055;		norZ HMPREF1118_1478	Nitric oxide reductase, NorZ
+D6LUI7	D6LUI7_STAAU	GG770515;		SIAG_00955	Nitric-oxide reductase
+B0B0S4	B0B0S4_9BACI	AM403579;		qnorB	Quinol-containing nitric oxide reductase (Fragment)
+F9K8B8	F9K8B8_STAAU	AFTQ01000002;		SA21235_1287	Putative nitric oxide reductase
+X7ZGU8	X7ZGU8_MYCKA	JAOA01000004;		I545_3032	Nitric oxide reductase domain protein (EC 1.7.2.5)
+X7ZGV9	X7ZGV9_MYCKA	JAOA01000004;		I545_3033	Nitric oxide reductase domain protein (EC 1.7.2.5)
+U9FLE5	U9FLE5_PSEAI	AXPD01000022;		Q077_04460	Nitric oxide reductase subunit B
+B9MSW4	B9MSW4_9BURK	DQ865928;		norB	Nitric-oxide reductase subunit B (Fragment)
+U9NRS8	U9NRS8_PSEAI	AXQT01000001;		Q022_00492	Nitric oxide reductase subunit B
+B8Q8Y7	B8Q8Y7_9BACI	EU374128;		qnorB	Nitric oxide reductase (Fragment)
+B7ZEU7	B7ZEU7_9BACI	AM778673;		qnorB	Quinol nitric oxide reductase (Fragment)
+U8MJ69	U8MJ69_PSEAI	AXQA01000018;		Q041_05039	Nitric oxide reductase subunit B
+C1HYM0	C1HYM0_NEIGO	DS999937;		NGAG_01980	Nitric oxide reductase
+I9E082	I9E082_9FLAO	AJZR01000040;		norZ HMPREF1321_1370	Nitric oxide reductase, NorZ
+C8AGA4	C8AGA4_STAAU	GG700598;		SADG_00733	Nitric oxide reductase
+U8LJP4	U8LJP4_PSEAI	AXPT01000010;		Q061_03695	Nitric oxide reductase subunit B
+U8B6S4	U8B6S4_PSEAI	AXON01000004;		Q093_02282	Nitric oxide reductase subunit B
+A1JHK1	A1JHK1_9BURK	AM284358;		cnorB	Nitric oxide reductase CnorB (Fragment)
+K1EIP2	K1EIP2_PSEAI	AKZE01000061;		norB PABE173_0539	Nitric-oxide reductase subunit B
+V5D1F0	V5D1F0_PROAA	ARZZ01000028;		H498_10380	Nitric-oxide reductase subunit B
+I4W0P9	I4W0P9_9GAMM	AJXT01000024;		UU7_09730	Nitric-oxide reductase
+J5UZQ2	J5UZQ2_9FLAO	ALNN01000062;		norZ HMPREF1154_0315	Nitric oxide reductase, NorZ
+I4W1D2	I4W1D2_9GAMM	AJXT01000021;		UU7_08950	Nitric-oxide reductase subunit B
+M3BPH1	M3BPH1_PSEAI	AOIH01000006;		H123_13885	Nitric-oxide reductase subunit B
+M7XGW1	M7XGW1_9BACT	AMZY02000007;		C943_03890	Nitric-oxide reductase , quinol-dependent
+B8Q8X8	B8Q8X8_9BACI	EU374119;		qnorB	Nitric oxide reductase (Fragment)
+H0TBV1	H0TBV1_9BRAD	CAFJ01000792;		norB BRAS3809_890012	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+A1JHJ3	A1JHJ3_9RHIZ	AM284350;		cnorB	Nitric oxide reductase CnorB (Fragment)
+X4YKU9	X4YKU9_9BACT	KJ020993;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4Y361	X4Y361_9BACT	KJ020986;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4YKU2	X4YKU2_9BACT	KJ020982;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4Y5Z2	X4Y5Z2_9BACT	KJ020999;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4YJ39	X4YJ39_9BACT	KJ020987;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4Y373	X4Y373_9BACT	KJ021001;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4Y5Y1	X4Y5Y1_9BACT	KJ020983;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+K2E3B3	K2E3B3_9BACT	AMFJ01011142;		norQ ACD_28C00162G0002	Denitrification regulatory protein NirQ (EC 1.7.2.5)
+X4YKV2	X4YKV2_9BACT	KJ020998;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4XWP4	X4XWP4_9BACT	KJ020985;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4YJ48	X4YJ48_9BACT	KJ020997;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+X4YKU4	X4YKU4_9BACT	KJ020988;		qnorB	Nitric oxide reductase subunit B (EC 1.7.5.2) (Fragment)
+A4LR98	A4LR98_BURPE	AAYX01000012;		norB BURPS305_1780	Nitric oxide reductase (EC 1.7.2.5)
+A4LDP6	A4LDP6_BURPE	AAYX01000001;		BURPS305_7410	Putative nitric oxide reductase NorZ
+F9JM45	F9JM45_STAAU	AFTM01000014;		SA21195_1295	Nitric oxide reductase family protein
+A1JHH7	A1JHH7_9BURK	AM284334;		qnorB	Nitric oxide reductase QnorB (Fragment)
+B9MSW5	B9MSW5_9BURK	DQ865929;		norB	Nitric-oxide reductase subunit B (Fragment)
+U9LA31	U9LA31_PSEAI	AXQM01000016;		Q029_04123	Nitric oxide reductase subunit B
+A1JHG7	A1JHG7_9BURK	AM284324;		qnorB	Nitric oxide reductase QnorB (Fragment)
+C7HSH5	C7HSH5_9FIRM	ACXU01000005;		HMPREF0078_0224	ATPase family associated with various cellular activities (AAA) (EC 1.7.2.5)
+W6JZQ2	W6JZQ2_9MICO	CAJA01000335;		BN11_400018	Putative Nitric oxide reductase subunit B (NorB) (EC 1.7.2.5)
+C5NT91	C5NT91_9PSED	AB508914;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+W6K8Q6	W6K8Q6_9PROT	FO538765;		norB MGMAQ_1206	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+K2L5R6	K2L5R6_9PROT	AMRQ01000004;		TH3_07962	Nitric-oxide reductase subunit B
+W6K7M0	W6K7M0_9PROT	FO538765;		norE MGMAQ_1203	Nitric oxide reductase protein NorE (EC 1.7.2.5)
+W6K8K3	W6K8K3_9PROT	FO538765;		norC MGMAQ_1207	Nitric-oxide reductase subunit C (EC 1.7.2.5)
+S6K2Y5	S6K2Y5_PSEST	AMVM01000001;		B382_02855	Nitric-oxide reductase subunit B
+C5NT84	C5NT84_9RHIZ	AB508907;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+M2AF67	M2AF67_9PLAN	ANMO01000157;		RE6C_03509	Nitric oxide reductase (Subunit B) transmembrane protein
+M5RYP6	M5RYP6_9PLAN	ANOF01000162;		RESH_05141	Nitric oxide reductase (Subunit B) transmembrane protein
+U8Z8I6	U8Z8I6_PSEAI	AXRB01000003;		Q014_00535	Nitric oxide reductase subunit B
+W1R3W2	W1R3W2_PSEAI	AYON01000017;		V441_02580	Nitric oxide reductase
+C5NT87	C5NT87_9PROT	AB508910;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+U9IAL3	U9IAL3_PSEAI	AXPO01000022;		Q066_05078	Nitric oxide reductase subunit B
+W1WVT4	W1WVT4_9FIRM	AZMK01000332;		Q620_VSAC00332G0001	Nitric oxide reductase (Fragment)
+U8MF89	U8MF89_PSEAI	AXQB01000017;		Q040_05461	Nitric oxide reductase subunit B
+D2G6G3	D2G6G3_STAAU	GG730221;		SAYG_01407	Nitric oxide reductase
+W9U5W3	W9U5W3_BURPE	AXDS01000065;		T210_0140165	Nitric oxide reductase
+A0A011NY53	A0A011NY53_9PROT	JEMX01000038;		norB AW10_01907	Nitric oxide reductase subunit B (EC 1.7.2.5)
+C9T086	C9T086_9RHIZ	DS999669;		BAIG_00321	Nitric oxide reductase
+A3RZQ3	A3RZQ3_RALSL	AAKL01000070;		RRSL_00759	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+F8LEU7	F8LEU7_9CHLA	FR872660;		norB WCH_BJ09000	Nitric oxide reductase, subunit B (EC 1.7.99.7)
+C9T9I1	C9T9I1_9RHIZ	DS999686;		BAJG_00323	Nitric oxide reductase
+D2G5G6	D2G5G6_STAAU	GG730218;		SAXG_00753	Nitric oxide reductase
+A3RYF0	A3RYF0_RALSL	AAKL01000052;		RRSL_01315	Nitric-oxide reductase subunit C (EC 1.7.2.5)
+D2FS68	D2FS68_STAAU	GG730191;		SAWG_00395	Nitric oxide reductase
+W9ULY5	W9ULY5_BURPE	AXDS01000021;		T210_0118850	Nitric oxide reductase large subunit
+E1DM37	E1DM37_VIBPH	ACFO01000017;		VIPARAN5034_2228	Nitric oxide reductase cytochrome B subunit
+A1JHI4	A1JHI4_9PSED	AM284341;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U9B6W0	U9B6W0_PSEAI	AXRN01000009;		Q002_05025	Nitric oxide reductase subunit B
+A1JHH1	A1JHH1_9BURK	AM284328;		qnorB	Nitric oxide reductase QnorB (Fragment)
+U8EPL2	U8EPL2_PSEAI	AXOW01000016;		Q084_05321	Nitric oxide reductase subunit B
+C5NT92	C5NT92_9RHIZ	AB508915;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+A1JHL6	A1JHL6_9RHIZ	AM284373;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U9R5N2	U9R5N2_PSEAI	AXRP01000017;		Q000_05843	Nitric oxide reductase subunit B
+X6Y3F9	X6Y3F9_PSEAI	AZZD01000026;		Q094_04701	Nitric oxide reductase subunit B
+A1JHM8	A1JHM8_9RHIZ	AM284385;		cnorB	Nitric oxide reductase CnorB (Fragment)
+B7ZEV0	B7ZEV0_9BURK	AM778676;		qnorB	Quinol nitric oxide reductase (Fragment)
+I2NVI8	I2NVI8_NEISI	AJMT01000042;		norZ HMPREF1051_1503	Nitric oxide reductase, NorZ
+D6H6W4	D6H6W4_NEIGO	GG749039;		NGMG_02249	Nitric oxide reductase
+R0FW01	R0FW01_9BURK	AEEC02000006;		HFRIS_006533	Nitric oxide reductase subunit B
+S6GZH6	S6GZH6_9PSED	ATLO01000042;		CFII64_20313	Nitric-oxide reductase subunit B
+M7R9W2	M7R9W2_VIBHA	AHHQ01000077;		MUQ_22135	Nitric oxide reductase cytochrome b subunit
+S3BML1	S3BML1_9FLAO	ATCI01000007;		HMPREF1528_01039	Nitric oxide reductase subunit B
+D2UJ35	D2UJ35_STAAU	GG730336;		SAUG_02006	Nitric-oxide reductase cytochrome b-containing subunit I
+W0W9Q5	W0W9Q5_PSEAI	CBTQ010000020;		norB P38_0528	Nitric oxide reductase subunit B (EC 1.7.2.5)
+U9HCB3	U9HCB3_PSEAI	AXPF01000003;		Q075_00533	Nitric oxide reductase subunit B
+G9ZBI5	G9ZBI5_9GAMM	AGCM01000006;		HMPREF9080_00108	Nitric oxide reductase, NorZ
+J1FD81	J1FD81_9BACT	AKIS01000202;		O71_22439	Nitric oxide reductase large subunit-like protein
+W1JSU8	W1JSU8_9BRAD	AMCQ01001170;		BCCGELA001_23634	Nitric-oxide reductase subunit B
+U9NPH5	U9NPH5_PSEAI	AXQV01000025;		Q020_05754	Nitric oxide reductase subunit B
+I2KNJ6	I2KNJ6_BURPE	AHJA01000245;		BP1026A_4020	Nitric oxide reductase, subunit B
+A3LHX7	A3LHX7_PSEAI	CH482384;		PA2G_04440	Nitric-oxide reductase subunit B
+X7ATC1	X7ATC1_PSEAI	AZZK01000012;		Q048_04551	Nitric oxide reductase subunit B
+G5FWC0	G5FWC0_9PSED	ACWU01000126;		HMPREF1030_03773	Nitric oxide reductase subunit B
+E0NJT6	E0NJT6_9FIRM	AEEH01000019;		norQ HMPREF9225_0425	ATPase family associated with various cellular activities (AAA) (EC 1.7.2.5)
+B3Y963	B3Y963_GEOSE	AB450501;		norZ	Nitric oxide reductase
+U9QWI4	U9QWI4_PSEAI	AXRM01000011;		Q003_02374	Nitric oxide reductase subunit B
+L1K6Y8	L1K6Y8_9RHOB	ANFS01000033;		D516_3097	Nitric-oxide reductase subunit B
+A1JHJ0	A1JHJ0_9RHIZ	AM284347;		cnorB	Nitric oxide reductase CnorB (Fragment)
+A1JHH8	A1JHH8_9BURK	AM284335;		qnorB	Nitric oxide reductase QnorB (Fragment)
+A1JHM2	A1JHM2_9RHOO	AM284379;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U9D046	U9D046_PSEAI	AXRS01000019;		P997_05825	Nitric oxide reductase subunit B
+C9D350	C9D350_9RHOB	GG703520;		SCH4B_4216	Nitric oxide reductase subunit B (EC 1.7.99.7)
+B8Q8X4	B8Q8X4_9BACI	EU374115;		qnorB	Nitric oxide reductase (Fragment)
+E9ZYY6	E9ZYY6_NEIME	AEQE01000027;		NMBOX9930304_0551	Nitric-oxide reductase subunit B (EC 1.7.2.5) (Fragment)
+A1JHM3	A1JHM3_9RHOO	AM284380;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U8I3U3	U8I3U3_PSEAI	AXPL01000011;		Q069_04936	Nitric oxide reductase subunit B
+F5WBD7	F5WBD7_STAAU	AFNP01000014;		SA21310_0750	Putative nitric oxide reductase, NorZ
+G4CVN9	G4CVN9_9ACTO	AGBA01000007;		HMPREF9153_0596	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+D6JL43	D6JL43_NEIGO	GG749378;		NGNG_02055	Nitric-oxide reductase, cytochrome b-containing subunit I
+A0A011P4E5	A0A011P4E5_9PROT	JEMY01000013;		norB AW11_01319	Nitric oxide reductase subunit B (EC 1.7.2.5)
+G4CVP0	G4CVP0_9ACTO	AGBA01000007;		norB HMPREF9153_0597	Nitric-oxide reductase (EC 1.7.2.5)
+U8CXA2	U8CXA2_PSEAI	AXOT01000021;		Q087_05787	Nitric oxide reductase subunit B
+W8I8H5	W8I8H5_ENSAD	CP007239;		norB OV14_b0152	Nitric-oxide reductase subunit B
+C6SHK2	C6SHK2_NEIME	AM889138;		norB1 NMW_0421	Nitric oxide reductase (EC 1.7.99.7)
+D0DRR1	D0DRR1_LACFE	GG704700;		HMPREF0513_00350	Nitric oxide reductase family protein
+N9W5A4	N9W5A4_9SPHN	AOUN01000002;		EBMC1_01245	Nitric oxide reductase large subunit
+A1JHI2	A1JHI2_9RHIZ	AM284339;		cnorB	Nitric oxide reductase CnorB (Fragment)
+W1IAM3	W1IAM3_9GAMM	HG799269;		norB	Cytochrom c nitric oxide reductase cNor subunit B (Fragment)
+A1JHI6	A1JHI6_9RHIZ	AM284343;		cnorB	Nitric oxide reductase CnorB (Fragment)
+K0XUU6	K0XUU6_PSEAI	ALOF01000001;		A161_02680	Nitric-oxide reductase subunit B
+W1I889	W1I889_9GAMM	HG799270;		norB	Cytochrom c nitric oxide reductase cNor subunit B (Fragment)
+M1Z8S6	M1Z8S6_9CLOT	CARA01000079;		norZ CULT_170049	Nitric oxide reductase
+Q6YJJ0	Q6YJJ0_9GAMM	AY139085;		norB	Nitric oxide reductase (Fragment)
+U8KNA6	U8KNA6_PSEAI	AXPP01000005;		Q065_00619	Nitric oxide reductase subunit B
+V6SVD7	V6SVD7_9BACI	AWXY01000221;		G3A_22780	Nitric oxide reductase
+U9EIS0	U9EIS0_PSEAI	AXOY01000012;		Q082_03678	Nitric oxide reductase subunit B
+Q1ZYY2	Q1ZYY2_9PSED	DQ420238;		cnorB	Nitric oxide reductase (Fragment)
+A1JHI8	A1JHI8_9RHIZ	AM284345;		cnorB	Nitric oxide reductase CnorB (Fragment)
+Q6YJJ3	Q6YJJ3_9PROT	AY139082;		norB	Nitric oxide reductase (Fragment)
+U8I717	U8I717_PSEAI	AXPM01000017;		Q068_05371	Nitric oxide reductase subunit B
+A1JHH0	A1JHH0_9BURK	AM284327;		qnorB	Nitric oxide reductase QnorB (Fragment)
+B8Q8Y6	B8Q8Y6_9BACI	EU374127;		qnorB	Nitric oxide reductase (Fragment)
+L8K1W4	L8K1W4_9FLAO	ANIW01000066;		D505_16790	Nitric oxide reductase large subunit-like protein
+D1CZZ7	D1CZZ7_9RHIZ	DS999659;		BAKG_01855	Nitric oxide reductase
+N6YWQ1	N6YWQ1_9RHOO	AMXD01000032;		C665_07381	Nitric-oxide reductase subunit B
+A1JHI3	A1JHI3_9RHIZ	AM284340;		cnorB	Nitric oxide reductase CnorB (Fragment)
+V6SM74	V6SM74_9FLAO	AVFO01000002;		FSS13T_01770	Nitric-oxide reductase subunit B
+V4XR95	V4XR95_LACFE	AYHA01000113;		NB22_06155	Nitric oxide reductase
+M8B5W7	M8B5W7_RHIRD	APCC01000019;		H009_07861	Nitric-oxide reductase subunit B
+U1QK77	U1QK77_9ACTO	AWSE01000161;		HMPREF1979_02443	Putative nitric oxide reductase, NorZ
+P95551	P95551_PSEST	X53676;		nirE	Uroporphyrinogen-III C-methyltransferase (EC 2.1.1.107)
+P95553	P95553_PSEST	X53676;		nirY	NirY protein
+P95548	P95548_PSEST	X53676;		nirO	Membrane protein NirO
+U2XR70	U2XR70_9PROT	AWXE01000001;		RS24_00592	Nitric-oxide reductase NorQ protein (EC 1.7.2.5)
+D2CY45	D2CY45_PSEST	FJ002297;		norB	Nitric-oxide reductase subunit B (Fragment)
+Q9F3U3	Q9F3U3_PSEST	X53676;		dnrN	DnrN protein
+H7EQ34	H7EQ34_PSEST	AGSL01000005;		PstZobell_00287	Nitric-oxide reductase subunit B
+Q52529	Q52529_PSEST	X53676;		nosL	Outer membrane lipoprotein NosL
+P95552	P95552_PSEST	X53676;		nirN	Heme protein NirN
+Q9F3U2	Q9F3U2_PSEST	X53676;		dnrO	DnrO protein
+G7CKI5	G7CKI5_MYCTH	AGVE01000046;		KEK_12388	Nitric-oxide reductase subunit B
+H7EUI9	H7EUI9_PSEST	AGSL01000063;		PstZobell_08250	Nitric-oxide reductase subunit B
+P95554	P95554_PSEST	X53676;			Membrane protein
+Q9F3U1	Q9F3U1_PSEST	X53676;		dnrP	DnrP protein
+P95550	P95550_PSEST	X53676;		nirJ	NirJ protein
+P95556	P95556_PSEST	X53676;		nnrS	NnrS protein
+Q9F3U0	Q9F3U0_PSEST	X53676;			Uncharacterized protein
+P95555	P95555_PSEST	X53676;			ORF247 protein
+U8QCS6	U8QCS6_PSEAI	AXQF01000015;		Q036_05192	Nitric oxide reductase subunit B
+M2VNP6	M2VNP6_PSEST	AOBS01000021;		B381_04227	Nitric-oxide reductase subunit B (Fragment)
+M2UQV7	M2UQV7_PSEST	AOBS01000035;		B381_06581	Nitric-oxide reductase subunit B (Fragment)
+H0TNK3	H0TNK3_9BRAD	CAFK01000174;		norB BRAS3843_2550016	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+F9NPM8	F9NPM8_PROAA	AFUM01000009;		HMPREF9205_1241	Putative nitric oxide reductase, NorZ
+M2TSM1	M2TSM1_PSEST	AOBS01000042;		B381_09231	Nitric-oxide reductase subunit B
+D3A0A0	D3A0A0_NEIMU	ACDX02000025;		norB NEIMUCOT_06335	Nitric oxide reductase (EC 1.7.2.5)
+F2BF33	F2BF33_9NEIS	AFAY01000048;		norB HMPREF9123_2340	Nitric oxide reductase (EC 1.7.2.5)
+B7ZEV1	B7ZEV1_9BURK	AM778677;		qnorB	Quinol nitric oxide reductase (Fragment)
+Z4WZJ5	Z4WZJ5_9PORP	JDFF01000011;		HMPREF0636_0726	Putative nitric oxide reductase, NorZ
+A1JHL0	A1JHL0_9RHIZ	AM284367;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U8QJ94	U8QJ94_PSEAI	AXQG01000013;		Q035_04331	Nitric oxide reductase subunit B
+A4EUU7	A4EUU7_9RHOB	AAYC01000005;		RSK20926_03699	Nitric oxide reductase large subunit, cytochrome b
+U9ITN4	U9ITN4_PSEAI	AXPV01000011;		Q059_05319	Nitric oxide reductase subunit B
+B7ZEU6	B7ZEU6_9BACI	AM778672;		qnorB	Quinol nitric oxide reductase (Fragment)
+A8US43	A8US43_9AQUI	ABHJ01000002;		HG1285_17659	Nitric-oxide reductase, B subunit, putative
+A4EUU6	A4EUU6_9RHOB	AAYC01000005;		RSK20926_03694	Nitric oxide reductase subunit C, cytochrome c
+S9Q6I9	S9Q6I9_9RHOB	APVH01000072;		Salmuc_00095	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+A3W7Q1	A3W7Q1_9RHOB	AAMV01000015;		ROS217_10042	Nitric oxide reductase large subunit, cytochrome b
+Q6YJI6	Q6YJI6_NITER	AY139089;		norB	Nitric oxide reductase (Fragment)
+U8WJ32	U8WJ32_PSEAI	AXQX01000002;		Q018_00526	Nitric oxide reductase subunit B
+N6YTD3	N6YTD3_9RHOO	AMXB01000001;		B447_00620	Nitric-oxide reductase subunit B
+C4WFX2	C4WFX2_9RHIZ	ACQA01000001;		OINT_1000879	Nitric oxide reductase subunit B
+A3W7Q0	A3W7Q0_9RHOB	AAMV01000015;		ROS217_10037	Nitric oxide reductase subunit C, cytochrome c
+B7ZEU4	B7ZEU4_9BACI	AM778670;		qnorB	Quinol nitric oxide reductase (Fragment)
+L0PRW7	L0PRW7_9GAMM	HE974485;		norB	Nitric oxide reductase subunit B (Fragment)
+F9GVS6	F9GVS6_HAEHA	AFQP01000022;		GGA_1449	Putative quinol dependent nitric oxide reductase
+U8EXR7	U8EXR7_PSEAI	AXOU01000001;		Q086_00562	Nitric oxide reductase subunit B
+H0KVX5	H0KVX5_9FLAO	AHHG01000029;		EAAG1_14811	Nitric oxide reductase large subunit-like protein
+K2HPQ2	K2HPQ2_9RHOB	AMGO01000013;		OCGS_1072	Nitric oxide reductase large subunit, cytochrome b
+D3A397	D3A397_NEISU	ACEO02000002;		norB NEISUBOT_03686	Nitric oxide reductase (EC 1.7.2.5)
+A4BPT1	A4BPT1_9GAMM	AAOF01000004;		NB231_04235	Putative additional subunit of nitric oxide reductase (Nor) complex, membrane protein
+A1JHL8	A1JHL8_9RHIZ	AM284375;		cnorB	Nitric oxide reductase CnorB (Fragment)
+A1JHK7	A1JHK7_9RHIZ	AM284364;		cnorB	Nitric oxide reductase CnorB (Fragment)
+A4BMN0	A4BMN0_9GAMM	AAOF01000001;		NB231_17148	Putative additional subunit of nitric oxide reductase (Nor) complex, membrane protein
+B8Q8Y2	B8Q8Y2_9BACI	EU374123;		qnorB	Nitric oxide reductase (Fragment)
+D6CH91	D6CH91_9BRAD	FN600629;		cnorB	Cytochrome c dependent nitric oxide reductase (Fragment)
+X8C2J1	X8C2J1_MYCXE	JAOC01000004;		I552_1220	Nitric oxide reductase domain protein (EC 1.7.2.5)
+I4WTY9	I4WTY9_9GAMM	AJXW01000003;		UUA_00495	Nitric-oxide reductase
+I4WTZ6	I4WTZ6_9GAMM	AJXW01000003;		UUA_00530	Nitric-oxide reductase subunit B
+I4WPG4	I4WPG4_9GAMM	AJXW01000020;		UUA_04773	Nitric-oxide reductase subunit B
+X8C3G0	X8C3G0_MYCXE	JAOC01000004;		I552_1222	Nitric oxide reductase domain protein (EC 1.7.2.5)
+Q58Z65	Q58Z65_9PROT	AY654283;		norB	Nitric oxide reductase (Fragment)
+I2LQQ3	I2LQQ3_BURPE	AHJC01000044;		BP1258B_0904	Nitric oxide reductase, subunit B
+D6V3E6	D6V3E6_9BRAD	ADVZ01000001;		AfiDRAFT_0462	Nitric-oxide reductase (EC 1.7.2.5)
+B8Q8X3	B8Q8X3_9BACI	EU374114;		qnorB	Nitric oxide reductase (Fragment)
+F9TPK2	F9TPK2_9VIBR	AFWJ01000266;		VINI7043_10496	Nitric oxide reductase cytochrome b subunit
+A0A023U943	A0A023U943_9GAMM	KJ419278;		cnorB	Nitric-oxide reductase subunit B (EC 1.7.2.5) (Fragment)
+A0A075QPH2	A0A075QPH2_9GAMM	KJ748494;		cnorB	Nitric-oxide reductase subunit B (EC 1.7.2.5) (Fragment)
+C0ELL4	C0ELL4_NEIFL	ACEN01000020;		norB NEIFLAOT_00819	Nitric oxide reductase (EC 1.7.2.5)
+H0CIL3	H0CIL3_STAAU	AGTV01000036;		SA21331_0938	Putative nitric oxide reductase
+D2F3S6	D2F3S6_STAAU	GG730121;		SARG_00392	Nitric-oxide reductase, cytochrome b-containing subunit I
+W6LUN2	W6LUN2_9GAMM	CBTK010000117;		norB BN874_2030003	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A1JHJ5	A1JHJ5_9RHIZ	AM284352;		cnorB	Nitric oxide reductase CnorB (Fragment)
+A1JHK6	A1JHK6_9RHOB	AM284363;		cnorB	Nitric oxide reductase CnorB (Fragment)
+D8P703	D8P703_RALSL	FP885907;		norB RCFBP_mp10043	Nitric oxide reductase (Subunit b) transmembrane protein (EC 1.7.99.7)
+F9EFV5	F9EFV5_9ACTO	AFQC01000047;		HMPREF9062_1327	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+W6LVY5	W6LVY5_9GAMM	CBTK010000117;		norC BN874_2030004	Nitric oxide reductase subunit C (EC 1.7.2.5)
+U8AVC9	U8AVC9_PSEAI	AXOO01000011;		Q092_04178	Nitric oxide reductase subunit B
+I2JQ65	I2JQ65_9GAMM	AJMK01000001;		DOK_00220	Additional subunit of nitric oxide reductase (Nor) complex, membrane protein
+A1JHG8	A1JHG8_9BURK	AM284325;		qnorB	Nitric oxide reductase QnorB (Fragment)
+X6Z6I4	X6Z6I4_PSEAI	AZZG01000013;		Q052_04019	Nitric oxide reductase subunit B
+C5NT89	C5NT89_9BURK	AB508912;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+B8Q8Z2	B8Q8Z2_9BACI	EU374133;		qnorB	Nitric oxide reductase (Fragment)
+Q1ZYX4	Q1ZYX4_9PSED	DQ420246;		cnorB	Nitric oxide reductase (Fragment)
+U9JXZ1	U9JXZ1_PSEAI	AXPY01000008;		Q056_04343	Nitric oxide reductase subunit B
+A1JHJ4	A1JHJ4_9RHIZ	AM284351;		cnorB	Nitric oxide reductase CnorB (Fragment)
+V6SSR3	V6SSR3_9FLAO	AVGG01000002;		FLJC2902T_05990	Nitric-oxide reductase subunit B
+U7V6X2	U7V6X2_9MICC	AXZG01000022;		HMPREF0742_00740	Putative nitric oxide reductase
+B8Q8Z0	B8Q8Z0_9BACI	EU374131;		qnorB	Nitric oxide reductase (Fragment)
+X6XKV3	X6XKV3_PSEAI	AZZE01000028;		Q054_04087	Nitric oxide reductase subunit B
+A1JHH9	A1JHH9_9BURK	AM284336;		qnorB	Nitric oxide reductase QnorB (Fragment)
+D1EGF8	D1EGF8_NEIGO	EQ973099;		NGLG_02078	Nitric oxide reductase
+E0N7B6	E0N7B6_NEIME	AEEF01000022;		norB HMPREF0602_0396	Nitric oxide reductase (EC 1.7.2.5)
+F5SRU4	F5SRU4_9GAMM	AFHU01000147;		norB HMPREF9373_1777	Nitric oxide reductase (EC 1.7.2.5)
+B5SAL4	B5SAL4_RALSL	CU914166;		norB RSIPO_03196	Nitric oxide reductase (Subunit b) protein (EC 1.7.99.7)
+C9TS19	C9TS19_9RHIZ	DS999783;		BAGG_03230	Nitric oxide reductase
+U8CUY9	U8CUY9_PSEAI	AXOS01000012;		Q088_04826	Nitric oxide reductase subunit B
+A4ZZ68	A4ZZ68_9BRAD	EF507803;			Nitric oxide reductase (Fragment)
+U8V738	U8V738_PSEAI	AXQP01000005;		Q026_00537	Nitric oxide reductase subunit B
+H0SGR2	H0SGR2_9BRAD	CAFI01000176;		norB BRAO375_2570008	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+U8YUB7	U8YUB7_PSEAI	AXRC01000008;		Q013_04895	Nitric oxide reductase subunit B
+X6Z865	X6Z865_PSEAI	AZZH01000012;		Q051_05209	Nitric oxide reductase subunit B
+A0A022NNW0	A0A022NNW0_PSEAI	JARJ01000069;		PA99_2397	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+B7ZEU9	B7ZEU9_9BURK	AM778675;		qnorB	Quinol nitric oxide reductase (Fragment)
+D0CP49	D0CP49_9RHOB	GG704595;		SL1157_A0187	Nitric oxide reductase subunit B (EC 1.7.99.7)
+C5TNN4	C5TNN4_NEIFL	ACQV01000027;		norB NEIFL0001_1541	Nitric oxide reductase (EC 1.7.2.5)
+A1JHI9	A1JHI9_9RHOO	AM284346;		cnorB	Nitric oxide reductase CnorB (Fragment)
+A1JHG4	A1JHG4_9BURK	AM284321;		qnorB	Nitric oxide reductase QnorB (Fragment)
+K2J367	K2J367_9RHOB	AMRK01000010;		B30_16128	Nitric oxide reductase E protein
+D2UWE6	D2UWE6_STAAU	GG731513;		SHAG_00727	Nitric oxide reductase
+K2JGF7	K2JGF7_9RHOB	AMRK01000001;		B30_00840	Nitric-oxide reductase subunit B
+J0MXR0	J0MXR0_9FLAO	AKFR01000019;		norZ HMPREF1320_1968	Nitric oxide reductase, NorZ
+D6HDQ2	D6HDQ2_STAAU	GG749056;		SCAG_00737	Nitric-oxide reductase, cytochrome b-containing subunit I
+A1JHJ9	A1JHJ9_9RHIZ	AM284356;		cnorB	Nitric oxide reductase CnorB (Fragment)
+D1DX28	D1DX28_NEIGO	EQ972906;		NGHG_02133	Nitric oxide reductase
+U8MZQ8	U8MZQ8_PSEAI	AXQC01000017;		Q039_06035	Nitric oxide reductase subunit B
+A1JHI0	A1JHI0_9RHIZ	AM284337;		cnorB	Nitric oxide reductase CnorB (Fragment)
+Q1W4V2	Q1W4V2_PSEAI	DQ437743;		norB EXB34	Putative quinol dependent nitric oxide reductase
+D8UPI2	D8UPI2_9MICC	GL379574;		HMPREF0734_00234	Putative nitric oxide reductase
+S2DXI8	S2DXI8_9BACT	ALWO02000032;		A33Q_2141	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+B8Q8X5	B8Q8X5_9BACI	EU374116;		qnorB	Nitric oxide reductase (Fragment)
+M1Y4V7	M1Y4V7_PSEAI	CAQZ01000070;		PA18A_2211	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+B7ZEU8	B7ZEU8_9BACI	AM778674;		qnorB	Quinol nitric oxide reductase (Fragment)
+U8AW63	U8AW63_PSEAI	AXOP01000021;		Q091_05930	Nitric oxide reductase subunit B
+B9Z0B0	B9Z0B0_9NEIS	ACIS01000002;		FuraDRAFT_1009	Nitric-oxide reductase (EC 1.7.2.5)
+I6A919	I6A919_BURTH	JH692066;		A33K_17738	Gas vesicle protein GvpN (EC 1.7.2.5)
+I6AHY7	I6AHY7_BURTH	JH692062;		A33K_14898	Putative nitric oxide reductase norZ
+F3BSC3	F3BSC3_PROAA	ADWH01000031;		HMPREF9343_00705	Nitric oxide reductase, subunit B
+A0A022P0S8	A0A022P0S8_PSEA1	JARI01000103;		PA103_3356	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+B7ZEU5	B7ZEU5_9BACI	AM778671;		qnorB	Quinol nitric oxide reductase (Fragment)
+W2DH74	W2DH74_9PSED	AOHN01000019;		H097_15176	Nitric-oxide reductase subunit B
+A1JHG1	A1JHG1_9PSED	AM284318;		qnorB	Nitric oxide reductase QnorB (Fragment)
+Q9AQH4	Q9AQH4_ACHCY	AJ298324;		norB	Nitric oxide reductase cytochrome b subunit
+D7N1J1	D7N1J1_9NEIS	GL349411;		norB HMPREF9016_01004	Nitric oxide reductase (EC 1.7.2.5)
+J4SFU7	J4SFU7_9MYCO	AFVW02000004;		MCOL_V214434	Nitric-oxide reductase subunit B
+D2GN71	D2GN71_STAAU	GG730274;		SFAG_00775	Nitric oxide reductase
+N6Y6X4	N6Y6X4_9RHOO	AMXE01000007;		C666_03760	Nitric-oxide reductase subunit B
+W1IBM6	W1IBM6_9PROT	HG799243;		norB	Cytochrom c nitric oxide reductase cNor subunit B (Fragment)
+X6XQJ5	X6XQJ5_PSEAI	AZZC01000002;		Q095_00544	Nitric oxide reductase subunit B
+C5H097	C5H097_AZOBR	EU194339;		norB	Nitric-oxide reductase subunit B
+B2XVV6	B2XVV6_AZOBR	EU221421;		norB	Nitric oxide reductase large subunit (EC 1.7.99.7)
+E0DUF6	E0DUF6_9RHIZ	ADFB01000030;		BROD_0694	Nitric oxide reductase subunit B
+U9L6W2	U9L6W2_PSEAI	AXPZ01000004;		Q055_00492	Nitric oxide reductase subunit B
+U9EED1	U9EED1_PSEAI	AXOX01000011;		Q083_03991	Nitric oxide reductase subunit B
+M6DKF0	M6DKF0_9LEPT	ANIJ01000006;		LEP1GSC192_1239	Putative nitric-oxide reductase, NorB
+M3AEX5	M3AEX5_9PROT	AONQ01000009;		H261_05012	Nitric-oxide reductase subunit B
+N2CPG2	N2CPG2_9PSED	AQFO01000021;		HMPREF1224_07872	Nitric oxide reductase subunit B
+N6YG42	N6YG42_9RHOO	AMXC01000005;		C664_06723	Nitric-oxide reductase subunit B
+J0NBS5	J0NBS5_9ACTO	AKFT01000149;		HMPREF1318_2394	Putative nitric oxide reductase, NorZ
+F9GX49	F9GX49_HAEHA	AFQQ01000001;		GGC_0047	Putative quinol dependent nitric oxide reductase
+O50652	O50652_HALHD	AB010889;		norB	Nitric oxide reductase cytochrome b subunit
+U8C0X5	U8C0X5_PSEAI	AXOQ01000009;		Q090_04621	Nitric oxide reductase subunit B
+M5JNQ8	M5JNQ8_9RHIZ	AOGE01000032;		D584_13336	Nitric-oxide reductase subunit B
+J4XBG0	J4XBG0_9PROT	ALJJ01000009;		norZ HMPREF1139_0467	Nitric oxide reductase, NorZ
+A9QPL2	A9QPL2_METI4	EU223928;		norB	Putative nitric oxide reductase B subunit
+F9N7V0	F9N7V0_9ACTO	AFUK01000001;		HMPREF9949_0105	Putative nitric oxide reductase, NorZ
+A1JHG0	A1JHG0_CUPNE	AM284317;		qnorB	Nitric oxide reductase QnorB (Fragment)
+A1JHL7	A1JHL7_9RHIZ	AM284374;		cnorB	Nitric oxide reductase CnorB (Fragment)
+B8Q8Y9	B8Q8Y9_9BACI	EU374130;		qnorB	Nitric oxide reductase (Fragment)
+O30368	O30368_CUPNE	AF002217;			Nitric oxide reductase
+I2PY46	I2PY46_9DELT	JH600068;		DesU5LDRAFT_0749	Nitric oxide reductase large subunit
+O30375	O30375_CUPNE	AF002661;		norZ	Nitric oxide reductase
+B9MSW3	B9MSW3_9BURK	DQ865927;		norB	Nitric-oxide reductase subunit B (Fragment)
+Q1ZYX5	Q1ZYX5_9PSED	DQ420245;		cnorB	Nitric oxide reductase (Fragment)
+W5W0S6	W5W0S6_9GAMM	KF926095;		cnorB	Nitric-oxide reductase subunit B (EC 1.7.2.5) (Fragment)
+B8Q8Z3	B8Q8Z3_9BACI	EU374134;		qnorB	Nitric oxide reductase (Fragment)
+H0RZZ7	H0RZZ7_9BRAD	CAFH01000156;		norB BRAO285_2390045	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+T0FJ85	T0FJ85_BRUML	AUTT01000002;		M798_04215	NorE accessory protein for nitric oxide reductase
+A7BVD0	A7BVD0_9GAMM	ABBZ01000429;		norB BGP_3622	Nitric oxide reductase subunit B
+A3VCS7	A3VCS7_9RHOB	AAMT01000003;		RB2654_12784	Nitric oxide reductase large subunit, cytochrome b
+D6H349	D6H349_STAAU	GG749014;		SAVG_00761	Nitric oxide reductase
+I2LKH0	I2LKH0_BURPE	AHJB01000045;		BP1258A_0811	Nitric oxide reductase, subunit B
+A7C538	A7C538_9GAMM	ABBZ01002467;		norC BGP_5602	Nitric-oxide reductase subunit C
+A7BXK2	A7BXK2_9GAMM	ABBZ01000717;		norB BGP_5178	Nitric oxide reductase subunit B
+E5U132	E5U132_ALCXX	ACRC01000039;		HMPREF0005_05369	Nitric oxide reductase
+C5NT80	C5NT80_9RHIZ	AB508903;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+K9GNT4	K9GNT4_9PROT	ANHY01000019;		C882_1446	Nitric-oxide reductase subunit B
+V6S015	V6S015_9FLAO	AVBI01000016;		FCR2A7T_17800	Nitric-oxide reductase subunit B
+I4E4D8	I4E4D8_NEIME	FR845705;		norB NMALPHA522_0662	Nitric-oxide reductase, cytochrome b-containing subunit I (EC 1.7.99.7)
+D4DP54	D4DP54_NEIEG	ADBF01000022;		norB NEIELOOT_00839	Nitric oxide reductase (EC 1.7.2.5)
+B8Q8Y8	B8Q8Y8_9BACI	EU374129;		qnorB	Nitric oxide reductase (Fragment)
+D6CH93	D6CH93_9BRAD	FN600631;		cnorB	Cytochrome c dependent nitric oxide reductase (Fragment)
+D6CH92	D6CH92_9BRAD	FN600630;		cnorB	Cytochrome c dependent nitric oxide reductase (Fragment)
+Q1Z3P1	Q1Z3P1_PHOPR	AAPH01000013;		P3TCK_09723	Putative nitric-oxide reductase subunit B
+W6SLD8	W6SLD8_9CYAN	FO818640;		norB ARTHRO_10323	Nitric oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+B8Q8Z1	B8Q8Z1_9BACI	EU374132;		qnorB	Nitric oxide reductase (Fragment)
+U9LVG7	U9LVG7_PSEAI	AXQN01000006;		Q028_02633	Nitric oxide reductase subunit B
+Q9JPL2	Q9JPL2_NEIME	AJ391256;		norZ	Nitric oxide reductase (Fragment)
+H2CDS7	H2CDS7_9LEPT	JH597773;		Lepil_2948	Nitric oxide reductase, NorB subunit apoprotein
+U1SEM3	U1SEM3_9PAST	AWSH01000007;		HMPREF9065_00205	Nitric oxide reductase, NorZ
+M5PGE2	M5PGE2_9BACI	AOFM01000004;		BSONL12_05263	Nitric-oxide reductase
+U8T1X4	U8T1X4_PSEAI	AXQK01000013;		Q031_04243	Nitric oxide reductase subunit B
+U8WAT4	U8WAT4_PSEAI	AXQY01000015;		Q017_05653	Nitric oxide reductase subunit B
+I4WYM7	I4WYM7_9GAMM	AJXV01000003;		UUC_01627	Nitric-oxide reductase subunit B
+I4WYM1	I4WYM1_9GAMM	AJXV01000003;		UUC_01597	Nitric-oxide reductase
+N4W8A8	N4W8A8_PSEAI	APMD01000088;		H734_29717	Nitric-oxide reductase subunit B
+A1JHL2	A1JHL2_9RHIZ	AM284369;		cnorB	Nitric oxide reductase CnorB (Fragment)
+I4JPC5	I4JPC5_PSEST	AJXE01000003;		YO5_04272	Nitric-oxide reductase subunit B
+S6HYQ8	S6HYQ8_9PSED	ATLN01000125;		CFII68_24489	Nitric-oxide reductase subunit B
+M3KEJ0	M3KEJ0_9RHIZ	AKVI01000071;		WYI_13037	Nitric-oxide reductase subunit B
+D1DQE7	D1DQE7_NEIGO	EQ972859;		NGGG_02116	Nitric oxide reductase
+I0UGF9	I0UGF9_BACLI	AHIF01000002;		MUY_02241	Nitric oxide reductase cytochrome subunit B
+I4JM84	I4JM84_PSEST	AJXE01000006;		YO5_07077	Nitric-oxide reductase subunit B
+C4AYJ1	C4AYJ1_BURML	AAHO01000047;		BMAGB8_0672	Nitric oxide reductase, subunit B
+C5NT83	C5NT83_9PROT	AB508906;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+F3KCE1	F3KCE1_9GAMM	AEGL01000107;		imdm_331	Nitric-oxide reductase subunit B
+K6Z1L2	K6Z1L2_9ALTE	BAEO01000006;		norB GARC_0348	Nitric oxide reductase, cytochrome b-containing subunit I (EC 1.7.2.5)
+F9EUI9	F9EUI9_9NEIS	AFQE01000037;		norB HMPREF9418_0816	Nitric oxide reductase (EC 1.7.2.5)
+H1WKW9	H1WKW9_9CYAN	CAFN01000670;		norB ARTHRO_790069	Nitric oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.2.5)
+I1AC58	I1AC58_PSEAI	AJHI01000061;		CF510_23654	Nitric-oxide reductase subunit B
+A1JHH3	A1JHH3_9ENTE	AM284330;		qnorB	Nitric oxide reductase QnorB (Fragment)
+U9MAL2	U9MAL2_PSEAI	AXQS01000011;		Q023_03878	Nitric oxide reductase subunit B
+H1WET9	H1WET9_9CYAN	CAFN01000233;		ARTHRO_3080001	Cytochrome b subunit of nitric oxide reductase
+W3Y3T5	W3Y3T5_9FIRM	AZYX01000009;		norZ HMPREF1521_1715	Nitric oxide reductase, NorZ
+K1CTC0	K1CTC0_PSEAI	AKZG01000020;		norB PACI27_0538	Nitric-oxide reductase subunit B
+B6R9U9	B6R9U9_9RHOB	DS996818;		PJE062_2475	Nitric oxide reductase large suBunit, cytochrome b
+W1VBK8	W1VBK8_9FIRM	AZMJ01000020;		Q619_VDC00020G0002	Nitric oxide reductase
+D2FHY0	D2FHY0_STAAU	GG730158;		SASG_01740	Nitric-oxide reductase, cytochrome b-containing subunit I
+B6YYG8	B6YYG8_9RHOB	DS996811;		PJE062_3783	Nitric oxide reductase
+B6R9V0	B6R9V0_9RHOB	DS996818;		PJE062_2486	Nitric oxide reductase subunit C, cytochrome c
+V6A8A1	V6A8A1_PSEAI	CBTR010000002;		norB PAMH27_0478	Nitric oxide reductase subunit B (EC 1.7.2.5)
+C5NT88	C5NT88_9RHIZ	AB508911;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+W6M8Z0	W6M8Z0_9GAMM	CBTJ020000111;		norB BN873_980072	Nitric oxide reductase subunit B (EC 1.7.2.5)
+X7BBI0	X7BBI0_PSEAI	AZZM01000018;		Q046_05234	Nitric oxide reductase subunit B
+U8SH31	U8SH31_PSEAI	AXQI01000004;		Q033_01821	Nitric oxide reductase subunit B
+I4WBG7	I4WBG7_9GAMM	AJXS01000157;		UU5_06228	Nitric-oxide reductase subunit B
+I4VI02	I4VI02_9GAMM	AJXS01000480;		UU5_20575	Nitric oxide reductase
+D1FDC5	D1FDC5_9RHIZ	EQ999599;		BAPG_02348	Nitric oxide reductase
+M3BPZ6	M3BPZ6_9ACTO	AOHP01000128;		H114_26796	Cytochrome P450, nitric oxide reductase
+L0NKL6	L0NKL6_RHISP	FO082820;		norB NT26_3644	Nitric-oxide reductase subunit B (Nitric oxide reductase cytochrome b subunit) (NOR large subunit) (EC 1.7.5.2)
+A1JHJ2	A1JHJ2_9RHIZ	AM284349;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U9IFE3	U9IFE3_PSEAI	AXPN01000002;		Q067_00559	Nitric oxide reductase subunit B
+A0A077M5V5	A0A077M5V5_9MICO	CAJB01000429;		BN12_930010	Putative Nitric oxide reductase subunit B (NorB) (EC 1.7.2.5)
+A3JBU5	A3JBU5_9ALTE	AAXY01000004;		MELB17_04512	Nitric oxide reductase large subunit
+Q1ZYX2	Q1ZYX2_9PSED	DQ420248;		cnorB	Nitric oxide reductase (Fragment)
+Q6YJJ2	Q6YJJ2_9PROT	AY139083;		norB	Nitric oxide reductase (Fragment)
+M7EEM6	M7EEM6_BURPE	AOGU01000006;		D512_14121	Nitric oxide reductase subunit B
+C5NT90	C5NT90_9RHIZ	AB508913;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+H3SVN9	H3SVN9_PSEAE	AHKM01000015;		O1O_09550	Nitric-oxide reductase subunit B
+N6YZ30	N6YZ30_9RHOO	AMXF01000079;		C667_11979	Nitric-oxide reductase subunit B
+I0UVR9	I0UVR9_9MICC	AJJQ01000004;		HMPREF1324_0747	Putative nitric oxide reductase
+G6XT17	G6XT17_RHIRD	AGSM01000004;		ATCR1_08999	Nitric-oxide reductase subunit B
+B6B8P6	B6B8P6_9RHOB	DS995281;		RBY4I_3738	Nitric oxide reductase large suBunit, cytochrome b
+U9R6S7	U9R6S7_PSEAI	AXRO01000017;		Q001_05827	Nitric oxide reductase subunit B
+F9GL16	F9GL16_HAEHA	AFQN01000097;		GG7_1502	Putative quinol dependent nitric oxide reductase
+B8Q8Y0	B8Q8Y0_9BACI	EU374121;		qnorB	Nitric oxide reductase (Fragment)
+W7Q2W5	W7Q2W5_9GAMM	AZQX01000361;		Q427_29445	Nitric oxide reductase
+C8A1E2	C8A1E2_STAAU	GG700560;		SABG_00740	Nitric oxide reductase
+B6B8P5	B6B8P5_9RHOB	DS995281;		RBY4I_1038	Nitric oxide reductase subunit C, cytochrome c
+R7ZPA8	R7ZPA8_9BACT	AQHR01000091;		ADIS_3523	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+U8HRI5	U8HRI5_PSEAI	AXPJ01000005;		Q071_00536	Nitric oxide reductase subunit B
+D6CH90	D6CH90_9BRAD	FN600628;		cnorB	Cytochrome c dependent nitric oxide reductase (Fragment)
+R8Z609	R8Z609_PSEAI	AQHM01000171;		K652_30267	Nitric-oxide reductase subunit B
+A1JHJ6	A1JHJ6_9RHIZ	AM284353;		cnorB	Nitric oxide reductase CnorB (Fragment)
+D7H503	D7H503_BRUAO	GG774528;		BAYG_02643	Nitric-oxide reductase NorE protein
+D7H501	D7H501_BRUAO	GG774528;		BAYG_02641	Nitric-oxide reductase, cytochrome c-containing subunit II
+D7H500	D7H500_BRUAO	GG774528;		BAYG_02640	Nitric-oxide reductase, cytochrome b-containing subunit I
+T9XPW3	T9XPW3_CORDP	AUZO01000024;		B179_10264	Putative nitric-oxide reductase
+B8Q8X7	B8Q8X7_9BACI	EU374118;		qnorB	Nitric oxide reductase (Fragment)
+U9EQZ3	U9EQZ3_PSEAI	AXPB01000012;		Q079_03442	Nitric oxide reductase subunit B
+S0HQA1	S0HQA1_PSEAI	ASWV01000019;		CIA_04533	Nitric oxide reductase subunit B
+A1JHK5	A1JHK5_9RHOB	AM284362;		cnorB	Nitric oxide reductase CnorB (Fragment)
+Q1ZYX9	Q1ZYX9_9PSED	DQ420241;		cnorB	Nitric oxide reductase (Fragment)
+V4ZR16	V4ZR16_RALSL	ASQR02000158;		L665_02732	Nitric oxide reductase subunit B
+A1JHH2	A1JHH2_9BURK	AM284329;		qnorB	Nitric oxide reductase QnorB (Fragment)
+U8X744	U8X744_PSEAI	AXRA01000010;		Q015_04839	Nitric oxide reductase subunit B
+J0H6Z5	J0H6Z5_RHILT	JH719381;		Rleg9DRAFT_4861	Nitric oxide reductase large subunit
+Q6YJI9	Q6YJI9_9PROT	AY139086;		norB	Nitric oxide reductase (Fragment)
+N2CKY3	N2CKY3_PSEAI	AQFN01000016;		HMPREF1223_09753	Nitric oxide reductase subunit B
+A1JHL3	A1JHL3_9RHOO	AM284370;		cnorB	Nitric oxide reductase CnorB (Fragment)
+B4BIL5	B4BIL5_9BACI	ABVH01000001;		G11MC16DRAFT_0532	Nitric-oxide reductase (EC 1.7.2.5)
+U9N3L5	U9N3L5_PSEAI	AXQU01000016;		Q021_03770	Nitric oxide reductase subunit B
+I1DV76	I1DV76_9GAMM	BAFK01000004;		norB RNAN_0925	Nitric oxide reductase subunit B (EC 1.7.2.5)
+B8Q8Y3	B8Q8Y3_9BACI	EU374124;		qnorB	Nitric oxide reductase (Fragment)
+U8VS78	U8VS78_PSEAI	AXQW01000004;		Q019_00559	Nitric oxide reductase subunit B
+U8WTF1	U8WTF1_PSEAI	AXQZ01000025;		Q016_06123	Nitric oxide reductase subunit B
+B8Q8Y1	B8Q8Y1_9BACI	EU374122;		qnorB	Nitric oxide reductase (Fragment)
+I3DSE5	I3DSE5_HAEHA	AJSV01000006;		norB HMPREF1053_0482	Nitric oxide reductase (EC 1.7.2.5)
+J3JJY4	J3JJY4_ACTNH	ALJK01000118;		HMPREF1129_0047	Putative nitric oxide reductase, NorZ
+D6KK23	D6KK23_9FIRM	GG770200;		HMPREF0873_01134	Nitric oxide reductase
+A1JHG3	A1JHG3_9BURK	AM284320;		qnorB	Nitric oxide reductase QnorB (Fragment)
+B8Q8X9	B8Q8X9_9BACI	EU374120;		qnorB	Nitric oxide reductase (Fragment)
+U8US07	U8US07_PSEAI	AXQR01000017;		Q024_05462	Nitric oxide reductase subunit B
+B7ZEU1	B7ZEU1_9BACI	AM778667;		qnorB	Quinol nitric oxide reductase (Fragment)
+A4TXL7	A4TXL7_9PROT	CU459003;		norB MGR_3485	Nitric-oxide reductase subunit B (EC 1.7.99.7)
+U8GF67	U8GF67_PSEAI	AXPH01000018;		Q073_05711	Nitric oxide reductase subunit B
+E2PKY2	E2PKY2_9RHIZ	ADFA01000033;		BIBO2_0700	Nitric oxide reductase subunit B
+I4VPX3	I4VPX3_9GAMM	AJXU01000037;		UU9_09517	Nitric-oxide reductase subunit B
+I4VWJ1	I4VWJ1_9GAMM	AJXU01000018;		UU9_03952	Nitric-oxide reductase subunit B
+W7JJW1	W7JJW1_STAAU	AYXU01000045;		W893_06320	Nitric oxide reductase
+D1DDF0	D1DDF0_NEIGO	ABZJ02000009;		NGEG_02063	Nitric oxide reductase subunit B
+I4VT21	I4VT21_9GAMM	AJXU01000028;		UU9_06139	Nitric-oxide reductase
+N6ZM71	N6ZM71_9RHOO	AMXA01000008;		C662_08225	Nitric-oxide reductase subunit B
+E1D8K5	E1D8K5_VIBPH	ACFN01000056;		VIPARAQ4037_1029	Nitric oxide reductase cytochrome B subunit
+D1E3R5	D1E3R5_NEIGO	EQ973010;		NGJG_02146	Nitric oxide reductase
+W7Y3I6	W7Y3I6_9BACT	BAMD01000087;		JCM21142_104169	Nitric oxide reductase subunit B
+B8Q8X6	B8Q8X6_9BACI	EU374117;		qnorB	Nitric oxide reductase (Fragment)
+B7ZEU3	B7ZEU3_9BACI	AM778669;		qnorB	Quinol nitric oxide reductase (Fragment)
+T9XMH5	T9XMH5_CORDP	AUZN01000120;		B178_10148	Putative nitric-oxide reductase
+E1EJA5	E1EJA5_VIBPH	ACKB01000129;		VIPARK5030_2913	Nitric oxide reductase cytochrome B subunit
+L9PBV7	L9PBV7_9BURK	AMWD01000002;		norB Jab_2c10870	Nitric oxide reductase subunit B (EC 1.7.2.5)
+U8LFS0	U8LFS0_PSEAI	AXPS01000001;		Q062_00559	Nitric oxide reductase subunit B
+A1JHK3	A1JHK3_9RHIZ	AM284360;		cnorB	Nitric oxide reductase CnorB (Fragment)
+X7DRA5	X7DRA5_PSEAI	AZZQ01000014;		Q042_04102	Nitric oxide reductase subunit B
+B8Q8Y4	B8Q8Y4_9BACI	EU374125;		qnorB	Nitric oxide reductase (Fragment)
+C5NT81	C5NT81_9PSED	AB508904;		cnorB	Nitric-oxide reductase subunit B (Fragment)
+A0A068VQY4	A0A068VQY4_PROFF	CCBE010000019;		norB PFCIRM129_09425	Nitric-oxide reductase subunit B (Nitric-oxide reductase) (EC 1.7.2.5)
+A0A076WNN9	A0A076WNN9_OCHAN	CP008819;		norB DR92_3857	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A1JHM7	A1JHM7_9RHOO	AM284384;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U9CHN1	U9CHN1_PSEAI	AXRQ01000015;		P999_04539	Nitric oxide reductase subunit B
+Q1ZYW8	Q1ZYW8_9PSED	DQ420252;		cnorB	Nitric oxide reductase (Fragment)
+I2MQB6	I2MQB6_BURPE	AGVS01000121;		BP354A_0894	Nitric oxide reductase, subunit B (Fragment)
+H7GA72	H7GA72_PROAA	AIJP01000001;		TICEST70_01450	Nitric-oxide reductase subunit B
+E5UHG5	E5UHG5_NEIMU	ACRG01000001;		HMPREF0604_00160	Nitric oxide reductase
+V7PZU3	V7PZU3_9BACI	ANNR02000034;		A943_20770	Nitric oxide reductase
+Q1ZYX7	Q1ZYX7_9PSED	DQ420243;		cnorB	Nitric oxide reductase (Fragment)
+B7U157	B7U157_9RHIZ	FJ422142;		cnorB	Nitric oxide reductase (Fragment)
+X7AK63	X7AK63_PSEAI	AZZJ01000001;		Q049_00103	Nitric oxide reductase subunit B
+W1M1V3	W1M1V3_BURPE	ATJY01000030;		M218_23390	Nitric oxide reductase
+H3U654	H3U654_STAAU	AHKW01000023;		SA21345_2591	Putative nitric oxide reductase
+C9UT10	C9UT10_BRUAO	DS999893;		BACG_00325	Nitric oxide reductase
+W1M7E6	W1M7E6_BURPE	ATJY01000010;		M218_13020	Nitric oxide reductase
+G9EQJ4	G9EQJ4_9GAMM	JH413830;		LDG_7541	Nitric oxide reductase, subunit B
+Q1ZYY3	Q1ZYY3_9PSED	DQ420237;		cnorB	Nitric oxide reductase (Fragment)
+U9PYP6	U9PYP6_PSEAI	AXRI01000005;		Q007_03429	Nitric oxide reductase subunit B
+K1LI53	K1LI53_9BACT	AMGM01000015;		norB_2 B879_01383	Nitric oxide reductase subunit B (EC 1.7.2.5)
+K1M0U2	K1M0U2_9BACT	AMGM01000015;		norC B879_01384	Nitric oxide reductase cytochrome c subunit
+B5WCL6	B5WCL6_9BURK	ABYL01000006;		BH160DRAFT_0816	Nitric oxide reductase
+F1YWY5	F1YWY5_9PROT	AEUP01000066;		norB APO_2751	Nitric oxide reductase subunit B
+K1L596	K1L596_9BACT	AMGM01000015;		norB_1 B879_01376	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A0A021WZY6	A0A021WZY6_9RHIZ	AYLZ02000194;		norB SHLA_5c000320	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A1JHK0	A1JHK0_9RHIZ	AM284357;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U8FC76	U8FC76_PSEAI	AXOZ01000018;		Q081_05248	Nitric oxide reductase subunit B
+L8KLW6	L8KLW6_9MYCO	AKIG01000001;		W7U_05035	Nitric-oxide reductase subunit B
+U2FQ14	U2FQ14_9GAMM	AFNV02000021;		coxB1 SSPSH_002847	Cytochrome c oxidase subunit 2 protein (EC 1.7.2.5)
+U2E2X2	U2E2X2_9GAMM	AFNV02000021;		nirQ SSPSH_002849	Denitrification regulatory protein NirQ (EC 1.7.2.5)
+U2EIR7	U2EIR7_9GAMM	AFNV02000021;		norD SSPSH_002850	Nitric oxide reductase NorD protein (EC 1.7.2.5)
+L8KBN2	L8KBN2_9MYCO	AKIG01000002;		W7U_15320	Nitric-oxide reductase subunit B
+T0Q0B1	T0Q0B1_ELIME	AVCQ01000001;		C874_00660	Nitric oxide reductase
+U2EJQ0	U2EJQ0_9GAMM	AFNV02000021;		norB SSPSH_002848	Nitric oxide reductase subunit B protein (EC 1.7.2.5)
+D0W5Q6	D0W5Q6_NEICI	ACDY02000017;		norB NEICINOT_05025	Nitric oxide reductase (EC 1.7.2.5)
+D1RFA9	D1RFA9_LEGLO	ACZG01000001;		LLB_0271	Putative nitric oxide reductase subunit B
+Q1ZYX3	Q1ZYX3_9PSED	DQ420247;		cnorB	Nitric oxide reductase (Fragment)
+I2MD22	I2MD22_BURPE	AHJD01000047;		BP354E_0707	Nitric oxide reductase, subunit B
+A1JHG6	A1JHG6_ALCFA	AM284323;		qnorB	Nitric oxide reductase QnorB (Fragment)
+A1JHL1	A1JHL1_9BURK	AM284368;		cnorB	Nitric oxide reductase CnorB (Fragment)
+U8I4B1	U8I4B1_PSEAI	AXPK01000011;		Q070_05114	Nitric oxide reductase subunit B
+H1T5W4	H1T5W4_STAAU	AHJX01000047;		SA21264_1668	Putative nitric oxide reductase
+U2QGG2	U2QGG2_9ACTO	ACVN02000183;		HMPREF0682_1856	Putative nitric oxide reductase
+M4SR44	M4SR44_LEGPN	CP003885;		LPE509_00856	Nitric-oxide reductase
+Q1ZYX8	Q1ZYX8_9PSED	DQ420242;		cnorB	Nitric oxide reductase (Fragment)
+K1C1A9	K1C1A9_PSEAI	AKZD01000023;		norB PABE171_0544	Nitric-oxide reductase subunit B
+S0FVW1	S0FVW1_9DELT	APJX01000019;		norB Dpo_19c00290	Anaerobic nitric oxide reductase flavorubredoxin (EC 1.7.2.5)
+E0MVV3	E0MVV3_9CORY	AEED01000070;		norB HMPREF0277_0637	Putative type IV conjugative transfer system protein TraL (EC 1.7.2.5)
+U8GDE7	U8GDE7_PSEAI	AXPI01000017;		Q072_05850	Nitric oxide reductase subunit B
+D1E9Y0	D1E9Y0_NEIGO	EQ973050;		NGKG_01995	Nitric oxide reductase
+Q6YJI7	Q6YJI7_9PROT	AY139088;		norB	Nitric oxide reductase (Fragment)
+M7N305	M7N305_9FLAO	ANLA01000004;		D778_02014	Nitric-oxide reductase subunit B
+B8Q8Y5	B8Q8Y5_9BACI	EU374126;		qnorB	Nitric oxide reductase (Fragment)
+B8Q8Z4	B8Q8Z4_9BACI	EU374135;		qnorB	Nitric oxide reductase (Fragment)
+M7MMH4	M7MMH4_9FLAO	ANLA01000004;		D778_02010	Nitric oxide reductase activation protein NorE
+E6KWE9	E6KWE9_9PAST	AEPS01000003;		norB HMPREF9064_0493	Nitric oxide reductase (EC 1.7.2.5)
+M7MIL4	M7MIL4_9FLAO	ANLA01000004;		D778_02007	Nitric-oxide reductase subunit B
+M7NC78	M7NC78_9FLAO	ANLA01000004;		D778_02008	Nitric-oxide reductase subunit C
+U8FFK9	U8FFK9_PSEAI	AXPA01000016;		Q080_05310	Nitric oxide reductase subunit B
+B0B0S5	B0B0S5_9BACI	AM403581;		cnorB	Nitric oxide reductase (Fragment)
+B7ZEU2	B7ZEU2_9BACI	AM778668;		qnorB	Quinol nitric oxide reductase (Fragment)
+X7AMF5	X7AMF5_PSEAI	AZZL01000011;		Q047_05351	Nitric oxide reductase subunit B
+G2ZMS6	G2ZMS6_9RALS	FR854066;		norB BDB_100018	Nitric oxide reductase (Subunit b) transmembrane protein (EC 1.7.99.7)
+D6LS43	D6LS43_9RHIZ	GG770511;		BAZG_02210	Nitric-oxide reductase NorE protein
+D6LS46	D6LS46_9RHIZ	GG770511;		BAZG_02213	Nitric-oxide reductase
+H0AGM7	H0AGM7_STAAU	AGRN01000019;		SA21178_1913	Putative nitric oxide reductase
+E1CUF2	E1CUF2_VIBPH	ACFM01000028;		VIPARP466_2917	Nitric oxide reductase cytochrome B subunit
+A1JHL4	A1JHL4_9BURK	AM284371;		cnorB	Nitric oxide reductase CnorB (Fragment)
+W8EAK3	W8EAK3_9GAMM	KF977407;		cnorB	Nitric-oxide reductase subunit B (EC 1.7.2.5) (Fragment)
+A0A075QV76	A0A075QV76_9GAMM	KJ748493;		cnorB	Nitric-oxide reductase subunit B (EC 1.7.2.5) (Fragment)
+A1JHK2	A1JHK2_9BURK	AM284359;		cnorB	Nitric oxide reductase CnorB (Fragment)
+O06845	O06845_RHOSH	AF000233;		norB	NorB
+U8RK95	U8RK95_PSEAI	AXQJ01000014;		Q032_05400	Nitric oxide reductase subunit B
+U8M073	U8M073_PSEAI	AXPW01000014;		Q058_05089	Nitric oxide reductase subunit B
+A1JHJ1	A1JHJ1_9BURK	AM284348;		cnorB	Nitric oxide reductase CnorB (Fragment)
+F9H2Z0	F9H2Z0_HAEHA	AFQR01000006;		GGE_0248	Putative quinol dependent nitric oxide reductase
+A1JHF9	A1JHF9_PARDE	AM284316;		qnorB	Nitric oxide reductase QnorB (Fragment)
+K0VJQ0	K0VJQ0_MYCFO	ALQB01000016;		MFORT_05944	Nitric-oxide reductase subunit B
+F5KXH0	F5KXH0_9FIRM	AEXI01000001;		norB HMPREF9323_1047	Nitric oxide reductase (EC 1.7.99.7)
+B2KL70	B2KL70_9FLAO	EF547542;			Nitric oxide reductase (Fragment)
+B2KJ97	B2KJ97_9FLAO	DQ911522;		norB	Nitric oxide reductase subunit B
+M5PKP3	M5PKP3_PROAA	AOGR01000015;		TIA1EST31_09869	Nitric-oxide reductase subunit B
+W9EX76	W9EX76_STAAU	AZSF01000057;		Y002_08470	Nitric oxide reductase
+U1FHD2	U1FHD2_9ACTO	AOUA01000113;		H639_03365	Nitric-oxide reductase subunit B
+F9PHS7	F9PHS7_9ACTO	AFUR01000001;		HMPREF9058_2710	Putative nitric oxide reductase, NorZ
+Q9ZEI5	Q9ZEI5_BRAJP	AJ132911;		norB	Nitric oxide reductase subunit B
+X6YNV4	X6YNV4_PSEAI	AZZF01000001;		Q053_00527	Nitric oxide reductase subunit B
+A1JHH6	A1JHH6_9BURK	AM284333;		qnorB	Nitric oxide reductase QnorB (Fragment)
+A1JHK9	A1JHK9_9RHIZ	AM284366;		cnorB	Nitric oxide reductase CnorB (Fragment)
+J0NE15	J0NE15_CAPOC	AKFV01000040;		norZ HMPREF1319_1856	Nitric oxide reductase, NorZ
+A0A061MD16	A0A061MD16_PSEAI	DF396828;		RBRAMI_3176	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+S6GC12	S6GC12_9GAMM	ASZJ01000203;		OFPII_41970	Putative nitric oxide reductase (Subunit B) transmembrane protein
+B8Q8X2	B8Q8X2_9BACI	EU374113;		qnorB	Nitric oxide reductase (Fragment)
+U8DK64	U8DK64_PSEAI	AXOR01000002;		Q089_00535	Nitric oxide reductase subunit B
+W0TPV2	W0TPV2_9GAMM	AP012273;		TBH_C2146	Nitric-oxide reductase cytochrome b-containing subunit I (EC 1.7.2.5)
+Q6YJI8	Q6YJI8_9PROT	AY139087;		norB	Nitric oxide reductase (Fragment)
+A1JHJ8	A1JHJ8_9RHOB	AM284355;		cnorB	Nitric oxide reductase CnorB (Fragment)
+S9ZR14	S9ZR14_9RHOO	ATJV01000048;		M622_02130	Nitric oxide reductase
+S3YEK6	S3YEK6_9FLAO	AGZL01000039;		HMPREF9713_03473	Nitric oxide reductase subunit B
+C9VQL5	C9VQL5_BRUAO	CP007706;EQ999630;		norB BARG_00775 DK53_2900	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+C9VQL8	C9VQL8_BRUAO	CP007706;EQ999630;		BARG_00778 DK53_2903	Cytochrome c oxidase subunit III family protein (Nitric oxide reductase NorE)
+C9UAM7	C9UAM7_BRUAO	CP007710;DS999869;		norB BAAG_00787 DO74_2212	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+D0PEW2	D0PEW2_BRUSS	CP007718;DS999731;		norB BAFG_00319 DK67_2268	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+A0A060EAT6	A0A060EAT6_BRUSS	CP007721;CP007692;CP007694;CP007696;CP007698;		BSPT1_II0212 BSPT2_II0213 BSSP1_II0212 BSSP2_II0217 BSSP3_II0217	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+I4WS67	I4WS67_9GAMM	CP003470;AJXV01000027;		R2APBS1_2300 UUC_09598	Nitric oxide reductase large subunit (Nitric-oxide reductase subunit B)
+A0A024EVJ7	A0A024EVJ7_BRUCA	CP007630;CP007759;		DA85_11680 DK60_3119	Cytochrome c oxidase subunit III family protein (NorE accessory protein for nitric oxide reductase)
+A0A024EUK0	A0A024EUK0_BRUCA	CP007630;CP007759;		norB DA85_11695 DK60_3122	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+A0A024EWF2	A0A024EWF2_BRUCA	CP007630;CP007759;		norC DA85_11690 DK60_3121	Cytochrome C (Nitric oxide reductase subunit C)
+Q2YJT7	Q2YJT7_BRUA2	AM040265;JMRZ01000004;		norB BAB2_0954 DK47_2249	Cytochrome c oxidase, subunit I (EC 1.7.99.7) (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+Q2YJT6	Q2YJT6_BRUA2	AM040265;JMRZ01000004;		norC BAB2_0955 DK47_2250	Cytochrome c heme-binding site (EC 1.7.99.7) (Nitric oxide reductase subunit C)
+D1F4P6	D1F4P6_BRUML	CP007761;EQ999588;		BAOG_02099 DK62_3152	Cytochrome c oxidase subunit III family protein (Nitric oxide reductase NorE)
+D1F4P3	D1F4P3_BRUML	CP007761;EQ999588;		norB BAOG_02096 DK62_3149	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+I3EBE2	I3EBE2_BACMT	CP007739;ADWW01000001;		BMMGA3_15705 MGA3_00900	Putative membrane protein (Putative nitric-oxide reductase)
+E6N071	E6N071_NEIMH	CP002420;AEQZ01000044;		NMBH4476_0604 NMH_2252	Nitric oxide reductase (EC 1.7.2.5)
+C9U0Q8	C9U0Q8_BRUPB	CP002079;DS999851;		BPI_II245 BAHG_02205	Chaperonin ClpA/B (Nitric oxide reductase NorQ protein) (EC 1.7.2.5)
+C9U0Q9	C9U0Q9_BRUPB	CP002079;DS999851;		norD BPI_II246 BAHG_02206	Nitric-oxide reductase NorD protein (EC 1.7.2.5) (NorD)
+C9U0Q7	C9U0Q7_BRUPB	CP002079;DS999851;		norB BPI_II244 BAHG_02204	Nitric oxide reductase (Nitric-oxide reductase, large subunit) (EC 1.7.2.5)
+C9U0Q6	C9U0Q6_BRUPB	CP002079;DS999851;		norC BPI_II243 BAHG_02203	Nitric oxide reductase (Nitric-oxide reductase, small subunit) (EC 1.7.2.5)
+D0GBT9	D0GBT9_BRUML	CP007788;ACEM01000016;		norB BASG_02336 DK61_2770	Cytochrome c oxidase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+A0A080QS21	A0A080QS21_BRUAO	CP007680;CP007701;CP007662;CP007708;JMSA01000003;		norB DK48_2900 DK49_2342 DK52_2378 DK54_3092 DO78_2157	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A0A076QM07	A0A076QM07_BRUAO	CP007683;CP007737;		norB DK51_2386 DO75_2874	Nitric oxide reductase subunit B (EC 1.7.2.5)
+C9V382	C9V382_BRUAO	CP007764;DS999911;		norB BADG_02887 DK55_2897	Nitric oxide reductase (Nitric oxide reductase subunit B) (EC 1.7.2.5)
+A0A080NZ64	A0A080NZ64_BRUSS	CP007716;CP008756;JMUD01000005;JMUE01000004;		norB DK68_1151 DM38_2181 DO76_2064 DO77_317	Nitric oxide reductase subunit B (EC 1.7.2.5)
+B8J7K3	B8J7K3_ANAD2	CP001359;		A2cp1_3860	Putative nitric-oxide reductase
+B8JCE7	B8JCE7_ANAD2	CP001359;		A2cp1_2550	Nitric-oxide reductase (EC 1.7.2.5)
+G2HNQ7	G2HNQ7_9PROT	AP012047;		ABED_1263	Nitric oxide reductase cytochrome b subunit
+E4U3I2	E4U3I2_SULKY	CP002356;		Sulku_2593	Nitric oxide reductase, NorB subunit apoprotein (EC 1.7.2.5)
+E4U3I1	E4U3I1_SULKY	CP002356;		Sulku_2592	Nitric oxide reductase, NorC subunit apoprotein (EC 1.7.2.5)
+S4XW59	S4XW59_SORCE	CP003969;		SCE1572_20065	Nitric oxide reductase
+F5Z186	F5Z186_MYCSD	CP002329;		JDM601_2974	Nitric-oxide reductase subunit B
+K7S3T0	K7S3T0_ALTMA	CP003917;		amad1_01475	Nitric oxide reductase, cytochrome c-containing subunit
+F0N903	F0N903_NEIMN	CP002424;		norB NMBNZ0533_1599	Nitric oxide reductase (EC 1.7.2.5)
+B3Q694	B3Q694_RHOPT	CP001096;		Rpal_1642	Nitric-oxide reductase (EC 1.7.2.5)
+F2K7G5	F2K7G5_PSEBN	CP002585;		PSEBR_a3167	Nitric-oxide reductase, (Nitric-oxide reductase), subunit B (NorB)
+H1ZBQ3	H1ZBQ3_MYROD	CM001437;		Myrod_2504	Nitric oxide reductase, NorZ apoprotein
+F2KF50	F2KF50_PSEBN	CP002585;		PSEBR_a2096	Nitric-oxide reductase, subunit B
+D7GHN0	D7GHN0_PROFC	FN806773;		norB PFREUD_00980	Nitric-oxide reductase subunit B (Nitric-oxide reductase) (EC 1.7.99.7)
+U5R9H2	U5R9H2_PSEAE	CP006832;		norB N297_536	Nitric oxide reductase subunit B (EC 1.7.2.5)
+G7DRN5	G7DRN5_BRAJP	AP012206;		norB BJ6T_65360	Nitric oxide reductase subunit B
+H9ZUW8	H9ZUW8_THETH	CP003253;		TtJL18_2298	Nitric oxide reductase large subunit
+H0PS88	H0PS88_9RHOO	AP012304;		norB AZKH_1713	Nitric-oxide reductase subunit B
+A8LM11	A8LM11_DINSH	CP000830;		norE Dshi_3187	Nitric oxide reductase E protein (EC 1.7.2.5)
+R9ZB30	R9ZB30_PSEAI	CP006245;		M062_02620	Nitric oxide reductase
+A8LM09	A8LM09_DINSH	CP000830;		norQ Dshi_3185	Nitric oxide reductase Q protein (EC 1.7.2.5)
+A8LM08	A8LM08_DINSH	CP000830;		norB Dshi_3184	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A8LM10	A8LM10_DINSH	CP000830;		norD Dshi_3186	Nitric oxide reductase D protein (EC 1.7.2.5)
+A8LM07	A8LM07_DINSH	CP000830;		norC Dshi_3183	Nitric-oxide reductase subunit C (EC 1.7.2.5)
+V9TWX4	V9TWX4_PSEAI	CP006931;		SCV20265_0548	Nitric oxide reductase activation protein NorE
+H8JF29	H8JF29_MYCIT	CP003324;		OCQ_18400	Nitric-oxide reductase subunit B
+V9TZC3	V9TZC3_PSEAI	CP006931;		SCV20265_0551	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+V9TUQ8	V9TUQ8_PSEAI	CP006931;		SCV20265_0550	Nitric-oxide reductase subunit C (EC 1.7.2.5)
+G8T630	G8T630_BRUAO	CP003177;		BAA13334_II01699	Nitric-oxide reductase, cytochrome b-containing subunit I
+A5IE40	A5IE40_LEGPC	CP000675;		LPC_1704	Nitric oxide reductase, subunit B
+H8JQW3	H8JQW3_MYCIT	CP003324;		OCQ_39780	Nitric-oxide reductase subunit B
+G8UZ27	G8UZ27_LEGPN	CP003192;		lp12_2228	Nitric oxide reductase, subunit B
+U6B1B6	U6B1B6_PSEAI	CP004055;		PA1R_gp4034	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+J9V3T9	J9V3T9_STAAU	CP003808;		C248_1448	Nitric-oxide reductase (EC 1.7.2.5)
+A1S3I0	A1S3I0_SHEAM	CP000507;		Sama_0728	Putative nitric oxide reductase (Subunit B) transmembrane protein
+I4CPL3	I4CPL3_PSEST	CP003677;		A458_03840	Nitric-oxide reductase subunit B
+I4CTC4	I4CTC4_PSEST	CP003677;		A458_10470	Nitric-oxide reductase subunit B
+V5PKK8	V5PKK8_9RHIZ	CP006899;		V568_201120	Nitric-oxide reductase, cytochrome b-containing subunit I
+U5R1I0	U5R1I0_PSEAE	CP006831;		norB N296_536	Nitric oxide reductase subunit B (EC 1.7.2.5)
+Q6GK48	Q6GK48_STAAR	BX571856;		SAR0261	Putative nitric oxide reductase
+K1XBW2	K1XBW2_ARTPT	AFXD01000010;		SPLC1_S101990	Cytochrome b subunit of nitric oxide reductase
+S5PCJ2	S5PCJ2_9PROT	CP006615;		norB A7H1H_1353	Nitric oxide reductase, cytochrome b subunit
+B9M7T7	B9M7T7_GEODF	CP001390;		norZ Geob_0018	Nitric oxide reductase, cytochrome b
+I4D2H0	I4D2H0_DESAJ	CP003639;		Desaci_0949	Nitric oxide reductase large subunit
+E8PLV5	E8PLV5_THESS	CP001962;		norB TSC_c17600	Nitric oxide reductase, subunit B
+V6F3S4	V6F3S4_9PROT	HG794546;		norB MGMSRv2_1716	Nitric oxide reductase subunit B (EC 1.7.2.5)
+G7U7E6	G7U7E6_PROAA	CP003084;		TIIST44_02655	Nitric-oxide reductase subunit B
+I3QUX8	I3QUX8_CORPS	CP003540;		norB Cp258_0138	Nitric-oxide reductase, cytochrome b-containing subunit I
+C0QTU2	C0QTU2_PERMH	CP001230;		PERMA_0314	Nitric oxide reductase, cytochrome B subunit
+E4U5B3	E4U5B3_OCEP5	CP002361;		Ocepr_2137	Nitric oxide reductase, NorB subunit apoprotein (EC 1.7.2.5)
+I7AGQ3	I7AGQ3_PSEST	CP003725;		PSJM300_16565	Nitric-oxide reductase subunit B
+Q3SKK3	Q3SKK3_THIDA	CP000116;		Tbd_0823	Nitric-oxide reductase subunit B
+I7AA12	I7AA12_PSEST	CP003725;		PSJM300_03265	Nitric-oxide reductase subunit B
+Q3SLA1	Q3SLA1_THIDA	CP000116;		Tbd_0561	Nitric-oxide reductase subunit B
+U4QFF7	U4QFF7_9RHIZ	HG518324;		norE BN877_p0538	NorE protein involved in nitric oxide reduction (Cytochrome c oxidase subunit III-like protein) (EC 1.7.2.5)
+A4AQU3	A4AQU3_MARSH	CP002157;		FB2170_14928	Nitric-oxide reductase subunit B
+A0QJS6	A0QJS6_MYCA1	CP000479;		MAV_4011	Nitric-oxide reductase subunit B
+Q9JYE2	Q9JYE2_NEIMB	AE002098;		norB NMB1622	Nitric oxide reductase (EC 1.7.99.-)
+I0JA20	I0JA20_STAAU	HE681097;		SAEMRSA15_02230	Putative nitric oxide reductase
+G2PJH6	G2PJH6_MURRD	CP002999;		Murru_2903	Nitric-oxide reductase, subunit B
+H8JAI7	H8JAI7_MYCIT	CP003323;		OCO_38620	Nitric-oxide reductase subunit B
+H8J3S1	H8J3S1_MYCIT	CP003323;		OCO_19730	Nitric-oxide reductase subunit B
+L0DWG5	L0DWG5_THIND	CP003989;		norB [H] TVNIR_1656	Nitric-oxide reductase subunit B
+F8GTJ0	F8GTJ0_CUPNN	CP002878;		norB CNE_2c22880	Nitric oxide reductase qNor type NorB (EC 1.7.2.5)
+F0N5F1	F0N5F1_NEIMO	CP002423;		norB NMBM04240196_0602	Nitric oxide reductase (EC 1.7.2.5)
+Q7NSD2	Q7NSD2_CHRVO	AE016825;		norB CV_3494	Nitric oxide reductase, subunit B (EC 1.7.99.7)
+H5Y069	H5Y069_9FIRM	CM001441;		DesyoDRAFT_5114	Nitric oxide reductase large subunit
+R4LAV4	R4LAV4_9ACTO	CP005929;		L083_3117	Cytochrome P450, nitric oxide reductase
+G2J1R0	G2J1R0_PSEUL	AP012224;		norB NH8B_1416	Nitric-oxide reductase subunit B NorB
+H7C7W3	H7C7W3_BRADU	BA000040;		norB blr3215	Nitric oxide reductase subunit B
+X5ENR7	X5ENR7_PSEAI	CP007224;		norB PA96_0528	Nitric-oxide reductase subunit B
+B9MAE8	B9MAE8_ACIET	CP001392;		Dtpsy_0109	Nitric oxide reductase large subunit
+B9MEG2	B9MEG2_ACIET	CP001392;		Dtpsy_2767	Nitric-oxide reductase (EC 1.7.2.5)
+G4PKC1	G4PKC1_BRUML	CP002932;		BMNI_II0236	Nitric oxide reductase subunit B
+B2UHR6	B2UHR6_RALPJ	CP001069;		Rpic_4013	Putative nitric oxide reductase (Subunit B) transmembrane protein
+A7HD32	A7HD32_ANADF	CP000769;		Anae109_2427	Cytochrome b subunit of nitric oxide reductase
+Q6HNI9	Q6HNI9_BACHK	AE017355;		norQ BT9727_0535	Probable nitric-oxide reductase (EC 1.7.2.5)
+I7EHG6	I7EHG6_PHAG2	CP002973;		norB PGA2_239p1400	Nitric oxide reductase subunit B (EC 1.7.2.5)
+H0PJL0	H0PJL0_9SYNC	AP012278;		norB SYNPCCP_3087	Cytochrome b subunit of nitric oxide reductase
+J9WCN2	J9WCN2_9MYCO	CP002275;		MIP_02776	Nitric oxide reductase subunit B
+M1M5R2	M1M5R2_9SYNC	CP003265;		norB MYO_131250	Cytochrome b subunit of nitric oxide reductase
+J9WG29	J9WG29_9MYCO	CP002275;		MIP_05840	Nitric oxide reductase subunit B
+F6G807	F6G807_RALS8	CP002820;		norB RSPO_m00042	Nitric oxide reductase (Subunit b) protein
+K7QUR6	K7QUR6_THEOS	CP003249;		Theos_1056	Nitric oxide reductase large subunit
+B4RF45	B4RF45_PHEZH	CP000747;		norB PHZ_c0619	Nitric oxide reductase, subunit B
+A0KTG5	A0KTG5_SHESA	CP000469;		Shewana3_0846	Putative nitric oxide reductase (Subunit B) transmembrane protein
+B2GE97	B2GE97_LACF3	AP008937;		LAF_1643	Nitric oxide reductase
+D2BC02	D2BC02_STRRD	CP001814;		Sros_5256	CYP55B1 cytochrome P450, nitric oxide reductase
+F5M2B3	F5M2B3_RHOSH	AFER01000001;		RSWS8N_06920	Nitric-oxide reductase subunit B
+A9GMH8	A9GMH8_SORC5	AM746676;		norB sce3281	Nitric oxide reductase (EC 1.7.99.7)
+Q92Z14	Q92Z14_RHIME	AE006469;		norE SMa1279	NorE accessory protein for nitric oxide reductase
+A9FZH8	A9FZH8_SORC5	AM746676;		sce8584	Nitric oxide reductase (EC 1.7.99.7)
+Q92Z16	Q92Z16_RHIME	AE006469;		norB SMa1273	NorB nitric oxide reductase, large subunit (EC 1.7.99.7)
+Q5F7A5	Q5F7A5_NEIG1	AE004969;		NGO1275	Putative nitric oxide reductase (EC 1.7.2.5)
+Q576W8	Q576W8_BRUAB	AE017224;		norB BruAb2_0930	NorB, nitric-oxide reductase, large subunit
+Q3JQG7	Q3JQG7_BURP1	CP000124;		norB BURPS1710b_2802	Nitric oxide reductase, subunit B (EC 1.7.2.5)
+I0HM25	I0HM25_RUBGI	AP012320;		norB RGE_07190	Cytochrome b subunit of NO reductase, NorB (EC 1.7.2.5)
+I0DI12	I0DI12_CORPS	CP003421;		norB Cp31_0141	Nitric-oxide reductase, cytochrome b-containing subunit I
+D3RR47	D3RR47_ALLVD	CP001896;		Alvin_0931	Nitric-oxide reductase subunit B
+W0YNB6	W0YNB6_PSEAI	HG530068;		norB BN889_00605	Nitric-oxide reductase subunit B
+I3X934	I3X934_RHIFR	CP003563;		norB USDA257_c38450	Nitric oxide reductase subunit B (EC 1.7.2.5)
+T1XJD9	T1XJD9_VARPD	CP003912;		VAPA_2c04420	Putative nitric oxide reductase, subunit B
+H2FN51	H2FN51_CORPS	CP003152;		norB Cp3995_0128	Nitric-oxide reductase, cytochrome b-containing subunit I
+F4FMY8	F4FMY8_STAAU	CP002643;		SAT0131_00257	Nitric oxide reductase
+I2AC04	I2AC04_9MYCO	CP003491;		W7S_09265	Nitric-oxide reductase subunit B
+I2AHP1	I2AHP1_9MYCO	CP003491;		W7S_19310	Nitric-oxide reductase subunit B
+C0RKI2	C0RKI2_BRUMB	CP001489;		BMEA_B0250	Nitric oxide reductase subunit B
+Q6N9T0	Q6N9T0_RHOPA	BX572597;		norB RPA1456	Nitric-oxide reductase subunit B (EC 1.7.99.7)
+J2MLR7	J2MLR7_PSEFL	AGBM01000001;		norB PflQ2_3089	Nitric oxide reductase cytochrome b subunit NorB (EC 1.7.2.5)
+A0LMF5	A0LMF5_SYNFM	CP000478;		Sfum_2932	Cytochrome b subunit of nitric oxide reductase
+J2EI03	J2EI03_PSEFL	AGBM01000001;		norC PflQ2_3090	Nitric oxide reductase cytochrome c subunit NorC
+Q46R31	Q46R31_CUPPJ	CP000091;		Reut_B5055	Nitric oxide reductase, NorZ apoprotein
+S6BTS2	S6BTS2_9GAMM	AP012978;		norB EBS_1570	Nitric oxide reductase subunit B (EC 1.7.2.5)
+C3M9K8	C3M9K8_RHISN	CP001389;		norE NGR_c09840	NorE protein involved in nitric oxide reduction (EC 1.7.2.5)
+C3M9L0	C3M9L0_RHISN	CP001389;		norB NGR_c09860	Nitric-oxide reductase subunit B
+D5VLV0	D5VLV0_CAUST	CP002008;		Cseg_3031	Nitric oxide reductase, subunit B
+C3M9L2	C3M9L2_RHISN	CP001389;		norD NGR_c09880	NorD protein required for nitric oxide reductase (Nor) activity (EC 1.7.2.5)
+C3M9L1	C3M9L1_RHISN	CP001389;		norQ NGR_c09870	NorQ protein required for nitric oxide reductase activity (EC 1.7.2.5)
+M4ZD41	M4ZD41_9BRAD	AP012603;		S58_57710	Nitric-oxide reductase subunit B
+A8Z3Y6	A8Z3Y6_STAAT	CP000730;		USA300HOU_1344	Nitric-oxide reductase (EC 1.7.2.5)
+B3PE38	B3PE38_CELJU	CP000934;		norB CJA_1546	Nitric oxide reductase qNor type (EC 1.7.2.5)
+I4ARC3	I4ARC3_CORPS	CP003652;		norB Cp162_0131	Nitric-oxide reductase, cytochrome b-containing subunit I
+F8L2D5	F8L2D5_PARAV	FR872580;		norB PUV_24980	Nitric oxide reductase, subunit B (EC 1.7.99.7)
+H8WET5	H8WET5_MARHY	FO203363;		MARHY3057	Putative norE, additional subunit of nitric oxide reductase (Nor) complex, membrane protein
+H8WE84	H8WE84_MARHY	FO203363;		norB MARHY3014	Nitric oxide reductase (EC 1.7.2.5)
+T2DWC4	T2DWC4_PSEAI	CP006705;		norB M801_536	Nitric oxide reductase subunit B (EC 1.7.2.5)
+F9ZDJ2	F9ZDJ2_9PROT	CP002552;		NAL212_0539	Nitric-oxide reductase (EC 1.7.2.5)
+T2EHZ2	T2EHZ2_PSEAI	CP006728;		norB M802_535	Nitric oxide reductase subunit B (EC 1.7.2.5)
+M1FA59	M1FA59_9ALTE	CP003735;		norB MRBBS_3150	Nitric oxide reductase subunit B
+N0B1Y6	N0B1Y6_9BACI	CP005586;		B1NLA3E_14525	Nitric-oxide reductase
+N0B0Y2	N0B0Y2_9BACI	CP005586;		B1NLA3E_10805	Nitric-oxide reductase subunit B
+I0GB39	I0GB39_9BRAD	AP012279;		norB S23_47820	Nitric oxide reductase subunit B
+Q604Y5	Q604Y5_METCA	AE017282;		MCA2400	Putative nitric-oxide reductase, B subunit
+F2GX04	F2GX04_BRUM5	CP001852;		norB BM590_B0240	Nitric oxide reductase subunit B
+B0CBZ3	B0CBZ3_ACAM1	CP000828;		AM1_0481	Cytochrome b subunit of nitric oxide reductase
+I7ESS8	I7ESS8_PHAIB	CP002977;		norB PGA1_262p01220	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A8ZKE8	A8ZKE8_ACAM1	CP000838;		AM1_A0139	Cytochrome b subunit of nitric oxide reductase
+L8APK9	L8APK9_BACIU	AP012495;		norB BEST7613_4400	Cytochrome B subunit of nitric oxide reductase
+M9RVB1	M9RVB1_PSEAI	CP004061;		G655_02645	Nitric-oxide reductase subunit B
+I1WH82	I1WH82_BURP2	CP002833;		BP1026B_I0974	Nitric oxide reductase, subunit B
+T0T2A3	T0T2A3_9FIRM	ASKE01000017;		HSIVP1_1474	Nitric-oxide reductase,quinol-dependent (EC 1.7.2.5)
+H0P2V1	H0P2V1_9SYNC	AP012276;		norB SYNGTI_3088	Cytochrome b subunit of nitric oxide reductase
+I0APY6	I0APY6_CORPS	CP003407;		norB Cp267_0135	Nitric-oxide reductase, cytochrome b-containing subunit I
+T0UD58	T0UD58_9FIRM	ASKE01000017;		HSIVP1_1475	Nitric-oxide reductase,quinol-dependent (EC 1.7.2.5)
+C7R6Z2	C7R6Z2_KANKD	CP001707;		Kkor_2038	Nitric oxide reductase large subunit
+A8EUI6	A8EUI6_ARCB4	CP000361;		norB Abu_1354	Nitric oxide reductase, cytochrome b subunit (EC 1.7.2.5)
+B8CJ18	B8CJ18_SHEPW	CP000472;		swp_0833	Probable nitric oxide reductase (Subunit B) transmembrane protein (EC 1.7.2.5)
+G4QRJ3	G4QRJ3_CORPS	CP003061;		norB CpCIP5297_0136	Nitric-oxide reductase, cytochrome b-containing subunit I
+D9QDQ1	D9QDQ1_CORP2	CP001829;		norB CpC231_0127	Nitric-oxide reductase, cytochrome b-containing subunit I
+G4SUM4	G4SUM4_META2	FO082060;		norB MEALZ_1161	Nitric oxide reductase subunit B (EC 1.7.2.5)
+G8PWM5	G8PWM5_PSEFL	CP003150;		norB1 PSF113_3759	NorB1 (EC 1.7.2.5)
+G8VA69	G8VA69_PROAA	CP003195;		TIA2EST2_09610	Nitric-oxide reductase subunit B
+M4X6X7	M4X6X7_PSEDE	CP004143;		H681_24750	Nitric-oxide reductase subunit B
+F4DW33	F4DW33_PSEMN	CP002620;		MDS_0132	Nitric-oxide reductase subunit B
+G8PWM4	G8PWM4_PSEFL	CP003150;		norC1 PSF113_3758	NorC1 (EC 1.7.2.5)
+G8NLN2	G8NLN2_BRUSS	CP003129;		norB BSVBI22_B0245	Nitric-oxide reductase, large subunit
+G8Q9P6	G8Q9P6_PSEFL	CP003150;		norB2 PSF113_3431	NorB2 (EC 1.7.2.5)
+G8PWM1	G8PWM1_PSEFL	CP003150;		norQ PSF113_3755	NorQ (EC 1.7.2.5) (EC 3.6.1.3)
+F4DW34	F4DW34_PSEMN	CP002620;		MDS_0133	Nitric oxide reductase, cytochrome c-containing subunit
+Q8XPY1	Q8XPY1_RALSO	AL646053;		norB RSp1505	Probable nitric oxide reductase (Subunit b) transmembrane protein (EC 1.7.99.7)
+Q16A04	Q16A04_ROSDO	CP000362;		norB RD1_1561	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+Q0HYC3	Q0HYC3_SHESR	CP000444;		Shewmr7_0883	Putative nitric oxide reductase (Subunit B) transmembrane protein
+I4XYM6	I4XYM6_9PSED	AHOT01000011;		norB PchlO6_3647	Nitric oxide reductase cytochrome b subunit NorB (EC 1.7.2.5)
+K7RR23	K7RR23_PROA4	CP003493;		PACID_27170	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+I4XYY5	I4XYY5_9PSED	AHOT01000011;		norC PchlO6_3648	Nitric oxide reductase cytochrome c subunit NorC
+D2N3W7	D2N3W7_STAA5	AM990992;		SAPIG0277	Nitric oxide reductase cytochrome B subunit
+B4U7D0	B4U7D0_HYDS0	CP001130;		HY04AAS1_0351	Nitric-oxide reductase (EC 1.7.2.5)
+H6M4W2	H6M4W2_CORPS	CP003077;		norB Cp316_0140	Nitric-oxide reductase, cytochrome b-containing subunit I
+Q5LL12	Q5LL12_RUEPO	CP000032;		norC SPOA0217	Nitric oxide reductase, small subunit (EC 1.7.2.5)
+A0A076RUW3	A0A076RUW3_9RHIZ	CP007742;		norB DK65_2228	Nitric oxide reductase subunit B (EC 1.7.2.5)
+K7Q0Q3	K7Q0Q3_BURPE	CP003782;		BPC006_II1946	Nitric oxide reductase large subunit
+Q5LL16	Q5LL16_RUEPO	CP000032;		SPOA0213	Nitric oxide reductase E protein, putative
+Q5LL13	Q5LL13_RUEPO	CP000032;		norB SPOA0216	Nitric oxide reductase, large subunit (EC 1.7.2.5)
+B1KE70	B1KE70_SHEWM	CP000961;		Swoo_0761	Putative nitric oxide reductase (Subunit B) transmembrane protein
+A9I7C5	A9I7C5_BORPD	AM902716;		norB Bpet4049	Nitric-oxide reductase subunit B (EC 1.7.99.7)
+A9I7D7	A9I7D7_BORPD	AM902716;		norE Bpet4052	Nitric oxide reductase NorE protein (EC 1.7.99.7)
+A9I7D0	A9I7D0_BORPD	AM902716;		norC Bpet4050	Nitric oxide reductase, cytochrome c-containing subunit (EC 1.7.99.7)
+A9ME02	A9ME02_BRUC2	CP000873;		norB BCAN_B0250	Nitric-oxide reductase subunit B
+A9HZ38	A9HZ38_BORPD	AM902716;		Bpet3560	Putative nitric oxide reductase (EC 1.7.99.7)
+Q02TP2	Q02TP2_PSEAB	CP000438;		norB PA14_06830	Nitric-oxide reductase subunit B
+E2XTV6	E2XTV6_PSEFL	AEAZ01000023;		norB PFWH6_3457	Nitric-oxide reductase subunit B
+G8AYR2	G8AYR2_AZOBR	HE577330;		norB AZOBR_p350037	Nitric oxide reductase (NOR), large subunit (EC 1.7.2.5)
+A4VQ98	A4VQ98_PSEU5	CP000304;		norB PST_3521	Nitric-oxide reductase subunit B
+G8AYR3	G8AYR3_AZOBR	HE577330;		norC AZOBR_p350038	Nitric oxide reductase (NOR), small subunit (EC 1.7.2.5)
+G8AYW1	G8AYW1_AZOBR	HE577331;		norE AZOBR_p410038	Nitric oxide reductase, cytochrome c oxidase subunit (EC 1.7.2.5)
+A6VPQ9	A6VPQ9_ACTSZ	CP000746;		Asuc_1602	Nitric oxide reductase large subunit
+G2L6M9	G2L6M9_PSEAI	CP002496;		norB PAM18_0523	Nitric-oxide reductase subunit B
+D5C1R2	D5C1R2_NITHN	CP001798;		Nhal_1556	Nitric-oxide reductase (EC 1.7.2.5)
+C4KQU8	C4KQU8_BURPE	CP001408;		GBP346_A2859	Nitric oxide reductase, subunit B
+C4I5V6	C4I5V6_BURPE	ACOJ01000001;		GBP346_B1383	Nitric oxide reductase
+D3P4C1	D3P4C1_AZOS1	AP010949;		norB AZL_c02070	Nitric-oxide reductase, cytochrome b-containing subunit I
+D8HE99	D8HE99_STAAF	CP001996;		SAOV_0204	Nitric-oxide reductase
+J7J4K2	J7J4K2_DESMD	CP003629;		Desmer_4397	Nitric oxide reductase large subunit
+D3P4C2	D3P4C2_AZOS1	AP010949;		norC AZL_c02080	Nitric-oxide reductase, cytochrome C-containing subunit II
+E3FAM1	E3FAM1_CORP9	CP002251;		norB CpI19_0128	Nitric-oxide reductase, cytochrome b-containing subunit I
+S4ZJJ4	S4ZJJ4_9MYCO	CP003347;		OEM_39170	Nitric-oxide reductase subunit B
+A1KV42	A1KV42_NEIMF	AM421808;		nor NMC1548	Nitric oxide reductase (EC 1.7.99.7)
+S4Z6X2	S4Z6X2_9MYCO	CP003347;		OEM_17610	Nitric-oxide reductase subunit B
+I4KPY5	I4KPY5_PSEFL	AHPO01000002;		norB PflQ8_3216	Nitric oxide reductase cytochrome b subunit NorB (EC 1.7.2.5)
+G8X9Z7	G8X9Z7_FLACA	CP003222;		FCOL_01560	Nitric-oxide reductase subunit B
+G8PI77	G8PI77_PSEUV	CP003147;		norB PSE_4552	Nitric oxide reductase subunit B (EC 1.7.2.5)
+G8PVI1	G8PVI1_PSEUV	CP003148;		PSE_p0187	Nitric oxide reductase, cytochrome b subunit
+I4KNX8	I4KNX8_PSEFL	AHPO01000002;		norC PflQ8_3217	Nitric oxide reductase cytochrome c subunit NorC
+D8P0H2	D8P0H2_RALSL	FP885906;		norB RPSI07_3196	Nitric oxide reductase (Subunit b) transmembrane protein (EC 1.7.99.7)
+G7ZE80	G7ZE80_AZOL4	FQ311871;		norC AZOLI_p30087	Nitric oxide reductase (NOR), small subunit (EC 1.7.2.5)
+G7ZE79	G7ZE79_AZOL4	FQ311871;		norB AZOLI_p30086	Nitric oxide reductase (NOR), large subunit (EC 1.7.2.5)
+G7ZE81	G7ZE81_AZOL4	FQ311871;		norE AZOLI_p30089	Nitric oxide reductase, cytochrome c oxidase subunit (EC 1.7.2.5)
+K0HQN4	K0HQN4_PROAA	CP003877;		PAC1_10095	Nitric-oxide reductase subunit B
+V9RUN3	V9RUN3_ALCXX	CP006958;		AX27061_2183	Nitric-oxide reductase, quinol-dependent
+V5PDW3	V5PDW3_9RHIZ	CP006897;		V910_200963	Nitric-oxide reductase, cytochrome b-containing subunit I
+Q7WX97	Q7WX97_CUPNH	AY305378;		norB PHG244	Nitric oxide reductase qNor type
+Q0JYR9	Q0JYR9_CUPNH	AM260480;		norB2 H16_B2323	Nitric oxide reductase qNor type (NorB2) (EC 1.7.99.7)
+A0A077FDI6	A0A077FDI6_9PSED	CP009048;		PSAKL28_21200	Nitric oxide reductase cytochrome b subunit NorB
+T2GVC0	T2GVC0_MYCAV	AP012555;		MAH_3429	Nitric-oxide reductase subunit B
+D8NF16	D8NF16_RALSL	FP885896;		norB CMR15_mp30149	Nitric oxide reductase (Subunit b) transmembrane protein (EC 1.7.99.7)
+I1XFW5	I1XFW5_METNJ	CP003390;		Q7A_433	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+A4G197	A4G197_HERAR	CU207211;		norZ HEAR0048	Nitric oxide reductase
+I1XG17	I1XG17_METNJ	CP003390;		Q7A_487	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+A4G5N7	A4G5N7_HERAR	CU207211;		HEAR1667	Putative Nitric oxide reductase (EC 1.7.99.7)
+A0R9Q8	A0R9Q8_BACAH	CP000485;		norQ BALH_0562	Possible nitric-oxide reductase (EC 1.7.2.5)
+M9VLZ3	M9VLZ3_PROAA	CP003293;		PAGK_1889	Nitric-oxide reductase subunit B
+B3RCN9	B3RCN9_CUPTR	CU633750;		norB RALTA_B2087	Nitric oxide reductase qNor type (EC 1.7.99.7)
+E6VKE1	E6VKE1_RHOPX	CP002418;		Rpdx1_4064	Nitric-oxide reductase (EC 1.7.2.5)
+Q5L1Y7	Q5L1Y7_GEOKA	BA000043;		GK0758	Nitric oxide reductase cytochrome b subunit (EC 1.7.2.5)
+Q6LIF4	Q6LIF4_PHOPR	CR378678;		NE2004 PBPRB1054	Putative nitric-oxide reductase subunit B
+G8VHZ0	G8VHZ0_PROAA	CP003196;		TIA2EST22_09670	Nitric-oxide reductase subunit B
+D5T6X4	D5T6X4_LEGP2	CP001828;		norB lpa_03215	Nitric-oxide reductase, cytochrome b-containing subunit I (EC 1.7.2.5)
+A0A024E4H0	A0A024E4H0_9PSED	CP005960;		norB OU5_0452	Nitric oxide reductase cytochrome b subunit
+B7V4B0	B7V4B0_PSEA8	FM209186;		norB PLES_05211	Nitric-oxide reductase subunit B
+B0TTF6	B0TTF6_SHEHH	CP000931;		Shal_3554	Nitric-oxide reductase (EC 1.7.2.5)
+F2HXI8	F2HXI8_BRUMM	CP002460;		norB BM28_B0240	Nitric oxide reductase subunit B
+E3A5Q4	E3A5Q4_PSEAI	AEEX01000310;		PA39016_004010141	Nitric-oxide reductase subunit B
+I4EAF5	I4EAF5_METSZ	FO000001;		SC2p1_00450	Putative nitric-oxide reductase
+I4EBD0	I4EBD0_METSZ	FO000002;		SC2p2_01300	Putative nitric-oxide reductase
+W8L0W9	W8L0W9_PSEAI	CP006980;		T227_02650	Nitric oxide reductase
+E4TR41	E4TR41_MARTH	CP002349;		Ftrac_2744	Nitric oxide reductase, NorB subunit apoprotein (EC 1.7.2.5)
+F0MZ53	F0MZ53_NEIMP	CP002422;		NMBM01240355_1552	Nitric oxide reductase (EC 1.7.2.5)
+D1DJK5	D1DJK5_NEIGO	CP003909;		NGFG_02153	Nitric oxide reductase subunit B
+G0I5K5	G0I5K5_CORPS	CP002924;		norB CpPAT10_0127	Nitric-oxide reductase, cytochrome b-containing subunit I
+G7QAJ9	G7QAJ9_9DELT	CM001368;		DFW101_2748	Nitric-oxide reductase (EC 1.7.2.5)
+B3DWW2	B3DWW2_METI4	CP000975;		norB Minf_0042	Nitric-oxide reductase subunit B
+Q7CUT9	Q7CUT9_AGRT5	AE007870;		norC Atu4389	Nitric oxide reductase, cytochrome c-containing subunit
+B6IYE3	B6IYE3_RHOCS	CP000613;		norB RC1_3976	Nitric oxide reductase NorB, putative (EC 1.7.2.5)
+T2KNE0	T2KNE0_9FLAO	HG315671;		BN863_22390	Nitric-oxide reductase (EC 1.7.2.5)
+A8G003	A8G003_SHESH	CP000821;		Ssed_3822	Putative nitric oxide reductase (Subunit B) transmembrane protein
+V9T2N8	V9T2N8_PSEAI	CP006937;		T223_02645	Nitric oxide reductase
+A4YA02	A4YA02_SHEPC	CP000681;		Sputcn32_3072	Putative nitric oxide reductase (Subunit B) transmembrane protein
+B4RMX9	B4RMX9_NEIG2	CP001050;		NGK_1489	Nitric oxide reductase
+Q6MK15	Q6MK15_BDEBA	BX842653;		norB Bd2599	Nitric-oxide reductase subunit B (EC 1.7.99.7)
+Q21X91	Q21X91_RHOFT	CP000267;		Rfer_1886	Putative nitric oxide reductase (Subunit B) transmembrane protein
+B8EHY4	B8EHY4_METSB	CP001280;		Msil_1516	Nitric-oxide reductase (EC 1.7.2.5)
+W8LHU0	W8LHU0_PSEAI	CP006981;		T228_02645	Nitric oxide reductase
+I0C1A2	I0C1A2_STAA5	CP003045;		ST398NM01_0277	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+W8NCV9	W8NCV9_PSEAI	CP006984;		T225_02640	Nitric oxide reductase
+F2N610	F2N610_PSEU6	CP002622;		norB PSTAA_3618	Nitric-oxide reductase subunit B
+Q489B3	Q489B3_COLP3	CP000083;		norB CPS_0601	Nitric-oxide reductase, B subunit (EC 1.7.2.5)
+Q489B4	Q489B4_COLP3	CP000083;		norC CPS_0600	Nitric-oxide reductase, C subunit (EC 1.7.2.5)
+K7ZBL5	K7ZBL5_BDEBC	CP002930;		norB Bdt_2743	Nitric-oxide reductase subunit B
+E4ZC08	E4ZC08_NEIL0	FN995097;		nor NLA_6500	Nitric oxide reductase (EC 1.7.99.7)
+Q5ZTC6	Q5ZTC6_LEGPH	AE017354;		lpg2236	Nitric oxide reductase, subunit B
+C5ZKD1	C5ZKD1_BURPE	CM000774;		BURPS1106B_A1960	Putative nitric oxide reductase NorZ
+G2LJT6	G2LJT6_CHLTF	CP002515;		Cabther_B0097	MoxR-like ATPase (EC 1.7.2.5)
+Q6NEM3	Q6NEM3_CORDI	BX248360;		DIP2249	Putative nitric-oxide reductase
+D8H0Y1	D8H0Y1_BACAI	CP001746;		norQ BACI_c06320	Probable nitric-oxide reductase (EC 1.7.2.5)
+A3QAN1	A3QAN1_SHELP	CP000606;		Shew_0657	Putative nitric oxide reductase (Subunit B) transmembrane protein
+D6YUP0	D6YUP0_WADCW	CP001928;		norB wcw_0480	Nitric oxide reductase, subunit B (EC 1.7.2.5)
+E6X0G0	E6X0G0_NITSE	CP002452;		Nitsa_1562	Nitric oxide reductase, NorB subunit apoprotein (EC 1.7.2.5)
+D9RDG7	D9RDG7_STAAJ	CP002114;		norB SAA6159_00241	Nitric oxide reductase large subunit
+H0PF65	H0PF65_9SYNC	AP012277;		norB SYNPCCN_3087	Cytochrome b subunit of nitric oxide reductase
+G4LG13	G4LG13_PSEAI	AP012280;		norB NCGM2_5672	Nitric-oxide reductase subunit B
+Q30UE6	Q30UE6_SULDN	CP000153;		Suden_0104	NorH Nonelectrogenic quinone-oxidizing nitric oxide reductase subunit I
+C6APQ5	C6APQ5_AGGAN	CP001607;		NT05HA_1475	Nitric oxide reductase large subunit
+Q30P23	Q30P23_SULDN	CP000153;		Suden_1984	Nitric-oxide reductase B subunit NorB
+Q30UE7	Q30UE7_SULDN	CP000153;		Suden_0103	NorG Nonelectrogenic quinone-oxidizing nitric oxide reductase subunit II
+E7BDT8	E7BDT8_NEIMW	FR774048;		norB NMAA_1352	Nitric oxide reductase (EC 1.7.99.-)
+Q63G21	Q63G21_BACCZ	CP000001;		norQ BCE33L0535	Probable nitric-oxide reductase (EC 1.7.2.5)
+F7UMG0	F7UMG0_SYNYG	AP012205;		norB SYNGTS_3089	Cytochrome b subunit of nitric oxide reductase
+F9Z0C4	F9Z0C4_PROAA	CP002409;		norB PAZ_c20630	Nitric oxide reductase subunit B (EC 1.7.2.5)
+A1KA50	A1KA50_AZOSB	AM406670;		norB azo3089	Putative nitric-oxide reductase subunit B
+G0LQN2	G0LQN2_STAAU	FR821779;		SARLGA251_02280	Putative nitric oxide reductase
+G0DV38	G0DV38_PROAA	CP002815;		TIB1ST10_10055	Nitric-oxide reductase subunit B
+W8MVB7	W8MVB7_PSEAI	CP006983;		T224_02645	Nitric oxide reductase
+C7ZTR7	C7ZTR7_STAAU	CP002388;		SAAG_00745	Nitric oxide reductase
+F4GR23	F4GR23_PUSST	CP002663;		PT7_2183	Nitric oxide reductase NorB/NorZ-like protein
+F4GMY3	F4GMY3_PUSST	CP002663;		PT7_0538	Nitric oxide reductase NorB/NorZ-like protein
+A5FH83	A5FH83_FLAJ1	CP000685;		Fjoh_2413	Nitric oxide reductase large subunit-like protein
+S5SET9	S5SET9_RHIET	CP005956;		norB REMIM1_PF00202	Nitric oxide reductase (Cytochrome c) subunit B (EC 1.7.2.5)
+B9KK66	B9KK66_RHOSK	CP001150;		RSKD131_1653	Nitric oxide reductase subunit C
+H8LU25	H8LU25_CORPS	CP003385;		norB CpP54B96_0131	Nitric-oxide reductase, cytochrome b-containing subunit I
+U7DWP2	U7DWP2_PSEFL	CM001560;		B723_16735	Nitric oxide reductase
+I6RSM5	I6RSM5_PSEAI	CP003149;		PADK2_02635	Nitric-oxide reductase subunit B
+Q82TA4	Q82TA4_NITEU	AL954747;		NE2003	Nitric oxide reductase, cytochrome c-containing subunit (EC 1.7.99.7)
+G8VPD1	G8VPD1_PROAA	CP003197;		TIA2EST36_09650	Nitric-oxide reductase subunit B
+W8LNQ8	W8LNQ8_PSEAI	CP006982;		T222_02640	Nitric oxide reductase
+A5EDN2	A5EDN2_BRASB	CP000494;		norB BBta_2089	Nitric oxide reductase, NorB subunit apoprotein (EC 1.7.2.5)
+A5EDM9	A5EDM9_BRASB	CP000494;		norE BBta_2086	NorE protein involved in nitric oxide reduction (EC 1.7.2.5)
+A5EDN1	A5EDN1_BRASB	CP000494;		norC BBta_2088	Nitric oxide reductase, NorC subunit apoprotein (EC 1.7.2.5)
+A1IT93	A1IT93_NEIMA	AL157959;		NMA1886	Nitric oxide reductase (EC 1.7.99.7)
+K0CIG9	K0CIG9_ALCDB	CP003466;		B5T_03073	Putative nitric oxide reductase, NorB-like protein
+D9Q5T6	D9Q5T6_CORP1	CP001809;		norB Cp1002_0125	Nitric-oxide reductase, cytochrome b-containing subunit I
+L7V4F6	L7V4F6_MYCL1	CP003899;		MULP_01035	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+F7ZJS3	F7ZJS3_ROSLO	CP002623;		norB RLO149_c031420	Nitric oxide reductase subunit B (EC 1.7.2.5)
+Q2IQU7	Q2IQU7_ANADE	CP000251;		Adeh_1403	Nitric oxide reductase, NorZ apoprotein
+Q2IED9	Q2IED9_ANADE	CP000251;		Adeh_3178	Nitric oxide reductase, NorZ apoprotein
+Q2IFX8	Q2IFX8_ANADE	CP000251;		Adeh_3720	Nitric oxide reductase, NorZ apoprotein
+N0B8A6	N0B8A6_9RHIZ	CP005587;		HYPDE_25483	Nitric-oxide reductase subunit B
+Q1IUT1	Q1IUT1_KORVE	CP000360;		Acid345_0364	Nitric oxide reductase, NorZ apoprotein
+F0MQ06	F0MQ06_NEIMM	CP002421;		NMBM01240149_0555	Nitric oxide reductase (EC 1.7.2.5)
+D9RJ50	D9RJ50_STAAK	CP002120;		norB SAA6008_00238	Nitric oxide reductase large subunit
+Q6A6C2	Q6A6C2_PROAC	AE017283;		PPA1975	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+F8H0D8	F8H0D8_PSEUT	CP002881;		norB PSTAB_3495	Nitric-oxide reductase subunit B
+E3D1H2	E3D1H2_NEIM7	CP001561;		NMBB_1862	Nitric oxide reductase (EC 1.7.99.-)
+P74677	P74677_SYNY3	BA000022;		norB	Cytochrome b subunit of nitric oxide reductase
+Q5P8Y4	Q5P8Y4_AROAE	CR555306;		norB ebA179	Nitric-oxide reductase subunit B (EC 1.7.99.7)
+M4V4D0	M4V4D0_RALSL	CP004013;		F504_4975	Nitric-oxide reductase (EC 1.7.2.5)
+B2V840	B2V840_SULSY	CP001080;		SYO3AOP1_0472	Nitric-oxide reductase (EC 1.7.2.5)
+Q0HFK7	Q0HFK7_SHESM	CP000446;		Shewmr4_3089	Putative nitric oxide reductase (Subunit B) transmembrane protein
+D8KA70	D8KA70_NITWC	CP002086;		Nwat_0420	Nitric-oxide reductase subunit B
+K0PK14	K0PK14_RHIML	HE995407;		norE BN406_04418	NorE accessory protein for nitric oxide reductase (EC 1.7.2.5)
+Q023C5	Q023C5_SOLUE	CP000473;		Acid_2936	Putative nitric-oxide reductase
+I3Z5R6	I3Z5R6_BELBD	CP003281;		Belba_2010	Nitric oxide reductase large subunit
+K0PK88	K0PK88_RHIML	HE995407;		norB BN406_04415	Nitric oxide reductase subunit B (EC 1.7.2.5)
+K0PJZ1	K0PJZ1_RHIML	HE995407;		norD BN406_04413	NorD accessory protein for nitric oxide reductase (EC 1.7.2.5)
+K0PBW8	K0PBW8_RHIML	HE995407;		norC BN406_04416	NorC nitric oxide reductase, small subunit (EC 1.7.2.5)
+Q39PX6	Q39PX6_GEOMG	CP000148;		norZ Gmet_3493	Nitric oxide reductase, cytochrome b
+C6S880	C6S880_NEIML	AM889136;		norB NMO_1451	Nitric-oxide reductase (EC 1.7.99.7)
+E3H210	E3H210_ROTDC	CP002280;		HMPREF0733_11863	Putative nitric oxide reductase
+B0SP14	B0SP14_LEPBP	CP000786;		norE LEPBI_I2958	Nitric oxide reductase subunit E
+B0SP11	B0SP11_LEPBP	CP000786;		norC LEPBI_I2955	Nitric oxide reductase, cytochrome c-containing subunit (EC 1.7.2.5)
+B0SP08	B0SP08_LEPBP	CP000786;		norD LEPBI_I2952	NorD protein (EC 1.7.2.5)
+A1RGC8	A1RGC8_SHESW	CP000503;		Sputw3181_0873	Putative nitric oxide reductase (Subunit B) transmembrane protein
+E6XCC1	E6XCC1_CELAD	CP002453;		Celal_3930	Nitric oxide reductase, NorZ apoprotein
+E1VR51	E1VR51_9GAMM	FP929140;		norB HDN1F_37100	Nitric-oxide reductase subunit B
+E1VGA3	E1VGA3_9GAMM	FP929140;		HDN1F_02620	Nitric-oxide reductase, subunit B
+B4UFE6	B4UFE6_ANASK	CP001131;		AnaeK_2454	Nitric-oxide reductase (EC 1.7.2.5)
+H8ISW4	H8ISW4_MYCIA	CP003322;		OCU_19850	Nitric-oxide reductase subunit B
+B4UE30	B4UE30_ANASK	CP001131;		AnaeK_3777	Putative nitric-oxide reductase
+H8ILH0	H8ILH0_MYCIA	CP003322;		OCU_38590	Nitric-oxide reductase subunit B
+B0SFG1	B0SFG1_LEPBA	CP000777;		norB LBF_2854	Nitric oxide reductase large subunit
+B0SFG3	B0SFG3_LEPBA	CP000777;		LBF_2856	Cytochrome C oxidase subunit III/Nitric oxide reductase related
+A1B4X7	A1B4X7_PARDP	CP000489;		Pden_2484	Nitric oxide reductase, NorC subunit apoprotein (EC 1.7.2.5)
+B8FSS3	B8FSS3_DESHD	CP001336;		Dhaf_2253	Nitric-oxide reductase (EC 1.7.2.5)
+A1B4X6	A1B4X6_PARDP	CP000489;		Pden_2483	Nitric oxide reductase, NorB subunit apoprotein
+C1DWD3	C1DWD3_SULAA	CP001229;		SULAZ_1453	Nitric oxide reductase, cytochrome B subunit
+W8WXS1	W8WXS1_CASDE	HG916765;		BN940_10491	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+W8WZ49	W8WZ49_CASDE	HG916765;		BN940_12031	Nitric-oxide reductase, quinol-dependent (EC 1.7.2.5)
+M4MJT5	M4MJT5_SINM2	CP004138;		norB SM2011_a1273	NorB nitric oxide reductase,large subunit (EC 1.7.2.5)
+M4MGB7	M4MGB7_SINM2	CP004138;		norE SM2011_a1279	NorE accessory protein for nitric oxide reductase
+W8WZS5	W8WZS5_CASDE	HG916765;		BN940_14166	Putative additional subunit of nitric oxide reductase (Nor) complex, membrane protein
+W8X095	W8X095_CASDE	HG916765;		BN940_14246	Putative additional subunit of nitric oxide reductase (Nor) complex, membrane protein
+D5MGQ8	D5MGQ8_9BACT	FP565575;		norZ DAMO_1889	Nitric-oxide reductase, qNOR-like (NorZ) (EC 1.7.99.7)
+M4MGE9	M4MGE9_SINM2	CP004138;		norC SM2011_a1276	NorC nitric oxide reductase,small subunit (EC 1.7.2.5)
+D5MIZ0	D5MIZ0_9BACT	FP565575;		DAMO_2437	Putative Cytochrome c oxidase subunit I nitric oxide reductase-like (NorZ)
+G4R0I4	G4R0I4_CORPS	CP003062;		norB Cp4202_0124	Nitric-oxide reductase, cytochrome b-containing subunit I
+Q07Y25	Q07Y25_SHEFN	CP000447;		Sfri_3253	Putative nitric oxide reductase (Subunit B) transmembrane protein
+W8N3N2	W8N3N2_PSEAI	CP006985;		T226_02650	Nitric oxide reductase
+C6BMR7	C6BMR7_RALP1	CP001645;		Rpic12D_4126	Nitric oxide reductase subunit B
+Q3JA29	Q3JA29_NITOC	CP000127;		Noc_1850	Nitric oxide reductase, NorC subunit apoprotein (EC 1.7.2.5)
+Q3JA30	Q3JA30_NITOC	CP000127;		Noc_1849	Nitric oxide reductase, NorB subunit apoprotein
+A6UYY5	A6UYY5_PSEA7	CP000744;		norB PSPA7_0625	Nitric-oxide reductase subunit B
+Q0A6S8	Q0A6S8_ALKEH	CP000453;		Mlg_2117	Nitric oxide reductase, NorC subunit apoprotein (EC 1.7.2.5)
+B5EFD8	B5EFD8_GEOBB	CP001124;		norZ Gbem_3901	Nitric oxide reductase, cytochrome b
+Q0A6S7	Q0A6S7_ALKEH	CP000453;		Mlg_2118	Nitric oxide reductase, NorB subunit apoprotein
+R9SH73	R9SH73_LEGPN	CP003730;		LP6_2264	Nitric-oxide reductase, cytochrome b-containing subunit I (EC 1.7.2.5)
+U6AHL7	U6AHL7_PSEAI	CP004054;		PA1S_gp4034	Nitric-oxide reductase subunit B (EC 1.7.2.5)
+T1AMI6	T1AMI6_9ZZZZ	AUZY01011338;AUZX01006829;		B1A_09574 B1B_16990	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Cytochrome c oxidase, subunit I bacterial type) (EC 1.9.3.1)
+T1DEA0	T1DEA0_9ZZZZ	AUZY01000050;		B1B_00060	Cytochrome c oxidase subunit I (EC 1.7.2.5)
+T1AP76	T1AP76_9ZZZZ	AUZZ01001930;		B2A_02841	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1AJF5	T1AJF5_9ZZZZ	AUZZ01002390;		B2A_03574	Nitric oxide reductase large subunit (Fragment)
+T1C1Q4	T1C1Q4_9ZZZZ	AUZX01002638;		B1A_03597	Nitric oxide reductase, subunit B (Fragment)
+T1BLQ5	T1BLQ5_9ZZZZ	AUZY01003052;		B1B_04861	Nitric oxide reductase (Fragment)
+T1ANE7	T1ANE7_9ZZZZ	AUZZ01007517;		B2A_10419	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0ZBE9	T0ZBE9_9ZZZZ	AUZZ01007693;		B2A_10685	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1A6S6	T1A6S6_9ZZZZ	AUZX01009204;		B1A_12645	Nitric oxide reductase
+T1AFC6	T1AFC6_9ZZZZ	AUZX01008446;		B1A_11756	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1BI98	T1BI98_9ZZZZ	AUZY01003547;		B1B_05596	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1BHD4	T1BHD4_9ZZZZ	AUZY01002341;		B1B_03780	Cytochrome c oxidase subunit I (EC 1.7.2.5)
+T0Y0Z5	T0Y0Z5_9ZZZZ	AUZZ01010739;		B2A_14771	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1BB40	T1BB40_9ZZZZ	AUZY01007337;		B1B_11311	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1AVQ9	T1AVQ9_9ZZZZ	AUZX01006893;		B1A_09663	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1BG98	T1BG98_9ZZZZ	AUZY01006806;		B1B_10400	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1CF03	T1CF03_9ZZZZ	AUZZ01001356;		B2A_01924	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1CA37	T1CA37_9ZZZZ	AUZZ01001932;		B2A_02843	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0YSU2	T0YSU2_9ZZZZ	AUZX01013229;		B1A_17960	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1BME3	T1BME3_9ZZZZ	AUZX01004898;		B1A_06757	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1C9Z0	T1C9Z0_9ZZZZ	AUZZ01001953;		B2A_02877	Nitric oxide reductase (Fragment)
+T0YMB6	T0YMB6_9ZZZZ	AUZX01013857;		B1A_18778	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1AXS5	T1AXS5_9ZZZZ	AUZZ01001954;		B2A_02878	Nitric oxide reductase subunit B (Fragment)
+T1A5T3	T1A5T3_9ZZZZ	AUZX01008410;		B1A_11712	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0XVA9	T0XVA9_9ZZZZ	AUZY01013078;		B1B_19471	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1C3S5	T1C3S5_9ZZZZ	AUZX01002427;		B1A_03297	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1B2G2	T1B2G2_9ZZZZ	AUZY01004529;		B1B_07124	Nitric oxide reductase cytochrome b subunit
+T0ZRN7	T0ZRN7_9ZZZZ	AUZZ01005090;		B2A_07124	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1B7S2	T1B7S2_9ZZZZ	AUZZ01000159;		B2A_00226	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0YIY3	T0YIY3_9ZZZZ	AUZX01014546;		B1A_19699	B subunit of nitric oxide reductase (Fragment)
+T1C8G2	T1C8G2_9ZZZZ	AUZX01006865;		B1A_09628	Cytochrome c oxidase subunit I (EC 1.7.2.5)
+T1AYW8	T1AYW8_9ZZZZ	AUZZ01001064;		B2A_01450	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1APM1	T1APM1_9ZZZZ	AUZY01009005;		B1B_13668	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1BCR6	T1BCR6_9ZZZZ	AUZY01003051;		B1B_04860	Nitric oxide reductase (Fragment)
+T0ZY69	T0ZY69_9ZZZZ	AUZX01013670;		B1A_18523	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1CPL8	T1CPL8_9ZZZZ	AUZY01002940;		B1B_04697	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0XY24	T0XY24_9ZZZZ	AUZY01012809;		B1B_19072	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1AZB3	T1AZB3_9ZZZZ	AUZX01006865;		B1A_09627	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1B7H4	T1B7H4_9ZZZZ	AUZX01006312;		B1A_08870	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0ZPE6	T0ZPE6_9ZZZZ	AUZX01010744;		B1A_14635	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0ZPA5	T0ZPA5_9ZZZZ	AUZY01007359;		B1B_11339	Cytochrome c oxidase subunit I (EC 1.7.2.5)
+T1A5Z3	T1A5Z3_9ZZZZ	AUZX01013012;		B1A_17683	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0YAI5	T0YAI5_9ZZZZ	AUZZ01010353;		B2A_14279	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0YCG1	T0YCG1_9ZZZZ	AUZY01011836;		B1B_17699	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0ZI23	T0ZI23_9ZZZZ	AUZY01008997;		B1B_13656	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T1AYY2	T1AYY2_9ZZZZ	AUZY01004529;		B1B_07123	Nitric oxide reductase, subunit B (Fragment)
+T0Y2X1	T0Y2X1_9ZZZZ	AUZZ01010515;		B2A_14477	Nitric oxide reductase (Fragment)
+T1CSX0	T1CSX0_9ZZZZ	AUZY01002317;		B1B_03741	Cytochrome c oxidase subunit I (EC 1.7.2.5)
+T1CLK2	T1CLK2_9ZZZZ	AUZZ01000009;		B2A_00010	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+T0YDE1	T0YDE1_9ZZZZ	AUZZ01010020;		B2A_13822	Cytochrome c oxidase subunit I (EC 1.7.2.5) (Fragment)
+W1XPW7	W1XPW7_9ZZZZ	AZMM01013139;		Q604_UNBC13139G0001	Nitric oxide reductase (Fragment)

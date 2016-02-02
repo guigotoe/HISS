@@ -1,0 +1,5 @@
+Entry	Entry name	Cross-reference (EMBL)	Cross-reference (GenBank)	Gene names	Protein names
+Q5M2N1	Q5M2N1_STRT2	CP000023;		gnlA stu1776	Glutamine synthetase
+Q5LY26	Q5LY26_STRT1	CP000024;		gnlA str1776	Glutamine synthetase
+A4PIA7	A4PIA7_9PROT	AB292729;		gnlA	Periplasmic gluconolactonase
+G0KZM5	G0KZM5_ZOBGA	FP476056;		gnlA zobellia_2920	Gluconolactonase (EC 3.1.1.17)

@@ -1,0 +1,74 @@
+usearch --cluster NPcds.fasta.sorted --id 0.8 --uc NPcds.fasta.uc --consout ready_NPcds.fasta --log NPcds.fasta.log
+Started Sun May 19 14:11:17 2013
+Version 5.2.32
+8.6Gb RAM
+
+Algorithm:
+  De novo clustering
+  Fast search (U-sorting) enabled
+  Similarity computed from a global alignment
+
+Word-counting heuristics:
+  Word length for database index 8
+  Step words 8
+  Bump fraction 50%
+
+U-sorted search termination:
+  Max accepts 1
+  Max rejects 32
+  Word count rejection enabled
+
+Accept criteria:
+  Min id 80.0%
+
+Query set:
+  Filename NPcds.fasta.sorted
+  File size 50Mb
+  Sequence type nucelotide
+
+Database:
+  Initially empty
+
+Substitution scores:
+  Match score 1.0
+  Mismatch score -2.0
+
+Gap penalties:
+     10.00  Open penalty (internal gaps)
+      0.50  Open penalty (end gaps)
+      1.00  Ext. penalty (internal gaps)
+      0.50  Ext. penalty (end gaps)
+
+Fast alignment heuristics:
+  HSP seed word length 5
+  One-hit HSP seeding
+  Exact word seeds (neighborhoods disabled)
+  Min HSP length 32
+  Band radius 16
+
+
+02:26 683Mb Result: 13810 clusters, avg size 2.7, avg id. 92.9%
+Search time         02:26
+Throughput          259.4 seqs/sec
+Query sequences     37871
+Clusters            13.8k
+Avg cluster size    2.7 seqs
+Avg cluster id      92.9%
+
+              Id      Allocs       Frees     Pct         Bytes
+----------------  ----------  ----------  ------  ------------
+           cons2      179536           3   58.8%         334Mb
+          windex      897476      383200   32.4%         184Mb
+           seqdb       27623           0    5.3%          30Mb
+            mx_h       27468       23162    2.9%          17Mb
+           ultra          48          23    0.4%         2.4Mb
+         myutils           4           0    0.0%       128.0kb
+       hspfinder         398         199    0.0%        43.4kb
+           dpmem          16          14    0.0%        32.8kb
+        comppath           1           0    0.0%        10.3kb
+----------------  ----------  ----------  ------  ------------
+           Total     1132570      406601  100.0%         568Mb
+
+Finished Sun May 19 14:13:43 2013
+Elapsed time 02:26
+Max memory 683Mb
