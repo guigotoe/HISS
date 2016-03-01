@@ -1,0 +1,21 @@
+
+========================[ Sep 13, 2014  5:13 AM ]========================
+ERROR: [000.000] No database name was specified
+
+========================[ Sep 13, 2014  5:14 AM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "deb_amoA_dna.fa"
+Formatted 9388 sequences in volume 0
+SUCCESS: formatted database deb_amoA_dna.fa
+
+========================[ Sep 19, 2014 10:57 AM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "deb_amoA_dna.fa"
+Formatted 9224 sequences in volume 0
+SUCCESS: formatted database deb_amoA_dna
+
+========================[ Sep 19, 2014 10:58 AM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "deb_sel_narG_dna.fa"
+Formatted 2765 sequences in volume 0
+SUCCESS: formatted database deb_sel_narG_dna

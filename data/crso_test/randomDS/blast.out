@@ -1,0 +1,380 @@
+BLASTN 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= D6CS61_71
+         (4752 letters)
+
+Database: ./env-pro-fun-NP 
+           7,570,308 sequences; 5,200,115,560 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+EMBL|ECV91670|marine metagenome hypothetical protein                   44   1.3  
+EMBL|EAT84990|Phaeosphaeria nodorum SN15 hypothetical protein          42   5.0  
+EMBL|EEE38129|Rhodobacteraceae bacterium KLH11 hypothetical prot...    42   5.0  
+EMBL|EDK60069|protein                                                  42   5.0  
+EMBL|EDK55924|protein                                                  42   5.0  
+EMBL|EET06994|permease/ATP-binding protein                             42   5.0  
+EMBL|EES27285|permease/ATP-binding protein                             42   5.0  
+EMBL|EDS85367|permease/ATP-binding protein                             42   5.0  
+EMBL|EDO94607|permease/ATP-binding protein                             42   5.0  
+EMBL|EDO84927|permease/ATP-binding protein                             42   5.0  
+EMBL|EDU11804|permease/ATP-binding protein                             42   5.0  
+EMBL|EDK84875|permease/ATP-binding protein                             42   5.0  
+EMBL|EDP89094|protein                                                  42   5.0  
+EMBL|EAZ60593|Pseudomonas aeruginosa 2192 conserved hypothetical...    42   5.0  
+EMBL|EAZ58338|Pseudomonas aeruginosa 2192 hypothetical protein         42   5.0  
+EMBL|EAZ55159|Pseudomonas aeruginosa C3719 conserved hypothetica...    42   5.0  
+EMBL|ECW31228|marine metagenome hypothetical protein                   42   5.0  
+EMBL|ECY31669|marine metagenome partial hypothetical protein           42   5.0  
+EMBL|EBF56065|marine metagenome partial hypothetical protein           42   5.0  
+EMBL|EBG08001|marine metagenome partial hypothetical protein           42   5.0  
+EMBL|ECI85017|marine metagenome partial hypothetical protein           42   5.0  
+EMBL|ECQ19355|marine metagenome partial hypothetical protein           42   5.0  
+EMBL|ECR48499|marine metagenome partial hypothetical protein           42   5.0  
+
+>EMBL|ECV91670|marine metagenome hypothetical protein
+          Length = 879
+
+ Score = 44.1 bits (22), Expect = 1.3
+ Identities = 25/26 (96%)
+ Strand = Plus / Minus
+
+                                      
+Query: 3133 gagccgcgggccataccgcgactcgc 3158
+            |||||||||||||| |||||||||||
+Sbjct: 399  gagccgcgggccatgccgcgactcgc 374
+
+
+>EMBL|EAT84990|Phaeosphaeria nodorum SN15 hypothetical protein
+          Length = 1293
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 1324 actcacgcccgcaaccccacg 1344
+            |||||||||||||||||||||
+Sbjct: 1171 actcacgcccgcaaccccacg 1151
+
+
+>EMBL|EEE38129|Rhodobacteraceae bacterium KLH11 hypothetical protein
+          Length = 408
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 1986 ggcgccgggccccgggaacgc 2006
+            |||||||||||||||||||||
+Sbjct: 148  ggcgccgggccccgggaacgc 168
+
+
+>EMBL|EDK60069|protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EDK55924|protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EET06994|permease/ATP-binding protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EES27285|permease/ATP-binding protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EDS85367|permease/ATP-binding protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EDO94607|permease/ATP-binding protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EDO84927|permease/ATP-binding protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EDU11804|permease/ATP-binding protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EDK84875|permease/ATP-binding protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EDP89094|protein
+          Length = 1866
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                     
+Query: 3526 atcgcgctcgcgccccgcggcggcc 3550
+            |||||||||||||| ||||||||||
+Sbjct: 1039 atcgcgctcgcgccgcgcggcggcc 1063
+
+
+>EMBL|EAZ60593|Pseudomonas aeruginosa 2192 conserved hypothetical
+            protein
+          Length = 1689
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 2580 ccgaacgcgtgctgcaccgcg 2600
+            |||||||||||||||||||||
+Sbjct: 956  ccgaacgcgtgctgcaccgcg 976
+
+
+>EMBL|EAZ58338|Pseudomonas aeruginosa 2192 hypothetical protein
+          Length = 1698
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 2580 ccgaacgcgtgctgcaccgcg 2600
+            |||||||||||||||||||||
+Sbjct: 965  ccgaacgcgtgctgcaccgcg 985
+
+
+>EMBL|EAZ55159|Pseudomonas aeruginosa C3719 conserved hypothetical
+            protein
+          Length = 1689
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 2580 ccgaacgcgtgctgcaccgcg 2600
+            |||||||||||||||||||||
+Sbjct: 956  ccgaacgcgtgctgcaccgcg 976
+
+
+>EMBL|ECW31228|marine metagenome hypothetical protein
+          Length = 1266
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 4679 ccccaccggaatggccgtccc 4699
+            |||||||||||||||||||||
+Sbjct: 630  ccccaccggaatggccgtccc 650
+
+
+>EMBL|ECY31669|marine metagenome partial hypothetical protein
+          Length = 450
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 1870 ccacccctctgccgcgagtag 1890
+            |||||||||||||||||||||
+Sbjct: 123  ccacccctctgccgcgagtag 103
+
+
+>EMBL|EBF56065|marine metagenome partial hypothetical protein
+          Length = 863
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 3165 ccctgcggagctctctggcgc 3185
+            |||||||||||||||||||||
+Sbjct: 549  ccctgcggagctctctggcgc 569
+
+
+>EMBL|EBG08001|marine metagenome partial hypothetical protein
+          Length = 813
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 3165 ccctgcggagctctctggcgc 3185
+            |||||||||||||||||||||
+Sbjct: 621  ccctgcggagctctctggcgc 641
+
+
+>EMBL|ECI85017|marine metagenome partial hypothetical protein
+          Length = 858
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 3249 cgtgccttgactgtagggccg 3269
+            |||||||||||||||||||||
+Sbjct: 521  cgtgccttgactgtagggccg 501
+
+
+>EMBL|ECQ19355|marine metagenome partial hypothetical protein
+          Length = 588
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Minus
+
+                                 
+Query: 3249 cgtgccttgactgtagggccg 3269
+            |||||||||||||||||||||
+Sbjct: 545  cgtgccttgactgtagggccg 525
+
+
+>EMBL|ECR48499|marine metagenome partial hypothetical protein
+          Length = 646
+
+ Score = 42.1 bits (21), Expect = 5.0
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                 
+Query: 3165 ccctgcggagctctctggcgc 3185
+            |||||||||||||||||||||
+Sbjct: 573  ccctgcggagctctctggcgc 593
+
+
+  Database: ./env-pro-fun-NP
+    Posted date:  Dec 3, 2013 11:15 AM
+  Number of letters in database: 5,200,115,560
+  Number of sequences in database:  7,570,308
+  
+Lambda     K      H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda     K      H
+    1.37    0.711     1.31 
+
+
+Matrix: blastn matrix:1 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 7570308
+Number of Hits to DB: 158,320,722
+Number of extensions: 2020135
+Number of successful extensions: 2020135
+Number of sequences better than 10.0: 23
+Number of HSP's gapped: 2020135
+Number of HSP's successfully gapped: 23
+Length of query: 4752
+Length of database: 5,200,115,560
+Length adjustment: 23
+Effective length of query: 4729
+Effective length of database: 5,025,998,476
+Effective search space: 23767946793004
+Effective search space used: 23767946793004
+X1: 11 (21.8 bits)
+X2: 15 (29.7 bits)
+X3: 50 (99.1 bits)
+S1: 12 (24.3 bits)
+S2: 21 (42.1 bits)

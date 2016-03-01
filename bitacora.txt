@@ -1,0 +1,17 @@
+##
+
+What do you find here?:
+
+En data estan las carpetas: 
+
+1) probes (ahí estan las sondas, hay 2 sets las NPseedsProbes -> echas con las seeds de cada grupo de genes (leer CrSo) y las 08_2014_NPprbs (último conjunto de sondas- actualizado hasta esa fecha)), 
+probablemente haga otras por que como le mensioné a CrSo lo estoy actualizando constantemente 
+
+2) NP_2014 -> ahí estan los genes a partir de los cuales se realizan las sondas… son nuestros genes de interes… procesos claves de N y P, 
+en infoall.txt esta la información de cada uno de los genes (metadata), en la carpeta "cons" se encuentra DNAall.fa estan los fasta de esos genes es decir el cDNA o CDS y 
+en AAall.fa estan las traducciones en aminoácidos de los mismos genes. La carpeta sami son unos genes de la ruta de desnitrificación, no mas, asi que esa no es muy importante 
+por que esos genes estan ya incluidos en DNAall.
+
+3) En la carpeta "scripts/filedebugger" esta NPseeds son los archivos de las secuencias no redundantes de estos genes echas con CrSo (leer en tesis). 
+
+#

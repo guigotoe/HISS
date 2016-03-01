@@ -1,0 +1,73 @@
+usearch --cluster deb_sel_narG_dna.sorted --id 0.98 --uc deb_sel_narG_dna.uc --seedsout deb_sel_narG_dna.fa --log deb_sel_narG_dna.log
+Started Fri Sep 19 10:40:54 2014
+Version 5.2.32
+149Gb RAM
+
+Algorithm:
+  De novo clustering
+  Fast search (U-sorting) enabled
+  Similarity computed from a global alignment
+
+Word-counting heuristics:
+  Word length for database index 8
+  Step words 8
+  Bump fraction 50%
+
+U-sorted search termination:
+  Max accepts 1
+  Max rejects 32
+  Word count rejection enabled
+
+Accept criteria:
+  Min id 98.0%
+
+Query set:
+  Filename deb_sel_narG_dna.sorted
+  File size 39Mb
+  Sequence type nucelotide
+
+Database:
+  Initially empty
+
+Substitution scores:
+  Match score 1.0
+  Mismatch score -2.0
+
+Gap penalties:
+     10.00  Open penalty (internal gaps)
+      0.50  Open penalty (end gaps)
+      1.00  Ext. penalty (internal gaps)
+      0.50  Ext. penalty (end gaps)
+
+Fast alignment heuristics:
+  HSP seed word length 5
+  One-hit HSP seeding
+  Exact word seeds (neighborhoods disabled)
+  Min HSP length 32
+  Band radius 16
+
+
+01:11  98Mb Result: 2765 clusters, avg size 4.6, avg id. 99.5%
+Search time         01:11
+Throughput          180.5 seqs/sec
+Query sequences     12813
+Clusters            2765
+Avg cluster size    4.6 seqs
+Avg cluster id      99.5%
+
+              Id      Allocs       Frees     Pct         Bytes
+----------------  ----------  ----------  ------  ------------
+          windex      437602      153881   58.1%          41Mb
+           seqdb        5533           0   23.3%          17Mb
+            mx_h       15384       11718   16.6%          12Mb
+           ultra          25           0    1.7%         1.2Mb
+         myutils           4           0    0.2%       128.0kb
+       hspfinder         398         199    0.1%        43.4kb
+           dpmem          10           8    0.0%        28.1kb
+        comppath           1           0    0.0%       9379.0b
+----------------  ----------  ----------  ------  ------------
+           Total      458957      165806  100.0%          71Mb
+
+Finished Fri Sep 19 10:42:05 2014
+Elapsed time 01:11
+Max memory 98Mb

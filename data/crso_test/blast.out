@@ -1,0 +1,2459 @@
+BLASTN 2.2.26 [Sep-21-2011]
+
+
+Reference: Altschul, Stephen F., Thomas L. Madden, Alejandro A. Schaffer, 
+Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), 
+"Gapped BLAST and PSI-BLAST: a new generation of protein database search
+programs",  Nucleic Acids Res. 25:3389-3402.
+
+Query= H0TR96
+         (102 letters)
+
+Database: ./env-pro-fun-NP 
+           7,570,308 sequences; 5,200,115,560 total letters
+
+Searching..................................................done
+
+
+
+                                                                 Score    E
+Sequences producing significant alignments:                      (bits) Value
+
+H0TR96                                                                202   4e-50
+A5ENS8                                                                139   5e-31
+H0TXE5                                                                131   1e-28
+A4YYU5                                                                123   3e-26
+H0RQY2                                                                123   3e-26
+H0ST68                                                                123   3e-26
+H0RQT8                                                                115   7e-24
+A7M6U7                                                                111   1e-22
+P26251                                                                111   1e-22
+J7Q4W7                                                                109   4e-22
+A5ENX2                                                                107   2e-21
+A4YYZ1                                                                107   2e-21
+A7IBF4                                                                103   3e-20
+A7IBK9                                                                103   3e-20
+A7M6U4                                                                 96   7e-18
+P26252                                                                 96   7e-18
+B8EJ25                                                                 92   1e-16
+H5WW46                                                                 82   1e-13
+F8JH03                                                                 80   4e-13
+D5QKI5                                                                 80   4e-13
+H5YF93                                                                 80   4e-13
+I2QMY3                                                                 80   4e-13
+G3CLP2                                                                 76   6e-12
+G3CLP1                                                                 76   6e-12
+G3CLP3                                                                 76   6e-12
+G3CLP4                                                                 76   6e-12
+B1Y771                                                                 74   2e-11
+P00463                                                                 74   2e-11
+G3CLP0                                                                 70   4e-10
+G3CLN7                                                                 70   4e-10
+G3CLN3                                                                 70   4e-10
+G3CLN1                                                                 70   4e-10
+G3CLN6                                                                 70   4e-10
+G3CLN8                                                                 70   4e-10
+G3CLN2                                                                 70   4e-10
+G3CLN4                                                                 70   4e-10
+G3CLN0                                                                 70   4e-10
+G1Y3X5                                                                 68   2e-09
+G3CLN9                                                                 66   6e-09
+I0GAK9                                                                 66   6e-09
+I0GAQ1                                                                 66   6e-09
+F8JHQ2                                                                 64   2e-08
+G3CLN5                                                                 62   9e-08
+I2ITF5                                                                 60   4e-07
+F1Z4U7                                                                 60   4e-07
+I0IS18                                                                 56   6e-06
+A4JRN7                                                                 54   2e-05
+I9C894                                                                 54   2e-05
+I2DYX7                                                                 54   2e-05
+F3LRH3                                                                 54   2e-05
+Q13N40                                                                 52   9e-05
+B2JYD1                                                                 52   9e-05
+B2JYH6                                                                 52   9e-05
+I4DDG5                                                                 52   9e-05
+G7DEX0                                                                 52   9e-05
+K0E467                                                                 52   9e-05
+P06117                                                                 52   9e-05
+B2IET2                                                                 50   4e-04
+Q79BE9                                                                 50   4e-04
+B3Q2Q9                                                                 50   4e-04
+Q9AJ62                                                                 50   4e-04
+F2AC86                                                                 50   4e-04
+G9BRN5                                                                 50   4e-04
+P00462                                                                 50   4e-04
+Q60C81                                                                 48   0.001
+E6QBU6                                                                 46   0.006
+E3I0U9                                                                 46   0.006
+I0HX87                                                                 46   0.006
+A1VPS4                                                                 46   0.006
+F8XUL3                                                                 46   0.006
+B5ER76                                                                 46   0.006
+B7JA99                                                                 46   0.006
+EMBL|EAW22610|Neosartorya fischeri NRRL 181 endoglucanase, putat...    46   0.006
+C6E9A2                                                                 44   0.022
+A5GAL0                                                                 44   0.022
+B6IXK8                                                                 44   0.022
+G7Z9A3                                                                 44   0.022
+D3NSN0                                                                 44   0.022
+C1DGZ6                                                                 44   0.022
+B3E3W2                                                                 44   0.022
+G0JSY8                                                                 44   0.022
+K9HQP1                                                                 44   0.022
+H0PXD8                                                                 44   0.022
+Q9ZIE4                                                                 44   0.022
+P00459                                                                 44   0.022
+Q2W6Z7                                                                 42   0.086
+H6SMS5                                                                 42   0.086
+A4TZV1                                                                 42   0.086
+Q6D2Y8                                                                 42   0.086
+P17303                                                                 42   0.086
+EMBL|EES71964|Paenibacillus sp. oral taxon 786 str. D14 predicte...    42   0.086
+D8IZK5                                                                 40   0.34 
+Q5NTA0                                                                 40   0.34 
+H0PVQ6                                                                 40   0.34 
+P77873                                                                 40   0.34 
+A5G005                                                                 38   1.4  
+G8QIZ2                                                                 38   1.4  
+EMBL|EED16721|Talaromyces stipitatus ATCC 10500 Rhodanese domain...    38   1.4  
+EMBL|EDP56492|Aspergillus fumigatus A1163 endoglucanase, putative      38   1.4  
+EMBL|EDB13333|marine metagenome hypothetical protein                   38   1.4  
+EMBL|EBB70516|marine metagenome partial hypothetical protein           38   1.4  
+EMBL|EBP03765|marine metagenome hypothetical protein                   38   1.4  
+EMBL|EBX37615|marine metagenome partial hypothetical protein           38   1.4  
+EMBL|ECR49260|marine metagenome partial hypothetical protein           38   1.4  
+B9KKT9                                                                 36   5.3  
+A4WRY3                                                                 36   5.3  
+G5CC31                                                                 36   5.3  
+Q8KJ96                                                                 36   5.3  
+G6Y2N4                                                                 36   5.3  
+F5M4B5                                                                 36   5.3  
+K0Q6R2                                                                 36   5.3  
+I4Z3E5                                                                 36   5.3  
+O31183                                                                 36   5.3  
+Q3J0H1                                                                 36   5.3  
+A3PLS9                                                                 36   5.3  
+Q98AP7                                                                 36   5.3  
+P06118                                                                 36   5.3  
+D5ANI3                                                                 36   5.3  
+P0CY95                                                                 36   5.3  
+P26248                                                                 36   5.3  
+EMBL|EDU45830|Pyrenophora tritici-repentis Pt-1C-BFP condensin s...    36   5.3  
+EMBL|EAU32084|Aspergillus terreus NIH2624 conserved hypothetical...    36   5.3  
+EMBL|EFI24223|Neisseria sp. oral taxon 014 str. F0314 conserved ...    36   5.3  
+EMBL|EFF40243|Neisseria gonorrhoeae F62 peptide chain release fa...    36   5.3  
+EMBL|EFE04960|Neisseria gonorrhoeae DGI2 peptide chain release f...    36   5.3  
+EMBL|EFL36889|Streptomyces viridochromogenes DSM 40736 trehalase       36   5.3  
+EMBL|EFL30306|Streptomyces viridochromogenes DSM 40736 secreted ...    36   5.3  
+EMBL|EFL20570|Streptomyces hygroscopicus ATCC 53653 putative sec...    36   5.3  
+EMBL|EFL12390|Streptomyces sp. AA4 predicted protein                   36   5.3  
+EMBL|EFL04157|Streptomyces sp. SPB78 partial integral membrane p...    36   5.3  
+EMBL|EFL02033|Streptomyces sp. SPB78 conserved hypothetical prot...    36   5.3  
+EMBL|EEP72323|Micromonospora sp. ATCC 39149 secreted protein           36   5.3  
+EMBL|EEZ59685|Neisseria gonorrhoeae SK-93-1035 peptide chain rel...    36   5.3  
+EMBL|EEZ57406|Neisseria gonorrhoeae SK-92-679 peptide chain rele...    36   5.3  
+EMBL|EEZ55245|Neisseria gonorrhoeae PID332 peptide chain release...    36   5.3  
+EMBL|EEZ52910|Neisseria gonorrhoeae PID1 peptide chain release f...    36   5.3  
+EMBL|EEZ50580|Neisseria gonorrhoeae PID18 peptide chain release ...    36   5.3  
+EMBL|EEZ48415|Neisseria gonorrhoeae MS11 peptide chain release f...    36   5.3  
+EMBL|EEZ46243|Neisseria gonorrhoeae FA19 peptide chain release f...    36   5.3  
+EMBL|EEZ44035|Neisseria gonorrhoeae 35/02 peptide chain release ...    36   5.3  
+EMBL|EEH62512|Neisseria gonorrhoeae 1291 peptide chain release f...    36   5.3  
+EMBL|EED40213|Stenotrophomonas sp. SKA14 TonB-dependent receptor...    36   5.3  
+EMBL|EDZ46240|Rhodobacterales bacterium Y4I radical SAM enzyme, ...    36   5.3  
+EMBL|ECV08240|marine metagenome hypothetical protein                   36   5.3  
+EMBL|ECW21583|marine metagenome hypothetical protein                   36   5.3  
+EMBL|ECW21586|marine metagenome hypothetical protein                   36   5.3  
+EMBL|EDJ44856|marine metagenome hypothetical protein                   36   5.3  
+EMBL|EBC55478|marine metagenome partial hypothetical protein           36   5.3  
+EMBL|EBF51657|marine metagenome partial hypothetical protein           36   5.3  
+EMBL|EBM04253|marine metagenome hypothetical protein                   36   5.3  
+EMBL|ECG88058|marine metagenome partial hypothetical protein           36   5.3  
+EMBL|ECL72017|marine metagenome partial hypothetical protein           36   5.3  
+EMBL|ECR65373|marine metagenome partial hypothetical protein           36   5.3  
+EMBL|ECR73281|marine metagenome partial hypothetical protein           36   5.3  
+EMBL|EDZ38848|Leptospirillum sp. Group II '5-way CG' sulfate per...    36   5.3  
+
+>H0TR96
+          Length = 102
+
+ Score =  202 bits (102), Expect = 4e-50
+ Identities = 102/102 (100%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+
+                                                     
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggcttaa 102
+           ||||||||||||||||||||||||||||||||||||||||||
+Sbjct: 61  cagatcggtaagactgccgccgaactcgccgcaacggcttaa 102
+
+
+>A5ENS8
+          Length = 888
+
+ Score =  139 bits (70), Expect = 5e-31
+ Identities = 94/102 (92%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||   || ||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggcggtggacgagagc 846
+
+                                                     
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggcttaa 102
+           |||||||| |||||||||||||||||||||||||||||||||
+Sbjct: 847 cagatcggaaagactgccgccgaactcgccgcaacggcttaa 888
+
+
+>H0TXE5
+          Length = 102
+
+ Score =  131 bits (66), Expect = 1e-28
+ Identities = 93/102 (91%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           ||||||||||||||||||||||| |||||||||||||||||||||   |||||||| | |
+Sbjct: 1   atggacgagctcgaagacatgctcatggagcacggcatcatgaaggcggtcgacgagagc 60
+
+                                                     
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggcttaa 102
+           |||||||| |||||||||||||| |||||||| |||||||||
+Sbjct: 61  cagatcggaaagactgccgccgatctcgccgcgacggcttaa 102
+
+
+>A4YYU5
+          Length = 888
+
+ Score =  123 bits (62), Expect = 3e-26
+ Identities = 92/102 (90%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||  ||| ||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggccgtggacgagagc 846
+
+                                                     
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggcttaa 102
+           ||  |||| |||||||||||||| ||||||||||||||||||
+Sbjct: 847 caagtcggaaagactgccgccgatctcgccgcaacggcttaa 888
+
+
+>H0RQY2
+          Length = 888
+
+ Score =  123 bits (62), Expect = 3e-26
+ Identities = 92/102 (90%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||  ||| ||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggccgtggacgagagc 846
+
+                                                     
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggcttaa 102
+           ||  |||| |||||||||||||| ||||||||||||||||||
+Sbjct: 847 caagtcggaaagactgccgccgatctcgccgcaacggcttaa 888
+
+
+>H0ST68
+          Length = 255
+
+ Score =  123 bits (62), Expect = 3e-26
+ Identities = 89/98 (90%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||||||||||||||||||||||||||||||||||   |||||||| | |
+Sbjct: 154 atggacgagctcgaagacatgctgatggagcacggcatcatgaaggcggtcgacgagagc 213
+
+                                                 
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggc 98
+           |||||||| ||||| |||||||| |||||||| |||||
+Sbjct: 214 cagatcggcaagaccgccgccgagctcgccgccacggc 251
+
+
+>H0RQT8
+          Length = 888
+
+ Score =  115 bits (58), Expect = 7e-24
+ Identities = 88/98 (89%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||   |||||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggcggtcgacgagagc 846
+
+                                                 
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggc 98
+           |||||||| ||||| |||||||| |||||||| |||||
+Sbjct: 847 cagatcggcaagaccgccgccgagctcgccgccacggc 884
+
+
+>A7M6U7
+          Length = 891
+
+ Score =  111 bits (56), Expect = 1e-22
+ Identities = 83/92 (90%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| |||||||| ||||||||||||||||||||||  || ||||| |||
+Sbjct: 787 atggacgagctcgaggacatgctcatggagcacggcatcatgaagacggtggacgagacc 846
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| |||||||||||||||||
+Sbjct: 847 caggtcggcaagaccgccgccgaactcgccgc 878
+
+
+>P26251
+          Length = 891
+
+ Score =  111 bits (56), Expect = 1e-22
+ Identities = 83/92 (90%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| |||||||| ||||||||||||||||||||||  || ||||| |||
+Sbjct: 787 atggacgagctcgaggacatgctcatggagcacggcatcatgaagacggtggacgagacc 846
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| |||||||||||||||||
+Sbjct: 847 caggtcggcaagaccgccgccgaactcgccgc 878
+
+
+>J7Q4W7
+          Length = 888
+
+ Score =  109 bits (55), Expect = 4e-22
+ Identities = 79/87 (90%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||||||||||||||||||||||||||||||||||   |||||||| | |
+Sbjct: 787 atggacgagctcgaagacatgctgatggagcacggcatcatgaaggcggtcgacgagagc 846
+
+                                      
+Query: 61  cagatcggtaagactgccgccgaactc 87
+           |||||||| ||||| || |||||||||
+Sbjct: 847 cagatcggcaagaccgcggccgaactc 873
+
+
+>A5ENX2
+          Length = 888
+
+ Score =  107 bits (54), Expect = 2e-21
+ Identities = 87/98 (88%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||   || ||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggcggtggacgagagc 846
+
+                                                 
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggc 98
+           |||||||| ||||| |||||||| |||||||| |||||
+Sbjct: 847 cagatcggcaagaccgccgccgagctcgccgccacggc 884
+
+
+>A4YYZ1
+          Length = 888
+
+ Score =  107 bits (54), Expect = 2e-21
+ Identities = 87/98 (88%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||   |||||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggcggtcgacgagagc 846
+
+                                                 
+Query: 61  cagatcggtaagactgccgccgaactcgccgcaacggc 98
+           ||| |||| ||||| |||||||| |||||||| |||||
+Sbjct: 847 caggtcggcaagaccgccgccgacctcgccgccacggc 884
+
+
+>A7IBF4
+          Length = 912
+
+ Score =  103 bits (52), Expect = 3e-20
+ Identities = 82/92 (89%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||  ||||||||| | |
+Sbjct: 817 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggccgtcgacgagagc 876
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| |||||||| ||| ||||
+Sbjct: 877 caggtcggcaagaccgccgccgagctcaccgc 908
+
+
+>A7IBK9
+          Length = 882
+
+ Score =  103 bits (52), Expect = 3e-20
+ Identities = 82/92 (89%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| ||||||||||||||||||||||||||||||  ||||||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaaggccgtcgacgagagc 846
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| |||||||| ||| ||||
+Sbjct: 847 caggtcggcaagaccgccgccgagctcaccgc 878
+
+
+>A7M6U4
+          Length = 891
+
+ Score = 95.6 bits (48), Expect = 7e-18
+ Identities = 81/92 (88%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| |||||||| |||||||||||||||||||||| ||| ||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctcatggagcacggcatcatgaagaccgtggacgagagc 846
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| || ||||| ||||||||
+Sbjct: 847 caggtcggcaagaccgcggccgagctcgccgc 878
+
+
+>P26252
+          Length = 891
+
+ Score = 95.6 bits (48), Expect = 7e-18
+ Identities = 81/92 (88%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||||||||| |||||||| |||||||||||||||||||||| ||| ||||| | |
+Sbjct: 787 atggacgagctcgaggacatgctcatggagcacggcatcatgaagaccgtggacgagagc 846
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| || ||||| ||||||||
+Sbjct: 847 caggtcggcaagaccgcggccgagctcgccgc 878
+
+
+>B8EJ25
+          Length = 882
+
+ Score = 91.7 bits (46), Expect = 1e-16
+ Identities = 76/86 (88%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||| ||||||||| |||||||||  |||||||||||||||  |||||||||| ||
+Sbjct: 787 atggacgaactcgaagacctgctgatggctcacggcatcatgaaggccgtcgacgaatcc 846
+
+                                     
+Query: 61  cagatcggtaagactgccgccgaact 86
+           ||| |||| ||||| |||||||||||
+Sbjct: 847 caggtcggcaagaccgccgccgaact 872
+
+
+>H5WW46
+          Length = 882
+
+ Score = 81.8 bits (41), Expect = 1e-13
+ Identities = 77/89 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||| |||| |||||| |||||||||||||||| |||||||||| | ||||||||| |
+Sbjct: 787 atggaccagctggaagacctgctgatggagcacgggatcatgaagaccatcgacgaaagc 846
+
+                                        
+Query: 61  cagatcggtaagactgccgccgaactcgc 89
+           ||| |||| ||||| || ||||| |||||
+Sbjct: 847 caggtcggcaagaccgcggccgagctcgc 875
+
+
+>F8JH03
+          Length = 885
+
+ Score = 79.8 bits (40), Expect = 4e-13
+ Identities = 43/44 (97%)
+ Strand = Plus / Plus
+
+                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaa 44
+           |||||||||||||| |||||||||||||||||||||||||||||
+Sbjct: 787 atggacgagctcgaggacatgctgatggagcacggcatcatgaa 830
+
+
+>D5QKI5
+          Length = 888
+
+ Score = 79.8 bits (40), Expect = 4e-13
+ Identities = 52/56 (92%)
+ Strand = Plus / Plus
+
+                                                                   
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacga 56
+           |||||||||||||||||| |||| |||||||||||||||||||||  |||||||||
+Sbjct: 787 atggacgagctcgaagacctgctcatggagcacggcatcatgaaggccgtcgacga 842
+
+
+>H5YF93
+          Length = 891
+
+ Score = 79.8 bits (40), Expect = 4e-13
+ Identities = 79/92 (85%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           ||||||||||||||||| ||||| ||||||||||||||||| |||  ||||||||| | |
+Sbjct: 787 atggacgagctcgaagatatgctcatggagcacggcatcatcaagcccgtcgacgagagc 846
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| || ||||| || |||||
+Sbjct: 847 caggtcggcaagaccgctgccgagcttgccgc 878
+
+
+>I2QMY3
+          Length = 891
+
+ Score = 79.8 bits (40), Expect = 4e-13
+ Identities = 79/92 (85%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           ||||||||||||||||| ||||| ||||||||||||||||| |||  ||||||||| | |
+Sbjct: 787 atggacgagctcgaagatatgctcatggagcacggcatcatcaagcccgtcgacgagagc 846
+
+                                           
+Query: 61  cagatcggtaagactgccgccgaactcgccgc 92
+           ||| |||| ||||| || ||||| || |||||
+Sbjct: 847 caggtcggcaagaccgctgccgagcttgccgc 878
+
+
+>G3CLP2
+          Length = 855
+
+ Score = 75.8 bits (38), Expect = 6e-12
+ Identities = 74/86 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||| ||||||||||| |||||||||||||||||||||||||   | |||||||| | 
+Sbjct: 760 atggaccagctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcg 819
+
+                                     
+Query: 61  cagatcggtaagactgccgccgaact 86
+           ||| |||| ||||| || ||||||||
+Sbjct: 820 caggtcggcaagacggctgccgaact 845
+
+
+>G3CLP1
+          Length = 855
+
+ Score = 75.8 bits (38), Expect = 6e-12
+ Identities = 74/86 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||| ||||||||||| |||||||||||||||||||||||||   | |||||||| | 
+Sbjct: 760 atggaccagctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcg 819
+
+                                     
+Query: 61  cagatcggtaagactgccgccgaact 86
+           ||| |||| ||||| || ||||||||
+Sbjct: 820 caggtcggcaagacggctgccgaact 845
+
+
+>G3CLP3
+          Length = 855
+
+ Score = 75.8 bits (38), Expect = 6e-12
+ Identities = 74/86 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||| ||||||||||| |||||||||||||||||||||||||   | |||||||| | 
+Sbjct: 760 atggaccagctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcg 819
+
+                                     
+Query: 61  cagatcggtaagactgccgccgaact 86
+           ||| |||| ||||| || ||||||||
+Sbjct: 820 caggtcggcaagacggctgccgaact 845
+
+
+>G3CLP4
+          Length = 855
+
+ Score = 75.8 bits (38), Expect = 6e-12
+ Identities = 74/86 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||| ||||||||||| |||||||||||||||||||||||||   | |||||||| | 
+Sbjct: 760 atggaccagctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcg 819
+
+                                     
+Query: 61  cagatcggtaagactgccgccgaact 86
+           ||| |||| ||||| || ||||||||
+Sbjct: 820 caggtcggcaagacggctgccgaact 845
+
+
+>B1Y771
+          Length = 882
+
+ Score = 73.8 bits (37), Expect = 2e-11
+ Identities = 70/81 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||| |||||||||   |||||||||| |||| |||
+Sbjct: 794 agctcgaagacctgctgatggagcacgggatcatgaaggcggtcgacgaaagccaggtcg 853
+
+                                
+Query: 68  gtaagactgccgccgaactcg 88
+           | ||| | || ||||||||||
+Sbjct: 854 gcaagtcggctgccgaactcg 874
+
+
+>P00463
+          Length = 885
+
+ Score = 73.8 bits (37), Expect = 2e-11
+ Identities = 76/89 (85%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           ||||| |||||||| ||||||||||||||||| ||||| ||||||  |||||||||| ||
+Sbjct: 787 atggatgagctcgaggacatgctgatggagcatggcattatgaagcccgtcgacgaatcc 846
+
+                                        
+Query: 61  cagatcggtaagactgccgccgaactcgc 89
+               |||| ||||| ||||||||||||||
+Sbjct: 847 atcgtcggcaagaccgccgccgaactcgc 875
+
+
+>G3CLP0
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G3CLN7
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G3CLN3
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G3CLN1
+          Length = 852
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 764 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 823
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 824 gcaagacggctgccgaact 842
+
+
+>G3CLN6
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G3CLN8
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G3CLN2
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G3CLN4
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G3CLN0
+          Length = 855
+
+ Score = 69.9 bits (35), Expect = 4e-10
+ Identities = 68/79 (86%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           ||||||||||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcgaagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>G1Y3X5
+          Length = 885
+
+ Score = 67.9 bits (34), Expect = 2e-09
+ Identities = 52/58 (89%)
+ Strand = Plus / Plus
+
+                                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaa 58
+           ||||||||||| || |||||||||||||||||||| |||||||||  ||| |||||||
+Sbjct: 787 atggacgagcttgaggacatgctgatggagcacgggatcatgaaggccgtggacgaaa 844
+
+
+>G3CLN9
+          Length = 852
+
+ Score = 65.9 bits (33), Expect = 6e-09
+ Identities = 36/37 (97%)
+ Strand = Plus / Plus
+
+                                                
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaa 44
+           ||||||||||| |||||||||||||||||||||||||
+Sbjct: 764 agctcgaagacctgctgatggagcacggcatcatgaa 800
+
+
+>I0GAK9
+          Length = 891
+
+ Score = 65.9 bits (33), Expect = 6e-09
+ Identities = 42/45 (93%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           ||||| |||||||| |||||| |||||||||||||||||||||||
+Sbjct: 787 atggatgagctcgaggacatgttgatggagcacggcatcatgaag 831
+
+
+
+ Score = 40.1 bits (20), Expect = 0.34
+ Identities = 26/28 (92%)
+ Strand = Plus / Plus
+
+                                       
+Query: 65  tcggtaagactgccgccgaactcgccgc 92
+           |||| ||||| |||||||||||||||||
+Sbjct: 851 tcggcaagaccgccgccgaactcgccgc 878
+
+
+>I0GAQ1
+          Length = 891
+
+ Score = 65.9 bits (33), Expect = 6e-09
+ Identities = 42/45 (93%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           ||||||||||| || || |||||||||||||||||||||||||||
+Sbjct: 787 atggacgagcttgaggatatgctgatggagcacggcatcatgaag 831
+
+
+>F8JHQ2
+          Length = 885
+
+ Score = 63.9 bits (32), Expect = 2e-08
+ Identities = 41/44 (93%)
+ Strand = Plus / Plus
+
+                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaa 44
+           ||||||||||| || |||||||||||||||||||| ||||||||
+Sbjct: 787 atggacgagcttgaggacatgctgatggagcacgggatcatgaa 830
+
+
+>G3CLN5
+          Length = 855
+
+ Score = 61.9 bits (31), Expect = 9e-08
+ Identities = 67/79 (84%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacccagatcg 67
+           |||||| |||| |||||||||||||||||||||||||   | |||||||| | ||| |||
+Sbjct: 767 agctcggagacctgctgatggagcacggcatcatgaaatccatcgacgaatcgcaggtcg 826
+
+                              
+Query: 68  gtaagactgccgccgaact 86
+           | ||||| || ||||||||
+Sbjct: 827 gcaagacggctgccgaact 845
+
+
+>I2ITF5
+          Length = 882
+
+ Score = 60.0 bits (30), Expect = 4e-07
+ Identities = 36/38 (94%)
+ Strand = Plus / Plus
+
+                                                 
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaag 45
+           |||| |||||| ||||||||||||||||||||||||||
+Sbjct: 794 agctggaagacctgctgatggagcacggcatcatgaag 831
+
+
+>F1Z4U7
+          Length = 876
+
+ Score = 60.0 bits (30), Expect = 4e-07
+ Identities = 63/74 (85%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           ||||||||||| |||||| |||||||||| |||||||||||   |  ||| |||||||||
+Sbjct: 784 atggacgagcttgaagacctgctgatggaacacggcatcatttcggccgtggacgaaacc 843
+
+                         
+Query: 61  cagatcggtaagac 74
+           ||| |||| |||||
+Sbjct: 844 caggtcggcaagac 857
+
+
+>I0IS18
+          Length = 876
+
+ Score = 56.0 bits (28), Expect = 6e-06
+ Identities = 58/68 (85%)
+ Strand = Plus / Plus
+
+                                                                       
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcgtcgacgaaacc 60
+           |||||||| || |||||  ||||||||||   |||||||||||||| |||||||||| ||
+Sbjct: 778 atggacgatcttgaagaactgctgatggatttcggcatcatgaagaccgtcgacgaatcc 837
+
+                   
+Query: 61  cagatcgg 68
+           | ||||||
+Sbjct: 838 ctgatcgg 845
+
+
+>A4JRN7
+          Length = 882
+
+ Score = 54.0 bits (27), Expect = 2e-05
+ Identities = 39/43 (90%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           |||||| ||||||||||  |||||||||||||||| |||||||
+Sbjct: 787 atggaccagctcgaagatctgctgatggagcacgggatcatga 829
+
+
+>I9C894
+          Length = 882
+
+ Score = 54.0 bits (27), Expect = 2e-05
+ Identities = 36/39 (92%)
+ Strand = Plus / Plus
+
+                                                  
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatc 39
+           ||||||||| | |||||||||||||||||||| ||||||
+Sbjct: 784 atggacgagttggaagacatgctgatggagcatggcatc 822
+
+
+>I2DYX7
+          Length = 882
+
+ Score = 54.0 bits (27), Expect = 2e-05
+ Identities = 39/43 (90%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           |||||| ||||||||||  |||||||||||||||| |||||||
+Sbjct: 787 atggaccagctcgaagatctgctgatggagcacgggatcatga 829
+
+
+>F3LRH3
+          Length = 882
+
+ Score = 54.0 bits (27), Expect = 2e-05
+ Identities = 39/43 (90%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           |||||||||||||||||| |||||||||||  ||| |||||||
+Sbjct: 787 atggacgagctcgaagacctgctgatggagttcgggatcatga 829
+
+
+>Q13N40
+          Length = 882
+
+ Score = 52.0 bits (26), Expect = 9e-05
+ Identities = 35/38 (92%)
+ Strand = Plus / Plus
+
+                                                 
+Query: 8   agctcgaagacatgctgatggagcacggcatcatgaag 45
+           |||| |||||| || |||||||||||||||||||||||
+Sbjct: 794 agctggaagacctgttgatggagcacggcatcatgaag 831
+
+
+>B2JYD1
+          Length = 882
+
+ Score = 52.0 bits (26), Expect = 9e-05
+ Identities = 38/42 (90%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           |||||| ||||||||||| ||||||||||| | |||||||||
+Sbjct: 787 atggaccagctcgaagacctgctgatggagaaaggcatcatg 828
+
+
+>B2JYH6
+          Length = 882
+
+ Score = 52.0 bits (26), Expect = 9e-05
+ Identities = 38/42 (90%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           |||||| ||||||||||| ||||||||||| | |||||||||
+Sbjct: 787 atggaccagctcgaagacctgctgatggagaaaggcatcatg 828
+
+
+>I4DDG5
+          Length = 885
+
+ Score = 52.0 bits (26), Expect = 9e-05
+ Identities = 35/38 (92%)
+ Strand = Plus / Plus
+
+                                                 
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcat 38
+           ||||| |||||||| ||||||||||||||||| |||||
+Sbjct: 787 atggatgagctcgaggacatgctgatggagcatggcat 824
+
+
+>G7DEX0
+          Length = 885
+
+ Score = 52.0 bits (26), Expect = 9e-05
+ Identities = 35/38 (92%)
+ Strand = Plus / Plus
+
+                                                 
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcat 38
+           ||||| |||||||| ||||||||||||||||| |||||
+Sbjct: 787 atggatgagctcgaggacatgctgatggagcatggcat 824
+
+
+>K0E467
+          Length = 882
+
+ Score = 52.0 bits (26), Expect = 9e-05
+ Identities = 38/42 (90%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           |||||| ||||||||||| ||||||||||| | |||||||||
+Sbjct: 787 atggaccagctcgaagacctgctgatggagaaaggcatcatg 828
+
+
+>P06117
+          Length = 885
+
+ Score = 52.0 bits (26), Expect = 9e-05
+ Identities = 35/38 (92%)
+ Strand = Plus / Plus
+
+                                                 
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcat 38
+           ||||| |||||||| ||||||||||||||||| |||||
+Sbjct: 787 atggatgagctcgaggacatgctgatggagcatggcat 824
+
+
+>B2IET2
+          Length = 873
+
+ Score = 50.1 bits (25), Expect = 4e-04
+ Identities = 40/45 (88%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           |||||||||||||| ||||| || ||||  |||||||||||||||
+Sbjct: 778 atggacgagctcgaggacatcctcatggctcacggcatcatgaag 822
+
+
+>Q79BE9
+          Length = 894
+
+ Score = 50.1 bits (25), Expect = 4e-04
+ Identities = 43/49 (87%)
+ Strand = Plus / Plus
+
+                                                            
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcg 49
+           ||||| |||||||||||||||||| | ||   |||||||||||||||||
+Sbjct: 787 atggaagagctcgaagacatgctgctcgacttcggcatcatgaagagcg 835
+
+
+>B3Q2Q9
+          Length = 894
+
+ Score = 50.1 bits (25), Expect = 4e-04
+ Identities = 43/49 (87%)
+ Strand = Plus / Plus
+
+                                                            
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcg 49
+           ||||| |||||||||||||||||| | ||   |||||||||||||||||
+Sbjct: 787 atggaagagctcgaagacatgctgctcgacttcggcatcatgaagagcg 835
+
+
+>Q9AJ62
+          Length = 903
+
+ Score = 50.1 bits (25), Expect = 4e-04
+ Identities = 40/45 (88%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           ||||| ||||| |||||||||||||||||   |||||||||||||
+Sbjct: 793 atggaagagctggaagacatgctgatggacttcggcatcatgaag 837
+
+
+>F2AC86
+          Length = 894
+
+ Score = 50.1 bits (25), Expect = 4e-04
+ Identities = 43/49 (87%)
+ Strand = Plus / Plus
+
+                                                            
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcg 49
+           ||||| |||||||||||||||||| | ||   |||||||||||||||||
+Sbjct: 787 atggaagagctcgaagacatgctgctcgacttcggcatcatgaagagcg 835
+
+
+>G9BRN5
+          Length = 894
+
+ Score = 50.1 bits (25), Expect = 4e-04
+ Identities = 43/49 (87%)
+ Strand = Plus / Plus
+
+                                                            
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcg 49
+           ||||| |||||||||||||||||| | ||   |||||||||||||||||
+Sbjct: 787 atggaagagctcgaagacatgctgctcgacttcggcatcatgaagagcg 835
+
+
+>P00462
+          Length = 894
+
+ Score = 50.1 bits (25), Expect = 4e-04
+ Identities = 43/49 (87%)
+ Strand = Plus / Plus
+
+                                                            
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaagagcg 49
+           ||||| |||||||||||||||||| | ||   |||||||||||||||||
+Sbjct: 787 atggaagagctcgaagacatgctgctcgacttcggcatcatgaagagcg 835
+
+
+>Q60C81
+          Length = 882
+
+ Score = 48.1 bits (24), Expect = 0.001
+ Identities = 30/32 (93%)
+ Strand = Plus / Plus
+
+                                           
+Query: 1   atggacgagctcgaagacatgctgatggagca 32
+           ||||||||||| |||||| |||||||||||||
+Sbjct: 787 atggacgagctggaagacctgctgatggagca 818
+
+
+>E6QBU6
+          Length = 891
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 38/43 (88%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           ||||||||||| ||||| ||||| ||||||  |||||||||||
+Sbjct: 790 atggacgagctggaagaaatgctcatggagttcggcatcatga 832
+
+
+>E3I0U9
+          Length = 879
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 35/39 (89%)
+ Strand = Plus / Plus
+
+                                                  
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatc 39
+           ||||||||||| |||||| |||| ||||| |||||||||
+Sbjct: 784 atggacgagcttgaagacctgctcatggaacacggcatc 822
+
+
+>I0HX87
+          Length = 882
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 38/43 (88%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           |||||||| ||||||||| |||||||||||  ||| |||||||
+Sbjct: 787 atggacgaactcgaagacctgctgatggagttcgggatcatga 829
+
+
+>A1VPS4
+          Length = 891
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 32/35 (91%)
+ Strand = Plus / Plus
+
+                                              
+Query: 8   agctcgaagacatgctgatggagcacggcatcatg 42
+           ||||||||||||||||||||||   ||||||||||
+Sbjct: 794 agctcgaagacatgctgatggaattcggcatcatg 828
+
+
+>F8XUL3
+          Length = 891
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 38/43 (88%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           ||||||||||| ||||| ||||| ||||||  |||||||||||
+Sbjct: 790 atggacgagctggaagaaatgctcatggagttcggcatcatga 832
+
+
+>B5ER76
+          Length = 891
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 38/43 (88%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           ||||||||||| ||||| ||||| ||||||  |||||||||||
+Sbjct: 790 atggacgagctggaagaaatgctcatggagttcggcatcatga 832
+
+
+>B7JA99
+          Length = 891
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 38/43 (88%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           ||||||||||| ||||| ||||| ||||||  |||||||||||
+Sbjct: 790 atggacgagctggaagaaatgctcatggagttcggcatcatga 832
+
+
+>EMBL|EAW22610|Neosartorya fischeri NRRL 181 endoglucanase, putative
+          Length = 1104
+
+ Score = 46.1 bits (23), Expect = 0.006
+ Identities = 23/23 (100%)
+ Strand = Plus / Minus
+
+                                  
+Query: 48  cgtcgacgaaacccagatcggta 70
+           |||||||||||||||||||||||
+Sbjct: 193 cgtcgacgaaacccagatcggta 171
+
+
+>C6E9A2
+          Length = 870
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 37/42 (88%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| |||||| |||||||||||  ||||||||||
+Sbjct: 778 atggaagagctggaagacctgctgatggagttcggcatcatg 819
+
+
+>A5GAL0
+          Length = 870
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 37/42 (88%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| |||||| |||| |||||| |||||||||||
+Sbjct: 778 atggaggagctggaagacctgctcatggagtacggcatcatg 819
+
+
+>B6IXK8
+          Length = 900
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 40/46 (86%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| ||||| || ||||||||||| |||  ||||||||||||||
+Sbjct: 793 atggaggagctggaggacatgctgatcgagttcggcatcatgaaga 838
+
+
+>G7Z9A3
+          Length = 897
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 40/46 (86%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| ||||| ||||| |||||||||||   ||||||||||||||
+Sbjct: 793 atggaagagctggaagagatgctgatggacttcggcatcatgaaga 838
+
+
+>D3NSN0
+          Length = 897
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 40/46 (86%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| ||||| ||||| |||||||||||   ||||||||||||||
+Sbjct: 793 atggaagagctggaagagatgctgatggacttcggcatcatgaaga 838
+
+
+>C1DGZ6
+          Length = 873
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 37/42 (88%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           |||||||||||||||||  ||||||||||   ||||||||||
+Sbjct: 784 atggacgagctcgaagagctgctgatggaattcggcatcatg 825
+
+
+>B3E3W2
+          Length = 867
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 37/42 (88%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| |||||| |||||||||||  ||||||||||
+Sbjct: 778 atggaagagctggaagacctgctgatggagttcggcatcatg 819
+
+
+>G0JSY8
+          Length = 888
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 37/42 (88%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||||||| | ||||||||||| ||||||  ||||||||||
+Sbjct: 787 atggacgagttggaagacatgctcatggagttcggcatcatg 828
+
+
+>K9HQP1
+          Length = 885
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 40/46 (86%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| ||||| ||||| |||||||||||   ||||||||||||||
+Sbjct: 784 atggaagagctggaagagatgctgatggacttcggcatcatgaaga 829
+
+
+>H0PXD8
+          Length = 870
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 37/42 (88%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           |||||||||||||||||| ||||| | |||  ||||||||||
+Sbjct: 784 atggacgagctcgaagacctgctgctcgagttcggcatcatg 825
+
+
+>Q9ZIE4
+          Length = 897
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 40/46 (86%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| ||||| |||||||||||| | |||  ||||||||||||||
+Sbjct: 787 atggaagagctggaagacatgctgctcgagttcggcatcatgaaga 832
+
+
+>P00459
+          Length = 873
+
+ Score = 44.1 bits (22), Expect = 0.022
+ Identities = 37/42 (88%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           |||||||||||||||||  ||||||||||   ||||||||||
+Sbjct: 784 atggacgagctcgaagagctgctgatggaattcggcatcatg 825
+
+
+>Q2W6Z7
+          Length = 888
+
+ Score = 42.1 bits (21), Expect = 0.086
+ Identities = 39/45 (86%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           ||||| |||||||| ||||||||| | |||  |||||||||||||
+Sbjct: 781 atggaagagctcgaggacatgctgctcgagttcggcatcatgaag 825
+
+
+>H6SMS5
+          Length = 912
+
+ Score = 42.1 bits (21), Expect = 0.086
+ Identities = 39/45 (86%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           ||||| ||||| ||||| |||||||||||   |||||||||||||
+Sbjct: 823 atggaagagctggaagagatgctgatggaattcggcatcatgaag 867
+
+
+>A4TZV1
+          Length = 882
+
+ Score = 42.1 bits (21), Expect = 0.086
+ Identities = 39/45 (86%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           ||||| ||||| |||||||||||| ||||   |||||||||||||
+Sbjct: 781 atggaagagctggaagacatgctgctggaattcggcatcatgaag 825
+
+
+>Q6D2Y8
+          Length = 882
+
+ Score = 42.1 bits (21), Expect = 0.086
+ Identities = 21/21 (100%)
+ Strand = Plus / Plus
+
+                                
+Query: 64  atcggtaagactgccgccgaa 84
+           |||||||||||||||||||||
+Sbjct: 847 atcggtaagactgccgccgaa 867
+
+
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| |||||  |||||||||||  ||||||||||
+Sbjct: 784 atggatgagctggaagagctgctgatggagttcggcatcatg 825
+
+
+>P17303
+          Length = 882
+
+ Score = 42.1 bits (21), Expect = 0.086
+ Identities = 39/45 (86%)
+ Strand = Plus / Plus
+
+                                                        
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaag 45
+           ||||| ||||| ||||| |||||||||||   |||||||||||||
+Sbjct: 784 atggaagagctggaagagatgctgatggacttcggcatcatgaag 828
+
+
+>EMBL|EES71964|Paenibacillus sp. oral taxon 786 str. D14 predicted
+           protein
+          Length = 846
+
+ Score = 42.1 bits (21), Expect = 0.086
+ Identities = 24/25 (96%)
+ Strand = Plus / Plus
+
+                                    
+Query: 5   acgagctcgaagacatgctgatgga 29
+           ||||||||| |||||||||||||||
+Sbjct: 767 acgagctcggagacatgctgatgga 791
+
+
+>D8IZK5
+          Length = 879
+
+ Score = 40.1 bits (20), Expect = 0.34
+ Identities = 29/32 (90%)
+ Strand = Plus / Plus
+
+                                           
+Query: 1   atggacgagctcgaagacatgctgatggagca 32
+           ||||||||||| |||||| |||||||| ||||
+Sbjct: 787 atggacgagctggaagacctgctgatgcagca 818
+
+
+>Q5NTA0
+          Length = 879
+
+ Score = 40.1 bits (20), Expect = 0.34
+ Identities = 29/32 (90%)
+ Strand = Plus / Plus
+
+                                           
+Query: 1   atggacgagctcgaagacatgctgatggagca 32
+           ||||||||||| |||||| |||||||| ||||
+Sbjct: 787 atggacgagctggaagacctgctgatgcagca 818
+
+
+>H0PVQ6
+          Length = 882
+
+ Score = 40.1 bits (20), Expect = 0.34
+ Identities = 23/24 (95%)
+ Strand = Plus / Plus
+
+                                   
+Query: 1   atggacgagctcgaagacatgctg 24
+           |||||||||||||||||| |||||
+Sbjct: 787 atggacgagctcgaagacctgctg 810
+
+
+>P77873
+          Length = 879
+
+ Score = 40.1 bits (20), Expect = 0.34
+ Identities = 29/32 (90%)
+ Strand = Plus / Plus
+
+                                           
+Query: 1   atggacgagctcgaagacatgctgatggagca 32
+           ||||||||||| |||||| |||||||| ||||
+Sbjct: 787 atggacgagctggaagacctgctgatgcagca 818
+
+
+>A5G005
+          Length = 1752
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 19/19 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 74  ctgccgccgaactcgccgc 92
+           |||||||||||||||||||
+Sbjct: 293 ctgccgccgaactcgccgc 311
+
+
+>G8QIZ2
+          Length = 876
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 37/43 (86%)
+ Strand = Plus / Plus
+
+                                                      
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatga 43
+           ||||||||||| |||||| ||||| | |||  |||||||||||
+Sbjct: 787 atggacgagctggaagacctgctgctcgagttcggcatcatga 829
+
+
+>EMBL|EED16721|Talaromyces stipitatus ATCC 10500 Rhodanese domain
+           protein
+          Length = 684
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 19/19 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 79  gccgaactcgccgcaacgg 97
+           |||||||||||||||||||
+Sbjct: 355 gccgaactcgccgcaacgg 373
+
+
+>EMBL|EDP56492|Aspergillus fumigatus A1163 endoglucanase, putative
+          Length = 1122
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 22/23 (95%)
+ Strand = Plus / Minus
+
+                                  
+Query: 48  cgtcgacgaaacccagatcggta 70
+           ||||||||||||||| |||||||
+Sbjct: 193 cgtcgacgaaacccaaatcggta 171
+
+
+>EMBL|EDB13333|marine metagenome hypothetical protein
+          Length = 1455
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 19/19 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 16  gacatgctgatggagcacg 34
+           |||||||||||||||||||
+Sbjct: 763 gacatgctgatggagcacg 781
+
+
+>EMBL|EBB70516|marine metagenome partial hypothetical protein
+          Length = 487
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 19/19 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 13  gaagacatgctgatggagc 31
+           |||||||||||||||||||
+Sbjct: 400 gaagacatgctgatggagc 418
+
+
+>EMBL|EBP03765|marine metagenome hypothetical protein
+          Length = 1029
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 19/19 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 80  ccgaactcgccgcaacggc 98
+           |||||||||||||||||||
+Sbjct: 731 ccgaactcgccgcaacggc 749
+
+
+>EMBL|EBX37615|marine metagenome partial hypothetical protein
+          Length = 660
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 19/19 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 16  gacatgctgatggagcacg 34
+           |||||||||||||||||||
+Sbjct: 604 gacatgctgatggagcacg 622
+
+
+>EMBL|ECR49260|marine metagenome partial hypothetical protein
+          Length = 855
+
+ Score = 38.2 bits (19), Expect = 1.4
+ Identities = 19/19 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 39  catgaagagcgtcgacgaa 57
+           |||||||||||||||||||
+Sbjct: 339 catgaagagcgtcgacgaa 357
+
+
+>B9KKT9
+          Length = 882
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 793 atggaagagctggaagagatgctgatggatttcggcatcatg 834
+
+
+>A4WRY3
+          Length = 939
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 850 atggaagagctggaagagatgctgatggatttcggcatcatg 891
+
+
+>G5CC31
+          Length = 894
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 39/46 (84%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| |||||||| ||||||||| | ||   ||||||||||||||
+Sbjct: 787 atggaggagctcgaggacatgctgcttgatttcggcatcatgaaga 832
+
+
+>Q8KJ96
+          Length = 894
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 39/46 (84%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| |||||||| ||||||||| | ||   ||||||||||||||
+Sbjct: 787 atggaggagctcgaggacatgctgctcgacttcggcatcatgaaga 832
+
+
+>G6Y2N4
+          Length = 894
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 39/46 (84%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| |||||||| ||||||||| | ||   ||||||||||||||
+Sbjct: 787 atggaggagctcgaggacatgctgctcgacttcggcatcatgaaga 832
+
+
+>F5M4B5
+          Length = 876
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 787 atggaagagctggaagagatgctgatggatttcggcatcatg 828
+
+
+>K0Q6R2
+          Length = 894
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 39/46 (84%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| |||||||| ||||||||| | ||   ||||||||||||||
+Sbjct: 787 atggaggagctcgaggacatgctgcttgatttcggcatcatgaaga 832
+
+
+>I4Z3E5
+          Length = 894
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 39/46 (84%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| |||||||| ||||||||| | ||   ||||||||||||||
+Sbjct: 787 atggaagagctcgaggacatgctgctcgacttcggcatcatgaaga 832
+
+
+>O31183
+          Length = 876
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 787 atggaagagctggaagagatgctgatggatttcggcatcatg 828
+
+
+>Q3J0H1
+          Length = 876
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 787 atggaagagctggaagagatgctgatggatttcggcatcatg 828
+
+
+>A3PLS9
+          Length = 876
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 787 atggaagagctggaagagatgctgatggatttcggcatcatg 828
+
+
+>Q98AP7
+          Length = 894
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 39/46 (84%)
+ Strand = Plus / Plus
+
+                                                         
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatgaaga 46
+           ||||| |||||||| ||||||||| | ||   ||||||||||||||
+Sbjct: 787 atggaggagctcgaggacatgctgctcgacttcggcatcatgaaga 832
+
+
+>P06118
+          Length = 873
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| || ||||||||  |||||||||||  ||||||||||
+Sbjct: 784 atggaggacctcgaagagctgctgatggagttcggcatcatg 825
+
+
+>D5ANI3
+          Length = 888
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 787 atggaagagctggaagagatgctgatggatttcggcatcatg 828
+
+
+>P0CY95
+          Length = 894
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 36/42 (85%)
+ Strand = Plus / Plus
+
+                                                     
+Query: 1   atggacgagctcgaagacatgctgatggagcacggcatcatg 42
+           ||||| ||||| ||||| |||||||||||   ||||||||||
+Sbjct: 787 atggaagagctggaagagatgctgatggatttcggcatcatg 828
+
+
+>P26248
+          Length = 879
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 27/30 (90%)
+ Strand = Plus / Plus
+
+                                         
+Query: 1   atggacgagctcgaagacatgctgatggag 30
+           ||||||||||||||||   |||||||||||
+Sbjct: 787 atggacgagctcgaagctctgctgatggag 816
+
+
+>EMBL|EDU45830|Pyrenophora tritici-repentis Pt-1C-BFP condensin
+            subunit Cut3
+          Length = 4416
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 4    gacgagctcgaagacatg 21
+            ||||||||||||||||||
+Sbjct: 3736 gacgagctcgaagacatg 3753
+
+
+>EMBL|EAU32084|Aspergillus terreus NIH2624 conserved hypothetical
+            protein
+          Length = 1482
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 5    acgagctcgaagacatgc 22
+            ||||||||||||||||||
+Sbjct: 1238 acgagctcgaagacatgc 1255
+
+
+>EMBL|EFI24223|Neisseria sp. oral taxon 014 str. F0314 conserved
+           hypothetical protein
+          Length = 372
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 76  gccgccgaactcgccgca 93
+           ||||||||||||||||||
+Sbjct: 253 gccgccgaactcgccgca 270
+
+
+>EMBL|EFF40243|Neisseria gonorrhoeae F62 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EFE04960|Neisseria gonorrhoeae DGI2 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EFL36889|Streptomyces viridochromogenes DSM 40736 trehalase
+          Length = 1770
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 76  gccgccgaactcgccgca 93
+           ||||||||||||||||||
+Sbjct: 670 gccgccgaactcgccgca 687
+
+
+>EMBL|EFL30306|Streptomyces viridochromogenes DSM 40736 secreted
+            protein
+          Length = 2832
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Minus
+
+                              
+Query: 75   tgccgccgaactcgccgc 92
+            ||||||||||||||||||
+Sbjct: 1438 tgccgccgaactcgccgc 1421
+
+
+>EMBL|EFL20570|Streptomyces hygroscopicus ATCC 53653 putative secreted
+            protein
+          Length = 2823
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Minus
+
+                              
+Query: 75   tgccgccgaactcgccgc 92
+            ||||||||||||||||||
+Sbjct: 1429 tgccgccgaactcgccgc 1412
+
+
+>EMBL|EFL12390|Streptomyces sp. AA4 predicted protein
+          Length = 2136
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 21/22 (95%)
+ Strand = Plus / Plus
+
+                                 
+Query: 72  gactgccgccgaactcgccgca 93
+           |||||||||||||| |||||||
+Sbjct: 283 gactgccgccgaacccgccgca 304
+
+
+>EMBL|EFL04157|Streptomyces sp. SPB78 partial integral membrane
+           protein
+          Length = 1258
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Minus
+
+                             
+Query: 74  ctgccgccgaactcgccg 91
+           ||||||||||||||||||
+Sbjct: 819 ctgccgccgaactcgccg 802
+
+
+>EMBL|EFL02033|Streptomyces sp. SPB78 conserved hypothetical protein
+          Length = 2049
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Minus
+
+                             
+Query: 75  tgccgccgaactcgccgc 92
+           ||||||||||||||||||
+Sbjct: 220 tgccgccgaactcgccgc 203
+
+
+>EMBL|EEP72323|Micromonospora sp. ATCC 39149 secreted protein
+          Length = 2802
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Minus
+
+                              
+Query: 75   tgccgccgaactcgccgc 92
+            ||||||||||||||||||
+Sbjct: 1408 tgccgccgaactcgccgc 1391
+
+
+>EMBL|EEZ59685|Neisseria gonorrhoeae SK-93-1035 peptide chain
+           release factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEZ57406|Neisseria gonorrhoeae SK-92-679 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEZ55245|Neisseria gonorrhoeae PID332 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEZ52910|Neisseria gonorrhoeae PID1 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEZ50580|Neisseria gonorrhoeae PID18 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEZ48415|Neisseria gonorrhoeae MS11 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEZ46243|Neisseria gonorrhoeae FA19 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEZ44035|Neisseria gonorrhoeae 35/02 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EEH62512|Neisseria gonorrhoeae 1291 peptide chain release
+           factor 1
+          Length = 1077
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 3   ggacgagctcgaagacat 20
+           ||||||||||||||||||
+Sbjct: 627 ggacgagctcgaagacat 644
+
+
+>EMBL|EED40213|Stenotrophomonas sp. SKA14 TonB-dependent receptor,
+           plug
+          Length = 2295
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Minus
+
+                             
+Query: 74  ctgccgccgaactcgccg 91
+           ||||||||||||||||||
+Sbjct: 566 ctgccgccgaactcgccg 549
+
+
+>EMBL|EDZ46240|Rhodobacterales bacterium Y4I radical SAM enzyme, Cfr
+           family
+          Length = 1242
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 20  tgctgatggagcacggca 37
+           ||||||||||||||||||
+Sbjct: 110 tgctgatggagcacggca 127
+
+
+>EMBL|ECV08240|marine metagenome hypothetical protein
+          Length = 2307
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 72   gactgccgccgaactcgc 89
+            ||||||||||||||||||
+Sbjct: 1764 gactgccgccgaactcgc 1781
+
+
+>EMBL|ECW21583|marine metagenome hypothetical protein
+          Length = 792
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 50  tcgacgaaacccagatcg 67
+           ||||||||||||||||||
+Sbjct: 126 tcgacgaaacccagatcg 143
+
+
+>EMBL|ECW21586|marine metagenome hypothetical protein
+          Length = 1962
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 50  tcgacgaaacccagatcg 67
+           ||||||||||||||||||
+Sbjct: 959 tcgacgaaacccagatcg 976
+
+
+>EMBL|EDJ44856|marine metagenome hypothetical protein
+          Length = 1599
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 71   agactgccgccgaactcg 88
+            ||||||||||||||||||
+Sbjct: 1067 agactgccgccgaactcg 1084
+
+
+>EMBL|EBC55478|marine metagenome partial hypothetical protein
+          Length = 451
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 62  agatcggtaagactgccg 79
+           ||||||||||||||||||
+Sbjct: 155 agatcggtaagactgccg 172
+
+
+>EMBL|EBF51657|marine metagenome partial hypothetical protein
+          Length = 1309
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 29  agcacggcatcatgaaga 46
+           ||||||||||||||||||
+Sbjct: 336 agcacggcatcatgaaga 353
+
+
+>EMBL|EBM04253|marine metagenome hypothetical protein
+          Length = 789
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 9   gctcgaagacatgctgat 26
+           ||||||||||||||||||
+Sbjct: 390 gctcgaagacatgctgat 407
+
+
+>EMBL|ECG88058|marine metagenome partial hypothetical protein
+          Length = 501
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 75  tgccgccgaactcgccgc 92
+           ||||||||||||||||||
+Sbjct: 189 tgccgccgaactcgccgc 206
+
+
+>EMBL|ECL72017|marine metagenome partial hypothetical protein
+          Length = 618
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Minus
+
+                             
+Query: 36  catcatgaagagcgtcga 53
+           ||||||||||||||||||
+Sbjct: 487 catcatgaagagcgtcga 470
+
+
+>EMBL|ECR65373|marine metagenome partial hypothetical protein
+          Length = 855
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                             
+Query: 22  ctgatggagcacggcatc 39
+           ||||||||||||||||||
+Sbjct: 316 ctgatggagcacggcatc 333
+
+
+>EMBL|ECR73281|marine metagenome partial hypothetical protein
+          Length = 777
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 21/22 (95%)
+ Strand = Plus / Plus
+
+                                 
+Query: 72  gactgccgccgaactcgccgca 93
+           ||||||||||||||||| ||||
+Sbjct: 465 gactgccgccgaactcgacgca 486
+
+
+>EMBL|EDZ38848|Leptospirillum sp. Group II '5-way CG' sulfate permease
+          Length = 1476
+
+ Score = 36.2 bits (18), Expect = 5.3
+ Identities = 18/18 (100%)
+ Strand = Plus / Plus
+
+                              
+Query: 12   cgaagacatgctgatgga 29
+            ||||||||||||||||||
+Sbjct: 1452 cgaagacatgctgatgga 1469
+
+
+  Database: ./env-pro-fun-NP
+    Posted date:  Dec 3, 2013 11:15 AM
+  Number of letters in database: 5,200,115,560
+  Number of sequences in database:  7,570,308
+  
+Lambda     K      H
+    1.37    0.711     1.31 
+
+Gapped
+Lambda     K      H
+    1.37    0.711     1.31 
+
+
+Matrix: blastn matrix:1 -3
+Gap Penalties: Existence: 5, Extension: 2
+Number of Sequences: 7570308
+Number of Hits to DB: 4,207,044
+Number of extensions: 237612
+Number of successful extensions: 237612
+Number of sequences better than 10.0: 155
+Number of HSP's gapped: 237605
+Number of HSP's successfully gapped: 157
+Length of query: 102
+Length of database: 5,200,115,560
+Length adjustment: 20
+Effective length of query: 82
+Effective length of database: 5,048,709,400
+Effective search space: 413994170800
+Effective search space used: 413994170800
+X1: 11 (21.8 bits)
+X2: 15 (29.7 bits)
+X3: 50 (99.1 bits)
+S1: 11 (22.3 bits)
+S2: 18 (36.2 bits)

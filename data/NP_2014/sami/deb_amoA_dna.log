@@ -1,0 +1,73 @@
+usearch --cluster deb_amoA_dna.sorted --id 0.98 --uc deb_amoA_dna.uc --seedsout deb_amoA_dna.fa --log deb_amoA_dna.log
+Started Fri Sep 19 10:35:48 2014
+Version 5.2.32
+149Gb RAM
+
+Algorithm:
+  De novo clustering
+  Fast search (U-sorting) enabled
+  Similarity computed from a global alignment
+
+Word-counting heuristics:
+  Word length for database index 8
+  Step words 8
+  Bump fraction 50%
+
+U-sorted search termination:
+  Max accepts 1
+  Max rejects 32
+  Word count rejection enabled
+
+Accept criteria:
+  Min id 98.0%
+
+Query set:
+  Filename deb_amoA_dna.sorted
+  File size 23Mb
+  Sequence type nucelotide
+
+Database:
+  Initially empty
+
+Substitution scores:
+  Match score 1.0
+  Mismatch score -2.0
+
+Gap penalties:
+     10.00  Open penalty (internal gaps)
+      0.50  Open penalty (end gaps)
+      1.00  Ext. penalty (internal gaps)
+      0.50  Ext. penalty (end gaps)
+
+Fast alignment heuristics:
+  HSP seed word length 5
+  One-hit HSP seeding
+  Exact word seeds (neighborhoods disabled)
+  Min HSP length 32
+  Band radius 16
+
+
+00:14 109Mb Result: 9224 clusters, avg size 4.0, avg id. 99.0%
+Search time         14.0s
+Throughput          2618.6 seqs/sec
+Query sequences     36661
+Clusters            9224
+Avg cluster size    4.0 seqs
+Avg cluster id      99.0%
+
+              Id      Allocs       Frees     Pct         Bytes
+----------------  ----------  ----------  ------  ------------
+          windex      368764      121923   74.3%          62Mb
+           seqdb       18451           0   21.8%          18Mb
+            mx_h        4310        2820    2.1%         1.8Mb
+           ultra          25           0    1.5%         1.2Mb
+         myutils           4           0    0.2%       128.0kb
+       hspfinder         399         200    0.1%        43.4kb
+           dpmem           6           4    0.0%        10.7kb
+        comppath           1           0    0.0%       5236.0b
+----------------  ----------  ----------  ------  ------------
+           Total      391960      124947  100.0%          83Mb
+
+Finished Fri Sep 19 10:36:02 2014
+Elapsed time 00:14
+Max memory 109Mb
