@@ -1,0 +1,732 @@
+ID   EGLA_EMENI              Reviewed;         326 AA.
+AC   Q5BDU5; C8VSF3; Q1HFV2; Q9Y8H6;
+DT   18-MAY-2010, integrated into UniProtKB/Swiss-Prot.
+DT   26-APR-2005, sequence version 1.
+DT   11-NOV-2015, entry version 74.
+DE   RecName: Full=Endo-beta-1,4-glucanase A;
+DE            Short=Endoglucanase A;
+DE            EC=3.2.1.4;
+DE   AltName: Full=Carboxymethylcellulase A;
+DE   AltName: Full=Cellulase A;
+DE   Flags: Precursor;
+GN   Name=eglA; ORFNames=AN1285;
+OS   Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL
+OS   194 / M139) (Aspergillus nidulans).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=227321;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND INDUCTION.
+RX   PubMed=10386374; DOI=10.1111/j.1574-6968.1999.tb13626.x;
+RA   Chikamatsu G., Shirai K., Kato M., Kobayashi T., Tsukagoshi N.;
+RT   "Structure and expression properties of the endo-beta-1,4-glucanase A
+RT   gene from the filamentous fungus Aspergillus nidulans.";
+RL   FEMS Microbiol. Lett. 175:239-245(1999).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=16844780; DOI=10.1073/pnas.0604632103;
+RA   Bauer S., Vasu P., Persson S., Mort A.J., Somerville C.R.;
+RT   "Development and application of a suite of polysaccharide-degrading
+RT   enzymes for analyzing plant cell walls.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:11417-11422(2006).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=16372000; DOI=10.1038/nature04341;
+RA   Galagan J.E., Calvo S.E., Cuomo C., Ma L.-J., Wortman J.R.,
+RA   Batzoglou S., Lee S.-I., Bastuerkmen M., Spevak C.C., Clutterbuck J.,
+RA   Kapitonov V., Jurka J., Scazzocchio C., Farman M.L., Butler J.,
+RA   Purcell S., Harris S., Braus G.H., Draht O., Busch S., D'Enfert C.,
+RA   Bouchier C., Goldman G.H., Bell-Pedersen D., Griffiths-Jones S.,
+RA   Doonan J.H., Yu J., Vienken K., Pain A., Freitag M., Selker E.U.,
+RA   Archer D.B., Penalva M.A., Oakley B.R., Momany M., Tanaka T.,
+RA   Kumagai T., Asai K., Machida M., Nierman W.C., Denning D.W.,
+RA   Caddick M.X., Hynes M., Paoletti M., Fischer R., Miller B.L.,
+RA   Dyer P.S., Sachs M.S., Osmani S.A., Birren B.W.;
+RT   "Sequencing of Aspergillus nidulans and comparative analysis with A.
+RT   fumigatus and A. oryzae.";
+RL   Nature 438:1105-1115(2005).
+RN   [4]
+RP   GENOME REANNOTATION.
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=19146970; DOI=10.1016/j.fgb.2008.12.003;
+RA   Wortman J.R., Gilsenan J.M., Joardar V., Deegan J., Clutterbuck J.,
+RA   Andersen M.R., Archer D., Bencina M., Braus G., Coutinho P.,
+RA   von Dohren H., Doonan J., Driessen A.J., Durek P., Espeso E.,
+RA   Fekete E., Flipphi M., Estrada C.G., Geysens S., Goldman G.,
+RA   de Groot P.W., Hansen K., Harris S.D., Heinekamp T., Helmstaedt K.,
+RA   Henrissat B., Hofmann G., Homan T., Horio T., Horiuchi H., James S.,
+RA   Jones M., Karaffa L., Karanyi Z., Kato M., Keller N., Kelly D.E.,
+RA   Kiel J.A., Kim J.M., van der Klei I.J., Klis F.M., Kovalchuk A.,
+RA   Krasevec N., Kubicek C.P., Liu B., Maccabe A., Meyer V., Mirabito P.,
+RA   Miskei M., Mos M., Mullins J., Nelson D.R., Nielsen J., Oakley B.R.,
+RA   Osmani S.A., Pakula T., Paszewski A., Paulsen I., Pilsyk S., Pocsi I.,
+RA   Punt P.J., Ram A.F., Ren Q., Robellet X., Robson G., Seiboth B.,
+RA   van Solingen P., Specht T., Sun J., Taheri-Talesh N., Takeshita N.,
+RA   Ussery D., vanKuyk P.A., Visser H., van de Vondervoort P.J.,
+RA   de Vries R.P., Walton J., Xiang X., Xiong Y., Zeng A.P., Brandt B.W.,
+RA   Cornell M.J., van den Hondel C.A., Visser J., Oliver S.G., Turner G.;
+RT   "The 2008 update of the Aspergillus nidulans genome annotation: a
+RT   community effort.";
+RL   Fungal Genet. Biol. 46:S2-13(2009).
+CC   -!- FUNCTION: Has endoglucanase activity on substrates containing
+CC       beta-1,4 glycosidic bonds, like in carboxymethylcellulose (CMC),
+CC       hydroxyethylcellulose (HEC) and beta-glucan. Involved in the
+CC       degradation of complex natural cellulosic substrates.
+CC       {ECO:0000269|PubMed:10386374, ECO:0000269|PubMed:16844780}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose, lichenin and cereal beta-D-glucans.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 4.0. {ECO:0000269|PubMed:16844780};
+CC       Temperature dependence:
+CC         Optimum temperature is 57 degrees Celsius.
+CC         {ECO:0000269|PubMed:16844780};
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- INDUCTION: Highly expressed in presence of carboxymethylcellulose
+CC       (CMC). {ECO:0000269|PubMed:10386374}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB009402; BAA82592.1; -; Genomic_DNA.
+DR   EMBL; DQ490472; ABF50848.1; -; mRNA.
+DR   EMBL; AACD01000017; EAA65878.1; -; Genomic_DNA.
+DR   EMBL; BN001308; CBF87793.1; -; Genomic_DNA.
+DR   RefSeq; XP_658889.1; XM_653797.1.
+DR   ProteinModelPortal; Q5BDU5; -.
+DR   SMR; Q5BDU5; 21-322.
+DR   mycoCLAP; EGL5A_EMENI; -.
+DR   mycoCLAP; EGL5B_EMENI; -.
+DR   EnsemblFungi; CADANIAT00001335; CADANIAP00001335; CADANIAG00001335.
+DR   EnsemblFungi; EAA65878; EAA65878; AN1285.2.
+DR   GeneID; 2877061; -.
+DR   KEGG; ani:AN1285.2; -.
+DR   HOGENOM; HOG000111120; -.
+DR   InParanoid; Q5BDU5; -.
+DR   KO; K01179; -.
+DR   OMA; YMYSFEP; -.
+DR   OrthoDB; EOG776T0S; -.
+DR   Proteomes; UP000000560; Chromosome VIII.
+DR   Proteomes; UP000005890; Partially assembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008810; F:cellulase activity; IDA:UniProtKB.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0009251; P:glucan catabolic process; IDA:UniProtKB.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycosidase; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    326       Endo-beta-1,4-glucanase A.
+FT                                /FTId=PRO_5000049150.
+FT   ACT_SITE    150    150       Proton donor. {ECO:0000250}.
+FT   ACT_SITE    257    257       Nucleophile. {ECO:0000250}.
+FT   CONFLICT    116    116       Missing (in Ref. 1; BAA82592).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   326 AA;  35812 MW;  7BFED0EF254B8D9F CRC64;
+     MRSLVLLSSV LALVAPSKGA FTWLGTNEAG AEFGEGSYPG ELGTEYIWPD LGTIGTLRNE
+     GMNIFRVAFS MERLVPDSLA GPVADEYFQD LVETVNGITA LGAYAVLDPH NYGRYYGNII
+     TSTDDFAAFW TILATEFASN ELVIFDTNNE YHTMDQSLVL NLNQAAIDAI RASGATSQYI
+     FAEGNSWTGA WTWVDVNDNM KALTDPQDKL IYEMHQYLDS DGSGTNTACV SSTIGSERVT
+     AATNWLRENG KLGVLGEFAG ANNQVCKDAV ADLLEYLEEN SDVWLGALWW AAGPWWGDYM
+     FNMEPTSGIA YQEYSEILQP YFVGSQ
+//
+ID   A2R322_ASPNC            Unreviewed;       239 AA.
+AC   A2R322;
+DT   06-MAR-2007, integrated into UniProtKB/TrEMBL.
+DT   06-MAR-2007, sequence version 1.
+DT   09-DEC-2015, entry version 51.
+DE   SubName: Full=Endoglucanase A eglA-Aspergillus niger {ECO:0000313|EMBL:CAK46524.1};
+DE            EC=3.2.1.4 {ECO:0000313|EMBL:CAK46524.1};
+GN   Name=eglA {ECO:0000313|EMBL:CAK46524.1};
+GN   ORFNames=An14g02760 {ECO:0000313|EMBL:CAK46524.1};
+OS   Aspergillus niger (strain CBS 513.88 / FGSC A1513).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=425011 {ECO:0000313|Proteomes:UP000006706};
+RN   [1] {ECO:0000313|EMBL:CAK46524.1, ECO:0000313|Proteomes:UP000006706}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 513.88 / FGSC A1513 {ECO:0000313|Proteomes:UP000006706};
+RX   PubMed=17259976; DOI=10.1038/nbt1282;
+RA   Pel H.J., de Winde J.H., Archer D.B., Dyer P.S., Hofmann G.,
+RA   Schaap P.J., Turner G., de Vries R.P., Albang R., Albermann K.,
+RA   Andersen M.R., Bendtsen J.D., Benen J.A.E., van den Berg M.,
+RA   Breestraat S., Caddick M.X., Contreras R., Cornell M., Coutinho P.M.,
+RA   Danchin E.G.J., Debets A.J.M., Dekker P., van Dijck P.W.M.,
+RA   van Dijk A., Dijkhuizen L., Driessen A.J.M., d'Enfert C., Geysens S.,
+RA   Goosen C., Groot G.S.P., de Groot P.W.J., Guillemette T.,
+RA   Henrissat B., Herweijer M., van den Hombergh J.P.T.W.,
+RA   van den Hondel C.A.M.J.J., van der Heijden R.T.J.M.,
+RA   van der Kaaij R.M., Klis F.M., Kools H.J., Kubicek C.P.,
+RA   van Kuyk P.A., Lauber J., Lu X., van der Maarel M.J.E.C.,
+RA   Meulenberg R., Menke H., Mortimer M.A., Nielsen J., Oliver S.G.,
+RA   Olsthoorn M., Pal K., van Peij N.N.M.E., Ram A.F.J., Rinas U.,
+RA   Roubos J.A., Sagt C.M.J., Schmoll M., Sun J., Ussery D., Varga J.,
+RA   Vervecken W., van de Vondervoort P.J.J., Wedler H., Woesten H.A.B.,
+RA   Zeng A.-P., van Ooyen A.J.J., Visser J., Stam H.;
+RT   "Genome sequencing and analysis of the versatile cell factory
+RT   Aspergillus niger CBS 513.88.";
+RL   Nat. Biotechnol. 25:221-231(2007).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 12 (cellulase H)
+CC       family. {ECO:0000256|RuleBase:RU361163}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM270318; CAK46524.1; -; Genomic_DNA.
+DR   RefSeq; XP_001400902.1; XM_001400865.2.
+DR   ProteinModelPortal; A2R322; -.
+DR   SMR; A2R322; 17-239.
+DR   CAZy; GH12; Glycoside Hydrolase Family 12.
+DR   EnsemblFungi; CADANGAT00011212; CADANGAP00010994; CADANGAG00011212.
+DR   GeneID; 4987132; -.
+DR   KEGG; ang:ANI_1_398124; -.
+DR   HOGENOM; HOG000181257; -.
+DR   KO; K18576; -.
+DR   OrthoDB; EOG72VHHK; -.
+DR   Proteomes; UP000006706; Chromosome 1R.
+DR   GO; GO:0008810; F:cellulase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009251; P:glucan catabolic process; IDA:ASPGD.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR002594; Glyco_hydro_12.
+DR   Pfam; PF01670; Glyco_hydro_12; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361163};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006706};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361163,
+KW   ECO:0000313|EMBL:CAK46524.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361163,
+KW   ECO:0000313|EMBL:CAK46524.1};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361163};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006706};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     16       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        17    239       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002645306.
+SQ   SEQUENCE   239 AA;  25873 MW;  DEB79616A3F9C412 CRC64;
+     MKLPVTLAML AATAMGQTMC SQYDSASSPP YSVNQNLWGE YQGTGSQCVY VDKLSSSGAS
+     WHTEWTWSGG EGTVKSYSNS GVTFNKKLVS DVSSIPTSVE WKQDNTNVNA DVAYDLFTAA
+     NVDHATSSGD YELMIWLARY GNIQPIGKQI ATATVGGKSW EVWYGSTTQA GAEQRTYSFV
+     SESPINSYSG DINAFFSYLT QNQGFPASSQ YLINLQFGTE AFTGGPATFT VDNWTASVN
+//
+ID   CDC14_EMENI             Reviewed;         595 AA.
+AC   Q5B323; C8V824;
+DT   19-FEB-2014, integrated into UniProtKB/Swiss-Prot.
+DT   26-APR-2005, sequence version 1.
+DT   17-FEB-2016, entry version 75.
+DE   RecName: Full=Tyrosine-protein phosphatase cdcA;
+DE            EC=3.1.3.48;
+GN   Name=cdcA; ORFNames=AN5057;
+OS   Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL
+OS   194 / M139) (Aspergillus nidulans).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=227321;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=16372000; DOI=10.1038/nature04341;
+RA   Galagan J.E., Calvo S.E., Cuomo C., Ma L.-J., Wortman J.R.,
+RA   Batzoglou S., Lee S.-I., Bastuerkmen M., Spevak C.C., Clutterbuck J.,
+RA   Kapitonov V., Jurka J., Scazzocchio C., Farman M.L., Butler J.,
+RA   Purcell S., Harris S., Braus G.H., Draht O., Busch S., D'Enfert C.,
+RA   Bouchier C., Goldman G.H., Bell-Pedersen D., Griffiths-Jones S.,
+RA   Doonan J.H., Yu J., Vienken K., Pain A., Freitag M., Selker E.U.,
+RA   Archer D.B., Penalva M.A., Oakley B.R., Momany M., Tanaka T.,
+RA   Kumagai T., Asai K., Machida M., Nierman W.C., Denning D.W.,
+RA   Caddick M.X., Hynes M., Paoletti M., Fischer R., Miller B.L.,
+RA   Dyer P.S., Sachs M.S., Osmani S.A., Birren B.W.;
+RT   "Sequencing of Aspergillus nidulans and comparative analysis with A.
+RT   fumigatus and A. oryzae.";
+RL   Nature 438:1105-1115(2005).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=19146970; DOI=10.1016/j.fgb.2008.12.003;
+RA   Wortman J.R., Gilsenan J.M., Joardar V., Deegan J., Clutterbuck J.,
+RA   Andersen M.R., Archer D., Bencina M., Braus G., Coutinho P.,
+RA   von Dohren H., Doonan J., Driessen A.J., Durek P., Espeso E.,
+RA   Fekete E., Flipphi M., Estrada C.G., Geysens S., Goldman G.,
+RA   de Groot P.W., Hansen K., Harris S.D., Heinekamp T., Helmstaedt K.,
+RA   Henrissat B., Hofmann G., Homan T., Horio T., Horiuchi H., James S.,
+RA   Jones M., Karaffa L., Karanyi Z., Kato M., Keller N., Kelly D.E.,
+RA   Kiel J.A., Kim J.M., van der Klei I.J., Klis F.M., Kovalchuk A.,
+RA   Krasevec N., Kubicek C.P., Liu B., Maccabe A., Meyer V., Mirabito P.,
+RA   Miskei M., Mos M., Mullins J., Nelson D.R., Nielsen J., Oakley B.R.,
+RA   Osmani S.A., Pakula T., Paszewski A., Paulsen I., Pilsyk S., Pocsi I.,
+RA   Punt P.J., Ram A.F., Ren Q., Robellet X., Robson G., Seiboth B.,
+RA   van Solingen P., Specht T., Sun J., Taheri-Talesh N., Takeshita N.,
+RA   Ussery D., vanKuyk P.A., Visser H., van de Vondervoort P.J.,
+RA   de Vries R.P., Walton J., Xiang X., Xiong Y., Zeng A.P., Brandt B.W.,
+RA   Cornell M.J., van den Hondel C.A., Visser J., Oliver S.G., Turner G.;
+RT   "The 2008 update of the Aspergillus nidulans genome annotation: a
+RT   community effort.";
+RL   Fungal Genet. Biol. 46:S2-13(2009).
+RN   [3]
+RP   IDENTIFICATION.
+RX   PubMed=19181872; DOI=10.1128/EC.00346-08;
+RA   Son S., Osmani S.A.;
+RT   "Analysis of all protein phosphatase genes in Aspergillus nidulans
+RT   identifies a new mitotic regulator, fcp1.";
+RL   Eukaryot. Cell 8:573-585(2009).
+RN   [4]
+RP   SUBCELLULAR LOCATION.
+RX   PubMed=20679430; DOI=10.1083/jcb.201002105;
+RA   Nayak T., Edgerton-Morgan H., Horio T., Xiong Y., De Souza C.P.,
+RA   Osmani S.A., Oakley B.R.;
+RT   "Gamma-tubulin regulates the anaphase-promoting complex/cyclosome
+RT   during interphase.";
+RL   J. Cell Biol. 190:317-330(2010).
+RN   [5]
+RP   FUNCTION.
+RX   PubMed=23800192; DOI=10.1186/1754-6834-6-91;
+RA   Brown N.A., de Gouvea P.F., Krohn N.G., Savoldi M., Goldman G.H.;
+RT   "Functional characterisation of the non-essential protein kinases and
+RT   phosphatases regulating Aspergillus nidulans hydrolytic enzyme
+RT   production.";
+RL   Biotechnol. Biofuels 6:91-91(2013).
+CC   -!- FUNCTION: Protein phosphatase which antagonizes mitotic cyclin-
+CC       dependent kinase nimX, the inactivation of which is essential for
+CC       exit from mitosis. To access its substrates, is released from
+CC       nucleolar sequestration during mitosis. Plays an essential in
+CC       coordinating the nuclear division cycle with cytokinesis through
+CC       the cytokinesis checkpoint. Involved in chromosome segregation,
+CC       where it is required for meiosis I spindle dissambly as well as
+CC       for establishing two consecutive chromosome segregation phases (By
+CC       similarity). Required for the transcription of the two major
+CC       endoglucanase genes eglA and eglB and growth on synthetic
+CC       cellulose as the sole carbon source. {ECO:0000250,
+CC       ECO:0000269|PubMed:23800192}.
+CC   -!- CATALYTIC ACTIVITY: Protein tyrosine phosphate + H(2)O = protein
+CC       tyrosine + phosphate. {ECO:0000255|PROSITE-ProRule:PRU10044}.
+CC   -!- SUBCELLULAR LOCATION: Nucleus {ECO:0000269|PubMed:20679430}.
+CC       Cytoplasm {ECO:0000269|PubMed:20679430}. Cell septum
+CC       {ECO:0000269|PubMed:20679430}. Note=Does not localize to the
+CC       nucleolus as its homologs do in S.cerevisiae and S.pombe.
+CC       Accumulates within nuclei as they pass through interphase,
+CC       displays a complex localization in mitosis, and localizes to the
+CC       forming septum after mitosis is completed.
+CC   -!- SIMILARITY: Belongs to the protein-tyrosine phosphatase family.
+CC       Non-receptor class CDC14 subfamily. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BN001303; CBF76183.1; -; Genomic_DNA.
+DR   EMBL; AACD01000085; EAA60051.1; -; Genomic_DNA.
+DR   RefSeq; XP_662661.1; XM_657569.1.
+DR   ProteinModelPortal; Q5B323; -.
+DR   EnsemblFungi; CADANIAT00005331; CADANIAP00005331; CADANIAG00005331.
+DR   EnsemblFungi; EAA60051; EAA60051; AN5057.2.
+DR   GeneID; 2872855; -.
+DR   KEGG; ani:AN5057.2; -.
+DR   HOGENOM; HOG000198341; -.
+DR   InParanoid; Q5B323; -.
+DR   KO; K06639; -.
+DR   OMA; VYGVWKA; -.
+DR   OrthoDB; EOG7JQBXJ; -.
+DR   Proteomes; UP000000560; Chromosome III.
+DR   Proteomes; UP000005890; Partially assembled WGS sequence.
+DR   GO; GO:0005826; C:actomyosin contractile ring; IEA:EnsemblFungi.
+DR   GO; GO:0030428; C:cell septum; IEA:UniProtKB-SubCell.
+DR   GO; GO:0000778; C:condensed nuclear chromosome kinetochore; IEA:EnsemblFungi.
+DR   GO; GO:0005737; C:cytoplasm; IBA:GO_Central.
+DR   GO; GO:0072686; C:mitotic spindle; IBA:GO_Central.
+DR   GO; GO:0044732; C:mitotic spindle pole body; IEA:EnsemblFungi.
+DR   GO; GO:0005654; C:nucleoplasm; IEA:EnsemblFungi.
+DR   GO; GO:0005634; C:nucleus; IBA:GO_Central.
+DR   GO; GO:0030869; C:RENT complex; IEA:EnsemblFungi.
+DR   GO; GO:0000922; C:spindle pole; IBA:GO_Central.
+DR   GO; GO:0004722; F:protein serine/threonine phosphatase activity; IBA:GO_Central.
+DR   GO; GO:0004725; F:protein tyrosine phosphatase activity; IBA:GO_Central.
+DR   GO; GO:0008138; F:protein tyrosine/serine/threonine phosphatase activity; IEA:InterPro.
+DR   GO; GO:0006974; P:cellular response to DNA damage stimulus; IEA:EnsemblFungi.
+DR   GO; GO:0071470; P:cellular response to osmotic stress; IEA:EnsemblFungi.
+DR   GO; GO:0035853; P:chromosome passenger complex localization to spindle midzone; IEA:EnsemblFungi.
+DR   GO; GO:0098783; P:correction of merotelic kinetochore attachment, mitotic; IEA:EnsemblFungi.
+DR   GO; GO:0044878; P:cytokinesis checkpoint; IEA:EnsemblFungi.
+DR   GO; GO:0071989; P:establishment of protein localization to spindle pole body; IEA:EnsemblFungi.
+DR   GO; GO:0051229; P:meiotic spindle disassembly; IEA:EnsemblFungi.
+DR   GO; GO:1902406; P:mitotic actomyosin contractile ring maintenance; IEA:EnsemblFungi.
+DR   GO; GO:0071850; P:mitotic cell cycle arrest; IBA:GO_Central.
+DR   GO; GO:0051256; P:mitotic spindle midzone assembly; IBA:GO_Central.
+DR   GO; GO:0045736; P:negative regulation of cyclin-dependent protein serine/threonine kinase activity; IEA:EnsemblFungi.
+DR   GO; GO:0010972; P:negative regulation of G2/M transition of mitotic cell cycle; IEA:EnsemblFungi.
+DR   GO; GO:0035335; P:peptidyl-tyrosine dephosphorylation; IBA:GOC.
+DR   GO; GO:1902425; P:positive regulation of attachment of mitotic spindle microtubules to kinetochore; IEA:EnsemblFungi.
+DR   GO; GO:0031536; P:positive regulation of exit from mitosis; IEA:EnsemblFungi.
+DR   GO; GO:0031031; P:positive regulation of septation initiation signaling; IEA:EnsemblFungi.
+DR   GO; GO:0034501; P:protein localization to kinetochore; IEA:EnsemblFungi.
+DR   GO; GO:0007096; P:regulation of exit from mitosis; IBA:GO_Central.
+DR   GO; GO:0072479; P:response to mitotic cell cycle spindle assembly checkpoint signaling; IEA:EnsemblFungi.
+DR   Gene3D; 3.90.190.10; -; 2.
+DR   InterPro; IPR026070; CDC14.
+DR   InterPro; IPR029260; DSPn.
+DR   InterPro; IPR000340; Dual-sp_phosphatase_cat-dom.
+DR   InterPro; IPR029021; Prot-tyrosine_phosphatase-like.
+DR   InterPro; IPR016130; Tyr_Pase_AS.
+DR   InterPro; IPR000387; TYR_PHOSPHATASE_dom.
+DR   PANTHER; PTHR23339:SF27; PTHR23339:SF27; 2.
+DR   Pfam; PF00782; DSPc; 1.
+DR   Pfam; PF14671; DSPn; 1.
+DR   SUPFAM; SSF52799; SSF52799; 2.
+DR   PROSITE; PS00383; TYR_PHOSPHATASE_1; 1.
+DR   PROSITE; PS50056; TYR_PHOSPHATASE_2; 1.
+PE   3: Inferred from homology;
+KW   Cell cycle; Cell division; Complete proteome; Cytoplasm; Hydrolase;
+KW   Meiosis; Mitosis; Nucleus; Phosphoprotein; Protein phosphatase;
+KW   Reference proteome.
+FT   CHAIN         1    595       Tyrosine-protein phosphatase cdcA.
+FT                                /FTId=PRO_0000425254.
+FT   ACT_SITE    322    322       Phosphocysteine intermediate.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10044}.
+SQ   SEQUENCE   595 AA;  66129 MW;  4C2999314618E2B7 CRC64;
+     MAGSTAGYGQ IIEYIQDKLY LASYDHTPDA KTPFPYPAEQ PKSPSKRRAQ ASPSKKRSPV
+     YFTVDDTLLY NSFHADFGPL HIGHLYRFAV HFHDLLAANN DRAIVFYSRT DARSRANAAC
+     LVACYMVLIQ SWPPHLALAP IAQADPPYMP FRDAGYSQAD FILNIQDVVY GVWKAKEQGV
+     CGLRDFSLEE YEKFERVDMG DFNWISPHFL AFASPQHQPV APIPRDSPEY AALPSTVSEV
+     RSSRLPLPFK NVLEHFATRG VGLVVRLNSE LYSPSYFTAL GISHIDMIFE DGTCPPLPLV
+     KKFIRMAHEM INVKHKAIAV HCKAGLGRTG CLIGAYLIYR YGFTANEVIA FMRFMRPGMV
+     VGPQQHWLHL NQGSFREWWF EDCMKEKLAQ MQPNPVTPGR SPAKHRAAAV TTPPQNGHSK
+     RSALGEIDNN EATPIYDDNL PAPTPGQPRK SHRKDSRHHP YSRTASGSLV VDKDTRKTRR
+     STDSSESEEE TQLRMLAKQR SSKSPAASPG QRSISYSATV TASYTLNDDI HEDRENWGGA
+     AQPPKTPVTS KTSGAVSVSK VRSSSRRVTG ESKGVRKPSG RIGSTGSPVR VKAQA
+//
+ID   O74705_ASPNG            Unreviewed;       239 AA.
+AC   O74705;
+DT   01-NOV-1998, integrated into UniProtKB/TrEMBL.
+DT   01-NOV-1998, sequence version 1.
+DT   17-FEB-2016, entry version 80.
+DE   SubName: Full=Endoglucanase {ECO:0000313|EMBL:AIX97359.1};
+DE   SubName: Full=Endoglucanase A {ECO:0000313|EMBL:CAA11964.1};
+DE            EC=3.2.1.4 {ECO:0000313|EMBL:CAA11964.1};
+GN   Name=eglA {ECO:0000313|EMBL:CAA11964.1};
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061 {ECO:0000313|EMBL:CAA11964.1};
+RN   [1] {ECO:0000213|PDB:1KS4, ECO:0000213|PDB:1KS5}
+RP   X-RAY CRYSTALLOGRAPHY (2.10 ANGSTROMS) OF 17-239, AND DISULFIDE BONDS.
+RX   PubMed=11914491; DOI=10.1107/S0907444902003360;
+RA   Khademi S., Zhang D., Swanson S.M., Wartenberg A., Witte K.,
+RA   Meyer E.F.;
+RT   "Determination of the structure of an endoglucanase from Aspergillus
+RT   niger and its mode of inhibition by palladium chloride.";
+RL   Acta Crystallogr. D 58:660-667(2002).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 12 (cellulase H)
+CC       family. {ECO:0000256|RuleBase:RU361163}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KM281200; AIX97359.1; -; mRNA.
+DR   EMBL; AJ224451; CAA11964.1; -; Genomic_DNA.
+DR   PDB; 1KS4; X-ray; 2.50 A; A=17-239.
+DR   PDB; 1KS5; X-ray; 2.10 A; A=17-239.
+DR   PDBsum; 1KS4; -.
+DR   PDBsum; 1KS5; -.
+DR   SMR; O74705; 17-239.
+DR   STRING; 5061.CADANGAP00010994; -.
+DR   CAZy; GH12; Glycoside Hydrolase Family 12.
+DR   mycoCLAP; EGL12A_ASPNG; -.
+DR   eggNOG; ENOG4111NZR; LUCA.
+DR   GO; GO:0008810; F:cellulase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0000272; P:polysaccharide catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR002594; Glyco_hydro_12.
+DR   Pfam; PF01670; Glyco_hydro_12; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1KS4, ECO:0000213|PDB:1KS5};
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361163};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361163,
+KW   ECO:0000313|EMBL:CAA11964.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361163,
+KW   ECO:0000313|EMBL:CAA11964.1};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361163};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     16       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        17    239       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5005928950.
+FT   DISULFID     20     48       {ECO:0000213|PDB:1KS4,
+FT                                ECO:0000213|PDB:1KS5}.
+SQ   SEQUENCE   239 AA;  25859 MW;  5EB6267DA54A4A2A CRC64;
+     MKLPVSLAML AATAMGQTMC SQYDSASSPP YSVNQNLWGE YQGTGSQCVY VDKLSSSGAS
+     WHTEWTWSGG EGTVKSYSNS GVTFNKKLVS DVSSIPTSVE WKQDNTNVNA DVAYDLFTAA
+     NVDHATSSGD YELMIWLARY GNIQPIGKQI ATATVGGKSW EVWYGSTTQA GAEQRTYSFV
+     SESPINSYSG DINAFFSYLT QNQGFPASSQ YLINLQFGTE AFTGGPATFT VDNWTASVN
+//
+ID   Q96WR0_ASPKA            Unreviewed;       521 AA.
+AC   Q96WR0;
+DT   01-DEC-2001, integrated into UniProtKB/TrEMBL.
+DT   01-DEC-2001, sequence version 1.
+DT   09-DEC-2015, entry version 56.
+DE   SubName: Full=Endoglucanase A {ECO:0000313|EMBL:BAB62317.1};
+GN   Name=eglA {ECO:0000313|EMBL:BAB62317.1};
+OS   Aspergillus kawachii (White koji mold) (Aspergillus awamori var.
+OS   kawachi).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=40384 {ECO:0000313|EMBL:BAB62317.1};
+RN   [1] {ECO:0000313|EMBL:BAB62317.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Ito K., Shimoi H., Iwashita K., Hara Y., Hinoki Y.;
+RT   "Cloning and characterization of endoglucanase genes from an
+RT   industrial fungus Aspergillus kawachii.";
+RL   Submitted (FEB-2001) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB055431; BAB62317.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q96WR0; -.
+DR   SMR; Q96WR0; 31-331, 485-519.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH5; Glycoside Hydrolase Family 5.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    521       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004322587.
+FT   DOMAIN      483    519       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   521 AA;  55035 MW;  34F23C719DA1A5EB CRC64;
+     MRISNLIVAA SAATMVSALP SRQMKKRDSG FKWVGTSESG AEFGSALPGT LGTDYTWPET
+     SKIQVLRNKG MNIFRIPFLM ERLTPDGLTG SFASTYLSDL KSTVEFVTNS GAYAVLDPHN
+     YGRFDGSIIE STSDFKTWWK NVATEFADND KVIFDTNNEY HDMEQSLVLN LNQAAINGIR
+     AAGATTQYIF VEGNAYTGAW DWTTYNDDLS GLTDSEDKII YEMHQYLDSD SSGTSETCVS
+     STIGKERIEK ATEWLKTNNK QGIIGEFAGG VNSVCEEAVE GMLAYMSENS DVWVGASWWS
+     AGPWWGTYMY SLEPTDGTAY STYLPILEKY FPSGDASSSS SASASVAAAT SAVSTTTTAA
+     FEQTTTPATQ VEIASSSSSS SAVAASQTTL SKVKSKSKSP CKLSSATSSA VSSAAAVTTP
+     AVAATTPAAA PTSSSVAFAT TSVYVPTTTA AAPSQVSSSA AASSSGVVGV SDPQGPSATN
+     SAGEVNQYYQ CGGINWTGPT VCASPYTCKV QNDYYYQCVA E
+//
+ID   D3YNY2_ASPNG            Unreviewed;       239 AA.
+AC   D3YNY2;
+DT   20-APR-2010, integrated into UniProtKB/TrEMBL.
+DT   20-APR-2010, sequence version 1.
+DT   11-NOV-2015, entry version 15.
+DE   SubName: Full=Endoglucanase {ECO:0000313|EMBL:ADC84000.1};
+GN   Name=EglA {ECO:0000313|EMBL:ADC84000.1};
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061 {ECO:0000313|EMBL:ADC84000.1};
+RN   [1] {ECO:0000313|EMBL:ADC84000.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 10574 {ECO:0000313|EMBL:ADC84000.1};
+RA   Doris Quay H.X., Abu Bakar F.D., Said M., Rabu A., Hassan O.,
+RA   Mahadi N.M., Abdul Murad A.M.;
+RT   "Cloning and expression of Hypocrea jecorina cellobiohydrolase (CbhII)
+RT   and Aspergillus niger endoglucanase (EglA) in yeast expression system
+RT   Pichia pastoris.";
+RL   Submitted (JAN-2010) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 12 (cellulase H)
+CC       family. {ECO:0000256|RuleBase:RU361163}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GU724764; ADC84000.1; -; mRNA.
+DR   STRING; 5061.CADANGAP00010994; -.
+DR   PaxDb; D3YNY2; -.
+DR   eggNOG; ENOG4111NZR; LUCA.
+DR   GO; GO:0008810; F:cellulase activity; IEA:InterPro.
+DR   GO; GO:0000272; P:polysaccharide catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR002594; Glyco_hydro_12.
+DR   Pfam; PF01670; Glyco_hydro_12; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361163};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361163};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361163};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361163};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     16       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        17    239       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003052279.
+SQ   SEQUENCE   239 AA;  25801 MW;  4300C1427B1A49A5 CRC64;
+     MKLPVTLAML AATAMGQTMC SQYDSASSPP YSVNQNLWGE YQGTGSQCVY VDKLSSSGAS
+     WHTGWTWSGG EGTVKSYSNS GVTFNKKLVS DVSSIPTSVE WKQDNTNVNA DVAYDLFTAA
+     NVDHATSSGD YELMIWLARY GNIQPIGKQI ATATVGGKSW EVWYGSTTQA GAEQRTYSFV
+     SESPINSYSG DINAFFSYLT QNQGFPASSQ YLINLQFGTE AFTGGPATFT VDNWTASVN
+//
+ID   Q9URH5_9FUNG            Unreviewed;       362 AA.
+AC   Q9URH5;
+DT   01-MAY-2000, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-2000, sequence version 1.
+DT   17-FEB-2016, entry version 62.
+DE   SubName: Full=Endoglucanase {ECO:0000313|EMBL:AAF00074.2};
+DE   Flags: Fragment;
+GN   Name=eglA {ECO:0000313|EMBL:AAF00074.2};
+OS   Piromyces rhizinflatus.
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Piromyces.
+OX   NCBI_TaxID=73428 {ECO:0000313|EMBL:AAF00074.2};
+RN   [1] {ECO:0000213|PDB:3AYR, ECO:0000213|PDB:3AYS}
+RP   X-RAY CRYSTALLOGRAPHY (2.00 ANGSTROMS), AND DISULFIDE BONDS.
+RX   PubMed=22102024; DOI=10.1107/S1744309111032428;
+RA   Tseng C.W., Ko T.P., Guo R.T., Huang J.W., Wang H.C., Huang C.H.,
+RA   Cheng Y.S., Wang A.H., Liu J.R.;
+RT   "Substrate binding of a GH5 endoglucanase from the ruminal fungus
+RT   Piromyces rhizinflata.";
+RL   Acta Crystallogr. F 67:1189-1194(2011).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF094757; AAF00074.2; -; mRNA.
+DR   PDB; 3AYR; X-ray; 2.00 A; A=1-362.
+DR   PDB; 3AYS; X-ray; 2.20 A; A=1-362.
+DR   PDBsum; 3AYR; -.
+DR   PDBsum; 3AYS; -.
+DR   ProteinModelPortal; Q9URH5; -.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR018087; Glyco_hydro_5_CS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00659; GLYCOSYL_HYDROL_F5; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:3AYR, ECO:0000213|PDB:3AYS};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153}.
+FT   DOMAIN       37    314       Cellulase. {ECO:0000259|Pfam:PF00150}.
+FT   DISULFID     27     43       {ECO:0000213|PDB:3AYR,
+FT                                ECO:0000213|PDB:3AYS}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAF00074.2}.
+FT   NON_TER     362    362       {ECO:0000313|EMBL:AAF00074.2}.
+SQ   SEQUENCE   362 AA;  41611 MW;  48F40652B6326111 CRC64;
+     IRDISSKELI KEMNFGWNLG NTMDAQCIEY LNYEKDQTAS ETCWGNPKTT EDMFKVLIDN
+     QFNVFRIPTT WSGHFGEAPD YKIDEKWLKR VHEVVDYPYK NGAFVILNLH HETWNHAFSE
+     TLDTAKEILE KIWSQIAEEF KDYDEHLIFE GLNEPRKNDT PVEWTGGDQE GWDAVNAMNA
+     VFLKTVRSAG GNNPKRHLMI PPYAAACNEN SFNNFIFPED DDKVIASVHA YAPYNFALNN
+     GEGAVDKFDA AGKRDLEWNI NLMKKRFVDQ GIPMILGEYG AMNRDNEEDR ATWAEFYMEK
+     VTAMGVPQIW WDNGVFEGTG ERFGLLDRKN LKIVYPTIVA ALQKGRGLEV NVVHAIEKET
+     EE
+//
+ID   D3YNY1_HYPJE            Unreviewed;       471 AA.
+AC   D3YNY1;
+DT   20-APR-2010, integrated into UniProtKB/TrEMBL.
+DT   20-APR-2010, sequence version 1.
+DT   09-DEC-2015, entry version 19.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361186};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361186};
+GN   Name=CbhII {ECO:0000313|EMBL:ADC83999.1};
+OS   Hypocrea jecorina (Trichoderma reesei).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=51453 {ECO:0000313|EMBL:ADC83999.1};
+RN   [1] {ECO:0000313|EMBL:ADC83999.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=M5 {ECO:0000313|EMBL:ADC83999.1};
+RA   Doris Quay H.X., Abu Bakar F.D., Said M., Rabu A., Hassan O.,
+RA   Mahadi N.M., Abdul Murad A.M.;
+RT   "Cloning and expression of Hypocrea jecorina cellobiohydrolase (CbhII)
+RT   and Aspergillus niger endoglucanase (EglA) in yeast expression system
+RT   Pichia pastoris.";
+RL   Submitted (JAN-2010) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase family 6.
+CC       {ECO:0000256|RuleBase:RU361186}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GU724763; ADC83999.1; -; mRNA.
+DR   STRING; 51453.JGI72567; -.
+DR   eggNOG; COG5297; LUCA.
+DR   eggNOG; ENOG410IEPE; Eukaryota.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.40; -; 1.
+DR   InterPro; IPR016288; Beta_cellobiohydrolase.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR001524; Glyco_hydro_6_CS.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF01341; Glyco_hydro_6; 1.
+DR   PIRSF; PIRSF001100; Beta_cellobiohydrolase; 1.
+DR   PRINTS; PR00733; GLHYDRLASE6.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF51989; SSF51989; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS00655; GLYCOSYL_HYDROL_F6_1; 1.
+DR   PROSITE; PS00656; GLYCOSYL_HYDROL_F6_2; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361186};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361186};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361186};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361186};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361186};
+KW   Signal {ECO:0000256|RuleBase:RU361186}.
+FT   SIGNAL        1     18       {ECO:0000256|RuleBase:RU361186}.
+FT   CHAIN        19    471       Glucanase.
+FT                                {ECO:0000256|RuleBase:RU361186}.
+FT                                /FTId=PRO_5005126415.
+FT   DOMAIN       26     62       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+FT   ACT_SITE    199    199       {ECO:0000256|PIRSR:PIRSR001100-1}.
+FT   ACT_SITE    245    245       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR001100-1}.
+FT   ACT_SITE    425    425       Nucleophile.
+FT                                {ECO:0000256|PIRSR:PIRSR001100-1}.
+SQ   SEQUENCE   471 AA;  49641 MW;  EB9B2BC32F829492 CRC64;
+     MIVGILTTLA TLATLAASVP LEERQACSSV WGQCGGQNWS GPTCCASGST CVYSNDYYSQ
+     CLPGAASSSS STRAASTTSR VSPTTSRSSS ATPPPGSTTT RVPPVGSGTA TYSGNPFVGV
+     TPWANAYYAS EVSSLAIPSL TGAMATAAAA VAKVPSFMWL DTLDKTPLME QTLADIRTAN
+     KNGGNYAGQF VVYDLPDRDC AALASNGEYS IADGGVAKYK NYIDTIRQIV VEYSDIRTLL
+     VIEPDSLANL VTNLGTPKCA NAQSAYLECI NYAVTQLNLP NVAMYLDAGH AGWLGWPANQ
+     DPAAQLFANV YKNASSPRAL RGLATNVANY NGWNITSPPS YTQGNAVYNE KLYIHAIGPL
+     LANHGWSNAF FITDQGRSGK QPTGQQQWGD WCNVTGTGFG IRPSANTGDS LLDSFVWVKP
+     GGECDGTSDS SAPRFDSHCA LPDALQPAPQ AGAWFQAYFV QLLTNANPSF L
+//

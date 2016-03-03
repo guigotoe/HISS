@@ -1,0 +1,1198 @@
+ID   XYL1_MAGO7              Reviewed;         324 AA.
+AC   G4N708; Q3MSM7;
+DT   19-FEB-2014, integrated into UniProtKB/Swiss-Prot.
+DT   14-DEC-2011, sequence version 1.
+DT   11-NOV-2015, entry version 23.
+DE   RecName: Full=NAD(P)H-dependent D-xylose reductase XYR1;
+DE            Short=XR;
+DE            EC=1.1.1.307;
+GN   Name=XYR1; ORFNames=MGG_03648;
+OS   Magnaporthe oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958) (Rice
+OS   blast fungus) (Pyricularia oryzae).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Magnaporthales; Magnaporthaceae;
+OC   Magnaporthe.
+OX   NCBI_TaxID=242507;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], AND INDUCTION.
+RC   STRAIN=P1.2;
+RX   PubMed=23499935; DOI=10.1016/j.febslet.2013.03.003;
+RA   Klaubauf S., Ribot C., Melayah D., Lagorce A., Lebrun M.H.,
+RA   de Vries R.P.;
+RT   "The pentose catabolic pathway of the rice-blast fungus Magnaporthe
+RT   oryzae involves a novel pentose reductase restricted to few fungal
+RT   species.";
+RL   FEBS Lett. 587:1346-1352(2013).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=70-15 / ATCC MYA-4617 / FGSC 8958;
+RX   PubMed=15846337; DOI=10.1038/nature03449;
+RA   Dean R.A., Talbot N.J., Ebbole D.J., Farman M.L., Mitchell T.K.,
+RA   Orbach M.J., Thon M.R., Kulkarni R., Xu J.-R., Pan H., Read N.D.,
+RA   Lee Y.-H., Carbone I., Brown D., Oh Y.Y., Donofrio N., Jeong J.S.,
+RA   Soanes D.M., Djonovic S., Kolomiets E., Rehmeyer C., Li W.,
+RA   Harding M., Kim S., Lebrun M.-H., Bohnert H., Coughlan S., Butler J.,
+RA   Calvo S.E., Ma L.-J., Nicol R., Purcell S., Nusbaum C., Galagan J.E.,
+RA   Birren B.W.;
+RT   "The genome sequence of the rice blast fungus Magnaporthe grisea.";
+RL   Nature 434:980-986(2005).
+CC   -!- FUNCTION: Catalyzes the initial reaction in the xylose utilization
+CC       pathway by reducing D-xylose into xylitol. Xylose is a major
+CC       component of hemicelluloses such as xylan. Most fungi utilize D-
+CC       xylose via three enzymatic reactions, xylose reductase (XR),
+CC       xylitol dehydrogenase (XDH), and xylulokinase, to form xylulose 5-
+CC       phosphate, which enters pentose phosphate pathway (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Xylitol + NAD(P)(+) = D-xylose + NAD(P)H.
+CC   -!- PATHWAY: Carbohydrate metabolism; D-xylose degradation.
+CC   -!- INDUCTION: Overexpressed during growth on both D-xylose or L-
+CC       arabinose compared to D-glucose. Significantly expressed during
+CC       late stages of infection of barley leaves.
+CC       {ECO:0000269|PubMed:23499935}.
+CC   -!- SIMILARITY: Belongs to the aldo/keto reductase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ890447; CAI67591.1; -; mRNA.
+DR   EMBL; CM001234; EHA49921.1; -; Genomic_DNA.
+DR   RefSeq; XP_003716240.1; XM_003716192.1.
+DR   ProteinModelPortal; G4N708; -.
+DR   EnsemblFungi; MGG_03648T0; MGG_03648T0; MGG_03648.
+DR   GeneID; 2676633; -.
+DR   KEGG; mgr:MGG_03648; -.
+DR   InParanoid; G4N708; -.
+DR   KO; K17743; -.
+DR   OrthoDB; EOG7WQ83S; -.
+DR   UniPathway; UPA00810; -.
+DR   Proteomes; UP000009058; Chromosome 4.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042843; P:D-xylose catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism; Complete proteome; NAD; NADP; Oxidoreductase;
+KW   Reference proteome; Xylose metabolism.
+FT   CHAIN         1    324       NAD(P)H-dependent D-xylose reductase
+FT                                XYR1.
+FT                                /FTId=PRO_0000425415.
+FT   NP_BIND     168    169       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     217    226       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     273    283       NAD or NADP. {ECO:0000250}.
+FT   ACT_SITE     50     50       Proton donor. {ECO:0000250}.
+FT   BINDING     112    112       Substrate. {ECO:0000250}.
+FT   SITE         79     79       Lowers pKa of active site Tyr.
+FT                                {ECO:0000250}.
+SQ   SEQUENCE   324 AA;  36631 MW;  EA7067EE14977862 CRC64;
+     MASPTMKLNN GLDMPQVGFG LWKVENSVCA DVVYNAIKAG YRLFDGACDY GNEVECGQGV
+     KRAIDEGLVK REELFIVSKL WNTFHDGERV EPIVKKQLAD WGIEYFDLYL IHFPVALEYV
+     DPSVRYPPGW HYDDAGTEIR PSKASIQETW TAMEKLVDAG LSKAIGVSNF QAQLLYDMLR
+     YARIRPATLQ IEHHPYLVQQ RLIEACKTEG IVVTAYSSFG PASFKEFNME HAEALTPLLE
+     EPTIVKLAEK YGKDPGQVLL RWATQRGLAV IPKSSREKTM KSNFEAVGWD MEDSDIKTIS
+     ALDKGIRFNQ PANYFSTDKL WIFG
+//
+ID   XYNB_GIBZE              Reviewed;         228 AA.
+AC   I1RII8;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   13-JUN-2012, sequence version 1.
+DT   17-FEB-2016, entry version 27.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Xylanase 2;
+DE   Flags: Precursor;
+GN   Name=XYLB; Synonyms=XYL2; ORFNames=FGSG_03624;
+OS   Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084)
+OS   (Wheat head blight fungus) (Fusarium graminearum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium.
+OX   NCBI_TaxID=229533;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=17823352; DOI=10.1126/science.1143708;
+RA   Cuomo C.A., Gueldener U., Xu J.-R., Trail F., Turgeon B.G.,
+RA   Di Pietro A., Walton J.D., Ma L.-J., Baker S.E., Rep M., Adam G.,
+RA   Antoniw J., Baldwin T., Calvo S.E., Chang Y.-L., DeCaprio D.,
+RA   Gale L.R., Gnerre S., Goswami R.S., Hammond-Kosack K., Harris L.J.,
+RA   Hilburn K., Kennell J.C., Kroken S., Magnuson J.K., Mannhaupt G.,
+RA   Mauceli E.W., Mewes H.-W., Mitterbauer R., Muehlbauer G.,
+RA   Muensterkoetter M., Nelson D., O'Donnell K., Ouellet T., Qi W.,
+RA   Quesneville H., Roncero M.I.G., Seong K.-Y., Tetko I.V., Urban M.,
+RA   Waalwijk C., Ward T.J., Yao J., Birren B.W., Kistler H.C.;
+RT   "The Fusarium graminearum genome reveals a link between localized
+RT   polymorphism and pathogen specialization.";
+RL   Science 317:1400-1402(2007).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=20237561; DOI=10.1038/nature08850;
+RA   Ma L.-J., van der Does H.C., Borkovich K.A., Coleman J.J.,
+RA   Daboussi M.-J., Di Pietro A., Dufresne M., Freitag M., Grabherr M.,
+RA   Henrissat B., Houterman P.M., Kang S., Shim W.-B., Woloshuk C.,
+RA   Xie X., Xu J.-R., Antoniw J., Baker S.E., Bluhm B.H., Breakspear A.,
+RA   Brown D.W., Butchko R.A.E., Chapman S., Coulson R., Coutinho P.M.,
+RA   Danchin E.G.J., Diener A., Gale L.R., Gardiner D.M., Goff S.,
+RA   Hammond-Kosack K.E., Hilburn K., Hua-Van A., Jonkers W., Kazan K.,
+RA   Kodira C.D., Koehrsen M., Kumar L., Lee Y.-H., Li L., Manners J.M.,
+RA   Miranda-Saavedra D., Mukherjee M., Park G., Park J., Park S.-Y.,
+RA   Proctor R.H., Regev A., Ruiz-Roldan M.C., Sain D., Sakthikumar S.,
+RA   Sykes S., Schwartz D.C., Turgeon B.G., Wapinski I., Yoder O.,
+RA   Young S., Zeng Q., Zhou S., Galagan J., Cuomo C.A., Kistler H.C.,
+RA   Rep M.;
+RT   "Comparative genomics reveals mobile pathogenicity chromosomes in
+RT   Fusarium.";
+RL   Nature 464:367-373(2010).
+RN   [3]
+RP   SUBCELLULAR LOCATION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL
+RP   PROPERTIES, AND ENZYME REGULATION.
+RX   PubMed=15629130; DOI=10.1016/j.bbrc.2004.12.036;
+RA   Belien T., Van Campenhout S., Van Acker M., Volckaert G.;
+RT   "Cloning and characterization of two endoxylanases from the cereal
+RT   phytopathogen Fusarium graminearum and their inhibition profile
+RT   against endoxylanase inhibitors from wheat.";
+RL   Biochem. Biophys. Res. Commun. 327:407-414(2005).
+RN   [4]
+RP   INDUCTION.
+RX   PubMed=16707104; DOI=10.1016/j.bbrc.2006.04.171;
+RA   Hatsch D., Phalip V., Petkovski E., Jeltsch J.M.;
+RT   "Fusarium graminearum on plant cell wall: no fewer than 30 xylanase
+RT   genes transcribed.";
+RL   Biochem. Biophys. Res. Commun. 345:959-966(2006).
+RN   [5]
+RP   INDUCTION.
+RX   PubMed=17924109; DOI=10.1007/s00294-007-0154-x;
+RA   Brunner K., Lichtenauer A.M., Kratochwill K., Delic M., Mach R.L.;
+RT   "Xyr1 regulates xylanase but not cellulase formation in the head
+RT   blight fungus Fusarium graminearum.";
+RL   Curr. Genet. 52:213-220(2007).
+RN   [6]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   ENZYME REGULATION.
+RX   DOI=10.1016/j.enzmictec.2008.12.005;
+RA   Pollet A., Belien T., Fierens K., Delcour J.A., Courtin C.M.;
+RT   "Fusarium graminearum xylanases show different functional stabilities,
+RT   substrate specificities and inhibition sensitivities.";
+RL   Enzyme Microb. Technol. 44:189-195(2009).
+RN   [7]
+RP   SUBCELLULAR LOCATION, IDENTIFICATION BY MASS SPECTROMETRY, FUNCTION,
+RP   CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND ENZYME
+RP   REGULATION.
+RX   PubMed=22313372; DOI=10.1021/jf203407p;
+RA   Dong X., Meinhardt S.W., Schwarz P.B.;
+RT   "Isolation and characterization of two endoxylanases from Fusarium
+RT   graminearum.";
+RL   J. Agric. Food Chem. 60:2538-2545(2012).
+RN   [8]
+RP   INDUCTION, FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=23337356; DOI=10.1016/j.plaphy.2012.12.008;
+RA   Sella L., Gazzetti K., Faoro F., Odorizzi S., D'Ovidio R., Schafer W.,
+RA   Favaron F.;
+RT   "A Fusarium graminearum xylanase expressed during wheat infection is a
+RT   necrotizing factor but is not essential for virulence.";
+RL   Plant Physiol. Biochem. 64:1-10(2013).
+RN   [9]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=24779355; DOI=10.1094/PHYTO-12-13-0355-R;
+RA   Sella L., Gazzetti K.G., Castiglioni C., Schafer W., Favaron F.;
+RT   "Fusarium graminearum possesses virulence factors common to Fusarium
+RT   head blight of wheat and seedling rot of soybean, but differing in
+RT   their impact on disease severity.";
+RL   Phytopathology 104:1201-1207(2014).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Plays a important role in
+CC       causing fusarium head blight (FHB) on cereal crops. Induces cell
+CC       death and hydrogen peroxide accumulation in infected wheat leaves.
+CC       {ECO:0000269|PubMed:22313372, ECO:0000269|PubMed:23337356,
+CC       ECO:0000269|PubMed:24779355, ECO:0000269|Ref.6}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:15629130,
+CC       ECO:0000269|PubMed:22313372, ECO:0000269|Ref.6}.
+CC   -!- ENZYME REGULATION: Inhibited by the proteinaceous endoxylanase
+CC       inhibitor I from T.aestivum (TAXI-I).
+CC       {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC       ECO:0000269|Ref.6}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=6.2 mg/ml for wheat flour arabinoxylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         KM=4.3 mg/ml for soluble oat spelt xylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         KM=11.9 mg/ml for soluble birchwood xylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         Vmax=18.4 umol/min/mg enzyme toward xylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         Vmax=61.7 umol/min/mg enzyme toward arabinoxylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC       pH dependence:
+CC         Optimum pH is 7.0. {ECO:0000269|PubMed:15629130,
+CC         ECO:0000269|PubMed:22313372, ECO:0000269|Ref.6};
+CC       Temperature dependence:
+CC         Optimum temperature is 40 degrees Celsius.
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:15629130,
+CC       ECO:0000269|PubMed:22313372}.
+CC   -!- INDUCTION: Expression is under the control of transcription factor
+CC       XYR1 and highly induced during wheat infection and by xylan.
+CC       {ECO:0000269|PubMed:16707104, ECO:0000269|PubMed:17924109,
+CC       ECO:0000269|PubMed:23337356}.
+CC   -!- DISRUPTION PHENOTYPE: Leads to about 40 percent reduction of
+CC       xylanase activity when grown in culture with xylan as carbon
+CC       source. {ECO:0000269|PubMed:23337356,
+CC       ECO:0000269|PubMed:24779355}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ863566; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AY575961; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DS231664; ESU09578.1; -; Genomic_DNA.
+DR   RefSeq; XP_011322077.1; XM_011323775.1.
+DR   ProteinModelPortal; I1RII8; -.
+DR   SMR; I1RII8; 41-227.
+DR   GeneID; 23550922; -.
+DR   KEGG; fgr:FGSG_03624; -.
+DR   eggNOG; ENOG410YH6C; LUCA.
+DR   InParanoid; I1RII8; -.
+DR   KO; K01181; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Virulence;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    228       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000429610.
+FT   DOMAIN       37    227       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    122    122       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    214    214       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+SQ   SEQUENCE   228 AA;  24544 MW;  F21FFE62EC3B0B80 CRC64;
+     MVSFTYLLAA VSAVTGAVAA PNPTKVDAQP PSGLLEKRTS PTTGVNNGFY FSFWTDTPSA
+     VTYTNGNGGQ FSMNWNGNRG NHVGGKGWNP GAARTIKYSG DYRPNGNSYL AVYGWTRNPL
+     VEYYIVENFG TYNPSSGAQK KGEINIDGSI YDIAVSTRNC APSIEGDCKT FQQYWSVRRN
+     KRSSGSVNTG AHFNAWAQAG LRLGSHDYQI LAVEGYQSSG QATMTVSG
+//
+ID   I6QQ88_TRIKO            Unreviewed;       937 AA.
+AC   I6QQ88;
+DT   03-OCT-2012, integrated into UniProtKB/TrEMBL.
+DT   03-OCT-2012, sequence version 1.
+DT   17-FEB-2016, entry version 23.
+DE   SubName: Full=Xylanase regulator 1 {ECO:0000313|EMBL:AFM31002.1};
+GN   Name=xyr1 {ECO:0000313|EMBL:AFM31002.1};
+OS   Trichoderma koningii (Hypocrea koningii).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=97093 {ECO:0000313|EMBL:AFM31002.1};
+RN   [1] {ECO:0000313|EMBL:AFM31002.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=YC01 {ECO:0000313|EMBL:AFM31002.1};
+RX   PubMed=23769310; DOI=10.1016/j.enzmictec.2013.04.007;
+RA   Wang S., Liu G., Yu J., Tian S., Huang B., Xing M.;
+RT   "RNA interference with carbon catabolite repression in Trichoderma
+RT   koningii for enhancing cellulase production.";
+RL   Enzyme Microb. Technol. 53:104-109(2013).
+CC   -!- SIMILARITY: Contains Zn(2)-C6 fungal-type DNA-binding domain.
+CC       {ECO:0000256|SAAS:SAAS00239440}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JQ837288; AFM31002.1; -; Genomic_DNA.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016798; F:hydrolase activity, acting on glycosyl bonds; IEA:UniProtKB-KW.
+DR   GO; GO:0000981; F:RNA polymerase II transcription factor activity, sequence-specific DNA binding; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 4.10.240.10; -; 1.
+DR   InterPro; IPR007219; Transcription_factor_dom_fun.
+DR   InterPro; IPR001138; Zn2-C6_fun-type_DNA-bd.
+DR   Pfam; PF04082; Fungal_trans; 1.
+DR   Pfam; PF00172; Zn_clus; 1.
+DR   SMART; SM00906; Fungal_trans; 1.
+DR   SMART; SM00066; GAL4; 1.
+DR   SUPFAM; SSF57701; SSF57701; 1.
+DR   PROSITE; PS50048; ZN2_CY6_FUNGAL_2; 1.
+PE   4: Predicted;
+KW   Carbohydrate metabolism {ECO:0000313|EMBL:AFM31002.1};
+KW   DNA-binding {ECO:0000256|SAAS:SAAS00454906};
+KW   Glycosidase {ECO:0000313|EMBL:AFM31002.1};
+KW   Hydrolase {ECO:0000313|EMBL:AFM31002.1};
+KW   Metal-binding {ECO:0000256|SAAS:SAAS00454753};
+KW   Nucleus {ECO:0000256|SAAS:SAAS00454566};
+KW   Polysaccharide degradation {ECO:0000313|EMBL:AFM31002.1};
+KW   Transcription {ECO:0000256|SAAS:SAAS00454620};
+KW   Transcription regulation {ECO:0000256|SAAS:SAAS00454620};
+KW   Xylan degradation {ECO:0000313|EMBL:AFM31002.1};
+KW   Zinc {ECO:0000256|SAAS:SAAS00454864}.
+FT   DOMAIN       97    126       Zn(2)-C6 fungal-type DNA-binding.
+FT                                {ECO:0000259|PROSITE:PS50048}.
+SQ   SEQUENCE   937 AA;  102590 MW;  D08A030F01EE1146 CRC64;
+     MLSNPLRRYS AYPDISSASF DPSYHGPQSH LHSINVNTFS NSHPYPMQHL SQHAELSSSR
+     MIRAGPVQPK QRQGSLIAGR KNSTGTAGPI RRRISRACDQ CNQLRTKCDG LHPCAHCIEF
+     GLGCEYVRER KKRGKASRKD IAAQQAAAAA AQQSGQAPDG PEDQHRKLSR QQSESSRGSA
+     ELAQPANDPP HGHVEGSVSS YSDNGLSQHA AMGGMDGLED HHGHVGVDPA LGRTQLEASS
+     AIGLGPYGEV HPGYESPGMN GHVMVAPSFG AAQTTLPGYS GISYAAQAPS PATYSSDGNF
+     RLTGHIHDYP LANGSSPSWG VSLASPSNQF QLQLSQPIFK QSDLRYPVLE PLLPHLGSIL
+     PVSLACDLID LYFSSSSSAQ MHPMSPYVLG FVFRKRSFLH PTNPRRCQPA LLASMLWVAA
+     QTSEASFLTS LPSARSKVCQ KLLELTVGLL QPLIHTGTNS PSPKTSPVVG ASALGVLGVA
+     MPGSLNMESL AGETGAFGAI GSLDDVITYV HLATVISASE YKGASLRWWG AAWSLARELK
+     LGRELPPGNP PANQEEGDGL SEDVDEHDLN RNNTRFVTEE EREERRRAWW LVYIVDRHLA
+     LCYNRPLFLL DSECSDLYHP MDDIKWQAGK FRSHDAGNID SSMTDEFGDS PRAARGAHYE
+     CRGRSIFGYF LSLMTILGEI VDVHHAKSHP RFGVGFRSAR DWDEQVAEIT RHLDMYEESL
+     KRFVAKHLPL ATKDKEQHEM HDSGAVVDMQ SPLSVRTNAS SRMTESEIQA SIVVAYSTHV
+     MHVLHILLAD KWDPINLLDD DDLWISSEGF VTATSHAVSA AEAISQILEF DPGLEFMPFF
+     YGVYLLQGSF LLLLIADKLQ AEASPSVIKA CETIVRAHEA CVVTLSTEYQ RNFSKVMRSA
+     LALIRGRVPE DLAEQQQRRR ELLALYRWTG NGTGLAL
+//
+ID   S5FYP3_9HYPO            Unreviewed;       937 AA.
+AC   S5FYP3;
+DT   16-OCT-2013, integrated into UniProtKB/TrEMBL.
+DT   16-OCT-2013, sequence version 1.
+DT   17-FEB-2016, entry version 20.
+DE   SubName: Full=Xylanase regulator 1 {ECO:0000313|EMBL:AGQ51615.1};
+GN   Name=xyr1 {ECO:0000313|EMBL:AGQ51615.1};
+OS   Trichoderma orientale.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=1490998 {ECO:0000313|EMBL:AGQ51615.1};
+RN   [1] {ECO:0000313|EMBL:AGQ51615.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=EU7-22 {ECO:0000313|EMBL:AGQ51615.1};
+RA   Long C.N., Long M.N.;
+RL   Submitted (MAR-2013) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Contains Zn(2)-C6 fungal-type DNA-binding domain.
+CC       {ECO:0000256|SAAS:SAAS00239440}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KC793261; AGQ51615.1; -; Genomic_DNA.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0016798; F:hydrolase activity, acting on glycosyl bonds; IEA:UniProtKB-KW.
+DR   GO; GO:0000981; F:RNA polymerase II transcription factor activity, sequence-specific DNA binding; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 4.10.240.10; -; 1.
+DR   InterPro; IPR007219; Transcription_factor_dom_fun.
+DR   InterPro; IPR001138; Zn2-C6_fun-type_DNA-bd.
+DR   Pfam; PF04082; Fungal_trans; 1.
+DR   Pfam; PF00172; Zn_clus; 1.
+DR   SMART; SM00906; Fungal_trans; 1.
+DR   SMART; SM00066; GAL4; 1.
+DR   SUPFAM; SSF57701; SSF57701; 1.
+DR   PROSITE; PS50048; ZN2_CY6_FUNGAL_2; 1.
+PE   4: Predicted;
+KW   Carbohydrate metabolism {ECO:0000313|EMBL:AGQ51615.1};
+KW   DNA-binding {ECO:0000256|SAAS:SAAS00454906};
+KW   Glycosidase {ECO:0000313|EMBL:AGQ51615.1};
+KW   Hydrolase {ECO:0000313|EMBL:AGQ51615.1};
+KW   Metal-binding {ECO:0000256|SAAS:SAAS00454753};
+KW   Nucleus {ECO:0000256|SAAS:SAAS00454566};
+KW   Polysaccharide degradation {ECO:0000313|EMBL:AGQ51615.1};
+KW   Transcription {ECO:0000256|SAAS:SAAS00454620};
+KW   Transcription regulation {ECO:0000256|SAAS:SAAS00454620};
+KW   Xylan degradation {ECO:0000313|EMBL:AGQ51615.1};
+KW   Zinc {ECO:0000256|SAAS:SAAS00454864}.
+FT   DOMAIN       97    126       Zn(2)-C6 fungal-type DNA-binding.
+FT                                {ECO:0000259|PROSITE:PS50048}.
+SQ   SEQUENCE   937 AA;  102590 MW;  D08A030F01EE1146 CRC64;
+     MLSNPLRRYS AYPDISSASF DPSYHGPQSH LHSINVNTFS NSHPYPMQHL SQHAELSSSR
+     MIRAGPVQPK QRQGSLIAGR KNSTGTAGPI RRRISRACDQ CNQLRTKCDG LHPCAHCIEF
+     GLGCEYVRER KKRGKASRKD IAAQQAAAAA AQQSGQAPDG PEDQHRKLSR QQSESSRGSA
+     ELAQPANDPP HGHVEGSVSS YSDNGLSQHA AMGGMDGLED HHGHVGVDPA LGRTQLEASS
+     AIGLGPYGEV HPGYESPGMN GHVMVAPSFG AAQTTLPGYS GISYAAQAPS PATYSSDGNF
+     RLTGHIHDYP LANGSSPSWG VSLASPSNQF QLQLSQPIFK QSDLRYPVLE PLLPHLGSIL
+     PVSLACDLID LYFSSSSSAQ MHPMSPYVLG FVFRKRSFLH PTNPRRCQPA LLASMLWVAA
+     QTSEASFLTS LPSARSKVCQ KLLELTVGLL QPLIHTGTNS PSPKTSPVVG ASALGVLGVA
+     MPGSLNMESL AGETGAFGAI GSLDDVITYV HLATVISASE YKGASLRWWG AAWSLARELK
+     LGRELPPGNP PANQEEGDGL SEDVDEHDLN RNNTRFVTEE EREERRRAWW LVYIVDRHLA
+     LCYNRPLFLL DSECSDLYHP MDDIKWQAGK FRSHDAGNID SSMTDEFGDS PRAARGAHYE
+     CRGRSIFGYF LSLMTILGEI VDVHHAKSHP RFGVGFRSAR DWDEQVAEIT RHLDMYEESL
+     KRFVAKHLPL ATKDKEQHEM HDSGAVVDMQ SPLSVRTNAS SRMTESEIQA SIVVAYSTHV
+     MHVLHILLAD KWDPINLLDD DDLWISSEGF VTATSHAVSA AEAISQILEF DPGLEFMPFF
+     YGVYLLQGSF LLLLIADKLQ AEASPSVIKA CETIVRAHEA CVVTLSTEYQ RNFSKVMRSA
+     LALIRGRVPE DLAEQQQRRR ELLALYRWTG NGTGLAL
+//
+ID   XYNC_GIBZE              Reviewed;         327 AA.
+AC   I1S3T9;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   13-JUN-2012, sequence version 1.
+DT   17-FEB-2016, entry version 27.
+DE   RecName: Full=Endo-1,4-beta-xylanase C;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase C;
+DE   Flags: Precursor;
+GN   Name=XYLC; ORFNames=FGSG_11487;
+OS   Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084)
+OS   (Wheat head blight fungus) (Fusarium graminearum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium.
+OX   NCBI_TaxID=229533;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=17823352; DOI=10.1126/science.1143708;
+RA   Cuomo C.A., Gueldener U., Xu J.-R., Trail F., Turgeon B.G.,
+RA   Di Pietro A., Walton J.D., Ma L.-J., Baker S.E., Rep M., Adam G.,
+RA   Antoniw J., Baldwin T., Calvo S.E., Chang Y.-L., DeCaprio D.,
+RA   Gale L.R., Gnerre S., Goswami R.S., Hammond-Kosack K., Harris L.J.,
+RA   Hilburn K., Kennell J.C., Kroken S., Magnuson J.K., Mannhaupt G.,
+RA   Mauceli E.W., Mewes H.-W., Mitterbauer R., Muehlbauer G.,
+RA   Muensterkoetter M., Nelson D., O'Donnell K., Ouellet T., Qi W.,
+RA   Quesneville H., Roncero M.I.G., Seong K.-Y., Tetko I.V., Urban M.,
+RA   Waalwijk C., Ward T.J., Yao J., Birren B.W., Kistler H.C.;
+RT   "The Fusarium graminearum genome reveals a link between localized
+RT   polymorphism and pathogen specialization.";
+RL   Science 317:1400-1402(2007).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=20237561; DOI=10.1038/nature08850;
+RA   Ma L.-J., van der Does H.C., Borkovich K.A., Coleman J.J.,
+RA   Daboussi M.-J., Di Pietro A., Dufresne M., Freitag M., Grabherr M.,
+RA   Henrissat B., Houterman P.M., Kang S., Shim W.-B., Woloshuk C.,
+RA   Xie X., Xu J.-R., Antoniw J., Baker S.E., Bluhm B.H., Breakspear A.,
+RA   Brown D.W., Butchko R.A.E., Chapman S., Coulson R., Coutinho P.M.,
+RA   Danchin E.G.J., Diener A., Gale L.R., Gardiner D.M., Goff S.,
+RA   Hammond-Kosack K.E., Hilburn K., Hua-Van A., Jonkers W., Kazan K.,
+RA   Kodira C.D., Koehrsen M., Kumar L., Lee Y.-H., Li L., Manners J.M.,
+RA   Miranda-Saavedra D., Mukherjee M., Park G., Park J., Park S.-Y.,
+RA   Proctor R.H., Regev A., Ruiz-Roldan M.C., Sain D., Sakthikumar S.,
+RA   Sykes S., Schwartz D.C., Turgeon B.G., Wapinski I., Yoder O.,
+RA   Young S., Zeng Q., Zhou S., Galagan J., Cuomo C.A., Kistler H.C.,
+RA   Rep M.;
+RT   "Comparative genomics reveals mobile pathogenicity chromosomes in
+RT   Fusarium.";
+RL   Nature 464:367-373(2010).
+RN   [3]
+RP   INDUCTION.
+RX   PubMed=16707104; DOI=10.1016/j.bbrc.2006.04.171;
+RA   Hatsch D., Phalip V., Petkovski E., Jeltsch J.M.;
+RT   "Fusarium graminearum on plant cell wall: no fewer than 30 xylanase
+RT   genes transcribed.";
+RL   Biochem. Biophys. Res. Commun. 345:959-966(2006).
+RN   [4]
+RP   INDUCTION.
+RX   PubMed=17924109; DOI=10.1007/s00294-007-0154-x;
+RA   Brunner K., Lichtenauer A.M., Kratochwill K., Delic M., Mach R.L.;
+RT   "Xyr1 regulates xylanase but not cellulase formation in the head
+RT   blight fungus Fusarium graminearum.";
+RL   Curr. Genet. 52:213-220(2007).
+RN   [5]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   ENZYME REGULATION.
+RX   DOI=10.1016/j.enzmictec.2008.12.005;
+RA   Pollet A., Belien T., Fierens K., Delcour J.A., Courtin C.M.;
+RT   "Fusarium graminearum xylanases show different functional stabilities,
+RT   substrate specificities and inhibition sensitivities.";
+RL   Enzyme Microb. Technol. 44:189-195(2009).
+RN   [6]
+RP   INDUCTION.
+RX   PubMed=23337356; DOI=10.1016/j.plaphy.2012.12.008;
+RA   Sella L., Gazzetti K., Faoro F., Odorizzi S., D'Ovidio R., Schafer W.,
+RA   Favaron F.;
+RT   "A Fusarium graminearum xylanase expressed during wheat infection is a
+RT   necrotizing factor but is not essential for virulence.";
+RL   Plant Physiol. Biochem. 64:1-10(2013).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Plays a important role in
+CC       causing fusarium head blight (FHB) on cereal crops.
+CC       {ECO:0000269|Ref.5}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|Ref.5}.
+CC   -!- ENZYME REGULATION: Weakly inhibited by the wheat xylanase
+CC       inhibiting protein I (XIP-I). {ECO:0000269|Ref.5}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=3.6 mg/ml for wheat flour arabinoxylan {ECO:0000269|Ref.5};
+CC         KM=3.5 mg/ml for soluble oat spelt xylan {ECO:0000269|Ref.5};
+CC         KM=6.3 mg/ml for soluble birchwood xylan {ECO:0000269|Ref.5};
+CC       pH dependence:
+CC         Optimum pH is 5.0-7.0. {ECO:0000269|Ref.5};
+CC       Temperature dependence:
+CC         Optimum temperature is 40 degrees Celsius. {ECO:0000269|Ref.5};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- INDUCTION: Expression is under the control of transcription factor
+CC       XYR1 and highly induced by xylan, carboxymethylcellulose (CMC),
+CC       and hop cell wall. {ECO:0000269|PubMed:16707104,
+CC       ECO:0000269|PubMed:17924109, ECO:0000269|PubMed:23337356}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 10 (cellulase F)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH10 (glycosyl hydrolase family 10) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01096}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY575965; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DS231671; ESU18104.1; -; Genomic_DNA.
+DR   RefSeq; XP_011325726.1; XM_011327424.1.
+DR   STRING; 229533.XP_391663.1; -.
+DR   mycoCLAP; XYN10C_GIBZE; -.
+DR   GeneID; 23558319; -.
+DR   KEGG; fgr:FGSG_11487; -.
+DR   eggNOG; ENOG410IH86; Eukaryota.
+DR   eggNOG; COG3693; LUCA.
+DR   InParanoid; I1S3T9; -.
+DR   KO; K01181; -.
+DR   OrthoDB; EOG7GJ6PM; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001000; Glyco_hydro_10.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00331; Glyco_hydro_10; 1.
+DR   PRINTS; PR00134; GLHYDRLASE10.
+DR   SMART; SM00633; Glyco_10; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS51760; GH10_2; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Disulfide bond; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Virulence;
+KW   Xylan degradation.
+FT   SIGNAL        1     15       {ECO:0000255}.
+FT   CHAIN        16    327       Endo-1,4-beta-xylanase C.
+FT                                /FTId=PRO_0000429611.
+FT   DOMAIN       43    325       GH10. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01096}.
+FT   ACT_SITE    154    154       Proton donor. {ECO:0000250}.
+FT   ACT_SITE    262    262       Nucleophile. {ECO:0000250}.
+FT   DISULFID    280    286       {ECO:0000250}.
+SQ   SEQUENCE   327 AA;  35739 MW;  5552A6A73E487C4E CRC64;
+     MKFSSLLFTA SLVAAMPASI EPRQAQESIN KLIKAKGKLY YGTITDPNLL QSQQNNAVIK
+     ADFGQVTPEN SMKWDATEPQ QGKFNFGGGD QVVNFAAQNG LKVRGHALVW HSQLPQWVHN
+     IKDKTQMKNA IENHIKNVAG HFKGKVYAWD VLNEIFDWDG SLRKDSPFTQ VLGEEFVGIA
+     FRAARAADPN AKLYINDYSI DDPNAAKLKA GMVAHVKKWV SQGIPIDGIG SQTHLDPGAA
+     NGVQAALQQM ASTGVKEVAI TELDIRSAPA ADYATVTKAC LNVPKCVGIT VWGVSDKDSW
+     RKEKDSLLFN AQYQAKPAYT AVVNALR
+//
+ID   XYN1_GIBZE              Reviewed;         354 AA.
+AC   I1RQU5;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   13-JUN-2012, sequence version 1.
+DT   17-FEB-2016, entry version 25.
+DE   RecName: Full=Endo-1,4-beta-xylanase 1;
+DE            Short=Xylanase 1;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase 1;
+DE   Flags: Precursor;
+GN   Name=XYL1; ORFNames=FGSG_06445;
+OS   Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084)
+OS   (Wheat head blight fungus) (Fusarium graminearum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium.
+OX   NCBI_TaxID=229533;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=17823352; DOI=10.1126/science.1143708;
+RA   Cuomo C.A., Gueldener U., Xu J.-R., Trail F., Turgeon B.G.,
+RA   Di Pietro A., Walton J.D., Ma L.-J., Baker S.E., Rep M., Adam G.,
+RA   Antoniw J., Baldwin T., Calvo S.E., Chang Y.-L., DeCaprio D.,
+RA   Gale L.R., Gnerre S., Goswami R.S., Hammond-Kosack K., Harris L.J.,
+RA   Hilburn K., Kennell J.C., Kroken S., Magnuson J.K., Mannhaupt G.,
+RA   Mauceli E.W., Mewes H.-W., Mitterbauer R., Muehlbauer G.,
+RA   Muensterkoetter M., Nelson D., O'Donnell K., Ouellet T., Qi W.,
+RA   Quesneville H., Roncero M.I.G., Seong K.-Y., Tetko I.V., Urban M.,
+RA   Waalwijk C., Ward T.J., Yao J., Birren B.W., Kistler H.C.;
+RT   "The Fusarium graminearum genome reveals a link between localized
+RT   polymorphism and pathogen specialization.";
+RL   Science 317:1400-1402(2007).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=20237561; DOI=10.1038/nature08850;
+RA   Ma L.-J., van der Does H.C., Borkovich K.A., Coleman J.J.,
+RA   Daboussi M.-J., Di Pietro A., Dufresne M., Freitag M., Grabherr M.,
+RA   Henrissat B., Houterman P.M., Kang S., Shim W.-B., Woloshuk C.,
+RA   Xie X., Xu J.-R., Antoniw J., Baker S.E., Bluhm B.H., Breakspear A.,
+RA   Brown D.W., Butchko R.A.E., Chapman S., Coulson R., Coutinho P.M.,
+RA   Danchin E.G.J., Diener A., Gale L.R., Gardiner D.M., Goff S.,
+RA   Hammond-Kosack K.E., Hilburn K., Hua-Van A., Jonkers W., Kazan K.,
+RA   Kodira C.D., Koehrsen M., Kumar L., Lee Y.-H., Li L., Manners J.M.,
+RA   Miranda-Saavedra D., Mukherjee M., Park G., Park J., Park S.-Y.,
+RA   Proctor R.H., Regev A., Ruiz-Roldan M.C., Sain D., Sakthikumar S.,
+RA   Sykes S., Schwartz D.C., Turgeon B.G., Wapinski I., Yoder O.,
+RA   Young S., Zeng Q., Zhou S., Galagan J., Cuomo C.A., Kistler H.C.,
+RA   Rep M.;
+RT   "Comparative genomics reveals mobile pathogenicity chromosomes in
+RT   Fusarium.";
+RL   Nature 464:367-373(2010).
+RN   [3]
+RP   INDUCTION.
+RX   PubMed=16707104; DOI=10.1016/j.bbrc.2006.04.171;
+RA   Hatsch D., Phalip V., Petkovski E., Jeltsch J.M.;
+RT   "Fusarium graminearum on plant cell wall: no fewer than 30 xylanase
+RT   genes transcribed.";
+RL   Biochem. Biophys. Res. Commun. 345:959-966(2006).
+RN   [4]
+RP   INDUCTION.
+RX   PubMed=17924109; DOI=10.1007/s00294-007-0154-x;
+RA   Brunner K., Lichtenauer A.M., Kratochwill K., Delic M., Mach R.L.;
+RT   "Xyr1 regulates xylanase but not cellulase formation in the head
+RT   blight fungus Fusarium graminearum.";
+RL   Curr. Genet. 52:213-220(2007).
+RN   [5]
+RP   SUBCELLULAR LOCATION, IDENTIFICATION BY MASS SPECTROMETRY, FUNCTION,
+RP   CATALYTIC ACTIVITY, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=22313372; DOI=10.1021/jf203407p;
+RA   Dong X., Meinhardt S.W., Schwarz P.B.;
+RT   "Isolation and characterization of two endoxylanases from Fusarium
+RT   graminearum.";
+RL   J. Agric. Food Chem. 60:2538-2545(2012).
+RN   [6]
+RP   INDUCTION.
+RX   PubMed=23337356; DOI=10.1016/j.plaphy.2012.12.008;
+RA   Sella L., Gazzetti K., Faoro F., Odorizzi S., D'Ovidio R., Schafer W.,
+RA   Favaron F.;
+RT   "A Fusarium graminearum xylanase expressed during wheat infection is a
+RT   necrotizing factor but is not essential for virulence.";
+RL   Plant Physiol. Biochem. 64:1-10(2013).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Plays a important role in
+CC       causing fusarium head blight (FHB) on cereal crops.
+CC       {ECO:0000269|PubMed:22313372}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:22313372}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.86 mg/ml for xylan {ECO:0000269|PubMed:22313372};
+CC         KM=1.7 mg/ml for arabinoxylan {ECO:0000269|PubMed:22313372};
+CC         Vmax=15.9 umol/min/mg enzyme toward xylan
+CC         {ECO:0000269|PubMed:22313372};
+CC         Vmax=12.4 umol/min/mg enzyme toward arabinoxylan
+CC         {ECO:0000269|PubMed:22313372};
+CC       pH dependence:
+CC         Optimum pH is 6.0. {ECO:0000269|PubMed:22313372};
+CC       Temperature dependence:
+CC         Optimum temperature is 40 degrees Celsius.
+CC         {ECO:0000269|PubMed:22313372};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:22313372}.
+CC   -!- INDUCTION: Expression is under the control of transcription factor
+CC       XYR1 and highly induced by xylan. {ECO:0000269|PubMed:16707104,
+CC       ECO:0000269|PubMed:17924109, ECO:0000269|PubMed:23337356}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 10 (cellulase F)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH10 (glycosyl hydrolase family 10) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01096}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY730561; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DS231666; ESU12536.1; -; Genomic_DNA.
+DR   RefSeq; XP_011326043.1; XM_011327741.1.
+DR   STRING; 229533.XP_386621.1; -.
+DR   GeneID; 23553577; -.
+DR   KEGG; fgr:FGSG_06445; -.
+DR   eggNOG; ENOG410IERE; Eukaryota.
+DR   eggNOG; COG3693; LUCA.
+DR   InParanoid; I1RQU5; -.
+DR   KO; K01181; -.
+DR   OrthoDB; EOG7GJ6PM; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001000; Glyco_hydro_10.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00331; Glyco_hydro_10; 1.
+DR   PRINTS; PR00134; GLHYDRLASE10.
+DR   SMART; SM00633; Glyco_10; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS51760; GH10_2; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Disulfide bond; Glycoprotein; Glycosidase;
+KW   Hydrolase; Polysaccharide degradation; Secreted; Signal; Virulence;
+KW   Xylan degradation.
+FT   SIGNAL        1      ?       {ECO:0000255}.
+FT   CHAIN         ?    354       Endo-1,4-beta-xylanase 1.
+FT                                /FTId=PRO_0000429613.
+FT   DOMAIN       19    339       GH10. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01096}.
+FT   ACT_SITE    147    147       Proton donor. {ECO:0000250}.
+FT   ACT_SITE    261    261       Nucleophile. {ECO:0000250}.
+FT   CARBOHYD    117    117       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    289    295       {ECO:0000250}.
+SQ   SEQUENCE   354 AA;  39336 MW;  A593D4861805182C CRC64;
+     MAWLQPTLCR KELESRQTSG LDAAMKAAGK KYFGTALTVR NDAGETNVLN TKGEFGSITP
+     ENAMKWEAIQ PNRGQFNWGP ADQHANAATQ RGMELRCHTL VWHSQLPSWV ANGNWNNQTL
+     QQVMKDHINA VMGRYKGKCT HWDVVNEALN EDGTYRDSVF YRVIGEAFIP IAFRMVLAAD
+     PTTKLYYNDY NLEYGGAKTA GAIRITKLIQ SYGLRIDGVG LQAHMTSEST PTQSTVTPSR
+     ANLASVLNSF TKLNVDVAYT ELDIRMNTPA NQQKLQANAA AYARMVGSCM DVKRCVGVTV
+     WGISDKYSWV PGTFPGEGSA LLWDDNFNKK PSYTSSLNTI RACWKCHRLL VSIS
+//
+ID   XYND_GIBZE              Reviewed;         381 AA.
+AC   I1S3C6;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   13-JUN-2012, sequence version 1.
+DT   17-FEB-2016, entry version 28.
+DE   RecName: Full=Endo-1,4-beta-xylanase D;
+DE            Short=Xylanase D;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase D;
+DE   Flags: Precursor;
+GN   Name=XYLD; ORFNames=FGSG_11304;
+OS   Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084)
+OS   (Wheat head blight fungus) (Fusarium graminearum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium.
+OX   NCBI_TaxID=229533;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=17823352; DOI=10.1126/science.1143708;
+RA   Cuomo C.A., Gueldener U., Xu J.-R., Trail F., Turgeon B.G.,
+RA   Di Pietro A., Walton J.D., Ma L.-J., Baker S.E., Rep M., Adam G.,
+RA   Antoniw J., Baldwin T., Calvo S.E., Chang Y.-L., DeCaprio D.,
+RA   Gale L.R., Gnerre S., Goswami R.S., Hammond-Kosack K., Harris L.J.,
+RA   Hilburn K., Kennell J.C., Kroken S., Magnuson J.K., Mannhaupt G.,
+RA   Mauceli E.W., Mewes H.-W., Mitterbauer R., Muehlbauer G.,
+RA   Muensterkoetter M., Nelson D., O'Donnell K., Ouellet T., Qi W.,
+RA   Quesneville H., Roncero M.I.G., Seong K.-Y., Tetko I.V., Urban M.,
+RA   Waalwijk C., Ward T.J., Yao J., Birren B.W., Kistler H.C.;
+RT   "The Fusarium graminearum genome reveals a link between localized
+RT   polymorphism and pathogen specialization.";
+RL   Science 317:1400-1402(2007).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=20237561; DOI=10.1038/nature08850;
+RA   Ma L.-J., van der Does H.C., Borkovich K.A., Coleman J.J.,
+RA   Daboussi M.-J., Di Pietro A., Dufresne M., Freitag M., Grabherr M.,
+RA   Henrissat B., Houterman P.M., Kang S., Shim W.-B., Woloshuk C.,
+RA   Xie X., Xu J.-R., Antoniw J., Baker S.E., Bluhm B.H., Breakspear A.,
+RA   Brown D.W., Butchko R.A.E., Chapman S., Coulson R., Coutinho P.M.,
+RA   Danchin E.G.J., Diener A., Gale L.R., Gardiner D.M., Goff S.,
+RA   Hammond-Kosack K.E., Hilburn K., Hua-Van A., Jonkers W., Kazan K.,
+RA   Kodira C.D., Koehrsen M., Kumar L., Lee Y.-H., Li L., Manners J.M.,
+RA   Miranda-Saavedra D., Mukherjee M., Park G., Park J., Park S.-Y.,
+RA   Proctor R.H., Regev A., Ruiz-Roldan M.C., Sain D., Sakthikumar S.,
+RA   Sykes S., Schwartz D.C., Turgeon B.G., Wapinski I., Yoder O.,
+RA   Young S., Zeng Q., Zhou S., Galagan J., Cuomo C.A., Kistler H.C.,
+RA   Rep M.;
+RT   "Comparative genomics reveals mobile pathogenicity chromosomes in
+RT   Fusarium.";
+RL   Nature 464:367-373(2010).
+RN   [3]
+RP   INDUCTION.
+RX   PubMed=16707104; DOI=10.1016/j.bbrc.2006.04.171;
+RA   Hatsch D., Phalip V., Petkovski E., Jeltsch J.M.;
+RT   "Fusarium graminearum on plant cell wall: no fewer than 30 xylanase
+RT   genes transcribed.";
+RL   Biochem. Biophys. Res. Commun. 345:959-966(2006).
+RN   [4]
+RP   INDUCTION.
+RX   PubMed=17924109; DOI=10.1007/s00294-007-0154-x;
+RA   Brunner K., Lichtenauer A.M., Kratochwill K., Delic M., Mach R.L.;
+RT   "Xyr1 regulates xylanase but not cellulase formation in the head
+RT   blight fungus Fusarium graminearum.";
+RL   Curr. Genet. 52:213-220(2007).
+RN   [5]
+RP   FUNCTION, CATALYTIC ACTIVITY, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=18707875; DOI=10.1016/j.biortech.2008.07.006;
+RA   Carapito R., Carapito C., Jeltsch J.M., Phalip V.;
+RT   "Efficient hydrolysis of hemicellulose by a Fusarium graminearum
+RT   xylanase blend produced at high levels in Escherichia coli.";
+RL   Bioresour. Technol. 100:845-850(2009).
+RN   [6]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   ENZYME REGULATION.
+RX   DOI=10.1016/j.enzmictec.2008.12.005;
+RA   Pollet A., Belien T., Fierens K., Delcour J.A., Courtin C.M.;
+RT   "Fusarium graminearum xylanases show different functional stabilities,
+RT   substrate specificities and inhibition sensitivities.";
+RL   Enzyme Microb. Technol. 44:189-195(2009).
+RN   [7]
+RP   INDUCTION.
+RX   PubMed=23337356; DOI=10.1016/j.plaphy.2012.12.008;
+RA   Sella L., Gazzetti K., Faoro F., Odorizzi S., D'Ovidio R., Schafer W.,
+RA   Favaron F.;
+RT   "A Fusarium graminearum xylanase expressed during wheat infection is a
+RT   necrotizing factor but is not essential for virulence.";
+RL   Plant Physiol. Biochem. 64:1-10(2013).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Plays a important role in
+CC       causing fusarium head blight (FHB) on cereal crops.
+CC       {ECO:0000269|PubMed:18707875, ECO:0000269|Ref.6}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:18707875,
+CC       ECO:0000269|Ref.6}.
+CC   -!- ENZYME REGULATION: Inhibited by the wheat xylanase inhibiting
+CC       protein I (XIP-I). {ECO:0000269|Ref.6}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 6.0. {ECO:0000269|PubMed:18707875,
+CC         ECO:0000269|Ref.6};
+CC       Temperature dependence:
+CC         Optimum temperature is 50 degrees Celsius.
+CC         {ECO:0000269|PubMed:18707875, ECO:0000269|Ref.6};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- INDUCTION: Expression is under the control of transcription factor
+CC       XYR1 and highly induced by xylan, carboxymethylcellulose (CMC),
+CC       and hop cell wall. {ECO:0000269|PubMed:16707104,
+CC       ECO:0000269|PubMed:17924109, ECO:0000269|PubMed:23337356}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 10 (cellulase F)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -!- SIMILARITY: Contains 1 GH10 (glycosyl hydrolase family 10) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01096}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY575964; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DS231671; ESU18318.1; -; Genomic_DNA.
+DR   RefSeq; XP_011325940.1; XM_011327638.1.
+DR   ProteinModelPortal; I1S3C6; -.
+DR   SMR; I1S3C6; 77-380.
+DR   STRING; 229533.XP_391480.1; -.
+DR   GeneID; 23558155; -.
+DR   KEGG; fgr:FGSG_11304; -.
+DR   eggNOG; COG3693; LUCA.
+DR   InParanoid; I1S3C6; -.
+DR   KO; K01181; -.
+DR   OrthoDB; EOG7GJ6PM; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR001000; Glyco_hydro_10.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00331; Glyco_hydro_10; 1.
+DR   PRINTS; PR00134; GLHYDRLASE10.
+DR   SMART; SM00236; fCBD; 1.
+DR   SMART; SM00633; Glyco_10; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS51760; GH10_2; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Disulfide bond; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Virulence;
+KW   Xylan degradation.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   CHAIN        19    381       Endo-1,4-beta-xylanase D.
+FT                                /FTId=PRO_0000429612.
+FT   DOMAIN       19     52       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   DOMAIN       74    379       GH10. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01096}.
+FT   ACT_SITE    205    205       Proton donor. {ECO:0000250}.
+FT   ACT_SITE    316    316       Nucleophile. {ECO:0000250}.
+FT   DISULFID    334    340       {ECO:0000250}.
+SQ   SEQUENCE   381 AA;  41327 MW;  B57FB580B66AF72E CRC64;
+     MHFLGLVVAF APAALAQSAI WGQCGGTGWS GSTTCQSGLK CEKINDFYYQ CIPGSDNGGG
+     TTPDPGTPSP GNGNADATGL DAKIRAKGKI YFGTEIDHYH LSNNPLINIV KKDFGQVTNE
+     NSMKWDAIEP SRGQFTFSNA DKVVDFAQAN GKKIRGHTLL WYSQLPQWVK NIRDRATMTS
+     VIENHVKTVV TRYKGKILHW DVVNEIFAED GNMRNSEFYQ VLGEDFVGIA FRAARAADPA
+     AKLYINDYNL DIANYAKVTR GMVDHVNKWV SQGIPIDGIG SQAHLAKPGG WNPASGFPAA
+     LKVLAGANVK EVAITELDID GAAANDYVTV VNSCLTTPKC VGITVWGVSD KDSWRSESNP
+     LLFDRNYQPK AAYTAVSNAL N
+//
+ID   G0RLE8_HYPJQ            Unreviewed;       920 AA.
+AC   G0RLE8;
+DT   19-OCT-2011, integrated into UniProtKB/TrEMBL.
+DT   19-OCT-2011, sequence version 1.
+DT   17-FEB-2016, entry version 27.
+DE   SubName: Full=Xylanase regulator 1 {ECO:0000313|EMBL:EGR48040.1};
+GN   Name=xyr1 {ECO:0000313|EMBL:EGR48040.1};
+GN   ORFNames=TRIREDRAFT_122208 {ECO:0000313|EMBL:EGR48040.1};
+OS   Hypocrea jecorina (strain QM6a) (Trichoderma reesei).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=431241 {ECO:0000313|Proteomes:UP000008984};
+RN   [1] {ECO:0000313|EMBL:EGR48040.1, ECO:0000313|Proteomes:UP000008984}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=QM6a {ECO:0000313|EMBL:EGR48040.1,
+RC   ECO:0000313|Proteomes:UP000008984};
+RX   PubMed=18454138; DOI=10.1038/nbt1403;
+RA   Martinez D., Berka R.M., Henrissat B., Saloheimo M., Arvas M.,
+RA   Baker S.E., Chapman J., Chertkov O., Coutinho P.M., Cullen D.,
+RA   Danchin E.G., Grigoriev I.V., Harris P., Jackson M., Kubicek C.P.,
+RA   Han C.S., Ho I., Larrondo L.F., de Leon A.L., Magnuson J.K.,
+RA   Merino S., Misra M., Nelson B., Putnam N., Robbertse B., Salamov A.A.,
+RA   Schmoll M., Terry A., Thayer N., Westerholm-Parvinen A., Schoch C.L.,
+RA   Yao J., Barabote R., Nelson M.A., Detter C., Bruce D., Kuske C.R.,
+RA   Xie G., Richardson P., Rokhsar D.S., Lucas S.M., Rubin E.M.,
+RA   Dunn-Coleman N., Ward M., Brettin T.S.;
+RT   "Genome sequencing and analysis of the biomass-degrading fungus
+RT   Trichoderma reesei (syn. Hypocrea jecorina).";
+RL   Nat. Biotechnol. 26:553-560(2008).
+CC   -!- SIMILARITY: Contains Zn(2)-C6 fungal-type DNA-binding domain.
+CC       {ECO:0000256|SAAS:SAAS00239440}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GL985066; EGR48040.1; -; Genomic_DNA.
+DR   RefSeq; XP_006966092.1; XM_006966030.1.
+DR   EnsemblFungi; EGR48040; EGR48040; TRIREDRAFT_122208.
+DR   GeneID; 18483357; -.
+DR   KEGG; tre:TRIREDRAFT_122208; -.
+DR   OrthoDB; EOG7380DB; -.
+DR   Proteomes; UP000008984; Unassembled WGS sequence.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000981; F:RNA polymerase II transcription factor activity, sequence-specific DNA binding; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 4.10.240.10; -; 1.
+DR   InterPro; IPR007219; Transcription_factor_dom_fun.
+DR   InterPro; IPR001138; Zn2-C6_fun-type_DNA-bd.
+DR   Pfam; PF04082; Fungal_trans; 1.
+DR   Pfam; PF00172; Zn_clus; 1.
+DR   SMART; SM00906; Fungal_trans; 1.
+DR   SMART; SM00066; GAL4; 1.
+DR   SUPFAM; SSF57701; SSF57701; 1.
+DR   PROSITE; PS50048; ZN2_CY6_FUNGAL_2; 1.
+PE   4: Predicted;
+KW   Carbohydrate metabolism {ECO:0000313|EMBL:EGR48040.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008984};
+KW   DNA-binding {ECO:0000256|SAAS:SAAS00454906};
+KW   Metal-binding {ECO:0000256|SAAS:SAAS00454753};
+KW   Nucleus {ECO:0000256|SAAS:SAAS00454566};
+KW   Polysaccharide degradation {ECO:0000313|EMBL:EGR48040.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008984};
+KW   Transcription {ECO:0000256|SAAS:SAAS00454620};
+KW   Transcription regulation {ECO:0000256|SAAS:SAAS00454620};
+KW   Xylan degradation {ECO:0000313|EMBL:EGR48040.1};
+KW   Zinc {ECO:0000256|SAAS:SAAS00454864}.
+FT   DOMAIN       97    126       Zn(2)-C6 fungal-type DNA-binding.
+FT                                {ECO:0000259|PROSITE:PS50048}.
+SQ   SEQUENCE   920 AA;  100823 MW;  8E87642C985B620D CRC64;
+     MLSNPLRRYS AYPDISSASF DPNYHGSQSH LHSINVNTFG NSHPYPMQHL AQHAELSSSR
+     MIRASPVQPK QRQGSLIAAR KNSTGTAGPI RRRISRACDQ CNQLRTKCDG LHPCAHCIEF
+     GLGCEYVRER KKRGKASRKD IAAQQAAAAA AQHSGQVQDG PEDQHRKLSR QQSESSRGSA
+     ELAQPAHDPP HGHIEGSVSS FSDNGLSQHA AMGGMDGLED HHGHVGVDPA LGRTQLEASS
+     AMGLGAYGEV HPGYESPGMN GHVMVPPSYG AQTTMAGYSG ISYAAQAPSP ATYSSDGNFR
+     LTGHIHDYPL ANGSSPSWGQ SDLRYPVLEP LLPHLGNILP VSLACDLIDL YFSSSSSAQM
+     HPMSPYVLGF VFRKRSFLHP TNPRRCQPAL LASMLWVAAQ TSEASFLTSL PSARSKVCQK
+     LLELTVGLLQ PLIHTGTNSP SPKTSPVVGA AALGVLGVAM PGSLNMDSLA GETGAFGAIG
+     SLDDVITYVH LATVVSASEY KGASLRWWGA AWSLARELKL GRELPPGNPP ANQEDGEGLS
+     EDVDEHDLNR NNTRFVTEEE REERRRAWWL VYIVDRHLAL CYNRPLFLLD SECSDLYHPM
+     DDIKWQAGKF RSHDAGNSSI NIDSSMTDEF GDSPRAARGA HYECRGRSIF GYFLSLMTIL
+     GEIVDVHHAK SHPRFGVGFR SARDWDEQVA EITRHLDMYE ESLKRFVAKH LPLSSKDKEQ
+     HEMHDSGAVT DMQSPLSVRT NASSRMTESE IQASIVVAYS THVMHVLHIL LADKWDPINL
+     LDDDDLWISS EGFVTATSHA VSAAEAISQI LEFDPGLEFM PFFYGVYLLQ GSFLLLLIAD
+     KLQAEASPSV IKACETIVRA HEACVVTLST EYQRNFSKVM RSALALIRGR VPEDLAEQQQ
+     RRRELLALYR WTGNGTGLAL
+//
+ID   Q876Q1_HYPJE            Unreviewed;       934 AA.
+AC   Q876Q1;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   17-FEB-2016, entry version 62.
+DE   SubName: Full=Xylanase regulator 1 {ECO:0000313|EMBL:AAO33577.1};
+DE   Flags: Fragment;
+GN   Name=xyr1 {ECO:0000313|EMBL:AAO33577.1};
+OS   Hypocrea jecorina (Trichoderma reesei).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=51453 {ECO:0000313|EMBL:AAO33577.1};
+RN   [1] {ECO:0000313|EMBL:AAO33577.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Rauscher R.F., Kubicek C.P., Mach R.L.;
+RL   Submitted (JAN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:AAO33577.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=16524900; DOI=10.1128/EC.5.3.447-456.2006;
+RA   Rauscher R., Wurleitner E., Wacenovsky C., Aro N., Stricker A.R.,
+RA   Zeilinger S., Kubicek C.P., Penttila M., Mach R.L.;
+RT   "Transcriptional regulation of xyn1, encoding xylanase I, in Hypocrea
+RT   jecorina.";
+RL   Eukaryot. Cell 5:447-456(2006).
+CC   -!- SIMILARITY: Contains Zn(2)-C6 fungal-type DNA-binding domain.
+CC       {ECO:0000256|SAAS:SAAS00404989}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF479644; AAO33577.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q876Q1; -.
+DR   STRING; 51453.JGI122208; -.
+DR   eggNOG; ENOG410IRWS; Eukaryota.
+DR   eggNOG; ENOG410YDEK; LUCA.
+DR   GO; GO:0005634; C:nucleus; IEA:UniProtKB-KW.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0000981; F:RNA polymerase II transcription factor activity, sequence-specific DNA binding; IEA:InterPro.
+DR   GO; GO:0008270; F:zinc ion binding; IEA:InterPro.
+DR   GO; GO:0006351; P:transcription, DNA-templated; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 4.10.240.10; -; 1.
+DR   InterPro; IPR007219; Transcription_factor_dom_fun.
+DR   InterPro; IPR001138; Zn2-C6_fun-type_DNA-bd.
+DR   Pfam; PF04082; Fungal_trans; 1.
+DR   Pfam; PF00172; Zn_clus; 1.
+DR   SMART; SM00906; Fungal_trans; 1.
+DR   SMART; SM00066; GAL4; 1.
+DR   SUPFAM; SSF57701; SSF57701; 1.
+DR   PROSITE; PS50048; ZN2_CY6_FUNGAL_2; 1.
+PE   4: Predicted;
+KW   Carbohydrate metabolism {ECO:0000313|EMBL:AAO33577.1};
+KW   DNA-binding {ECO:0000256|SAAS:SAAS00483842};
+KW   Metal-binding {ECO:0000256|SAAS:SAAS00454753};
+KW   Nucleus {ECO:0000256|SAAS:SAAS00454566};
+KW   Polysaccharide degradation {ECO:0000313|EMBL:AAO33577.1};
+KW   Transcription {ECO:0000256|SAAS:SAAS00483576};
+KW   Transcription regulation {ECO:0000256|SAAS:SAAS00483576};
+KW   Xylan degradation {ECO:0000313|EMBL:AAO33577.1};
+KW   Zinc {ECO:0000256|SAAS:SAAS00454864}.
+FT   DOMAIN       97    126       Zn(2)-C6 fungal-type DNA-binding.
+FT                                {ECO:0000259|PROSITE:PS50048}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAO33577.1}.
+SQ   SEQUENCE   934 AA;  102428 MW;  CAE3D3AA9941F895 CRC64;
+     MLSNPLRRYS AYPDISSASF DPNYHGSQSH LHSINVNTFG NSHPYPMQHL AQHAELSSSR
+     MIRASPVQPK QRQGSLIAAR KNSTGTAGPI RRRISRACDQ CNQLRTKCDG LHPCAHCIEF
+     GLGCEYVRER KKRGKASRKD IAAQQAAAAA AQHSGQVQDG PEDQHRKLSR QQSESSRGSA
+     ELAQPAHDPP HGHIEGSVSS FSDNGLSQHA AMGGMDGLED HHGHVGVDPA LGRTQLEASS
+     AMGLGAYGEV HPGYESPGMN GHVMVPPSYG AQTTMAGYSG ISYAAQAPSP ATYSSDGNFR
+     LTGHIHDYPL ANGSSPSWGV SLASPSLRYH VLRPVLLDVR NIYPVSLACD QMDMYFSSSS
+     SAQMRPMSPY VEGFVFRKRS FLHPTDPRRC QPALLASMLW VAAQTSEASF LTSLPSARSK
+     VCQKLLELTV GLLQPLIHTG TNSPSPKTSP VVGAAALGVL GVAMPGSLNM DSLAGETGAF
+     GAIGSLDDVI AYVRLATVVS ASEYKGASLR WWGAAWSLAR ELKLGRELPP GNPPANQEDG
+     EGLSEDVDEH DLNRNNTRLG RKRSAKSDAI TEEEREERRR AWWLVYIVDR HLALCYNRPL
+     FLLDSECSDL YHPMDDIKWQ AGKFRSHDAG NSSINIDSSM TDEFGDSPRA ARGAHYECRG
+     RSIFGYFLSL MTILGEIVDV HHAKSHPRFG VGFRSARDWD EQVAEITRHL DMYEESLKRF
+     VAKHLPLSSK DKEQHEMHDS GAVTDMQSPL SVRTNASSRM TESEIQASIV VAYSTHVMHV
+     LHILLADKWD PINLLDDDDL WISSEGFVTA TSHAVSAAEA ISQILEFDPG LEFMPFFFGI
+     YLLQGSFLLL LIADKLQAEA SPSVIKACET IVRAHEACVV TLSTEYQRNF SKVMRSALAL
+     IRGRVPEDLA EQQQRRRELL ALYRWTGNGT GLAL
+//
+ID   A0A0M0UC13_9PEZI        Unreviewed;       322 AA.
+AC   A0A0M0UC13;
+DT   11-NOV-2015, integrated into UniProtKB/TrEMBL.
+DT   11-NOV-2015, sequence version 1.
+DT   20-JAN-2016, entry version 3.
+DE   SubName: Full=NAD(P)H-dependent D-xylose reductase XYR1 {ECO:0000313|EMBL:KOP47002.1};
+GN   ORFNames=MMYC01_G03001 {ECO:0000313|EMBL:KOP47002.1};
+OS   Madurella mycetomatis.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Sordariales;
+OC   mitosporic Sordariales; Madurella.
+OX   NCBI_TaxID=100816 {ECO:0000313|EMBL:KOP47002.1, ECO:0000313|Proteomes:UP000037099};
+RN   [1] {ECO:0000313|Proteomes:UP000037099}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=mm55 {ECO:0000313|Proteomes:UP000037099};
+RA   Smit S., Derks M.F.L., Bervoets S., Fahal A., van Leeuwen W.,
+RA   van Belkum A., van de Sande W.W.J.;
+RT   "Madurella mycetomatis genome sequencing.";
+RL   Submitted (JUN-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KOP47002.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LCTW01000189; KOP47002.1; -; Genomic_DNA.
+DR   Proteomes; UP000037099; Unassembled WGS sequence.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000037099};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000037099}.
+FT   DOMAIN       16    299       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     49     49       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   322 AA;  36409 MW;  843D96E6027DD567 CRC64;
+     MAPVIKLNSG YDMPQVGFGL WKVDNAICAD VVYNAIKAGY RLFDGACDYG NEVECGQGVS
+     RAIKEGIVKR EDLFIVSKLW NSFHDGDRVE PIVRKQLSDW GVDYFDLYLI HFPVALEYVD
+     PSVRYPPGWF YDGKSEIRPS KASIQETWTA MEALVGKGLA RSIGISNFQA QLVYDLLRYA
+     KIRPATLQIE HHPYLVQQEL LNLAKHEGIA VTAYSSFGPA SFREFNMKHA AALTPLMEDQ
+     KINAIAAKYN RPPSEVLLRW ATQRGLAIIP KSARKETMES NLRSIDFDLS EEDIAAISAF
+     DRGIRFNQPT NYFSTEHLWI FG
+//

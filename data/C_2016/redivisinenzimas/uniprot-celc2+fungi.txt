@@ -1,0 +1,60 @@
+ID   A0A0B7FEC3_THACB        Unreviewed;       533 AA.
+AC   A0A0B7FEC3;
+DT   01-APR-2015, integrated into UniProtKB/TrEMBL.
+DT   01-APR-2015, sequence version 1.
+DT   09-DEC-2015, entry version 5.
+DE   SubName: Full=Endoglucanase {ECO:0000313|EMBL:CEL55269.1};
+DE            EC=3.2.1.4 {ECO:0000313|EMBL:CEL55269.1};
+GN   Name=celC2 {ECO:0000313|EMBL:CEL55269.1};
+GN   ORFNames=RSOLAG1IB_01278 {ECO:0000313|EMBL:CEL55269.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CEL55269.1};
+RN   [1] {ECO:0000313|EMBL:CEL55269.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Rhizoctonia solani AG1-IB 7/3/14 {ECO:0000313|EMBL:CEL55269.1};
+RA   Wibberg Daniel;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LN679101; CEL55269.1; -; Genomic_DNA.
+DR   GO; GO:0008810; F:cellulase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR005102; Carbo-bd_X2.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   Pfam; PF03442; CBM_X2; 1.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153,
+KW   ECO:0000313|EMBL:CEL55269.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153,
+KW   ECO:0000313|EMBL:CEL55269.1}; Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    533       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002115771.
+FT   DOMAIN       48    320       Cellulase. {ECO:0000259|Pfam:PF00150}.
+FT   DOMAIN      369    439       CBM_X2. {ECO:0000259|Pfam:PF03442}.
+SQ   SEQUENCE   533 AA;  58704 MW;  271E9FADBCD2296F CRC64;
+     MVSLLVVLAA LASGRNVLAA FTPLSAKETF ARMSPGWNLG NTLDALPVEG GWNNPPVQNV
+     TFSQIYADGF RSVRIPITFV NQFVTEAPSY TVNTTWLSRI NYVVDAALST GLYAVVNVHH
+     DSWHWADMSG SKPDIDARKA KFEKLWQQLA TTLKDKNERL IFEALNEPVG STQADANVLN
+     DLNLRFANVV RNTGGNNPQR VLSLPGLNNN AQYLNQWFTP PNNYTLDKWT VQFHYYSPWD
+     FTSNAWGKTF WGSDADKAIV DSEFAEVRGN FSVPILIGEY GTYSVGSAIE KAAGWAWYDH
+     VVRTAVKYTM VPQWWDNGND FYDRINAKWR DVTTKNIVIA AAAGKINTIP YNGNGTVWLK
+     SGITVLPSIY LQYNGNTLKG IYTPSGSALT AGKDYTVVTS PLTGFALTSS YIASLGSTST
+     LGEIGRVIVR SSSGADLEID IRRYARPVIS TPTINVSGNT NDYFINFSPN GAKLATVKAL
+     GPSGEIVKDD WTVWLGEPQA GRINWGDYGV YETQLIIYSG LMNTIKNFGK PVT
+//

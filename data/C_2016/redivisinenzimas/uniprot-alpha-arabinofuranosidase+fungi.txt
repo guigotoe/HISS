@@ -1,0 +1,810 @@
+ID   Q6RKQ1_AURPU            Unreviewed;       498 AA.
+AC   Q6RKQ1;
+DT   05-JUL-2004, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2004, sequence version 1.
+DT   09-DEC-2015, entry version 45.
+DE   SubName: Full=Alpha arabinofuranosidase {ECO:0000313|EMBL:AAR87863.1};
+DE            EC=3.2.1.55 {ECO:0000313|EMBL:AAR87863.1};
+GN   Name=abfA {ECO:0000313|EMBL:AAR87863.1};
+OS   Aureobasidium pullulans (Black yeast) (Pullularia pullulans).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Dothideomycetes; Dothideomycetidae; Dothideales; Aureobasidiaceae;
+OC   Aureobasidium.
+OX   NCBI_TaxID=5580 {ECO:0000313|EMBL:AAR87863.1};
+RN   [1] {ECO:0000313|EMBL:AAR87863.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   de Wet B.J.M., Prior B.A.;
+RT   "The Aureobasidium pullulans NRRL Y-2311-1 alpha arabinofuranosidase
+RT   gene, abfA.";
+RL   Submitted (DEC-2003) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:AAR87863.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=17955189; DOI=10.1007/s00253-007-1235-y;
+RA   de Wet B.J., Matthew M.K., Storbeck K.H., van Zyl W.H., Prior B.A.;
+RT   "Characterization of a family 54 alpha-L-arabinofuranosidase from
+RT   Aureobasidium pullulans.";
+RL   Appl. Microbiol. Biotechnol. 77:975-983(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY495375; AAR87863.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q6RKQ1; -.
+DR   SMR; Q6RKQ1; 21-498.
+DR   CAZy; CBM42; Carbohydrate-Binding Module Family 42.
+DR   CAZy; GH54; Glycoside Hydrolase Family 54.
+DR   mycoCLAP; ABF54A_AURPU; -.
+DR   BRENDA; 3.2.1.55; 579.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0031221; P:arabinan metabolic process; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR015289; A-L-arabinofuranosidase_B_cat.
+DR   InterPro; IPR007934; AbfB_ABD.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   Pfam; PF05270; AbfB; 1.
+DR   Pfam; PF09206; ArabFuran-catal; 1.
+DR   SUPFAM; SSF110221; SSF110221; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Glycosidase {ECO:0000313|EMBL:AAR87863.1};
+KW   Hydrolase {ECO:0000313|EMBL:AAR87863.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    498       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004279438.
+FT   DOMAIN       22    336       ArabFuran-catal.
+FT                                {ECO:0000259|Pfam:PF09206}.
+FT   DOMAIN      354    493       AbfB. {ECO:0000259|Pfam:PF05270}.
+SQ   SEQUENCE   498 AA;  51874 MW;  E6C7E4CB30DAC353 CRC64;
+     MRSRTNIALG LAATGSLVAA APCDIYQNGG TPCVAAHGTT RALYDSYTGP LYQLKRGSDG
+     TTTDISPLSA GGVANAAAQD SFCKGTTCLI SIIYDQSGRA NHLYQAQKGA FSGPDVNGND
+     NLAGAIGAPV TLNGKKAYGV FISPGTGYRN DEVSGTATGN EPEGMYAVLD GTHYNDACCF
+     DYGNAEISNT DTGNGHMEAV YYGNNTIWGS GSGSGPWLMA DLENGLFSGQ GTKQNTADPS
+     ISNRFFTGMV KGEPNQWALR GSNAASGSLS TYYSGARPTV GGYNPMSLEG AIILGIGGDN
+     SNGAQGTFYE GVMTSGYPSD ATEASVQANI VAAKYATTSL NTAPLTVGNK ISIKVTTPGY
+     DTRYLAHTGA TVNTQVVSSS SATSLKQQAS WTVRTGLGNS GCYSFESVDT PGSFIRHYNF
+     QLQLNANDNT KAFKEDATFC SQTGLVTGNT FNSWSYPAKF IRHYNNVGYI ASNGGVHDFD
+     SATGFNNDVS FVVGSSFA
+//
+ID   A0A059U4D1_9PEZI        Unreviewed;       391 AA.
+AC   A0A059U4D1;
+DT   03-SEP-2014, integrated into UniProtKB/TrEMBL.
+DT   03-SEP-2014, sequence version 1.
+DT   09-DEC-2015, entry version 5.
+DE   SubName: Full=Alpha-arabinofuranosidase {ECO:0000313|EMBL:AHZ56658.1};
+GN   Name=AXH62A {ECO:0000313|EMBL:AHZ56658.1};
+OS   Scytalidium thermophilum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes;
+OC   mitosporic Leotiomycetes; Scytalidium.
+OX   NCBI_TaxID=85995 {ECO:0000313|EMBL:AHZ56658.1};
+RN   [1] {ECO:0000313|EMBL:AHZ56658.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBS 625.91 {ECO:0000313|EMBL:AHZ56658.1};
+RA   Tsang A.;
+RL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ545572; AHZ56658.1; -; Genomic_DNA.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR005193; GH62_arabinosidase.
+DR   InterPro; IPR023296; Glyco_hydro_beta-prop.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF03664; Glyco_hydro_62; 1.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   SUPFAM; SSF75005; SSF75005; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   4: Predicted;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    391       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001579982.
+FT   DOMAIN      355    391       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   391 AA;  42539 MW;  9C926069608CFEF7 CRC64;
+     MRSVAAFLAA VLPAVDAACS LPSSLSWTSS GALAQPKNGW RNLKDFTYVP YNGKHLVYGS
+     YYDGNRYGSM NFGLFSNWNE MASASQNAMS NAAVAPTLFY FQPKNIWVLA YQWGRTAFSY
+     RTSSDPTNPN GWSAEQPLFS GSISDSSTGP IDQTLIADDT HIYLFFAGDN GRIYRSRMPI
+     GNFPSSFGSS YETIMTGNRN DLFEAVQVYT IDGSNPKQYL MLVESIGSRG RYFRSYVSNN
+     LNGAWTPHLT SENNPFAGRS NAPNATWTSD ISHGDLVRLR PDQTFPVDAC NLQLLYQGLQ
+     GSSSDYNSLP YRPGLLTMVG ARPGNGGGNN QPQPTTTSSP PANTPPPNNG GGGGATVPRW
+     GQCGGQGYTG PTRCEPPYTC QYSNPWYSQC L
+//
+ID   A0A0F6NRE2_HUMIN        Unreviewed;       481 AA.
+AC   A0A0F6NRE2;
+DT   22-JUL-2015, integrated into UniProtKB/TrEMBL.
+DT   22-JUL-2015, sequence version 1.
+DT   09-DEC-2015, entry version 4.
+DE   SubName: Full=Alpha-arabinofuranosidase {ECO:0000313|EMBL:AIM56896.1};
+DE            EC=3.2.1.55 {ECO:0000313|EMBL:AIM56896.1};
+OS   Humicola insolens (Soft-rot fungus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Sordariales; Chaetomiaceae;
+OC   Humicola.
+OX   NCBI_TaxID=34413 {ECO:0000313|EMBL:AIM56896.1};
+RN   [1] {ECO:0000313|EMBL:AIM56896.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Y1 {ECO:0000313|EMBL:AIM56896.1};
+RX   PubMed=25432346; DOI=10.1007/s12010-014-1416-y;
+RA   Yang X., Shi P., Ma R., Luo H., Huang H., Yang P., Yao B.;
+RT   "A new GH43 ?-arabinofuranosidase from Humicola insolens Y1:
+RT   biochemical characterization and synergistic action with a xylanase on
+RT   xylan degradation.";
+RL   Appl. Biochem. Biotechnol. 175:1960-1970(2015).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 43 family.
+CC       {ECO:0000256|RuleBase:RU361187}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ730025; AIM56896.1; -; mRNA.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   Gene3D; 2.115.10.20; -; 1.
+DR   InterPro; IPR007934; AbfB_ABD.
+DR   InterPro; IPR006710; Glyco_hydro_43.
+DR   InterPro; IPR023296; Glyco_hydro_beta-prop.
+DR   PANTHER; PTHR22925; PTHR22925; 1.
+DR   Pfam; PF05270; AbfB; 1.
+DR   Pfam; PF04616; Glyco_hydro_43; 1.
+DR   SUPFAM; SSF110221; SSF110221; 1.
+DR   SUPFAM; SSF75005; SSF75005; 1.
+PE   2: Evidence at transcript level;
+KW   Glycosidase {ECO:0000256|RuleBase:RU361187,
+KW   ECO:0000313|EMBL:AIM56896.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361187,
+KW   ECO:0000313|EMBL:AIM56896.1}; Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    481       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002508500.
+FT   DOMAIN      368    468       AbfB. {ECO:0000259|Pfam:PF05270}.
+SQ   SEQUENCE   481 AA;  52377 MW;  A22CE7D0968CFAC3 CRC64;
+     MRFSVFTAAI AAAFSACCAT ASPAVNYVNS LILQRADPHI VKHTDGWYYF TATVPEYDRI
+     VLRRAQTIQG LQSAPETVIW RRKAFGVGSG QVWAPELHYI DGRWYIYVAL GVSGQWRIRA
+     FVLEGVGANP LTASWTEKGI IQTNWDTFSL DATTFVANGT RYLVWAQQDP SRNGENSSLF
+     IAPLQNPWTI RGPAVAISHP DLSWERIGYK VNEGPAVIQR NGRIFLTYSA SATDHNYCMG
+     LLTARADANL MNPASWVKSQ QPIFVSNAAT NQWGPGHNQF TVSEDGLSDI LVYHDRGYRD
+     INGDPLNDPN RRTRVQKLYW RDDGTPDFGI PVPDGPTPVR LRVAANGASS NGAYVRFYTT
+     TGSGNLTGTA ALPDTQFKLV SPGLSGGDSV SLESTSNPGT YVRRVSGSTA VQFERGTALN
+     TAALRASASF RRVPGLSDSG GAVSFESVES PGQYLRLDPN GRLSVASVAE GTQGRSTFYL
+     E
+//
+ID   B2WNK0_PYRTR            Unreviewed;       368 AA.
+AC   B2WNK0;
+DT   01-JUL-2008, integrated into UniProtKB/TrEMBL.
+DT   01-JUL-2008, sequence version 1.
+DT   09-DEC-2015, entry version 32.
+DE   SubName: Full=Alpha-arabinofuranosidase II {ECO:0000313|EMBL:EDU44610.1};
+GN   ORFNames=PTRG_11560 {ECO:0000313|EMBL:EDU44610.1};
+OS   Pyrenophora tritici-repentis (strain Pt-1C-BFP) (Wheat tan spot
+OS   fungus) (Drechslera tritici-repentis).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Dothideomycetes; Pleosporomycetidae; Pleosporales; Pleosporineae;
+OC   Pleosporaceae; Pyrenophora.
+OX   NCBI_TaxID=426418 {ECO:0000313|Proteomes:UP000001471};
+RN   [1] {ECO:0000313|Proteomes:UP000001471}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Pt-1C-BFP {ECO:0000313|Proteomes:UP000001471};
+RX   PubMed=23316438; DOI=10.1534/g3.112.004044;
+RA   Manning V.A., Pandelova I., Dhillon B., Wilhelm L.J., Goodwin S.B.,
+RA   Berlin A.M., Figueroa M., Freitag M., Hane J.K., Henrissat B.,
+RA   Holman W.H., Kodira C.D., Martin J., Oliver R.P., Robbertse B.,
+RA   Schackwitz W., Schwartz D.C., Spatafora J.W., Turgeon B.G.,
+RA   Yandava C., Young S., Zhou S., Zeng Q., Grigoriev I.V., Ma L.-J.,
+RA   Ciuffetti L.M.;
+RT   "Comparative genomics of a plant-pathogenic fungus, Pyrenophora
+RT   tritici-repentis, reveals transduplication and the impact of repeat
+RT   elements on pathogenicity and population divergence.";
+RL   G3 (Bethesda) 3:41-63(2013).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 43 family.
+CC       {ECO:0000256|RuleBase:RU361187}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS231632; EDU44610.1; -; Genomic_DNA.
+DR   RefSeq; XP_001941891.1; XM_001941856.1.
+DR   ProteinModelPortal; B2WNK0; -.
+DR   STRING; 426418.XP_001941891.1; -.
+DR   EnsemblFungi; EDU44610; EDU44610; PTRG_11560.
+DR   GeneID; 6349877; -.
+DR   eggNOG; COG3940; LUCA.
+DR   eggNOG; ENOG410JAK1; Eukaryota.
+DR   InParanoid; B2WNK0; -.
+DR   OrthoDB; EOG79GTGT; -.
+DR   Proteomes; UP000001471; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.115.10.20; -; 1.
+DR   InterPro; IPR006710; Glyco_hydro_43.
+DR   InterPro; IPR023296; Glyco_hydro_beta-prop.
+DR   PANTHER; PTHR22925; PTHR22925; 3.
+DR   Pfam; PF04616; Glyco_hydro_43; 1.
+DR   SUPFAM; SSF75005; SSF75005; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001471};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361187};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361187};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001471};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     24       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        25    368       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002783507.
+SQ   SEQUENCE   368 AA;  41934 MW;  5EB85EF440534953 CRC64;
+     MFKFWVTAAL VAVGVAQYSP PAFGNSSNST TFTNPIVETV GADPWMFRHD DYYYMTYTNN
+     VNVTLWRSKS LTDWASAESK TIFQPEPNMP YSTDLWAPEI HNIDGSWWII FTADPNFDSP
+     PPEVEMWCEY NCPAVNHRMF TAVGDGADPW TAQYRYHSEL ETYDQFAIDG TYFQHKDQLY
+     HIYSCWYHKY DGWPANLCIT KMSDPSTTVS PFSERQVISV PDHAWEKTPF GRATNDRLSS
+     NEGPQQLTNP ITGQQFLIYS AARSDNRNYC LGQLELVGDD PMNPSDWRKH PYPVFYQNPS
+     VSAYGVGHAS FTKSPDGTED WVVYHGMKDP TNGWGARTIR AQKFGWNADG TPNFPRPGYG
+     PYQVPSGQ
+//
+ID   A0A059U759_9PEZI        Unreviewed;       352 AA.
+AC   A0A059U759;
+DT   03-SEP-2014, integrated into UniProtKB/TrEMBL.
+DT   03-SEP-2014, sequence version 1.
+DT   11-NOV-2015, entry version 8.
+DE   SubName: Full=Alpha-arabinofuranosidase {ECO:0000313|EMBL:AHZ56660.1};
+GN   Name=AXH62C {ECO:0000313|EMBL:AHZ56660.1};
+OS   Scytalidium thermophilum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes;
+OC   mitosporic Leotiomycetes; Scytalidium.
+OX   NCBI_TaxID=85995 {ECO:0000313|EMBL:AHZ56660.1};
+RN   [1] {ECO:0000213|PDB:4PVI}
+RP   X-RAY CRYSTALLOGRAPHY (1.48 ANGSTROMS) OF 30-350.
+RA   Kaur A.P., Nocek B., Xu X., Lowden M.J., Leyva J.F., Stogios P.J.,
+RA   Cui H., Leo R.D., Powlowski J., Tsang A., Savchenko A.;
+RT   "Crystal structure of GH62 hydrolase in complex with xylotriose.";
+RL   Submitted (MAR-2014) to the PDB data bank.
+RN   [2] {ECO:0000313|EMBL:AHZ56660.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBS 625.91 {ECO:0000313|EMBL:AHZ56660.1};
+RA   Tsang A.;
+RL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000213|PDB:4PVA}
+RP   X-RAY CRYSTALLOGRAPHY (1.23 ANGSTROMS) OF 30-350.
+RX   PubMed=25267315; DOI=10.1111/1751-7915.12168;
+RA   Kaur A.P., Nocek B.P., Xu X., Lowden M.J., Leyva J.F., Stogios P.J.,
+RA   Cui H., Di Leo R., Powlowski J., Tsang A., Savchenko A.;
+RT   "Functional and structural diversity in GH62 alpha-L-
+RT   arabinofuranosidases from the thermophilic fungus Scytalidium
+RT   thermophilum.";
+RL   Microb. Biotechnol. 8:419-433(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ545574; AHZ56660.1; -; Genomic_DNA.
+DR   PDB; 4PVA; X-ray; 1.23 A; A=30-350.
+DR   PDB; 4PVI; X-ray; 1.48 A; A=30-350.
+DR   PDBsum; 4PVA; -.
+DR   PDBsum; 4PVI; -.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   Gene3D; 2.115.10.20; -; 1.
+DR   InterPro; IPR005193; GH62_arabinosidase.
+DR   InterPro; IPR023296; Glyco_hydro_beta-prop.
+DR   Pfam; PF03664; Glyco_hydro_62; 1.
+DR   SUPFAM; SSF75005; SSF75005; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4PVA, ECO:0000213|PDB:4PVI};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    352       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001579911.
+SQ   SEQUENCE   352 AA;  39597 MW;  8068B98B8B72CFFC CRC64;
+     MRTATALAAA VWAGAVAALP TQTRSTTLPS SWKWVSTGPL VFPKNDERNI AGIKDPTAVL
+     INGTYHVFAS TAKSEGYNMV YFNFTDFAEA NNAPFYYLDQ APLGYGYRAA PQVFYFEPHK
+     LWYLVYQNGN AAYSTNPDIN DPSKWTAPEV FYPNGMPKII ADNIGNGYWV DMWVVCDDEE
+     DPNKALCHLF SSDDNGHLYR SQTTLAQFPR GMSEPEIVLQ DTQNIYALWE AACIYRIKGA
+     EGTQKYLLLV EAIGQEGHRY FRSWTSDRID GQWIPLADTE ANPWAGEANV VFEGQKWTKS
+     ISHGEVIRTL TDQTLTLDLS EPIQFLYQGV DPNAQTEYNA LPWRLGLITQ VL
+//
+ID   A0A074WCY2_9PEZI        Unreviewed;       500 AA.
+AC   A0A074WCY2;
+DT   01-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 7.
+DE   SubName: Full=Alpha arabinofuranosidase {ECO:0000313|EMBL:KEQ69419.1};
+GN   ORFNames=M436DRAFT_55814 {ECO:0000313|EMBL:KEQ69419.1};
+OS   Aureobasidium namibiae CBS 147.97.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Dothideomycetes; Dothideomycetidae; Dothideales; Aureobasidiaceae;
+OC   Aureobasidium.
+OX   NCBI_TaxID=1043004 {ECO:0000313|EMBL:KEQ69419.1, ECO:0000313|Proteomes:UP000027730};
+RN   [1] {ECO:0000313|EMBL:KEQ69419.1, ECO:0000313|Proteomes:UP000027730}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 147.97 {ECO:0000313|EMBL:KEQ69419.1,
+RC   ECO:0000313|Proteomes:UP000027730};
+RX   PubMed=24984952;
+RA   Gostin Ar C., Ohm R.A., Kogej T., Sonjak S., Turk M., Zajc J.,
+RA   Zalar P., Grube M., Sun H., Han J., Sharma A., Chiniquy J., Ngan C.Y.,
+RA   Lipzen A., Barry K., Grigoriev I.V., Gunde-Cimerman N.;
+RT   "Genome sequencing of four Aureobasidium pullulans varieties:
+RT   biotechnological potential, stress tolerance, and description of new
+RT   species.";
+RL   BMC Genomics 15:549-549(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KL584721; KEQ69419.1; -; Genomic_DNA.
+DR   RefSeq; XP_013423658.1; XM_013568204.1.
+DR   EnsemblFungi; KEQ69419; KEQ69419; M436DRAFT_55814.
+DR   GeneID; 25412207; -.
+DR   Proteomes; UP000027730; Unassembled WGS sequence.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0031221; P:arabinan metabolic process; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR015289; A-L-arabinofuranosidase_B_cat.
+DR   InterPro; IPR007934; AbfB_ABD.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   Pfam; PF05270; AbfB; 1.
+DR   Pfam; PF09206; ArabFuran-catal; 1.
+DR   SUPFAM; SSF110221; SSF110221; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000027730};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000027730};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    500       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001701335.
+FT   DOMAIN       22    335       ArabFuran-catal.
+FT                                {ECO:0000259|Pfam:PF09206}.
+FT   DOMAIN      353    493       AbfB. {ECO:0000259|Pfam:PF05270}.
+SQ   SEQUENCE   500 AA;  53158 MW;  0094EA9C983FB5D2 CRC64;
+     MPSRTTLILG VAASVSLVAA APCDIYASGG TPCVAAHALT RALYDNYDGA LYQVTRNSDG
+     STMDIYPLEA GGVANAASQD DFCASTTCVI SLLYDQSGNN NVLSRAPPGA FDGPYTNGYD
+     DLASAIGAPV TLNGQKAYGI FSSPGTGYRN DQTTNIPTGG DPQGIYAIMD ANHFNDNCCF
+     DYGNAETSNT NTGNGHMEAV YLGNCSIWGT GTGEGPWFMG DLENGLFSEQ YLAENTDNPT
+     QTEPFVTGMV KGMTDQWAIR GGNAQSGGLT TYWNGAFDPN GYNPMSKEGA IVLGIGGDNS
+     NGAQGTFYEG VMTSGYPSDD TENQVQANIV AAGYASVDLN TAPLTVGSTI TIRATTPGYD
+     TRYFSHNGTK IVTEVTTTAN STAEQQTAEW VVRDGLGFSG CYSFESVDQP GNFIRHYGFE
+     LYLESGNEKQ FFEDATFCSL TGLQGQNTNS IRSWSYPTRF FRHYADVGYI ATEGGVQFFD
+     ATGNYNYDTS FVVSDGFLSG
+//
+ID   A0A074WJU5_9PEZI        Unreviewed;       498 AA.
+AC   A0A074WJU5;
+DT   01-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 7.
+DE   SubName: Full=Alpha arabinofuranosidase {ECO:0000313|EMBL:KEQ71894.1};
+GN   ORFNames=M436DRAFT_64706 {ECO:0000313|EMBL:KEQ71894.1};
+OS   Aureobasidium namibiae CBS 147.97.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Dothideomycetes; Dothideomycetidae; Dothideales; Aureobasidiaceae;
+OC   Aureobasidium.
+OX   NCBI_TaxID=1043004 {ECO:0000313|EMBL:KEQ71894.1, ECO:0000313|Proteomes:UP000027730};
+RN   [1] {ECO:0000313|EMBL:KEQ71894.1, ECO:0000313|Proteomes:UP000027730}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 147.97 {ECO:0000313|EMBL:KEQ71894.1,
+RC   ECO:0000313|Proteomes:UP000027730};
+RX   PubMed=24984952;
+RA   Gostin Ar C., Ohm R.A., Kogej T., Sonjak S., Turk M., Zajc J.,
+RA   Zalar P., Grube M., Sun H., Han J., Sharma A., Chiniquy J., Ngan C.Y.,
+RA   Lipzen A., Barry K., Grigoriev I.V., Gunde-Cimerman N.;
+RT   "Genome sequencing of four Aureobasidium pullulans varieties:
+RT   biotechnological potential, stress tolerance, and description of new
+RT   species.";
+RL   BMC Genomics 15:549-549(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KL584712; KEQ71894.1; -; Genomic_DNA.
+DR   RefSeq; XP_013426302.1; XM_013570848.1.
+DR   EnsemblFungi; KEQ71894; KEQ71894; M436DRAFT_64706.
+DR   GeneID; 25413742; -.
+DR   Proteomes; UP000027730; Unassembled WGS sequence.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0031221; P:arabinan metabolic process; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR015289; A-L-arabinofuranosidase_B_cat.
+DR   InterPro; IPR007934; AbfB_ABD.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   Pfam; PF05270; AbfB; 1.
+DR   Pfam; PF09206; ArabFuran-catal; 1.
+DR   SUPFAM; SSF110221; SSF110221; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000027730};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000027730};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    498       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001701574.
+FT   DOMAIN       22    336       ArabFuran-catal.
+FT                                {ECO:0000259|Pfam:PF09206}.
+FT   DOMAIN      354    493       AbfB. {ECO:0000259|Pfam:PF05270}.
+SQ   SEQUENCE   498 AA;  51986 MW;  C7D9688025BC4005 CRC64;
+     MRSRSNFALG LAATGSLVAA APCDLYKNGG TPCVAAHGTT RALYDAYTGP LYQVKRGSDG
+     TTTDITPLSA GGVANAAAQD SFCKGTTCLI SIIYDQSGRA NHLYQAPKGA FSGPDVNGQD
+     NLASAIGAPV TLNGKKAYGV FVSPGTGYRN DEVSGTATGN QPEGMYAVLD GTHYNDACCF
+     DYGNAEVSNT DTGNGHMEAV YYGNNTVWGS GSGSGPWLMA DLENGLFSGQ GTKQNPADPS
+     IYNRFFTGMV KGEPNQWALR GGNAASGSLS TYYSGARPTV GGYNPMSLEG AIILGIGGDN
+     SNGAQGTFYE GVMTSGYPSD SVEASVQANI VAAKYATTSL NTAPLTVGNK VSIKVTTPGY
+     DTRYLAHSGA TVNTQVVTSS SATALKQQSS WTVRTGLGNS DCYSFESVDT PGSFIRHYNF
+     QLQLNSNDNT KAFKEDATFC SQTGLVTGNT IRSWSYPAKF IRHYNNVGYI ASNGGVHDFD
+     SATGFNNDVS FVVGTSFA
+//
+ID   A0A074W4N8_9PEZI        Unreviewed;       498 AA.
+AC   A0A074W4N8;
+DT   01-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 6.
+DE   SubName: Full=Alpha arabinofuranosidase {ECO:0000313|EMBL:KEQ67818.1};
+GN   ORFNames=M437DRAFT_80453 {ECO:0000313|EMBL:KEQ67818.1};
+OS   Aureobasidium melanogenum CBS 110374.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Dothideomycetes; Dothideomycetidae; Dothideales; Aureobasidiaceae;
+OC   Aureobasidium.
+OX   NCBI_TaxID=1043003 {ECO:0000313|EMBL:KEQ67818.1, ECO:0000313|Proteomes:UP000030672};
+RN   [1] {ECO:0000313|EMBL:KEQ67818.1, ECO:0000313|Proteomes:UP000030672}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 110374 {ECO:0000313|EMBL:KEQ67818.1,
+RC   ECO:0000313|Proteomes:UP000030672};
+RX   PubMed=24984952;
+RA   Gostin Ar C., Ohm R.A., Kogej T., Sonjak S., Turk M., Zajc J.,
+RA   Zalar P., Grube M., Sun H., Han J., Sharma A., Chiniquy J., Ngan C.Y.,
+RA   Lipzen A., Barry K., Grigoriev I.V., Gunde-Cimerman N.;
+RT   "Genome sequencing of four Aureobasidium pullulans varieties:
+RT   biotechnological potential, stress tolerance, and description of new
+RT   species.";
+RL   BMC Genomics 15:549-549(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KL584824; KEQ67818.1; -; Genomic_DNA.
+DR   EnsemblFungi; KEQ67818; KEQ67818; M437DRAFT_80453.
+DR   Proteomes; UP000030672; Unassembled WGS sequence.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0031221; P:arabinan metabolic process; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR015289; A-L-arabinofuranosidase_B_cat.
+DR   InterPro; IPR007934; AbfB_ABD.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   Pfam; PF05270; AbfB; 1.
+DR   Pfam; PF09206; ArabFuran-catal; 1.
+DR   SUPFAM; SSF110221; SSF110221; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030672};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030672};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    498       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001702547.
+FT   DOMAIN       22    336       ArabFuran-catal.
+FT                                {ECO:0000259|Pfam:PF09206}.
+FT   DOMAIN      354    493       AbfB. {ECO:0000259|Pfam:PF05270}.
+SQ   SEQUENCE   498 AA;  51768 MW;  A766F51B2A471FEF CRC64;
+     MRSRTNIALG LAATGSLVAA APCDIYKNGG TPCVAAHGTT RALYDAYTGP LYQLKRGSDG
+     TTTDISPLSA GGVANAAAQD SFCKGTTCLI SIIYDQSGRA NHLYQAQKGA FSGPDVNGND
+     NLAGAIGAPV TLNGKKAYGV FISPGTGYRN DEVSGTATGN EPEGMYAVLD GTHYNDACCF
+     DYGNAEVSNT DTGNGHMEAV YFGNNTVWGS GSGSGPWLMA DLENGLFSGQ GTKQNAADPS
+     ISNRFFTGMV KGEPNQWALR GGNAASGSLS TYYSGARPTV GGYNPMSLEG AIILGIGGDN
+     SNGAQGTFYE GVMTSGYPSD ATEASVQANI VAAKYATTSL NTAPLTVGNK ISIKVTTPGY
+     DTRYLAHTGA TVNTQVVSSS SATSLKQQAS WTVRTGLGNS GCYSFESVDT PGSFIRHYNF
+     QLQLNANDNT KAFKEDATFC SQTGLVTGNT FNSWSYPAKF IRHYNNVGYI ASNGGVHDFD
+     SATGFNNDVS FLVGSSFA
+//
+ID   A0A074XW41_AURPU        Unreviewed;       498 AA.
+AC   A0A074XW41;
+DT   01-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 6.
+DE   SubName: Full=Alpha arabinofuranosidase {ECO:0000313|EMBL:KEQ89818.1};
+GN   ORFNames=M438DRAFT_262811 {ECO:0000313|EMBL:KEQ89818.1};
+OS   Aureobasidium pullulans EXF-150.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Dothideomycetes; Dothideomycetidae; Dothideales; Aureobasidiaceae;
+OC   Aureobasidium.
+OX   NCBI_TaxID=1043002 {ECO:0000313|EMBL:KEQ89818.1, ECO:0000313|Proteomes:UP000030706};
+RN   [1] {ECO:0000313|EMBL:KEQ89818.1, ECO:0000313|Proteomes:UP000030706}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=EXF-150 {ECO:0000313|EMBL:KEQ89818.1,
+RC   ECO:0000313|Proteomes:UP000030706};
+RX   PubMed=24984952;
+RA   Gostin Ar C., Ohm R.A., Kogej T., Sonjak S., Turk M., Zajc J.,
+RA   Zalar P., Grube M., Sun H., Han J., Sharma A., Chiniquy J., Ngan C.Y.,
+RA   Lipzen A., Barry K., Grigoriev I.V., Gunde-Cimerman N.;
+RT   "Genome sequencing of four Aureobasidium pullulans varieties:
+RT   biotechnological potential, stress tolerance, and description of new
+RT   species.";
+RL   BMC Genomics 15:549-549(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KL584974; KEQ89818.1; -; Genomic_DNA.
+DR   EnsemblFungi; KEQ89818; KEQ89818; M438DRAFT_262811.
+DR   Proteomes; UP000030706; Unassembled WGS sequence.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0031221; P:arabinan metabolic process; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR015289; A-L-arabinofuranosidase_B_cat.
+DR   InterPro; IPR007934; AbfB_ABD.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   Pfam; PF05270; AbfB; 1.
+DR   Pfam; PF09206; ArabFuran-catal; 1.
+DR   SUPFAM; SSF110221; SSF110221; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030706};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030706};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    498       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001703776.
+FT   DOMAIN       22    336       ArabFuran-catal.
+FT                                {ECO:0000259|Pfam:PF09206}.
+FT   DOMAIN      354    493       AbfB. {ECO:0000259|Pfam:PF05270}.
+SQ   SEQUENCE   498 AA;  51927 MW;  89F6940D2CB6C68F CRC64;
+     MRSKSNIAIG LAATGSLVAA APCDLYKNGG TPCVAAHGTT RALYDAYTGP LYQIKRGSDG
+     TTADISPLSA GGVANAAAQD SFCKSTTCLI TIIYDQSGRA NHLYQAPKGA FSGPDVNGND
+     NLASAIGAPV TLNGKKAYGV FVSPGTGYRN DEVSGTATGD QPEGMYAVLD GTHYNDACCF
+     DYGNAEVSNT DTGNGHMEAI YYGNNTIWGT GSGSGPWLMA DLENGLFSGQ SPAQNTADPS
+     IYNRFFTGMV KGKPNQWALR GGNAASGALS TYYSGARPTV GGYNPMSLEG AIILGIGGDN
+     SNGAQGTFYE GVMTSGYPSD SVEASVQANI VAAKYATTSL NTAPLTVGNK VSIKVTTPGY
+     DTRYLAHSGA TVNTQVVSSS SATALKQQSS WTVRTGLGNS DCYSFESVDT PGSFIRHYNF
+     VLQLNKNDNT KAFKEDATFC SQTGLATGNT IRSWSYPAKF FRHYNNVGYI ASNGGVHDFD
+     SATGFNNDVS FVVGTSFA
+//
+ID   A0A059U7Q1_9PEZI        Unreviewed;       325 AA.
+AC   A0A059U7Q1;
+DT   03-SEP-2014, integrated into UniProtKB/TrEMBL.
+DT   03-SEP-2014, sequence version 1.
+DT   14-OCT-2015, entry version 4.
+DE   SubName: Full=Alpha-arabinofuranosidase {ECO:0000313|EMBL:AHZ56659.1};
+GN   Name=AXH62B {ECO:0000313|EMBL:AHZ56659.1};
+OS   Scytalidium thermophilum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes;
+OC   mitosporic Leotiomycetes; Scytalidium.
+OX   NCBI_TaxID=85995 {ECO:0000313|EMBL:AHZ56659.1};
+RN   [1] {ECO:0000313|EMBL:AHZ56659.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBS 625.91 {ECO:0000313|EMBL:AHZ56659.1};
+RA   Tsang A.;
+RL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ545573; AHZ56659.1; -; Genomic_DNA.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0046373; P:L-arabinose metabolic process; IEA:InterPro.
+DR   InterPro; IPR005193; GH62_arabinosidase.
+DR   InterPro; IPR023296; Glyco_hydro_beta-prop.
+DR   Pfam; PF03664; Glyco_hydro_62; 1.
+DR   SUPFAM; SSF75005; SSF75005; 1.
+PE   4: Predicted;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     23       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        24    325       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001583032.
+SQ   SEQUENCE   325 AA;  35446 MW;  738EADD5373D9C34 CRC64;
+     MKPSVSNLAS LGLALASTAS AQATCDLPST YRWTSTGPLA EPRNGWVSLK DFTTAPYEGK
+     HLVYATTHDR GTTWGSMAFS LVNNFTELST ANQMPMNQAT VAPSLFYFPP KNIWVLAYQW
+     GPHAFSYKTS NDPTNPNGWG PAQPLFTGSI SGSSTGPIDQ AVIGDDTTMY LFFAGDNGRI
+     YRASMPIDRF PGNFGNSAQI IMQDSTNNLF EAVQVYKLQG QQKYLMIVEA IGGQGRYFRS
+     FTATSLSGSW TPQAASESRP FAGKANSGAT WTNDISHGEL IRVNADHTMT IDPCNLQLLY
+     QGRSPWSGGD YGQLPYRPGL LTLQR
+//
+ID   E6ZWS5_SPORE            Unreviewed;       340 AA.
+AC   E6ZWS5;
+DT   08-MAR-2011, integrated into UniProtKB/TrEMBL.
+DT   08-MAR-2011, sequence version 1.
+DT   09-DEC-2015, entry version 21.
+DE   SubName: Full=Related to Alpha arabinofuranosidase {ECO:0000313|EMBL:CBQ71682.1};
+GN   ORFNames=sr12538 {ECO:0000313|EMBL:CBQ71682.1};
+OS   Sporisorium reilianum (strain SRZ2) (Maize head smut fungus).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Ustilaginomycetes; Ustilaginales; Ustilaginaceae; Sporisorium.
+OX   NCBI_TaxID=999809 {ECO:0000313|EMBL:CBQ71682.1, ECO:0000313|Proteomes:UP000008867};
+RN   [1] {ECO:0000313|EMBL:CBQ71682.1, ECO:0000313|Proteomes:UP000008867}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=SRZ2 {ECO:0000313|Proteomes:UP000008867};
+RX   PubMed=21148393; DOI=10.1126/science.1195330;
+RA   Schirawski J., Mannhaupt G., Muench K., Brefort T., Schipper K.,
+RA   Doehlemann G., Di Stasio M., Roessel N., Mendoza-Mendoza A.,
+RA   Pester D., Mueller O., Winterberg B., Meyer E., Ghareeb H.,
+RA   Wollenberg T., Muensterkoetter M., Wong P., Walter M., Stukenbrock E.,
+RA   Gueldener U., Kahmann R.;
+RT   "Pathogenicity determinants in smut fungi revealed by genome
+RT   comparison.";
+RL   Science 330:1546-1548(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FQ311452; CBQ71682.1; -; Genomic_DNA.
+DR   EnsemblFungi; CBQ71682; CBQ71682; sr12538.
+DR   InParanoid; E6ZWS5; -.
+DR   OrthoDB; EOG7DFXNQ; -.
+DR   Proteomes; UP000008867; Chromosome 3.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0031221; P:arabinan metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR015289; A-L-arabinofuranosidase_B_cat.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   Pfam; PF09206; ArabFuran-catal; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008867};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008867};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    340       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003214944.
+FT   DOMAIN       31    338       ArabFuran-catal.
+FT                                {ECO:0000259|Pfam:PF09206}.
+SQ   SEQUENCE   340 AA;  34982 MW;  2D1A84E1A0DA4049 CRC64;
+     MTFNKSALLA ALTLATSVSA IPTATESSGG PCDIYASGGT PCVAAHSTTR ALYSSYTGPL
+     YSVLRASDNT IRNISPVSAG GVANAAAQDS FCSGTTCHIK AIYDQTGHAN HLTLAPDGGA
+     ASGDYLATAS AAPVTLNCHR AYGVYVSPGV GYRNDKTYGI ATGNDPEGLY AVLDGTHYNS
+     GCCFDYGNAE TSNTDTGAGH MEAIYFGSNS FWGSGAGEGP WLQMDAENGL FSGYNPKQNL
+     NDPSLTSRFV TAVLKGDSSN LWSIRSGNSQ SGGLTTHYSG QRPSGYYPMK KEGAIVLGIG
+     GDNSNSGQGT FYEGVMTSGY PADATEDAVQ ANIVAAGYRA
+//
+ID   A0A077R0H1_9BASI        Unreviewed;       333 AA.
+AC   A0A077R0H1;
+DT   29-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   29-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 4.
+DE   SubName: Full=Related to Alpha arabinofuranosidase {ECO:0000313|EMBL:CDI52347.1};
+OS   Melanopsichium pennsylvanicum 4.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Ustilaginomycetes; Ustilaginales; Ustilaginaceae; Melanopsichium.
+OX   NCBI_TaxID=1398559 {ECO:0000313|EMBL:CDI52347.1};
+RN   [1] {ECO:0000313|EMBL:CDI52347.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=4 {ECO:0000313|EMBL:CDI52347.1};
+RX   PubMed=25062916; DOI=10.1093/gbe/evu148;
+RA   Sharma R., Mishra B., Runge F., Thines M.;
+RT   "Gene Loss Rather Than Gene Gain Is Associated with a Host Jump from
+RT   Monocots to Dicots in the Smut Fungus Melanopsichium pennsylvanicum.";
+RL   Genome Biol. Evol. 6:2034-2049(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HG529537; CDI52347.1; -; Genomic_DNA.
+DR   GO; GO:0046556; F:alpha-L-arabinofuranosidase activity; IEA:InterPro.
+DR   GO; GO:0031221; P:arabinan metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR015289; A-L-arabinofuranosidase_B_cat.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   Pfam; PF09206; ArabFuran-catal; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    333       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001722705.
+FT   DOMAIN       22    330       ArabFuran-catal.
+FT                                {ECO:0000259|Pfam:PF09206}.
+SQ   SEQUENCE   333 AA;  34270 MW;  CAA13F3E78165CD9 CRC64;
+     MAFKKTALVS MVALAASAAA APCDIYASGG TPCVAAHSTT RALYSSYNGR LYSVIRDSDS
+     RTSDINTLKA GGAANAASQD SFCSGTTCRI NTIYDQSGRA NHLTVAPAGG AASGPDDLAV
+     ADAAPITVLG QKAYGVYISP GTGYRNDNTN GIATGNQAEG IYAVLDSQTF NSGCCFDYGN
+     AETNNLDDGA GTMEAIYFGS NTFWGSGAGS GPWVMADLED GLFSGYGPKV NTNDPSISSR
+     FVTAIVKGDV SNLWAIRSGD SQNGGLSTHY SGQRPSGYYP MKKQGAIILG IGGDNSKSGQ
+     GTFYEGVMTS GYPSDATENS VQQDVVAAKY RAS
+//
+ID   M7U2T8_BOTF1            Unreviewed;       618 AA.
+AC   M7U2T8;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Putative alpha-arabinofuranosidase ii protein {ECO:0000313|EMBL:EMR80933.1};
+GN   ORFNames=BcDW1_10469 {ECO:0000313|EMBL:EMR80933.1};
+OS   Botryotinia fuckeliana (strain BcDW1) (Noble rot fungus) (Botrytis
+OS   cinerea).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes;
+OC   Helotiales; Sclerotiniaceae; Botrytis.
+OX   NCBI_TaxID=1290391 {ECO:0000313|EMBL:EMR80933.1, ECO:0000313|Proteomes:UP000012045};
+RN   [1] {ECO:0000313|Proteomes:UP000012045}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=BcDW1 {ECO:0000313|Proteomes:UP000012045};
+RX   PubMed=23704180; DOI=10.1128/genomeA.00252-13;
+RA   Blanco-Ulate B., Allen G., Powell A.L., Cantu D.;
+RT   "Draft genome sequence of Botrytis cinerea BcDW1, inoculum for noble
+RT   rot of grape berries.";
+RL   Genome Announc. 1:E0025213-E0025213(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KB708093; EMR80933.1; -; Genomic_DNA.
+DR   EnsemblFungi; EMR80933; EMR80933; BcDW1_10469.
+DR   Proteomes; UP000012045; Unassembled WGS sequence.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012045};
+KW   Membrane {ECO:0000256|SAM:Phobius};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012045};
+KW   Transmembrane {ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|SAM:Phobius}.
+FT   TRANSMEM     69     87       Helical. {ECO:0000256|SAM:Phobius}.
+SQ   SEQUENCE   618 AA;  70091 MW;  E57F2772B72C23A9 CRC64;
+     MVYISPLSTP TATSETPLRP PTNNTTPWSE ISMENWRNGV DFRSPPPAYD EGEQSETPRR
+     LYKANLEQLH KAIWLTVIIV VCFWFWLSQQ RQQIHFYQYD TKLSTTEPPL EGLRFIDASH
+     PYIRYVGRWS STLDGTRKDG SFPGIYLDIA FNGSSTILIS LHNKDQQAYV KRTDARNKTA
+     TSAFPALLDD KSAEPISLLA QVDDEEYVIL PNATSLVVVR TNDLDPHSPH IIRIIAPMIG
+     RDAIETFQFT GVWIDENGQL IPVQNPMSVS TLPFSERNVE NGELGISINA VDGGFPENAS
+     RRKMLEILTD LPGSMTGLDR RKHQIASNVA NGILGGVMGW EYLTGEMFGS DHVTIGMDGM
+     CLLQDCIGGR GSPAGLADVF FQSGPLGSGQ YAQPWLFQSY IPDVMILNIG NADWESFRIY
+     NEEYNMTTWE LSVLFEKTYV SLIKAIRTLA YPKYSGTMAE VSQYDYPQHR AVDIPIFVMR
+     PFRGQLEQAT HSVVDRLQFE GDKSVFWLDT SGWLNTDINF EGRSEDQDFF LDEGSPRKEW
+     RLTERGNQRV AILLHMHVCG YLAQEADKCA FLAPETYQGG NLDPVAIHFD EYMRDEKERR
+     LKKLFWVSPE DEGKLQVK
+//
+ID   A0A068RI74_9FUNG        Unreviewed;       573 AA.
+AC   A0A068RI74;
+DT   01-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 8.
+DE   SubName: Full=Alpha-arabinofuranosidase ii {ECO:0000313|EMBL:CDH48651.1};
+GN   ORFNames=LCOR_00426.1 {ECO:0000313|EMBL:CDH48651.1};
+OS   Lichtheimia corymbifera JMRC:FSU:9682.
+OC   Eukaryota; Fungi; Fungi incertae sedis; Mucoromycotina; Mucorales;
+OC   Lichtheimiaceae; Lichtheimia.
+OX   NCBI_TaxID=1263082 {ECO:0000313|EMBL:CDH48651.1, ECO:0000313|Proteomes:UP000027586};
+RN   [1] {ECO:0000313|EMBL:CDH48651.1, ECO:0000313|Proteomes:UP000027586}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=JMRC:FSU:9682 {ECO:0000313|Proteomes:UP000027586};
+RA   Schwartze V.U., Winter S., Shelest E., Marcet-Houben M., Horn F.,
+RA   Wehner S., Hoffmann K., Riege K., Sammeth M., Nowrousian M.,
+RA   Valiante V., Linde J., Jacobsen I.D., Marz M., Brakhage A.A.,
+RA   Gabaldon T., Bocker S., Voigt K.;
+RT   "Gene expansion shapes genome architecture in the human pathogen
+RT   Lichtheimia corymbifera: an evolutionary genomics analysis in the
+RT   ancient terrestrial Mucorales (Mucoromycotina).";
+RL   Submitted (AUG-2013) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CDH48651.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CBTN010000001; CDH48651.1; -; Genomic_DNA.
+DR   EnsemblFungi; CDH48651; CDH48651; LCOR_00426.1.
+DR   Proteomes; UP000027586; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1110; -; 1.
+DR   InterPro; IPR013830; SGNH_hydro.
+DR   SUPFAM; SSF52266; SSF52266; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000027586};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000027586};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    573       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001652551.
+SQ   SEQUENCE   573 AA;  63468 MW;  846ADF24CD9935EB CRC64;
+     MLLLTHVLLL SLFFFSLAVV IAAIGDTDTL IPFDDASIKY YGRWHRTIKE IQSGWPGAYF
+     KTTVEGGSRI KLRLNRPTSV FVQVDYGSVR QLQAEYQGQL PIELDITPPL NQEDDDDEKD
+     YELLVAASAN ASIYLESLVI SSQGRSNKTH PPDKQSPLLV EFVGHELSLG VGTSQSLFTS
+     FPWLVSSMVS AEHAQIAYNR ARLENYTSRD LGMETRYFDW SPHDSEAWWN FSYAPTAIVI
+     LLGRNDRISD DYADTLVNFL KRIRSHLPDT SILILSEPLG DLVRQSQDAV YHLNDQGDQN
+     IFYIDTTGWV QYGATAFVDT THLNDAGHDR VARRLAPLLE ARLATPPRPL PPPPSNPSLP
+     HDWQTMDIGQ DERVGLPGSV SFDSPHTFTL WGSGVDIGGH QDAFRFVYQS LSGNGVIEAT
+     VESHSAFSSC AKAGIMIREH LALGAPHVLF GVSPASGIFF QARSSNFNET RLVKKLRASP
+     PYRFRLVRHD SSWIAQSSSS PSNSDDSQAE WQLVANITDL VFARDVYVGL AVTSCDPSVV
+     SVAKFAEISL SGGVGNGFYS SDLHIPRLIH QQP
+//

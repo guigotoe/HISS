@@ -1,0 +1,1580 @@
+ID   AXE1_TALPU              Reviewed;         382 AA.
+AC   Q8NJP6;
+DT   16-MAY-2006, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   17-FEB-2016, entry version 73.
+DE   RecName: Full=Acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   AltName: Full=AXE I;
+DE   AltName: Full=Acetylxylan esterase 1;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA, axe-1, axeI;
+OS   Talaromyces purpureogenus (Soft rot fungus) (Penicillium
+OS   purpureogenum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=1266744;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 32-67; 215-220
+RP   AND 227-248, GLYCOSYLATION, FUNCTION, AND ENZYME REGULATION.
+RX   PubMed=17008082; DOI=10.1016/j.mycres.2006.07.003;
+RA   Gordillo F., Caputo V., Peirano A., Chavez R., Van Beeumen J.,
+RA   Vandenberghe I., Claeyssens M., Bull P., Ravanal M.C., Eyzaguirre J.;
+RT   "Penicillium purpurogenum produces a family 1 acetyl xylan esterase
+RT   containing a carbohydrate-binding module: characterization of the
+RT   protein and its gene.";
+RL   Mycol. Res. 110:1129-1139(2006).
+RN   [2]
+RP   PROTEIN SEQUENCE OF 32-51, FUNCTION, BIOPHYSICOCHEMICAL PROPERTIES,
+RP   AND SUBCELLULAR LOCATION.
+RX   PubMed=8756392;
+RA   Egana L., Gutierrez R., Caputo V., Peirano A., Steiner J.,
+RA   Eyzaguirre J.;
+RT   "Purification and characterization of two acetyl xylan esterases from
+RT   Penicillium purpurogenum.";
+RL   Biotechnol. Appl. Biochem. 24:33-39(1996).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone.
+CC       {ECO:0000269|PubMed:17008082, ECO:0000269|PubMed:8756392}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- ENZYME REGULATION: Inactivated by phenylmethylsulfonylfluorid
+CC       (PMSF), a specific inhibitor of serine esterases.
+CC       {ECO:0000269|PubMed:17008082}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 5.3. {ECO:0000269|PubMed:8756392};
+CC       Temperature dependence:
+CC         Optimum temperature is 50 degrees Celsius.
+CC         {ECO:0000269|PubMed:8756392};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:8756392}.
+CC   -!- DOMAIN: Has a modular structure: a carbohydrate esterase catalytic
+CC       module at the N-terminus, a linker rich in serines and threonines,
+CC       and a C-terminal carbohydrate-binding module (CBM). The genes for
+CC       catalytic modules and CBMs seem to have evolved separately and
+CC       have been linked by gene fusion.
+CC   -!- PTM: Glycosylated. {ECO:0000269|PubMed:17008082}.
+CC   -!- MISCELLANEOUS: The promoter contains 1 xlnR-binding sequence (a
+CC       transcriptional activator in the absence of glucose), 5 creA-
+CC       binding sequences (a negatively acting regulatory protein
+CC       mediating carbon catabolyte repression), 1 pacC-binding sequence
+CC       (a pH regulator), 3 alcR-binding sequences (an activator of
+CC       alcohol and acetaldehyde dehydrogenase genes) and 3 areA-binding
+CC       sequences (a nitrogen metabolism activator).
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF529173; AAM93261.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q8NJP6; -.
+DR   SMR; Q8NJP6; 348-382.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   ESTHER; penpu-AXEI; Esterase_phb.
+DR   mycoCLAP; AXE1B_PENPU; -.
+DR   BioCyc; MetaCyc:MONOMER-16880; -.
+DR   BRENDA; 3.1.1.72; 4635.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Cellulose degradation;
+KW   Cleavage on pair of basic residues; Direct protein sequencing;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation; Secreted;
+KW   Serine esterase; Signal.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   PROPEP       22     31       {ECO:0000269|PubMed:17008082,
+FT                                ECO:0000269|PubMed:8756392}.
+FT                                /FTId=PRO_0000234626.
+FT   CHAIN        32    382       Acetylxylan esterase A.
+FT                                /FTId=PRO_0000234627.
+FT   DOMAIN      346    382       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       35    307       Catalytic. {ECO:0000250}.
+FT   REGION      308    345       Ser/Thr-rich linker.
+FT   ACT_SITE    152    152       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD     46     46       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    194    194       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CONFLICT     36     36       S -> C (in Ref. 2; AA sequence).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   382 AA;  40273 MW;  5AB9A7AF770B4410 CRC64;
+     MKSLSFSFLV TLFLYLTLSS ARTLGKDVNK RVTAGSLQQV TGFGDNASGT LMYIYVPKNL
+     ATNPGIVVAI HYCTGTAQAY YTGSPYAQLA EQYGFIVIYP QSPYSGTCWD VSSQAALTHN
+     GGGDSNSIAN MVTWTISQYN ANTAKVFVTG SSSGAMMTNV MAATYPELFA AATVYSGVGA
+     GCFYSSSNQA DAWNSSCATG SVISTPAVWG GIAKNMYSGY SGSRPRMQIY HGSADTTLYP
+     QNYYETCKQW AGVFGYNYDS PQSTLANTPD ANYQTTNWGP NLQGIYATGV GHTVPIHGAK
+     DMEWFGFSGS GSSSTTTASA TKTSTTSTTS TKTTSSTSST TTSSTGVAAH WGQCGGSGWT
+     GPTVCESGYT CTYSNAWYSQ CL
+//
+ID   AXE1_EMENI              Reviewed;         304 AA.
+AC   Q5B037; C8V2L3; Q1HFS5;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   20-APR-2010, sequence version 2.
+DT   09-DEC-2015, entry version 61.
+DE   RecName: Full=Acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA; ORFNames=AN6093;
+OS   Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL
+OS   194 / M139) (Aspergillus nidulans).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=227321;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=16844780; DOI=10.1073/pnas.0604632103;
+RA   Bauer S., Vasu P., Persson S., Mort A.J., Somerville C.R.;
+RT   "Development and application of a suite of polysaccharide-degrading
+RT   enzymes for analyzing plant cell walls.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:11417-11422(2006).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=16372000; DOI=10.1038/nature04341;
+RA   Galagan J.E., Calvo S.E., Cuomo C., Ma L.-J., Wortman J.R.,
+RA   Batzoglou S., Lee S.-I., Bastuerkmen M., Spevak C.C., Clutterbuck J.,
+RA   Kapitonov V., Jurka J., Scazzocchio C., Farman M.L., Butler J.,
+RA   Purcell S., Harris S., Braus G.H., Draht O., Busch S., D'Enfert C.,
+RA   Bouchier C., Goldman G.H., Bell-Pedersen D., Griffiths-Jones S.,
+RA   Doonan J.H., Yu J., Vienken K., Pain A., Freitag M., Selker E.U.,
+RA   Archer D.B., Penalva M.A., Oakley B.R., Momany M., Tanaka T.,
+RA   Kumagai T., Asai K., Machida M., Nierman W.C., Denning D.W.,
+RA   Caddick M.X., Hynes M., Paoletti M., Fischer R., Miller B.L.,
+RA   Dyer P.S., Sachs M.S., Osmani S.A., Birren B.W.;
+RT   "Sequencing of Aspergillus nidulans and comparative analysis with A.
+RT   fumigatus and A. oryzae.";
+RL   Nature 438:1105-1115(2005).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=19146970; DOI=10.1016/j.fgb.2008.12.003;
+RA   Wortman J.R., Gilsenan J.M., Joardar V., Deegan J., Clutterbuck J.,
+RA   Andersen M.R., Archer D., Bencina M., Braus G., Coutinho P.,
+RA   von Dohren H., Doonan J., Driessen A.J., Durek P., Espeso E.,
+RA   Fekete E., Flipphi M., Estrada C.G., Geysens S., Goldman G.,
+RA   de Groot P.W., Hansen K., Harris S.D., Heinekamp T., Helmstaedt K.,
+RA   Henrissat B., Hofmann G., Homan T., Horio T., Horiuchi H., James S.,
+RA   Jones M., Karaffa L., Karanyi Z., Kato M., Keller N., Kelly D.E.,
+RA   Kiel J.A., Kim J.M., van der Klei I.J., Klis F.M., Kovalchuk A.,
+RA   Krasevec N., Kubicek C.P., Liu B., Maccabe A., Meyer V., Mirabito P.,
+RA   Miskei M., Mos M., Mullins J., Nelson D.R., Nielsen J., Oakley B.R.,
+RA   Osmani S.A., Pakula T., Paszewski A., Paulsen I., Pilsyk S., Pocsi I.,
+RA   Punt P.J., Ram A.F., Ren Q., Robellet X., Robson G., Seiboth B.,
+RA   van Solingen P., Specht T., Sun J., Taheri-Talesh N., Takeshita N.,
+RA   Ussery D., vanKuyk P.A., Visser H., van de Vondervoort P.J.,
+RA   de Vries R.P., Walton J., Xiang X., Xiong Y., Zeng A.P., Brandt B.W.,
+RA   Cornell M.J., van den Hondel C.A., Visser J., Oliver S.G., Turner G.;
+RT   "The 2008 update of the Aspergillus nidulans genome annotation: a
+RT   community effort.";
+RL   Fungal Genet. Biol. 46:S2-13(2009).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone.
+CC       {ECO:0000269|PubMed:16844780}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.5. {ECO:0000269|PubMed:16844780};
+CC       Temperature dependence:
+CC         Optimum temperature is 49 degrees Celsius.
+CC         {ECO:0000269|PubMed:16844780};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=CBF70198.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC       Sequence=EAA58068.1; Type=Erroneous gene model prediction; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DQ490499; ABF50875.1; -; mRNA.
+DR   EMBL; AACD01000104; EAA58068.1; ALT_SEQ; Genomic_DNA.
+DR   EMBL; BN001301; CBF70198.1; ALT_SEQ; Genomic_DNA.
+DR   RefSeq; XP_663697.1; XM_658605.1.
+DR   ProteinModelPortal; Q5B037; -.
+DR   ESTHER; emeni-axe1; Esterase_phb.
+DR   mycoCLAP; AXE1A_EMENI; -.
+DR   EnsemblFungi; CADANIAT00006921; CADANIAP00006921; CADANIAG00006921.
+DR   EnsemblFungi; EAA58068; EAA58068; AN6093.2.
+DR   GeneID; 2870922; -.
+DR   KEGG; ani:AN6093.2; -.
+DR   HOGENOM; HOG000171266; -.
+DR   InParanoid; Q5B037; -.
+DR   KO; K05972; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000000560; Chromosome I.
+DR   Proteomes; UP000005890; Partially assembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IDA:UniProtKB.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IDA:UniProtKB.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    304       Acetylxylan esterase A.
+FT                                /FTId=PRO_0000393482.
+FT   ACT_SITE    147    147       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    189    189       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   304 AA;  33302 MW;  6573784DF0261190 CRC64;
+     MVKLQYLLSI LLYAYSCTAL MLDRRDPTPG QLSQVTDFGD NPTNVGFYIY VPQNLASNPA
+     IIVAIHYCTG TAQAYYSGTP YAQYAETYGF IVIYPESPYS GTCWDVSSQS TLTHNGGGNS
+     NSIANMVDWT INQYNADASR VYVTGTSSGA MMTNVMAATY PNLFAAGIAY AGVPAGCFYS
+     EANVEDQWNS TCAQGQSIST PEHWAQIAQA MYSGYEGSRP KMQIYHGSAD ATLYPQNYYE
+     TCKQWAGVFG YNYDSPQEVQ NDTPVAGWAK TIWGENLQGI LADGVGHNIQ IQGEEDLKWF
+     GFTS
+//
+ID   AXE1_ASPOR              Reviewed;         307 AA.
+AC   Q75P26;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2004, sequence version 1.
+DT   09-DEC-2015, entry version 69.
+DE   RecName: Full=Acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA, AoaxeA; ORFNames=AO090011000745;
+OS   Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=510516;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RX   DOI=10.1016/j.jbiotec.2005.07.015;
+RA   Koseki T., Miwa Y., Akao T., Akita O., Hashizume K.;
+RT   "An Aspergillus oryzae acetyl xylan esterase: Molecular cloning and
+RT   characteristics of recombinant enzyme expressed in Pichia pastoris.";
+RL   J. Biotechnol. 121:381-389(2006).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 42149 / RIB 40;
+RX   PubMed=16372010; DOI=10.1038/nature04300;
+RA   Machida M., Asai K., Sano M., Tanaka T., Kumagai T., Terai G.,
+RA   Kusumoto K., Arima T., Akita O., Kashiwagi Y., Abe K., Gomi K.,
+RA   Horiuchi H., Kitamoto K., Kobayashi T., Takeuchi M., Denning D.W.,
+RA   Galagan J.E., Nierman W.C., Yu J., Archer D.B., Bennett J.W.,
+RA   Bhatnagar D., Cleveland T.E., Fedorova N.D., Gotoh O., Horikawa H.,
+RA   Hosoyama A., Ichinomiya M., Igarashi R., Iwashita K., Juvvadi P.R.,
+RA   Kato M., Kato Y., Kin T., Kokubun A., Maeda H., Maeyama N.,
+RA   Maruyama J., Nagasaki H., Nakajima T., Oda K., Okada K., Paulsen I.,
+RA   Sakamoto K., Sawano T., Takahashi M., Takase K., Terabayashi Y.,
+RA   Wortman J.R., Yamada O., Yamagata Y., Anazawa H., Hata Y., Koide Y.,
+RA   Komori T., Koyama Y., Minetoki T., Suharnan S., Tanaka A., Isono K.,
+RA   Kuhara S., Ogasawara N., Kikuchi H.;
+RT   "Genome sequencing and analysis of Aspergillus oryzae.";
+RL   Nature 438:1157-1161(2005).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone.
+CC       Displays the greatest hydrolytic activity toward alpha-
+CC       naphthylacetate (C2), lower activity toward alpha-
+CC       naphthylpropionate (C3) and no detectable activity toward acyl-
+CC       chain substrates containing four or more carbon atoms.
+CC       {ECO:0000269|Ref.1}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 6.0. The enzyme is stable between pH 6.0 and 7.0.
+CC         {ECO:0000269|Ref.1};
+CC       Temperature dependence:
+CC         Optimum temperature is 45 degrees Celsius. Unstable at 40
+CC         degrees Celsius with a half life of less than 60 min at 40
+CC         degrees Celsius and 10 min at 50 degrees Celsius.
+CC         {ECO:0000269|Ref.1};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in soem acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB167976; BAD12626.1; -; Genomic_DNA.
+DR   EMBL; AP007171; BAE65196.1; -; Genomic_DNA.
+DR   RefSeq; XP_001826329.1; XM_001826277.2.
+DR   ProteinModelPortal; Q75P26; -.
+DR   ESTHER; aspor-axe1; Esterase_phb.
+DR   mycoCLAP; AXE1A_ASPOR; -.
+DR   EnsemblFungi; CADAORAT00005455; CADAORAP00005354; CADAORAG00005455.
+DR   GeneID; 5998432; -.
+DR   KEGG; aor:AOR_1_1260054; -.
+DR   HOGENOM; HOG000171266; -.
+DR   KO; K05972; -.
+DR   OMA; MYIYVPT; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   BRENDA; 3.1.1.72; 522.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006564; Chromosome 7.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IDA:ASPGD.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IDA:ASPGD.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    307       Acetylxylan esterase A.
+FT                                /FTId=PRO_0000393480.
+FT   ACT_SITE    150    150       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    192    192       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    270    270       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   307 AA;  33286 MW;  7B08600B5BAC16D1 CRC64;
+     MILLSYLLTY LLCALTCSAR AIHNGRSLIP RAGSLEQVTD FGDNPSNVKM YIYVPTNLAS
+     NPGIIVAIHY CTGTAQAYYQ GSPYAQLAET HGFIVIYPES PYEGTCWDVS SQATLTHNGG
+     GNSNSIANMV TWTTKQYNAD SSKVFVTGTS SGAMMTNVMA ATYPNLFAAG VAYAGVPAGC
+     FLSTADQPDA WNSTCAQGQS ITTPEHWASI AEAMYPDYSG SRPKMQIYHG NVDTTLYPQN
+     YEETCKQWAG VFGYNYDAPE STESNTPEAN WSRTTWGPNL QGILAGGVGH NIQIHGDEDM
+     KWFGFTN
+//
+ID   AXE1_ASPAW              Reviewed;         304 AA.
+AC   Q92194;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   15-JAN-2008, sequence version 2.
+DT   09-DEC-2015, entry version 64.
+DE   RecName: Full=Acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA;
+OS   Aspergillus awamori (Black koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=105351;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 30-48; 245-254;
+RP   260-279 AND 298-304, FUNCTION, ENZYME REGULATION, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=9291122;
+RA   Koseki T., Furuse S., Iwano K., Sakai H., Matsuzawa H.;
+RT   "An Aspergillus awamori acetylesterase: purification of the enzyme,
+RT   and cloning and sequencing of the gene.";
+RL   Biochem. J. 326:485-490(1997).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone.
+CC       {ECO:0000269|PubMed:9291122}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- ENZYME REGULATION: Inactivated by di-isopropylfluorophosphate and
+CC       phenylmethylsulfonylfluorid (PMSF), a specific inhibitor of serine
+CC       esterases. {ECO:0000269|PubMed:9291122}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.0. Activity is signifcantly retained from pH 6.0
+CC         to 9.0. {ECO:0000269|PubMed:9291122};
+CC       Temperature dependence:
+CC         Activity is decreased at temperatures higher than 40 degrees
+CC         Celsius. {ECO:0000269|PubMed:9291122};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D87681; BAA13434.2; -; Genomic_DNA.
+DR   ProteinModelPortal; Q92194; -.
+DR   ESTHER; aspaw-ACEA; Esterase_phb.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Cellulose degradation;
+KW   Direct protein sequencing; Glycoprotein; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     24       {ECO:0000255}.
+FT   CHAIN        25    304       Acetylxylan esterase A.
+FT                                /FTId=PRO_0000393474.
+FT   ACT_SITE    148    148       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    190    190       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   304 AA;  32729 MW;  73068FB386400B6E CRC64;
+     MLLSTHLLFV ITTLVTSLLH PIDGHAVKRS GSLQQVTDFG DNPTNVGMYI YVPNNLASNP
+     GIVVAIHYCT GTGPGYYGDS PYATLSEQYG FIVIYPSSPY SGGCWDVSSQ ATLTHNGGGN
+     SNSIANMVTW TISKYGADSS KVFVTGSSSG AMMTNVMAAT YPELFAAATV YSGVSAGCFY
+     SNTNQVDGWN STCAQGDVIT TPEHWASIAE AMYSGYSGSR PRMQIYHGSI DTTLYPQNYY
+     ETCKQWAGVF GYDYSAPEKT EANTPQTNYE TTIWGDSLQG IFATGVGHTV PIHGDKDMEW
+     FGFA
+//
+ID   AXE1_ASPFI              Reviewed;         303 AA.
+AC   Q96W96;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   09-DEC-2015, entry version 51.
+DE   RecName: Full=Acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA;
+OS   Aspergillus ficuum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5058;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, GLYCOSYLATION, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RX   DOI=10.1016/S0141-0229(02)00122-9;
+RA   Chung H.-J., Park S.-M., Kim H.-R., Yang M.-S., Kim D.-H.;
+RT   "Cloning the gene encoding acetyl xylan esterase from Aspergillus
+RT   ficuum and its expression in Pichia pastoris.";
+RL   Enzyme Microb. Technol. 31:384-391(2002).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone.
+CC       {ECO:0000269|Ref.1}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 7.0. {ECO:0000269|Ref.1};
+CC       Temperature dependence:
+CC         Thermal stability decreased at temperatures above 40 degrees
+CC         Celsius. {ECO:0000269|Ref.1};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- PTM: Glycosylated. {ECO:0000269|Ref.1}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF331757; AAK60128.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q96W96; -.
+DR   ESTHER; aspnc-axe1; Esterase_phb.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Cellulose degradation; Glycoprotein;
+KW   Hydrolase; Polysaccharide degradation; Secreted; Serine esterase;
+KW   Signal.
+FT   SIGNAL        1     23       {ECO:0000255}.
+FT   CHAIN        24    303       Acetylxylan esterase A.
+FT                                /FTId=PRO_0000393476.
+FT   ACT_SITE    147    147       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    189    189       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   303 AA;  32591 MW;  281C57BD9D3996A3 CRC64;
+     MLSTHLLFLA TTLLTSLFHP IAAHVAKRSG SLQQITDFGD NPTGVGMYIY VPNNLASNPG
+     IVVAIHYCTG TGPGYYSNSP YATLSEQYGF IVIYPSSPYS GGCWDVSSQA TLTHNGGGNS
+     NSIANMVTWT ISEYGADSKK VYVTGSSSGA MMTNVMAATY PELFAAGTVY SGVSAGCFYS
+     DTNQVDGWNS TCAQGDVITT PEHWASIAEA MYPGYSGSRP KMQIYHGSVD TTLYPQNYYE
+     TCKQWAGVFG YDYSAPESTE ANTPQTNYET TIWGDNLQGI FATGVGHTVP IHGDKDMEWF
+     GFA
+//
+ID   AXE1_NEOFI              Reviewed;         368 AA.
+AC   A1DBP9;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 1.
+DT   20-JAN-2016, entry version 56.
+DE   RecName: Full=Probable acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA; ORFNames=NFIA_099230;
+OS   Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL
+OS   181) (Aspergillus fischerianus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Neosartorya.
+OX   NCBI_TaxID=331117;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- DOMAIN: Has a modular structure: a carbohydrate esterase catalytic
+CC       module at the N-terminus, a linker rich in serines and threonines,
+CC       and a C-terminal carbohydrate-binding module (CBM). The genes for
+CC       catalytic modules and CBMs seem to have evolved separately and
+CC       have been linked by gene fusion.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027694; EAW20289.1; -; Genomic_DNA.
+DR   RefSeq; XP_001262186.1; XM_001262185.1.
+DR   ProteinModelPortal; A1DBP9; -.
+DR   SMR; A1DBP9; 335-368.
+DR   ESTHER; neofi-axe1; Esterase_phb.
+DR   EnsemblFungi; CADNFIAT00008928; CADNFIAP00008714; CADNFIAG00008928.
+DR   GeneID; 4588439; -.
+DR   KEGG; nfi:NFIA_099230; -.
+DR   EuPathDB; FungiDB:NFIA_099230; -.
+DR   HOGENOM; HOG000171266; -.
+DR   KO; K05972; -.
+DR   OMA; PSNLRMY; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006702; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation;
+KW   Cleavage on pair of basic residues; Complete proteome; Glycoprotein;
+KW   Hydrolase; Polysaccharide degradation; Reference proteome; Secreted;
+KW   Serine esterase; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   PROPEP       20     28       {ECO:0000250}.
+FT                                /FTId=PRO_0000393483.
+FT   CHAIN        29    368       Probable acetylxylan esterase A.
+FT                                /FTId=PRO_0000393484.
+FT   DOMAIN      332    368       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       32    304       Catalytic. {ECO:0000250}.
+FT   REGION      305    333       Ser/Thr-rich linker.
+FT   ACT_SITE    149    149       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    191    191       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   368 AA;  38975 MW;  C6C4FFBBA6C000BA CRC64;
+     MRALSVFFAL FCFLALSSAS PGQDVVKRVT SGSLQQVTNF GSNPSGTLMY IYVPKNLATK
+     PGIVVAIHYC TGTAQAYYTG SPYAQLAEQY GFIVIYPQSP YSGTCWDVSS QSALTHNGGG
+     DSNSIANMVT WTISQYNADT SKVFVTGSSS GAMMTNVMAA TYPELFAAAT VYSGVSAGCF
+     YSSSNQVDAW NSSCAQGNVI STPEVWGGIA KAMYPGYTGP RPRMQIYHGS TDTTLYPQNY
+     YETCKQWAGV FGYNYNSPQS TQSNTPQANY QTTIWGPNLQ GIFATGVGHT VPIHGEQDME
+     WFGFAGGSST TTTQPTTTST TTSSGGSSTG TGVAAHWGQC GGNGWTGPTV CASGYTCTVV
+     NAWYSQCL
+//
+ID   AXE1_ASPFU              Reviewed;         371 AA.
+AC   Q4WBW4;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2005, sequence version 1.
+DT   09-DEC-2015, entry version 68.
+DE   RecName: Full=Probable acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA; ORFNames=AFUA_8G06570;
+OS   Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC
+OS   A1100) (Aspergillus fumigatus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=330879;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100;
+RX   PubMed=16372009; DOI=10.1038/nature04332;
+RA   Nierman W.C., Pain A., Anderson M.J., Wortman J.R., Kim H.S.,
+RA   Arroyo J., Berriman M., Abe K., Archer D.B., Bermejo C., Bennett J.W.,
+RA   Bowyer P., Chen D., Collins M., Coulsen R., Davies R., Dyer P.S.,
+RA   Farman M.L., Fedorova N., Fedorova N.D., Feldblyum T.V., Fischer R.,
+RA   Fosker N., Fraser A., Garcia J.L., Garcia M.J., Goble A.,
+RA   Goldman G.H., Gomi K., Griffith-Jones S., Gwilliam R., Haas B.J.,
+RA   Haas H., Harris D.E., Horiuchi H., Huang J., Humphray S., Jimenez J.,
+RA   Keller N., Khouri H., Kitamoto K., Kobayashi T., Konzack S.,
+RA   Kulkarni R., Kumagai T., Lafton A., Latge J.-P., Li W., Lord A.,
+RA   Lu C., Majoros W.H., May G.S., Miller B.L., Mohamoud Y., Molina M.,
+RA   Monod M., Mouyna I., Mulligan S., Murphy L.D., O'Neil S., Paulsen I.,
+RA   Penalva M.A., Pertea M., Price C., Pritchard B.L., Quail M.A.,
+RA   Rabbinowitsch E., Rawlins N., Rajandream M.A., Reichard U.,
+RA   Renauld H., Robson G.D., Rodriguez de Cordoba S., Rodriguez-Pena J.M.,
+RA   Ronning C.M., Rutter S., Salzberg S.L., Sanchez M.,
+RA   Sanchez-Ferrero J.C., Saunders D., Seeger K., Squares R., Squares S.,
+RA   Takeuchi M., Tekaia F., Turner G., Vazquez de Aldana C.R., Weidman J.,
+RA   White O., Woodward J.R., Yu J.-H., Fraser C.M., Galagan J.E., Asai K.,
+RA   Machida M., Hall N., Barrell B.G., Denning D.W.;
+RT   "Genomic sequence of the pathogenic and allergenic filamentous fungus
+RT   Aspergillus fumigatus.";
+RL   Nature 438:1151-1156(2005).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- DOMAIN: Has a modular structure: a carbohydrate esterase catalytic
+CC       module at the N-terminus, a linker rich in serines and threonines,
+CC       and a C-terminal carbohydrate-binding module (CBM). The genes for
+CC       catalytic modules and CBMs seem to have evolved separately and
+CC       have been linked by gene fusion.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAHF01000013; EAL85420.1; -; Genomic_DNA.
+DR   RefSeq; XP_747458.1; XM_742365.1.
+DR   ProteinModelPortal; Q4WBW4; -.
+DR   SMR; Q4WBW4; 337-371.
+DR   ESTHER; aspfu-axe1; Esterase_phb.
+DR   EnsemblFungi; CADAFUAT00002998; CADAFUAP00002998; CADAFUAG00002998.
+DR   GeneID; 3504738; -.
+DR   KEGG; afm:AFUA_8G06570; -.
+DR   EuPathDB; FungiDB:Afu8g06570; -.
+DR   HOGENOM; HOG000171266; -.
+DR   InParanoid; Q4WBW4; -.
+DR   KO; K05972; -.
+DR   OMA; PSNLRMY; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000002530; Chromosome 8.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    371       Probable acetylxylan esterase A.
+FT                                /FTId=PRO_0000393479.
+FT   DOMAIN      335    371       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       32    304       Catalytic.
+FT   REGION      305    336       Ser/Thr-rich linker.
+FT   ACT_SITE    149    149       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    191    191       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   371 AA;  39252 MW;  66AA089FB0675CC9 CRC64;
+     MRALSVFVAL FSFLALSSAS PGQDVAKRVT SGSLQQVTNF GSNPSGTLMY IYVPNNLATK
+     PGIVVAIHYC TGTAQAYYTG SPYAQLAEKY GFIVIYPQSP YSGTCWDVSS QSALTHNGGG
+     DSNSIANMVT WTISQYNADT SKVFVTGSSS GAMMTNVMAA TYPELFAAAT VYSGVPAGCF
+     YSSSNQVNGW NSSCAQGNVI STPEVWGGIA KAMYPGYTGP RPRMQIYHGS VDTTLYPQNY
+     YETCKQWAGV FGYNYNSPQS TQSNTPQANY QTTIWGPNLQ GIFATGVGHT VPIHGEQDME
+     WFGFTGGSSS TTTTATTPPT TSTTTSSGGS STSTGVAEHW GQCGGNGWTG PTACASGYTC
+     TVINEWYSQC L
+//
+ID   AXE1_ASPCL              Reviewed;         308 AA.
+AC   A1CSZ8;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 1.
+DT   09-DEC-2015, entry version 44.
+DE   RecName: Full=Probable acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA; ORFNames=ACLA_081220;
+OS   Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC
+OS   3887 / NRRL 1).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=344612;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027060; EAW06435.1; -; Genomic_DNA.
+DR   RefSeq; XP_001267861.1; XM_001267860.1.
+DR   ProteinModelPortal; A1CSZ8; -.
+DR   ESTHER; aspcl-axe1; Esterase_phb.
+DR   EnsemblFungi; CADACLAT00007635; CADACLAP00007444; CADACLAG00007635.
+DR   GeneID; 4700180; -.
+DR   KEGG; act:ACLA_081220; -.
+DR   EuPathDB; FungiDB:ACLA_081220; -.
+DR   HOGENOM; HOG000171266; -.
+DR   KO; K05972; -.
+DR   OMA; MYIYVPT; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006701; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    308       Probable acetylxylan esterase A.
+FT                                /FTId=PRO_0000393475.
+FT   ACT_SITE    151    151       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    141    141       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    193    193       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   308 AA;  33365 MW;  7589A0B5B5147F5E CRC64;
+     MAPFSFLLTL LLYTLSAGAS VLESRSSALL PRAGSLQQVT NFGDNPTNVG MYIYVPNNLA
+     SNPGIIVAIH YCTGTAEAYY NGSPYAKLAE KHGFIVIYPE SPYQGKCWDV SSRASLTHNG
+     GGNSNSIANM VKWTIKKYKT NTSKVFVTGS SSGAMMTNVM AATYPDMFAA GVVYSGVAAG
+     CFMSNTNQQA AWNSTCAHGK SIATPEAWAH VAKAMYPGYD GPRPRMQIYH GSADTTLYPQ
+     NYQETCKEWA GVFGYDYNAP RSVENNKPQA NYKTTTWGKE LQGIYATGVG HTVPINGDRD
+     MAWFGFAK
+//
+ID   AXE1_ASPFN              Reviewed;         307 AA.
+AC   B8NBI2;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   03-MAR-2009, sequence version 1.
+DT   09-DEC-2015, entry version 35.
+DE   RecName: Full=Probable acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA; ORFNames=AFLA_045570;
+OS   Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM
+OS   12722 / SRRC 167).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=332952;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167;
+RA   Payne W.G.A., Dean R.A., Nierman W.C., Amedeo P., Caler E.G.A.,
+RA   Fedorova N.D., Maiti R., Joardar V., Inman J., Galinsky K.J., Yu J.,
+RA   Bhatnagar D., Cleveland T.E.;
+RT   "Genome sequence of Aspergillus flavus strain NRRL 3357.";
+RL   Submitted (SEP-2007) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EQ963476; EED52855.1; -; Genomic_DNA.
+DR   RefSeq; XP_002378019.1; XM_002377978.1.
+DR   ProteinModelPortal; B8NBI2; -.
+DR   ESTHER; aspfl-axe1; Esterase_phb.
+DR   EnsemblFungi; CADAFLAT00005884; CADAFLAP00005884; CADAFLAG00005884.
+DR   GeneID; 7912441; -.
+DR   KEGG; afv:AFLA_045570; -.
+DR   EuPathDB; FungiDB:AFLA_045570; -.
+DR   KO; K05972; -.
+DR   OMA; MYIYVPT; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000001875; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    307       Probable acetylxylan esterase A.
+FT                                /FTId=PRO_0000393478.
+FT   ACT_SITE    150    150       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    192    192       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    270    270       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   307 AA;  33301 MW;  22AAC8A856C16BBD CRC64;
+     MILLSYLLTY LLCALTCSAR AIHNGRSLIP RAGSLEQVTD FGDNPSNVKM YIYVPTNLAS
+     NPGIIVAIHY CTGTAQAYYQ GSPYAQLAET HGFIVIYPES PYEGTCWDVS SQATLTHNGG
+     GNSNSIANMV TWTTKQYNAD SSKVFVTGTS SGAMMTNVMA ATYPDLFAAG IAYAGVPAGC
+     FLSTADQPDA WNSTCAQGQS ITTPEHWASI AEAMYPDYSG SRPKMQIYHG NVDTTLYPQN
+     YEETCKQWAG VFGYNYDAPE STESNTPEAN WSRTTWGPNL QGILAGGVGH NIQIHGDEDM
+     KWFGFTN
+//
+ID   AXE1_ASPNC              Reviewed;         303 AA.
+AC   A2QZI3;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   06-MAR-2007, sequence version 1.
+DT   09-DEC-2015, entry version 48.
+DE   RecName: Full=Probable acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA; ORFNames=An12g05010;
+OS   Aspergillus niger (strain CBS 513.88 / FGSC A1513).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=425011;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 513.88 / FGSC A1513;
+RX   PubMed=17259976; DOI=10.1038/nbt1282;
+RA   Pel H.J., de Winde J.H., Archer D.B., Dyer P.S., Hofmann G.,
+RA   Schaap P.J., Turner G., de Vries R.P., Albang R., Albermann K.,
+RA   Andersen M.R., Bendtsen J.D., Benen J.A.E., van den Berg M.,
+RA   Breestraat S., Caddick M.X., Contreras R., Cornell M., Coutinho P.M.,
+RA   Danchin E.G.J., Debets A.J.M., Dekker P., van Dijck P.W.M.,
+RA   van Dijk A., Dijkhuizen L., Driessen A.J.M., d'Enfert C., Geysens S.,
+RA   Goosen C., Groot G.S.P., de Groot P.W.J., Guillemette T.,
+RA   Henrissat B., Herweijer M., van den Hombergh J.P.T.W.,
+RA   van den Hondel C.A.M.J.J., van der Heijden R.T.J.M.,
+RA   van der Kaaij R.M., Klis F.M., Kools H.J., Kubicek C.P.,
+RA   van Kuyk P.A., Lauber J., Lu X., van der Maarel M.J.E.C.,
+RA   Meulenberg R., Menke H., Mortimer M.A., Nielsen J., Oliver S.G.,
+RA   Olsthoorn M., Pal K., van Peij N.N.M.E., Ram A.F.J., Rinas U.,
+RA   Roubos J.A., Sagt C.M.J., Schmoll M., Sun J., Ussery D., Varga J.,
+RA   Vervecken W., van de Vondervoort P.J.J., Wedler H., Woesten H.A.B.,
+RA   Zeng A.-P., van Ooyen A.J.J., Visser J., Stam H.;
+RT   "Genome sequencing and analysis of the versatile cell factory
+RT   Aspergillus niger CBS 513.88.";
+RL   Nat. Biotechnol. 25:221-231(2007).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM270272; CAK46215.1; -; Genomic_DNA.
+DR   RefSeq; XP_001395572.1; XM_001395535.2.
+DR   ProteinModelPortal; A2QZI3; -.
+DR   ESTHER; aspnc-axe1; Esterase_phb.
+DR   EnsemblFungi; CADANGAT00009945; CADANGAP00009754; CADANGAG00009945.
+DR   GeneID; 4985851; -.
+DR   KEGG; ang:ANI_1_652104; -.
+DR   HOGENOM; HOG000171266; -.
+DR   KO; K05972; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006706; Chromosome 3L.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     23       {ECO:0000255}.
+FT   CHAIN        24    303       Probable acetylxylan esterase A.
+FT                                /FTId=PRO_5000220742.
+FT   ACT_SITE    147    147       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    189    189       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   303 AA;  32625 MW;  68E78452C05C6353 CRC64;
+     MLSTHLLFLA TTLLTSLFHP IAAHVAKRSG SLQQITDFGD NPTGVGMYIY VPNNLASNPG
+     IVVAIHYCTG TGPGYYSNSF YATLSEQYGF IVIYPSSPYS GGCWDVSSQA TLTHNGGGNS
+     NSIANMVTWT ISEYGADSKK VFVTGSSSGA MMTNVMAATY PELFAAGTVY SGVSAGCFYS
+     DTNQVDGWNS TCAQGDVITT PEHWASIAEA MYPGYSGSRP KMQIYHGSVD TTLYPQNYYE
+     TCKQWAGVFG YDYSAPESTE ANTPQTNYET TIWGDNLQGI FATGVGHTVP IHGDKDMEWF
+     GFA
+//
+ID   AXE1_ASPTN              Reviewed;         311 AA.
+AC   Q0C8Z1;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 1.
+DT   09-DEC-2015, entry version 43.
+DE   RecName: Full=Probable acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA; ORFNames=ATEG_09843;
+OS   Aspergillus terreus (strain NIH 2624 / FGSC A1156).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=341663;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=NIH 2624 / FGSC A1156;
+RA   Birren B.W., Lander E.S., Galagan J.E., Nusbaum C., Devon K., Henn M.,
+RA   Ma L.-J., Jaffe D.B., Butler J., Alvarez P., Gnerre S., Grabherr M.,
+RA   Kleber M., Mauceli E.W., Brockman W., Rounsley S., Young S.K.,
+RA   LaButti K., Pushparaj V., DeCaprio D., Crawford M., Koehrsen M.,
+RA   Engels R., Montgomery P., Pearson M., Howarth C., Larson L., Luoma S.,
+RA   White J., Alvarado L., Kodira C.D., Zeng Q., Oleary S., Yandava C.,
+RA   Denning D.W., Nierman W.C., Milne T., Madden K.;
+RT   "Annotation of the Aspergillus terreus NIH2624 genome.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CH476608; EAU30034.1; -; Genomic_DNA.
+DR   RefSeq; XP_001218465.1; XM_001218464.1.
+DR   ProteinModelPortal; Q0C8Z1; -.
+DR   ESTHER; asptn-axe1; Esterase_phb.
+DR   EnsemblFungi; CADATEAT00003861; CADATEAP00003861; CADATEAG00003861.
+DR   GeneID; 4354490; -.
+DR   EuPathDB; FungiDB:ATEG_09843; -.
+DR   HOGENOM; HOG000171266; -.
+DR   OMA; MYIYVPT; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000007963; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    311       Probable acetylxylan esterase A.
+FT                                /FTId=PRO_0000393481.
+FT   ACT_SITE    153    153       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    197    197       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    224    224       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   311 AA;  33537 MW;  87A6415C2342612F CRC64;
+     MAPFSFILTV LLYALTCSAR ALGHAHALLP RAGSLEQVTD FGDNPTNVGM YIYVPNNLAS
+     SPGIVVAIHY SPEGTGTAEA YYTGSPYAQL AEQYGFIVIY PQSPYEGTCW DVSSQETLTH
+     NGGGNSNSIA NMVTWAISKY NADSSKVFVT GSSSGAMMTH QNVMAATYPE LFAAATVYSG
+     VPAGCFYSSS NQQDGWNSTC AQGQVITTPE NWANVAKGMY PGYNGTRPKM QIYHGSVDTT
+     LLPQNYYETC KQWAGVFGYN YDSPQQVQDN TPQSNYATTT WGDDLQGIFA TGVGHTVPIR
+     GDDDMAWFGF A
+//
+ID   AXE1_ASPFL              Reviewed;         307 AA.
+AC   A9JPE6;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   05-FEB-2008, sequence version 1.
+DT   09-DEC-2015, entry version 33.
+DE   RecName: Full=Probable acetylxylan esterase A;
+DE            EC=3.1.1.72;
+DE   Flags: Precursor;
+GN   Name=axeA; Synonyms=aceA;
+OS   Aspergillus flavus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5059;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=NRRL 6541;
+RX   DOI=10.1128/AEM.02146-08;
+RA   Nicholson M.J., Koulman A., Monahan B.J., Pritchard B.L., Payne G.A.,
+RA   Scott B.;
+RT   "Identification of two aflatrem biosynthesis gene loci in Aspergillus
+RT   flavus and metabolic engineering of Penicillium paxilli to elucidate
+RT   their function.";
+RL   Appl. Environ. Microbiol. 75:7469-7481(2009).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone (By
+CC       similarity). {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- CAUTION: The C-terminal carbohydrate-binding module (CBM)
+CC       extension found in some acetylxylan esterases from other species
+CC       is absent. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM921700; CAP53943.1; -; Genomic_DNA.
+DR   ProteinModelPortal; A9JPE6; -.
+DR   ESTHER; aspfl-axe1; Esterase_phb.
+DR   eggNOG; ENOG410IJXQ; Eukaryota.
+DR   eggNOG; COG3509; LUCA.
+DR   HOGENOM; HOG000171266; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Glycoprotein;
+KW   Hydrolase; Polysaccharide degradation; Secreted; Serine esterase;
+KW   Signal.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    307       Probable acetylxylan esterase A.
+FT                                /FTId=PRO_0000393477.
+FT   ACT_SITE    150    150       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    192    192       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    270    270       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   307 AA;  33286 MW;  7B08600B5BAC16D1 CRC64;
+     MILLSYLLTY LLCALTCSAR AIHNGRSLIP RAGSLEQVTD FGDNPSNVKM YIYVPTNLAS
+     NPGIIVAIHY CTGTAQAYYQ GSPYAQLAET HGFIVIYPES PYEGTCWDVS SQATLTHNGG
+     GNSNSIANMV TWTTKQYNAD SSKVFVTGTS SGAMMTNVMA ATYPNLFAAG VAYAGVPAGC
+     FLSTADQPDA WNSTCAQGQS ITTPEHWASI AEAMYPDYSG SRPKMQIYHG NVDTTLYPQN
+     YEETCKQWAG VFGYNYDAPE STESNTPEAN WSRTTWGPNL QGILAGGVGH NIQIHGDEDM
+     KWFGFTN
+//
+ID   AXE1_COPC7              Reviewed;         374 AA.
+AC   A8PB24;
+DT   14-OCT-2015, integrated into UniProtKB/Swiss-Prot.
+DT   15-JAN-2008, sequence version 1.
+DT   09-DEC-2015, entry version 34.
+DE   RecName: Full=Acetylxylan esterase {ECO:0000303|PubMed:23180549};
+DE            Short=AXE {ECO:0000303|PubMed:23180549};
+DE            EC=3.1.1.72 {ECO:0000269|PubMed:23180549};
+DE   Flags: Precursor;
+GN   ORFNames=CC1G_12850;
+OS   Coprinopsis cinerea (strain Okayama-7 / 130 / ATCC MYA-4618 / FGSC
+OS   9003) (Inky cap fungus) (Hormographiella aspergillata).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Agaricomycetidae; Agaricales; Psathyrellaceae;
+OC   Coprinopsis.
+OX   NCBI_TaxID=240176;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003;
+RX   PubMed=20547848; DOI=10.1073/pnas.1003391107;
+RA   Stajich J.E., Wilke S.K., Ahren D., Au C.H., Birren B.W.,
+RA   Borodovsky M., Burns C., Canbaeck B., Casselton L.A., Cheng C.K.,
+RA   Deng J., Dietrich F.S., Fargo D.C., Farman M.L., Gathman A.C.,
+RA   Goldberg J., Guigo R., Hoegger P.J., Hooker J.B., Huggins A.,
+RA   James T.Y., Kamada T., Kilaru S., Kodira C., Kuees U., Kupfer D.,
+RA   Kwan H.S., Lomsadze A., Li W., Lilly W.W., Ma L.-J., Mackey A.J.,
+RA   Manning G., Martin F., Muraguchi H., Natvig D.O., Palmerini H.,
+RA   Ramesh M.A., Rehmeyer C.J., Roe B.A., Shenoy N., Stanke M.,
+RA   Ter-Hovhannisyan V., Tunlid A., Velagapudi R., Vision T.J., Zeng Q.,
+RA   Zolan M.E., Pukkila P.J.;
+RT   "Insights into evolution of multicellular fungi from the assembled
+RT   chromosomes of the mushroom Coprinopsis cinerea (Coprinus cinereus).";
+RL   Proc. Natl. Acad. Sci. U.S.A. 107:11889-11894(2010).
+RN   [2]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, PATHWAY,
+RP   AND GLYCOSYLATION.
+RC   STRAIN=Okayama-7 / 130 / ATCC MYA-4618 / FGSC 9003;
+RX   PubMed=23180549; DOI=10.1007/s11274-012-1215-y;
+RA   Juturu V., Aust C., Wu J.C.;
+RT   "Heterologous expression and biochemical characterization of acetyl
+RT   xylan esterase from Coprinopsis cinerea.";
+RL   World J. Microbiol. Biotechnol. 29:597-605(2013).
+CC   -!- FUNCTION: Acetylxylan esterase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Degrades acetylated xylans by
+CC       cleaving acetyl side groups from the hetero-xylan backbone.
+CC       {ECO:0000269|PubMed:23180549}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides. {ECO:0000269|PubMed:23180549}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=4.3 mM for 4-nitrophanyl acetate
+CC         {ECO:0000269|PubMed:23180549};
+CC         KM=0.11 mM for 4-nitrophanyl butyrate
+CC         {ECO:0000269|PubMed:23180549};
+CC         Vmax=2.15 umol/min/mg enzyme 4-nitrophanyl acetate
+CC         {ECO:0000269|PubMed:23180549};
+CC         Vmax=0.78 umol/min/mg enzyme 4-nitrophanyl butyrate
+CC         {ECO:0000269|PubMed:23180549};
+CC       pH dependence:
+CC         Optimum pH is 8. {ECO:0000269|PubMed:23180549};
+CC       Temperature dependence:
+CC         Optimum temperature is 40 degrees Celsius.
+CC         {ECO:0000269|PubMed:23180549};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC       {ECO:0000305|PubMed:23180549}.
+CC   -!- SUBUNIT: Monomer. {ECO:0000250}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305|PubMed:23180549}.
+CC   -!- DOMAIN: Has a modular structure: a carbohydrate-binding module
+CC       (CBM) at the N-terminus, a linker rich in serines, threonines, and
+CC       prolines, and a C-terminal carbohydrate esterase catalytic module.
+CC       The genes for catalytic modules and CBMs seem to have evolved
+CC       separately and have been linked by gene fusion. {ECO:0000305}.
+CC   -!- PTM: Glycosylated. {ECO:0000269|PubMed:23180549}.
+CC   -!- SIMILARITY: Belongs to the axeA family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AACS02000004; EAU81722.1; -; Genomic_DNA.
+DR   RefSeq; XP_001840093.1; XM_001840041.1.
+DR   ProteinModelPortal; A8PB24; -.
+DR   SMR; A8PB24; 23-57.
+DR   STRING; 240176.XP_001840093.1; -.
+DR   GeneID; 6016718; -.
+DR   KEGG; cci:CC1G_12850; -.
+DR   EuPathDB; FungiDB:CC1G_12850; -.
+DR   eggNOG; COG3509; LUCA.
+DR   InParanoid; A8PB24; -.
+DR   OrthoDB; EOG7KDFN9; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000001861; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal.
+FT   SIGNAL        1     22       {ECO:0000255}.
+FT   CHAIN        23    374       Acetylxylan esterase.
+FT                                /FTId=PRO_0000433970.
+FT   DOMAIN       23     57       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       58     99       Ser/Thr/Pro-rich linker. {ECO:0000305}.
+FT   REGION      100    374       Catalytic.
+FT                                {ECO:0000250|UniProtKB:Q4WBW4}.
+FT   ACT_SITE    219    219       Charge relay system. {ECO:0000250}.
+FT   CARBOHYD    114    114       N-linked (GlcNAc...).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00498}.
+FT   CARBOHYD    320    320       N-linked (GlcNAc...).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00498}.
+SQ   SEQUENCE   374 AA;  39665 MW;  55EDEDC4FC27B7BF CRC64;
+     MVFSPRLSAF VALVALTNAA TAVPMYGQCG GSGYTGPTQC DPGLVCVKLN DWYSQCQSGG
+     AQPPVTTTSS PPVTVSPPPS TTTVAPPVAT GPPAPEIPAG QLTQLRSFGN NPSNISMFVY
+     KPQNVKNRPG LLVALHPCGG TAQQYFSGFP GFRQHADQRG FIVLYGQSPP GSSNCWDIIS
+     TASLTREGGD DSTGIASAVK YALQNWNVDP EKVFVTGTSS GAMMTNIMAA TYPDLFKAGA
+     VWAGTAVGCL SANTPQFPPD PCQSGTVIRT PQEWGDRVRR AYPGYNGPWP RMQIWHGTND
+     FALDHKNLAE QMKQWTNVHN ISQTPTSTSP STPRQGWTKQ VYGNGLVETF SGQGAGHGLP
+     ESGTEVVAMD FFGL
+//
+ID   XS20E_NEOPA             Reviewed;         671 AA.
+AC   B8YG19;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   03-MAR-2009, sequence version 1.
+DT   16-SEP-2015, entry version 34.
+DE   RecName: Full=Bifunctional acetylxylan esterase/xylanase XynS20E;
+DE   Includes:
+DE     RecName: Full=Acetylxylan esterase;
+DE              EC=3.1.1.72;
+DE   Includes:
+DE     RecName: Full=Endo-1,4-beta-xylanase;
+DE              Short=Xylanase;
+DE              EC=3.2.1.8;
+DE     AltName: Full=1,4-beta-D-xylan xylanohydrolase;
+DE   Flags: Precursor;
+GN   Name=xynS20E;
+OS   Neocallimastix patriciarum (Rumen fungus).
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Neocallimastix.
+OX   NCBI_TaxID=4758;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], SUBCELLULAR LOCATION, FUNCTION, CATALYTIC
+RP   ACTIVITY, AND BIOPHISICOCHEMICAL PROPERTIES.
+RC   STRAIN=S20;
+RX   PubMed=19690850; DOI=10.1007/s00253-009-2175-5;
+RA   Pai C.K., Wu Z.Y., Chen M.J., Zeng Y.F., Chen J.W., Duan C.H.,
+RA   Li M.L., Liu J.R.;
+RT   "Molecular cloning and characterization of a bifunctional xylanolytic
+RT   enzyme from Neocallimastix patriciarum.";
+RL   Appl. Microbiol. Biotechnol. 85:1451-1462(2010).
+CC   -!- FUNCTION: Bifunctional acetylxylan esterase/xylanase involved in
+CC       the hydrolysis of xylan, a major structural heterogeneous
+CC       polysaccharide found in plant biomass representing the second most
+CC       abundant polysaccharide in the biosphere, after cellulose.
+CC       Degrades xylan from acetylxylan, beechwood, birchwood, and oat
+CC       spelt, and releases acetate from 4-methylumbelliferyl acetate and
+CC       beta-D-xylose tetraacetate. No activity is observed against
+CC       carboxy methyl cellulose, beta-glucan, p-nitrophenol acetate, p-
+CC       nitrophenol laurate, p-nitrophenol myristate, p-nitrophenol,
+CC       palmitate, or beta-naphthol acetate.
+CC       {ECO:0000269|PubMed:19690850}.
+CC   -!- CATALYTIC ACTIVITY: Deacetylation of xylans and xylo-
+CC       oligosaccharides. {ECO:0000269|PubMed:19690850}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:19690850}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.48 mg/ml for birchwood xylan for endo-1,4-beta-xylanase
+CC         activity;
+CC         KM=16.72 mg/ml for birchwood xylan for acetylxylan esterase
+CC         activity;
+CC         Vmax=5.15 umol/min/mg enzyme toward birchwood xylan for
+CC         acetylxylan esterase activity;
+CC         Vmax=153.27 umol/min/mg enzyme toward birchwood xylan for Endo-
+CC         1,4-beta-xylanase activity;
+CC       pH dependence:
+CC         Optimum pH is 5.8 for acetylxylan esterase activity, and 5.8 for
+CC         endo-1,4-beta-xylanase activity.;
+CC       Temperature dependence:
+CC         Optimum temperature is 58 degrees Celsius for acetylxylan
+CC         esterase activity, and 49 degrees Celsius for endo-1,4-beta-
+CC         xylanase activity.;
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:19690850}.
+CC   -!- SIMILARITY: In the N-terminal section; belongs to the axeA family.
+CC       {ECO:0000305}.
+CC   -!- SIMILARITY: In the C-terminal section; belongs to the glycosyl
+CC       hydrolase 11 (cellulase G) family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 CBM10 (carbohydrate binding type-10)
+CC       domains. {ECO:0000255|PROSITE-ProRule:PRU01099, ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FJ529209; ACL68347.1; -; mRNA.
+DR   mycoCLAP; ZXA11E_NEOPA; -.
+DR   BRENDA; 3.1.1.72; 6834.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   Gene3D; 3.90.1220.10; -; 2.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR029059; AB_hydrolase_5.
+DR   InterPro; IPR002883; CBM10/Dockerin_dom.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR009034; Dockerin_dom_fun.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF12695; Abhydrolase_5; 1.
+DR   Pfam; PF02013; CBM_10; 2.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   SUPFAM; SSF64571; SSF64571; 2.
+DR   PROSITE; PS51763; CBM10; 2.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Repeat; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    671       Bifunctional acetylxylan
+FT                                esterase/xylanase XynS20E.
+FT                                /FTId=PRO_0000429665.
+FT   DOMAIN      335    374       CBM10 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01099}.
+FT   DOMAIN      383    422       CBM10 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01099}.
+FT   DOMAIN      461    661       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   REGION       54    279       Acetylxylan esterase.
+FT   ACT_SITE    152    152       Charge relay system. {ECO:0000250}.
+FT   ACT_SITE    555    555       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    648    648       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    238    238       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    339    339       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    445    445       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    483    483       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   671 AA;  72469 MW;  EC02F1D1A775640D CRC64;
+     MRLGVALSTI AVLLTATSAR NLDKRQWGWP NFGGGNGGNG GNGGKTINDY KREQGAGRDI
+     HVYAPSNLAP NSPLLLSLHG MDQDPNYQQS NTHWETLADS EGFVVVYPRG GTGMSTWDIQ
+     GTKDTQWVSQ IIDQMKKEYN IDTKRVYLSG FSMGGMFTYH AMSQIANKIA AFAPCSGPNV
+     FGASKAQRPV PIFHVHGTND DVLNYQQVEG FLKNYRDQFH CPSQADTKTN YPNRENPNAT
+     LYTWGPCDKG VYIKHLKLQG RGHSPSSADI QDIWDFVSQW TVDGPVSASG NGGGNTTPTN
+     PSTGGNGNGN GGGNTTPTNP STGGNGNGNG GSTDKCSSNI TKQGYKCCAS NCEVVYTDSD
+     GDWGVENDQW CGCGNRVTVG SGTCSAKILQ QGYKCCPSGC IIYYTDEDGT WGVNGEEWCG
+     CGSGSSSTGG GNDAPSSGSG YQGANGTNFC NNAKHSGESV TVTSNKVGDI NGIGYELWAD
+     SGNNSATFYD DGSFSCSFQR AKDYLCRSGL SFDSTKTHKQ IGHIYAEFKL VKQNIQNVDY
+     SYVGIYGWTR NPLVEFYVVD NWLSQWRPGD WVGNKKHGDF TIGGAQYTVY ENTRYGPSID
+     GDTNFKQYFS IRQQPRDCGT IDITAHFEQW EKLGMTMGKM HEAKVLGEAG SNNGGTSGTA
+     DFPFAKVYVK N
+//
+ID   A0A0F8B2K0_CERFI        Unreviewed;       292 AA.
+AC   A0A0F8B2K0;
+DT   22-JUL-2015, integrated into UniProtKB/TrEMBL.
+DT   22-JUL-2015, sequence version 1.
+DT   09-DEC-2015, entry version 5.
+DE   SubName: Full=Putative acetylxylan esterase A {ECO:0000313|EMBL:KKF95611.1};
+DE            EC=3.1.1.72 {ECO:0000313|EMBL:KKF95611.1};
+GN   Name=axeA {ECO:0000313|EMBL:KKF95611.1};
+GN   ORFNames=CFO_g2046 {ECO:0000313|EMBL:KKF95611.1};
+OS   Ceratocystis fimbriata f. sp. platani.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Microascales; Ceratocystidaceae;
+OC   Ceratocystis.
+OX   NCBI_TaxID=88771 {ECO:0000313|EMBL:KKF95611.1, ECO:0000313|Proteomes:UP000034841};
+RN   [1] {ECO:0000313|EMBL:KKF95611.1, ECO:0000313|Proteomes:UP000034841}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CFO {ECO:0000313|EMBL:KKF95611.1,
+RC   ECO:0000313|Proteomes:UP000034841};
+RA   Belbahri L.;
+RT   "Genome sequence of Ceratocystis platani, a major pathogen of plane
+RT   trees.";
+RL   Submitted (APR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KKF95611.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LBBL01000086; KKF95611.1; -; Genomic_DNA.
+DR   EnsemblFungi; KKF95611; KKF95611; CFO_g2046.
+DR   Proteomes; UP000034841; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0046555; F:acetylxylan esterase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+DR   TIGRFAMs; TIGR01840; esterase_phb; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000034841};
+KW   Hydrolase {ECO:0000313|EMBL:KKF95611.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000034841};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    292       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002527349.
+SQ   SEQUENCE   292 AA;  30326 MW;  36FEF698C67833CD CRC64;
+     MKVSSVLAAI GAFVSAANAA SLTQVTNFGN NPTGAKMYTF QPDNLQKGAP VVLVLHYCGG
+     TASAMYANTG WATAAAKYGF TVIYGETPNA SGCWDVSSPA TLSHDGNGDS TSIANMVRYA
+     VKDPKIAADS KRVFVTGISS GAMMTNVLSA AYPELFAAAT SYAGVAAGCF YTGSVAGWNS
+     TCSSGQSTQT QQEWASVAKA MDPGYNGPRP SMTLYHGTAD TTINPQNLQE ALKQWTGVFG
+     YSMTGGQASQ NQPISGWTTT VYGPKVRGVV AQGVTHSIPM QVDNDLKLFG LA
+//
+ID   O59869_ORPSP            Unreviewed;       313 AA.
+AC   O59869;
+DT   01-AUG-1998, integrated into UniProtKB/TrEMBL.
+DT   01-AUG-1998, sequence version 1.
+DT   09-DEC-2015, entry version 32.
+DE   SubName: Full=Acetyl xylan esterase A {ECO:0000313|EMBL:AAC14690.1};
+GN   Name=AxeA {ECO:0000313|EMBL:AAC14690.1};
+OS   Orpinomyces sp. (strain PC-2).
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Orpinomyces.
+OX   NCBI_TaxID=50059 {ECO:0000313|EMBL:AAC14690.1};
+RN   [1] {ECO:0000313|EMBL:AAC14690.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=PC-2 {ECO:0000313|EMBL:AAC14690.1};
+RX   PubMed=10473406;
+RA   Blum D.L., Li X.L., Chen H., Ljungdahl L.G.;
+RT   "Characterization of an acetyl xylan esterase from the anaerobic
+RT   fungus Orpinomyces sp. strain PC-2.";
+RL   Appl. Environ. Microbiol. 65:3990-3995(1999).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF001178; AAC14690.1; -; mRNA.
+DR   ProteinModelPortal; O59869; -.
+DR   mycoCLAP; AXE6A_ORPSP; -.
+DR   BRENDA; 3.1.1.72; 4441.
+DR   InterPro; IPR005181; DUF303_acetylest.
+DR   InterPro; IPR013830; SGNH_hydro.
+DR   Pfam; PF03629; DUF303; 1.
+DR   SUPFAM; SSF52266; SSF52266; 1.
+PE   2: Evidence at transcript level;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    313       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004159923.
+FT   DOMAIN       30    196       DUF303. {ECO:0000259|Pfam:PF03629}.
+SQ   SEQUENCE   313 AA;  34845 MW;  56217A51E64708E2 CRC64;
+     MRTSVVITFL AAALTVMAKP HAKPDPNFHI YLALGQSNME GQGNVEAQDR VEDKRFKLIS
+     TADECMGREL GEWYPALPPI VNCYGNLGPV DYFGRTLTKK LPKEVKVGVC AVAVAGCDIQ
+     LFEEENYKSY EIPDWMQGRI DHYGGNPFRR LVNIAKKAQK AGVIKGILLH QGETNNGQED
+     WPKRIKVVYE RLLKELNLKA EEVPLLAGEV VREEYEGMCS LHNTVIKKLP EVIPTAHVIS
+     AEGLDDGGDD LHFSSASYRI LGERYADKML ELLKKPAKPA DKPQKPQKPA KSEDEQVVSD
+     VEAADEVDSA DEE
+//

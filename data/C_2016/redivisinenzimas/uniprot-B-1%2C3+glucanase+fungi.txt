@@ -1,0 +1,674 @@
+ID   M5EDS9_MALS4            Unreviewed;      1511 AA.
+AC   M5EDS9;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 15.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH 5 family)-like protein {ECO:0000313|EMBL:CCV00595.1};
+GN   Name=EXG1.1 {ECO:0000313|EMBL:CCV00595.1};
+GN   ORFNames=MSY001_3300 {ECO:0000313|EMBL:CCV00595.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCV00595.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCV00595.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCV00595.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999571; CCV00595.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCV00595; CCV00595; MSY001_3300.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005089; F:Rho guanyl-nucleotide exchange factor activity; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   GO; GO:0035023; P:regulation of Rho protein signal transduction; IEA:InterPro.
+DR   Gene3D; 1.20.900.10; -; 2.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR000219; DH-domain.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   Pfam; PF00621; RhoGEF; 1.
+DR   SUPFAM; SSF48065; SSF48065; 2.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS50010; DH_2; 1.
+PE   3: Inferred from homology;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22   1511       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004066015.
+FT   DOMAIN      860   1100       DH (DBL-homology).
+FT                                {ECO:0000259|PROSITE:PS50010}.
+FT   COILED     1083   1103       {ECO:0000256|SAM:Coils}.
+FT   COILED     1157   1177       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   1511 AA;  165443 MW;  9E806F8F57669074 CRC64;
+     MVGHTFFSIL SAVLLVSMAL AQGIERNPLL VRHHDVRDLR AAEQEERHEV LASRATSKLR
+     FNYGRDKVRG VGIGGWLVLE NFITPSLYKK TGDNRVIDEW SFATYTPRNK AVQILQDHYD
+     NFITEDDFAE IASYNLNHVR VPFPYWGIRT WPGEPYIKLN QFDKLKQAAH WANKHGLKMI
+     IELHTVPGGA NPYDHGGHTN HTNWLGNDKE EGRWLEILDT LAAEFAKNEY PAVTGISIVN
+     EPNGDANQIY GQYKRGYNTV RRHDGDSELV VIIGDVFQNP AQSDFWNDKF SVPKYQQVMI
+     DTHVYRLFDP PSIAMSQDER IGYYCSLKGG FAKANQHLYM LIGEWSPSFT DCAPGLNGRF
+     LGHRYDGTFP GSTRRGSCDG RTGNANQFSD GFKANLKKNF HIQADAYSAG VGWIMWTWKV
+     ENHSADEWSY RAGVQNGWIP RNPANLEYHC SHDLDEHRRT SHVAPPASVS HRSRLSPAAM
+     HARAVPPAAR ATDAPRTAAY AVASRPPDRP PVQRLDRPVA PTAPPATATA RATRPSLGVP
+     LMSPVDLGSD IPYLRDDMSP LLMSPPAHTP SPSAEAHTPS VSYAGTAPPI SPATQAAPRL
+     REVRSTPRLR SESPQPLPDA LERIRQRTAH HAHALHRARD DGRAATAWAR DLPTPPVPEW
+     HEGEGWRAPS LSPPPSAGLG LSLSSTALHE LHSPKISELS LSEAEDRGTP DSGAAPWAGR
+     PAEPGRSRLS PAPPSLRRRI SSSLLGGRRS RATPEPPPSA GPSPTIADAE AMGREPAPAP
+     HAKRSNSNIR RLFRSADEEE ARARRPRLRV SPVVRPPTPI EKSPRLAPMQ DLPEMPNPYA
+     TPVSAAPSVF VAEASPGRRQ RQHLLNELAS TEQTYASDLG IVQNIYLAHA RRRAGLRPLP
+     QGAVSSPHAS THASPDMLPR SLSSLSSERE DAPGSGGARP LRAPGSPARA PPLSVTDIHV
+     IFAGLGPCYA LAVEMSGLLV AAARAQRTVS SVFLDKMSAI EQAFALYCAR HEAAVARLAD
+     VAAKRAAAAR FLHECDEMAR PYTSAWDLPS LLIKPVQRVL KYPLFLQSIL AQTSSDDPEY
+     AALQQALAQI QGVADRINES KKRMDVVGQH GFEPLSAPRA AFRRPVTGSA LRKARSPTSE
+     GPLTSDEAHY FALVARLEAA EQQLERLAQY CAAWTARVRE MYRAELLVVL AWMAVYEGGG
+     HEHRAALESL AQLRLLVEHR LLGQACEQLE RSVERAVHAK IRAALQLVER PKMVVLNRSA
+     KEAEYRRYLA ERTRRAGVPP SDGATAFLSM HMQLVDEIPA LLRGLDLVLQ HCVLALSQVQ
+     ASFYRVTAEQ LEQYCTLYLP SAMTPKSASS ASSARFPDMH GSPAATSSSL GPGTAASHAV
+     LWAHSDADAF AGPLDHALPE TPKKALPPLG ADISTMATAH SLLDESLSTP HPPRSVYPDP
+     NGPIEHATPR APLPVLEMSF DGYAQTHWNL GLAGDVERGP SPHSSPRHSV FFDARSSVGD
+     MHALRHPSQL L
+//
+ID   M5ECW1_MALS4            Unreviewed;       559 AA.
+AC   M5ECW1;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 12.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH 5 family)-like protein {ECO:0000313|EMBL:CCV00475.1};
+GN   Name=EXG1.4 {ECO:0000313|EMBL:CCV00475.1};
+GN   ORFNames=MSY001_3180 {ECO:0000313|EMBL:CCV00475.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCV00475.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCV00475.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCV00475.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999567; CCV00475.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCV00475; CCV00475; MSY001_3180.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Membrane {ECO:0000256|SAM:Phobius};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Transmembrane {ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|SAM:Phobius}.
+FT   TRANSMEM    119    142       Helical. {ECO:0000256|SAM:Phobius}.
+FT   DOMAIN      226    363       Cellulase. {ECO:0000259|Pfam:PF00150}.
+SQ   SEQUENCE   559 AA;  62253 MW;  08ABD8B61760278F CRC64;
+     MQYLEPDENI ASGLLDWQSH IDEPQAEYLE MDGAESFRSA RTEPGALSKG ATATGTDWRA
+     TEAPRSPPVE PVNSKAFDTS FHDESTDMSV DMREYAAASP AAAAPSQTRA PTKKAKWPWL
+     LAALVLVAVL AIALGAGLGV GLSKKSKDTS APPAPATSEL ADLPKWDWLS PSKKAFGVNL
+     GGWLMLERWM YEDWMVGVGG PNAWDELRLS QRLGDRTVDV LNSHMDSWIT EQDLDRIQSF
+     GMNMLRVPIG YWPFLSTRIT GEPYRNATQL DHLSNLMHWA WKRGLYILLD LHGMPGSQNN
+     DQSSGRNDTR RTADNYVDFY SDKNQEYSRQ VVTSALQWVE RHPAKSVIAG FTSVNEPRVY
+     NNPRYLQKLR SFYDFSIEQL SSLNIPLVAH HAFVNNPYDE WSAYASSKGP SRFILDDHPY
+     PAWFQNPLPS KIDSIVQSVC QYGSDMQRFP TPVLMGEYSP VSILNGSTAT TDLLKTELKV
+     FGWSAGSLFF TYRINASANP VAGEAAPIAL KYSFYDMALP NSDVGQFPRF DNKTPVIDWT
+     NQLASSCGSA PSLSWTRSS
+//
+ID   M5ES52_MALS4            Unreviewed;       860 AA.
+AC   M5ES52;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 12.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH 5 family)-like protein {ECO:0000313|EMBL:CCV00690.1};
+GN   Name=EXG1.3 {ECO:0000313|EMBL:CCV00690.1};
+GN   ORFNames=MSY001_3396 {ECO:0000313|EMBL:CCV00690.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCV00690.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCV00690.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCV00690.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999574; CCV00690.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCV00690; CCV00690; MSY001_3396.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    860       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004066240.
+FT   DOMAIN      126    407       Cellulase. {ECO:0000259|Pfam:PF00150}.
+SQ   SEQUENCE   860 AA;  93297 MW;  226707974C3B179A CRC64;
+     MKDFFKNLAV LSLVFISVTA SPLGTPAQDH LLARASNDTV GNDCKKLDDY QPKDSLDVFP
+     FYDAQRSEMM RYRFHIGVNM GSWFVNEKWM NGAIFKCAHD GEQGELAIPR GYGTSLDGIK
+     SARARLEQHW DTWITKDDFA HLKEMGVNAV RIPIGYWNLP ESRFLKDTPF ENYTEVYKNS
+     WKYVRRAIKY ANDNDIGVML DLHGAYGSQN GQSNSGFNKF NVDFYNGDNR NRTTDALSWI
+     VRDLQSMPNM IGLELLNEAK NDGGKDVDLL LEWYKNALDK IREIGGTTAD FPLYVSDSFA
+     PRRAADLVAG RKDFTVQDTH KYYAFTNNDQ SAKEITNDVK TSARKTMVDI TDTVEDRYII
+     GEWSCALSPS STSSDQDTKV QELSDFCTAE IDTYRNVTSG MFFWSYRFAN CDDNVGWCFK
+     ASRGNFFDKY NAWGFDNSDV SKVVDRVKQE KLDLKHELAL GALTPNPKDL GYAEGFSWAK
+     KLATDLPVSR LAFKNEYVDR RIKKNSAKLH NDDDKKGFRE GYREGVEYIE CIVLSYKNDK
+     SDSVCGKKAS GASNGATSTN SSSSSSSSSK SSSSKSSSSP TSSKSSSSKS SSSPTSSNSN
+     SSKSSSSKSS SQRMSSTVVT SSVSGKTVTA TASGSPGGQM CGNDDIFGLG ICISGSGNNN
+     NINAQMVSHE EWGDHIKDLS ETMQFAKLTA ILALVVAGAA ANPLPFGNEL VERNNGGSCP
+     PPHTVTVTVT AAPSASHSHQ ASSSHQASSS HQASSSHQAS SSHKASSSHK ASSSHSASST
+     HKASSTHKPS STATVTSTSP SKSATSAPSS PDVVTTTVSG KPVTVTATVT MNGQRCGNDD
+     IFGIAICIEN SGNNNSVQAN
+//
+ID   M5E8Y5_MALS4            Unreviewed;       464 AA.
+AC   M5E8Y5;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 12.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH 5 family)-like protein {ECO:0000313|EMBL:CCU99091.1};
+GN   Name=EXG1.5 {ECO:0000313|EMBL:CCU99091.1};
+GN   ORFNames=MSY001_1797 {ECO:0000313|EMBL:CCU99091.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCU99091.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCU99091.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCU99091.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999556; CCU99091.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCU99091; CCU99091; MSY001_1797.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    464       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004065926.
+FT   DOMAIN      127    402       Cellulase. {ECO:0000259|Pfam:PF00150}.
+SQ   SEQUENCE   464 AA;  52998 MW;  CFFD928705692E60 CRC64;
+     MGVARVVGFL LLLIAIAKAS HVSQDESRAP SLSVRANTVG NNCPVLPDHW PSSWLDVWFP
+     PYDREKAEAM RYRFQAGVNL GSWFVNEKWI APSLFNCTLD GEKGELAILR GYGNTSQGIR
+     SARALLEKHW DTWITEEDFK KMRNQYNVNS VRIPIGYWNL PGAQFTQGTP FEAWSEVYKN
+     SWKYVRRAIK VAGDHNIGVL LDMHGAYGSQ NGQENSGFNR FSVEFSQPEN RRRTKEALVW
+     IANDLKDVTN LVGIELLNEP WNESGLGWWF KTTAKAIHDI GGHVANLPIY YSDPAVPHNI
+     ADSENKPSYT AYDKHQYYTF VNRNAPVSEI LEKVRGSDHD RLMNLQNSLK GRLVIGEWSC
+     ALDAGSMSGN SAQHVQQRRE FCQTQTDSYR NVSSAMYFWS YKYENCKFWG GWCFDQMYGK
+     YISTYGGYDL TLSESNMVLS HLPTLIPPMM VIMTRRKALR MAFI
+//
+ID   M5ES59_MALS4            Unreviewed;       414 AA.
+AC   M5ES59;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 11.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH 5 family)-like protein {ECO:0000313|EMBL:CCV00701.1};
+GN   Name=EXG1.6 {ECO:0000313|EMBL:CCV00701.1};
+GN   ORFNames=MSY001_3407 {ECO:0000313|EMBL:CCV00701.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCV00701.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCV00701.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCV00701.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999574; CCV00701.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCV00701; CCV00701; MSY001_3407.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925}.
+FT   DOMAIN       57    335       Cellulase. {ECO:0000259|Pfam:PF00150}.
+SQ   SEQUENCE   414 AA;  46875 MW;  BE05B8B1F37FDC6B CRC64;
+     MRYRFQSGVN LGSWFVTEKW ISPSLYKCAH DGEKGDLAIL RGYGNSSQGI QSARARLEEH
+     WDKWITAGEF AKMHNEYQIN AVRIPIGYWN LPGARFTKDT PFEPWTDVYK NCWKYVRRAI
+     KMAADNEIGV VLDLHGAYGS QNGKANTGFN GFDTEFFQSN NEKRTKEALV WIANDLKDVT
+     NFVGIELLNE PEDKGGLGWW YKTTAQAIHD IGGNAANLPV YFGNPPGPSN IAESVSSHSF
+     TAFDVHEYYT FTNRNKPEPE ILKNVLGHNF DRFMNLKNST KNRLVIGEWS CALDPGSLSG
+     SKSNHAAERA EFCQAQIQSY RNASSAMFFW SYKYENCEKW GGWCFDKMWG QYIKNYGGYG
+     MQSVDSSNLP NVPFIPALGQ SQLNFQGYKD GMNIARKLAS QQPSTPLGFN NFQD
+//
+ID   M5EAE4_MALS4            Unreviewed;       515 AA.
+AC   M5EAE4;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 11.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH 5 family)-like protein {ECO:0000313|EMBL:CCU99399.1};
+GN   Name=EXG1.7 {ECO:0000313|EMBL:CCU99399.1};
+GN   ORFNames=MSY001_2105 {ECO:0000313|EMBL:CCU99399.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCU99399.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCU99399.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCU99399.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999557; CCU99399.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCU99399; CCU99399; MSY001_2105.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925}.
+FT   DOMAIN      105    385       Cellulase. {ECO:0000259|Pfam:PF00150}.
+SQ   SEQUENCE   515 AA;  57765 MW;  4AC9990E6237D3E5 CRC64;
+     MPNLFEKIHD KLSSKSSSKT EVPTDIPSYD QPLDRRTMYQ LRMQRGVNLG SWFALEAWLT
+     GSVFQHAKDP KQSDLDLVSG MKPEEAKKIL EHHWDHFIDD GDWKWMASHG ISAVRLPINY
+     VHFVASDSKY SSLLKGTEFA SFAEVYQGAW SRIEAAIKKA ASHNIGVLID LHGAPGGQNK
+     DAHCGKSDGN VSFFNGIGAG SNRKTTIKIL VELAAAVASY ENVIGLELIN EPINHSSLEG
+     FYDDAIKAIR SSNSKDAARL PLYLGDAWHT RHYAKYVGEH SNAGNPLVMD HHLYRCFTKQ
+     DHSTSAEDHA KALDLNNGET ANFLKSISNQ TGGNVIIGEW SSALNPGSLK NSSNKSEAKK
+     AWGMSQWFAF EQFTAGYFYW TLKKEGGPDP GWCFYTAVEK GVMPQSLNPL QATRHRSPQE
+     LQQACDQAMD PLYKEHCKYW DSRNAKGQHE GYVQGFRTAW TDYMSFLQQG TEPGLTQTLC
+     KLRCASFESQ GHKDAWEFEH GYMQGLKSFK KLLYQ
+//
+ID   M5ED28_MALS4            Unreviewed;       623 AA.
+AC   M5ED28;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 11.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH 5 family)-like protein {ECO:0000313|EMBL:CCV00348.1};
+GN   Name=EXG1.2 {ECO:0000313|EMBL:CCV00348.1};
+GN   ORFNames=MSY001_3053 {ECO:0000313|EMBL:CCV00348.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCV00348.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCV00348.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCV00348.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 5 (cellulase A)
+CC       family. {ECO:0000256|RuleBase:RU361153}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999565; CCV00348.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCV00348; CCV00348; MSY001_3053.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001547; Glyco_hydro_5.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00150; Cellulase; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361153};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361153};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925}.
+FT   DOMAIN      186    457       Cellulase. {ECO:0000259|Pfam:PF00150}.
+SQ   SEQUENCE   623 AA;  69031 MW;  D158DD984AF03703 CRC64;
+     MQVIAPLFDF YKVASSLSLS LASYKPIPVV ESSNDSDNPG RVSAVDSSGS SWSEKHPESE
+     WGSPSILKMS NDSSDGRSAA SNSNGSGKTV GQHGCTLLDD YTPKDSIHVQ FPSFNRTRAN
+     IMRYRQQIGV NGGSWFVLES WMAPSMFSCA SGGKSAELDF LKGYGTSSDA IQSARARLEK
+     HWDTWIQEAD FVNMRSAGIN TLRLPIGYWN LPESNFTKNT PFEKYSDVYK NSWDYVRRAI
+     SYADKYDIGV LVDVHGAYGS QNGQAHSGLS DGKIQFFSQS NMDKTAKMVE WLVRELVNVT
+     NVVGVELLNE PQNDSKLWDW YNSTINEVRK ISDDAQALPL YFHDAFSPQQ GSDFAAQRSD
+     FVVQDTHSYF VYTQQDRDMS ANQHTKQISG SLQGSMSSQA KKANGRVIVG EWSCALNPKS
+     LSNSNNKKKD ESDFCQAQIE TYRNTTAGVL FWSWNMENCD QNSGWCFKKA WSDVMNKTYN
+     AWGFNDKVTN KTIDAVSSEI GKTTLPDKYQ TGTVSRQSNS CPSSQSSNTR RAATSASSSS
+     SSSSSTMDSD TQGYADGFTS AKVLASRMEL SRLGFVDQYI ADSVNAYKNK LMTQPDSKTY
+     SSSFQKGLSQ IENLVREEAA KAL
+//
+ID   Q5YLB9_PARBR            Unreviewed;       153 AA.
+AC   Q5YLB9;
+DT   23-NOV-2004, integrated into UniProtKB/TrEMBL.
+DT   23-NOV-2004, sequence version 1.
+DT   09-DEC-2015, entry version 20.
+DE   SubName: Full=B-1,3-endoglucanase {ECO:0000313|EMBL:AAQ75799.2};
+DE   Flags: Fragment;
+OS   Paracoccidioides brasiliensis.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Onygenales; mitosporic Onygenales; Paracoccidioides.
+OX   NCBI_TaxID=121759 {ECO:0000313|EMBL:AAQ75799.2};
+RN   [1] {ECO:0000313|EMBL:AAQ75799.2}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Cruz A.H.S., Bonfim S.M.R.S., Jesuino R.S.A., Felipe M.S.S.,
+RA   Soares C.M.A., Pereira M.;
+RT   "Sequence of the cDNA of B-1,3-endoglucanase from Paracoccidioides
+RT   brasiliensis.";
+RL   Submitted (JUL-2003) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY350910; AAQ75799.2; -; mRNA.
+DR   STRING; 502779.XP_002797710.1; -.
+DR   CAZy; GH81; Glycoside Hydrolase Family 81.
+DR   eggNOG; COG5498; LUCA.
+DR   eggNOG; KOG2254; Eukaryota.
+DR   GO; GO:0052861; F:glucan endo-1,3-beta-glucanase activity, C-3 substituted reducing group; IEA:InterPro.
+DR   GO; GO:0052862; F:glucan endo-1,4-beta-glucanase activity, C-3 substituted reducing group; IEA:InterPro.
+DR   GO; GO:0016998; P:cell wall macromolecule catabolic process; IEA:InterPro.
+DR   InterPro; IPR005200; Endo-beta-glucanase.
+DR   Pfam; PF03639; Glyco_hydro_81; 1.
+PE   2: Evidence at transcript level;
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAQ75799.2}.
+FT   NON_TER     153    153       {ECO:0000313|EMBL:AAQ75799.2}.
+SQ   SEQUENCE   153 AA;  17109 MW;  F02B7E2B75CEE42B CRC64;
+     PHHVQSFDTH TQHMKTDMFL RTTTKGNATA CVGNSWTMVE KNLPVNIGFG PWNPNTGTEA
+     TLSNATKQRI RHVAPSELSQ DISRQTNLNS MYFSGKALNK FAMLVYTVYE LVKDASLSES
+     AFSSLKSAFA RFVDNRQIFP LVYDTVWKGV VSS
+//
+ID   E5GAC5_9FUNG            Unreviewed;       235 AA.
+AC   E5GAC5;
+DT   08-FEB-2011, integrated into UniProtKB/TrEMBL.
+DT   08-FEB-2011, sequence version 1.
+DT   09-DEC-2015, entry version 12.
+DE   SubName: Full=1,3-1,4-beta-D-glucanase {ECO:0000313|EMBL:ADQ12984.1};
+DE            EC=3.2.1.73 {ECO:0000313|EMBL:ADQ12984.1};
+DE   Flags: Fragment;
+OS   Orpinomyces sp. GMLF18.
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Orpinomyces.
+OX   NCBI_TaxID=912577 {ECO:0000313|EMBL:ADQ12984.1};
+RN   [1] {ECO:0000313|EMBL:ADQ12984.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Comlekcioglu U., Ozkose E., Akyol I., Yazdic F.C., Ekinci M.S.;
+RT   "Expression of B-(1,3-1,4)-Glucanase Gene of Orpinomyces sp. GMLF18 in
+RT   Lactococcus lactis subsp. cremoris MG1363.";
+RL   Turk. J. Biol. 0:0-0(2010).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HM804955; ADQ12984.1; -; Genomic_DNA.
+DR   GO; GO:0042972; F:licheninase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.120.200; -; 1.
+DR   InterPro; IPR008264; Beta_glucanase.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR000757; Glyco_hydro_16.
+DR   Pfam; PF00722; Glyco_hydro_16; 1.
+DR   PRINTS; PR00737; GLHYDRLASE16.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   4: Predicted;
+KW   Glycosidase {ECO:0000313|EMBL:ADQ12984.1};
+KW   Hydrolase {ECO:0000313|EMBL:ADQ12984.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    235       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003196767.
+FT   DOMAIN       58    224       Glyco_hydro_16.
+FT                                {ECO:0000259|Pfam:PF00722}.
+FT   NON_TER     235    235       {ECO:0000313|EMBL:ADQ12984.1}.
+SQ   SEQUENCE   235 AA;  26711 MW;  A1F680F116C0338F CRC64;
+     MKSIISIAAL SVLGLISKTM AAPAPAPVPG TAWNGSHDVM DFNYHESNRF EMSNWPNGEM
+     FNCRWTPNND KFENGKLKLT IDRDGSGYTC GEYRTKNYYG YGMFQVNMKP IKNPGVVSSF
+     FTYTGPSDGT KWDEIDIEFL GYDTTKVQFN YYTNGQGHHE HVHYLGFDAS QGFHTYGFFW
+     ARNSITWYVD GTAVYTAYDN IPDTPGKIMM NAWNGIGVDD WLRPFNGRTN ISAYY
+//
+ID   A2I969_HYPRU            Unreviewed;       762 AA.
+AC   A2I969;
+DT   20-FEB-2007, integrated into UniProtKB/TrEMBL.
+DT   20-FEB-2007, sequence version 1.
+DT   20-JAN-2016, entry version 22.
+DE   SubName: Full=Beta-1,3-glucanase {ECO:0000313|EMBL:ABM55269.1};
+DE   SubName: Full=Endo-1,3(4)-beta-glucanase {ECO:0000313|EMBL:AIC32930.1};
+GN   Name=glu {ECO:0000313|EMBL:ABM55269.1};
+OS   Hypocrea rufa (Trichoderma viride).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=5547 {ECO:0000313|EMBL:ABM55269.1};
+RN   [1] {ECO:0000313|EMBL:ABM55269.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=18438008;
+RA   Gao W., Wu Y., Yang H.;
+RT   "Cloning of beta-1,3-glucanase gene from Trichoderma virid LTR-2 and
+RT   its expression in Pichia pastoris.";
+RL   Wei Sheng Wu Xue Bao 48:239-243(2008).
+RN   [2] {ECO:0000313|EMBL:ADB07373.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=3-6 {ECO:0000313|EMBL:ADB07373.1};
+RA   Sandhu J.S., Thind T.S., Gosal S.S., Gargas G., Kumar S.;
+RT   "B-1,3-glucanase gene from Trichoderma viride showing antagonism to
+RT   Phytophthora parasitica.";
+RL   Submitted (DEC-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:AIC32930.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Sandhu J.S., Thind T.S., Gosal S.S., Gargas G., Kumar S.;
+RT   "Cloning of endo-1,3(4)-beta-glucanase mRNA from Trichoderma viride
+RT   showing antagonism to Phytophthora parasitica causing gummosis in
+RT   citrus.";
+RL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EF176582; ABM55269.1; -; Genomic_DNA.
+DR   EMBL; GU300766; ADB07373.1; -; Genomic_DNA.
+DR   EMBL; KJ603460; AIC32930.1; -; mRNA.
+DR   CAZy; GH55; Glycoside Hydrolase Family 55.
+DR   Gene3D; 2.160.20.10; -; 1.
+DR   InterPro; IPR024535; Pectate_lyase_SF_prot.
+DR   InterPro; IPR012334; Pectin_lyas_fold.
+DR   InterPro; IPR011050; Pectin_lyase_fold/virulence.
+DR   Pfam; PF12708; Pectate_lyase_3; 1.
+DR   SUPFAM; SSF51126; SSF51126; 5.
+PE   2: Evidence at transcript level;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    762       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002644520.
+SQ   SEQUENCE   762 AA;  80686 MW;  2A1A4B3E357EF37C CRC64;
+     MLKLTALVAL LLGAASATPT PSPPASDEGI AKRTTSFYYP NMDHVNAPRG FAPDLDGDYS
+     YPIYQTVNAG DGNALQNAIT TDGSGGSRHP QWFASQPRVV YIPPGTYTIS KTLRFNTDTI
+     LMGDPTNPPI IKAAAGFSGD QTLISAQDPS TNDQGELSFA VAIKNLVLDT TAIPGGNSFT
+     ALWWGVAQAA HLQNVRITMS YSSGGNGHTG IHMGRGSTLG LADVRVEHGQ NGIWIDGHQQ
+     AAFHNIYFFQ NTIGMLISGG NTFSIFSSTF DTCGTGISNT GGSPWIALID AKSINSGVTF
+     TTNQYPSFMI ENLTKDNDTP VVVVRGSTLI GASSHVNTYS YGNTVGRNPT YGDVTSSNTR
+     PGALAPGGRY PYVAPPTYGD LPISSFLNVK DPAQNGNRQV LGDNTIDESG TLNAILGLAA
+     SQNKVAYFPF GKYRVDSTLF IPKGSRIVGE AWATITGNGN FFKNENSPQP VVSVGRAGDV
+     GIAQIQDVRI TVNDVLPGAI LLQFNMAGNN PGDVALWNSL VTVGGTRGAS ALANACTSSS
+     NECKGAFVGI HVAKGSSPYI QNVWNWVADH IAEDFNGGNG HSIAGKGGIL VQSTKATWLY
+     AIGSEHWWLY QLNLHNAANV VVSLLQAETN YDQGANTRQI PPQPWVANVG TWGDPDFSWC
+     NGGDKRCRMG PANFINGGSN IYTYASAAWA FFSGPGQGCA QFECQQTMHW IASTPSNLQA
+     FGLCSKDSVN TLRLGDNTFI NTQNGYTGGW PGGGGDVARY TT
+//
+ID   M5E704_MALS4            Unreviewed;       615 AA.
+AC   M5E704;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   20-JAN-2016, entry version 10.
+DE   SubName: Full=Exo-B-1,3-glucanase (GH55-family)-like protein {ECO:0000313|EMBL:CCU98466.1};
+GN   Name=MSG1 {ECO:0000313|EMBL:CCU98466.1};
+GN   ORFNames=MSY001_1172 {ECO:0000313|EMBL:CCU98466.1};
+OS   Malassezia sympodialis (strain ATCC 42132) (Atopic eczema-associated
+OS   yeast).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Ustilaginomycotina;
+OC   Malasseziomycetes; Malasseziales; Malasseziaceae; Malassezia.
+OX   NCBI_TaxID=1230383 {ECO:0000313|EMBL:CCU98466.1, ECO:0000313|Proteomes:UP000016925};
+RN   [1] {ECO:0000313|EMBL:CCU98466.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 42132 {ECO:0000313|EMBL:CCU98466.1};
+RA   Gioti A., Nystedt B., Li W., Xu J., Andersson A., Averette A.F.,
+RA   Muench K., Wang X., Kappauf C., Kingsbury J.M., Kraak B.,
+RA   Johansson H., Holm T., Lehtio J., Stajich J.E., Kahmann R.,
+RA   Kennell J.C., Cardenas-Corona M., Lundeberg J., Saunders C.W.,
+RA   Boekhout T., Dawson T.L., Munro C., Groot P., Butler G., Heitman J.,
+RA   Scheynius A.;
+RT   "Genomic insights into the atopic eczema associated skin commensal
+RT   yeast Malassezia sympodialis.";
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HE999552; CCU98466.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCU98466; CCU98466; MSY001_1172.
+DR   Proteomes; UP000016925; Unassembled WGS sequence.
+DR   Gene3D; 2.160.20.10; -; 1.
+DR   InterPro; IPR024535; Pectate_lyase_SF_prot.
+DR   InterPro; IPR012334; Pectin_lyas_fold.
+DR   InterPro; IPR011050; Pectin_lyase_fold/virulence.
+DR   Pfam; PF12708; Pectate_lyase_3; 2.
+DR   SUPFAM; SSF51126; SSF51126; 4.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016925};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000016925}.
+SQ   SEQUENCE   615 AA;  67243 MW;  27B7E77DAB6A4A22 CRC64;
+     MSTFSCTSAH PPSREYVCVA YQIFMENASG GFMSDLSFQG GRYGAWLGNQ QFTVRNIRFS
+     QCHTAICQHW NWAWTYMDVH ITDCDIGLQM LATQSQKQGV GSLVLSDWDV TRTNTVVQLE
+     KDAPGRLVLD NVYAQHVQAI VSGPSRTWLA PASDDDHVAF WVKTPAVVPD STTTLTRFST
+     PDGPVYAGAC PAPPRPACLV DDNGFWFGQE KPWFARLCGE NMVSLRSLGA KGDGTSDDTQ
+     AMQAVLDHHR GSLIYGTCRP LTVVPYGHYV ITDTLRIPAG TRLVGEAQPV FFGAGAAFQD
+     ASHPRPVVQV GVPGDVGDVT LCDLILSTRG PAPGAIVLEW NIHERTQGSV AMFDVHIRLG
+     GFAGSELELA QCPRDAPCEA LPHACFLSMH ITPKASGYFQ NVWVWTADHE LDDGAPAQLN
+     VLSDRGILIE SQGPVWMYGT ASEHALLYQY SLRGASNVLL AMIQTESPYF QGRHFAHASA
+     SVQPHAQYPD VDNSQRFKNA TDVSFEPDPA MDDRAVGLHI RACKDILVLG AGLYSFFDSY
+     DQAALPAHAC QRRLCVLESA AQCERIHLVN VATVGSQCLL SLDGCDWVAE TPFREGFCST
+     MALFTLSRFG TARWL
+//

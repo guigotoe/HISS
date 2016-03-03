@@ -1,0 +1,65 @@
+ID   O93784_HUMGT            Unreviewed;       476 AA.
+AC   O93784;
+DT   01-MAY-1999, integrated into UniProtKB/TrEMBL.
+DT   01-MAY-1999, sequence version 1.
+DT   11-NOV-2015, entry version 62.
+DE   SubName: Full=Beta-glucosidase {ECO:0000313|EMBL:BAA74958.1};
+GN   Name=bgl4 {ECO:0000313|EMBL:BAA74958.1};
+OS   Humicola grisea var. thermoidea.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Sordariales; Chaetomiaceae;
+OC   Humicola.
+OX   NCBI_TaxID=5528 {ECO:0000313|EMBL:BAA74958.1};
+RN   [1] {ECO:0000313|EMBL:BAA74958.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Takashima S., Nakamura A., Hidaka M., Masaki H., Uozumi T.;
+RT   "Molecular cloning and expression of the novel fungal beta-glucosidase
+RT   genes from Humicola grisea and Trichoderma reesei.";
+RL   J. Biochem. 0:0-0(1999).
+RN   [2] {ECO:0000213|PDB:4MDO, ECO:0000213|PDB:4MDP}
+RP   X-RAY CRYSTALLOGRAPHY (2.05 ANGSTROMS).
+RX   PubMed=24914974; DOI=10.1107/S1399004714006920;
+RA   de Giuseppe P.O., Souza T.d.e. .A., Souza F.H., Zanphorlin L.M.,
+RA   Machado C.B., Ward R.J., Jorge J.A., Furriel R.d.o.s. .P.,
+RA   Murakami M.T.;
+RT   "Structural basis for glucose tolerance in GH1 beta-glucosidases.";
+RL   Acta Crystallogr. D 70:1631-1639(2014).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 1 family.
+CC       {ECO:0000256|RuleBase:RU003690}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB003109; BAA74958.1; -; Genomic_DNA.
+DR   PDB; 4MDO; X-ray; 2.60 A; A=1-476.
+DR   PDB; 4MDP; X-ray; 2.05 A; A=1-476.
+DR   PDBsum; 4MDO; -.
+DR   PDBsum; 4MDP; -.
+DR   ProteinModelPortal; O93784; -.
+DR   SMR; O93784; 2-474.
+DR   CAZy; GH1; Glycoside Hydrolase Family 1.
+DR   mycoCLAP; BGL1D_HUMGT; -.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001360; Glyco_hydro_1.
+DR   InterPro; IPR018120; Glyco_hydro_1_AS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR10353; PTHR10353; 1.
+DR   Pfam; PF00232; Glyco_hydro_1; 1.
+DR   PRINTS; PR00131; GLHYDRLASE1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00653; GLYCOSYL_HYDROL_F1_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:4MDO, ECO:0000213|PDB:4MDP}.
+SQ   SEQUENCE   476 AA;  54063 MW;  DA174DFF5CBB9935 CRC64;
+     MSLPPDFKWG FATAAYQIEG SVNEDGRGPS IWDTFCAIPG KIADGSSGAV ACDSYKRTKE
+     DIALLKELGA NSYRFSISWS RIIPLGGRND PINQKGIDHY VKFVDDLIEA GITPFITLFH
+     WDLPDALDKR YGGFLNKEEF AADFENYARI MFKAIPKCKH WITFNEPWCS AILGYNTGYF
+     APGHTSDRSK SPVGDSAREP WIVGHNILIA HARAVKAYRE DFKPTQGGEI GITLNGDATL
+     PWDPEDPADI EACDRKIEFA ISWFADPIYF GKYPDSMRKQ LGDRLPEFTP EEVALVKGSN
+     DFYGMNHYTA NYIKHKTGVP PEDDFLGNLE TLFYNKYGDC IGPETQSFWL RPHAQGFRDL
+     LNWLSKRYGY PKIYVTENGT SLKGENDMPL EQVLEDDFRV KYFNDYVRAM AAAVAEDGCN
+     VRGYLAWSLL DNFEWAEGYE TRFGVTYVDY ANDQKRYPKK SAKSLKPLFD SLIRKE
+//

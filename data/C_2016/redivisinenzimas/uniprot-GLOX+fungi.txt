@@ -1,0 +1,400 @@
+ID   W4JPE3_9HOMO            Unreviewed;       787 AA.
+AC   W4JPE3;
+DT   19-MAR-2014, integrated into UniProtKB/TrEMBL.
+DT   19-MAR-2014, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Glyoxal oxidase {ECO:0000313|EMBL:ETW75334.1};
+GN   Name=glox4 {ECO:0000313|EMBL:ETW75334.1};
+GN   ORFNames=HETIRDRAFT_56441 {ECO:0000313|EMBL:ETW75334.1};
+OS   Heterobasidion irregulare TC 32-1.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Russulales; Bondarzewiaceae; Heterobasidion;
+OC   Heterobasidion annosum species complex.
+OX   NCBI_TaxID=747525 {ECO:0000313|EMBL:ETW75334.1, ECO:0000313|Proteomes:UP000030671};
+RN   [1] {ECO:0000313|EMBL:ETW75334.1, ECO:0000313|Proteomes:UP000030671}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=TC 32-1 {ECO:0000313|EMBL:ETW75334.1,
+RC   ECO:0000313|Proteomes:UP000030671};
+RX   PubMed=22463738; DOI=10.1111/j.1469-8137.2012.04128.x;
+RA   Olson A., Aerts A., Asiegbu F., Belbahri L., Bouzid O., Broberg A.,
+RA   Canback B., Coutinho P.M., Cullen D., Dalman K., Deflorio G.,
+RA   van Diepen L.T., Dunand C., Duplessis S., Durling M., Gonthier P.,
+RA   Grimwood J., Fossdal C.G., Hansson D., Henrissat B., Hietala A.,
+RA   Himmelstrand K., Hoffmeister D., Hogberg N., James T.Y., Karlsson M.,
+RA   Kohler A., Kues U., Lee Y.H., Lin Y.C., Lind M., Lindquist E.,
+RA   Lombard V., Lucas S., Lunden K., Morin E., Murat C., Park J.,
+RA   Raffaello T., Rouze P., Salamov A., Schmutz J., Solheim H.,
+RA   Stahlberg J., Velez H., de Vries R.P., Wiebenga A., Woodward S.,
+RA   Yakovlev I., Garbelotto M., Martin F., Grigoriev I.V., Stenlid J.;
+RT   "Insight into trade-off between wood decay and parasitism from the
+RT   genome of a fungal forest pathogen.";
+RL   New Phytol. 194:1001-1013(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KI925466; ETW75334.1; -; Genomic_DNA.
+DR   RefSeq; XP_009552498.1; XM_009554203.1.
+DR   EnsemblFungi; ETW75334; ETW75334; HETIRDRAFT_56441.
+DR   GeneID; 20678360; -.
+DR   KEGG; hir:HETIRDRAFT_56441; -.
+DR   Proteomes; UP000030671; Unassembled WGS sequence.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   Gene3D; 2.130.10.80; -; 1.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR015202; DUF1929.
+DR   InterPro; IPR011043; Gal_Oxase/kelch_b-propeller.
+DR   InterPro; IPR015916; Gal_Oxidase_b-propeller.
+DR   InterPro; IPR009880; Glyoxal_oxidase_N.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   Pfam; PF09118; DUF1929; 1.
+DR   Pfam; PF07250; Glyoxal_oxid_N; 1.
+DR   SUPFAM; SSF50965; SSF50965; 2.
+DR   SUPFAM; SSF81296; SSF81296; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Membrane {ECO:0000256|SAM:Phobius};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Signal {ECO:0000256|SAM:SignalP};
+KW   Transmembrane {ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|SAM:Phobius}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    787       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004843729.
+FT   TRANSMEM    659    683       Helical. {ECO:0000256|SAM:Phobius}.
+FT   DOMAIN       64    314       Glyoxal_oxid_N.
+FT                                {ECO:0000259|Pfam:PF07250}.
+FT   DOMAIN      494    603       DUF1929. {ECO:0000259|Pfam:PF09118}.
+SQ   SEQUENCE   787 AA;  82067 MW;  175A8B123468A15E CRC64;
+     MILSSLLALG LATVNSALAQ KAGSFEQVGD TLVSAMMMFL GNEGKIYILD KVEGNPTQIN
+     GHPAYAAVWD IATRKVTAMD VQTNPFCAAG MHLPNGSFAT FGGNGAISPG GNLGSVLNPG
+     GSSASFDATY QDYDGTAAIR IITPCDGDLT SPDCTWYDSP NGLKMQKHRW YPGCEPLADG
+     SVVLVGGFTN GGYINRNTPN DDPETSHGAA EPTYEFYPSK GDAQVMKFMV HTSGLNAYAH
+     TYLMPSGKML VQANYSTGKL TFTSLLWDYT NNIETALPDM PNQIVRVYPA SGATAMLPLT
+     PANNYTPTVL FCGGTFMQDS DWGNYSFPYA NTWEIPASAD CQRITPERTD GKDVAYEQDD
+     DMPVGRTMGQ FIALPNGKLL VLNGGANGTA GYATNTGVTL SYSQMPFGMS LAAAPVGQPA
+     LYDPTAPSGS RWSTAGFDTS SIARLYHSSA ILLPDASVFV AGSNPNVDYN DTTFFPTTYK
+     AEIFYPSYFA ASTRPVPTGI PSKLTYGGNA FDVSIPASSY SGSANDAADN TTVWLMRGGF
+     TTHAMNMGQR AVQLNNTYTV NSNGSFVLHV AQPPPNANLF QPGPGMVFVT INGIPSNATM
+     VLVGNGQVGT QPTQAASVLP PNVRADSASG TADGSNSNNN NNSSGSGNQA NSGSSNTGAI
+     IGGVVAAIAA VGILGAVFGI CLARRRRAAA ARSGPSASST YPMSTTNVAG GAGAGGAGAA
+     SSRGLRSSDS SAFVPLQGNM STASLNSPYR DEYEGMRGSG QYGRSGEYDP YYESAPRLST
+     SAGPPRY
+//
+ID   W4K4D7_9HOMO            Unreviewed;       637 AA.
+AC   W4K4D7;
+DT   19-MAR-2014, integrated into UniProtKB/TrEMBL.
+DT   19-MAR-2014, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Glyoxal oxidase {ECO:0000313|EMBL:ETW80672.1};
+GN   Name=glox3 {ECO:0000313|EMBL:ETW80672.1};
+GN   ORFNames=HETIRDRAFT_123144 {ECO:0000313|EMBL:ETW80672.1};
+OS   Heterobasidion irregulare TC 32-1.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Russulales; Bondarzewiaceae; Heterobasidion;
+OC   Heterobasidion annosum species complex.
+OX   NCBI_TaxID=747525 {ECO:0000313|EMBL:ETW80672.1, ECO:0000313|Proteomes:UP000030671};
+RN   [1] {ECO:0000313|EMBL:ETW80672.1, ECO:0000313|Proteomes:UP000030671}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=TC 32-1 {ECO:0000313|EMBL:ETW80672.1,
+RC   ECO:0000313|Proteomes:UP000030671};
+RX   PubMed=22463738; DOI=10.1111/j.1469-8137.2012.04128.x;
+RA   Olson A., Aerts A., Asiegbu F., Belbahri L., Bouzid O., Broberg A.,
+RA   Canback B., Coutinho P.M., Cullen D., Dalman K., Deflorio G.,
+RA   van Diepen L.T., Dunand C., Duplessis S., Durling M., Gonthier P.,
+RA   Grimwood J., Fossdal C.G., Hansson D., Henrissat B., Hietala A.,
+RA   Himmelstrand K., Hoffmeister D., Hogberg N., James T.Y., Karlsson M.,
+RA   Kohler A., Kues U., Lee Y.H., Lin Y.C., Lind M., Lindquist E.,
+RA   Lombard V., Lucas S., Lunden K., Morin E., Murat C., Park J.,
+RA   Raffaello T., Rouze P., Salamov A., Schmutz J., Solheim H.,
+RA   Stahlberg J., Velez H., de Vries R.P., Wiebenga A., Woodward S.,
+RA   Yakovlev I., Garbelotto M., Martin F., Grigoriev I.V., Stenlid J.;
+RT   "Insight into trade-off between wood decay and parasitism from the
+RT   genome of a fungal forest pathogen.";
+RL   New Phytol. 194:1001-1013(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KI925459; ETW80672.1; -; Genomic_DNA.
+DR   RefSeq; XP_009547392.1; XM_009549097.1.
+DR   EnsemblFungi; ETW80672; ETW80672; HETIRDRAFT_123144.
+DR   GeneID; 20666810; -.
+DR   KEGG; hir:HETIRDRAFT_123144; -.
+DR   Proteomes; UP000030671; Unassembled WGS sequence.
+DR   Gene3D; 2.130.10.80; -; 1.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR015202; DUF1929.
+DR   InterPro; IPR011043; Gal_Oxase/kelch_b-propeller.
+DR   InterPro; IPR015916; Gal_Oxidase_b-propeller.
+DR   InterPro; IPR009880; Glyoxal_oxidase_N.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   Pfam; PF09118; DUF1929; 1.
+DR   Pfam; PF07250; Glyoxal_oxid_N; 1.
+DR   SUPFAM; SSF50965; SSF50965; 2.
+DR   SUPFAM; SSF81296; SSF81296; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    637       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004845160.
+FT   DOMAIN       78    296       Glyoxal_oxid_N.
+FT                                {ECO:0000259|Pfam:PF07250}.
+FT   DOMAIN      459    567       DUF1929. {ECO:0000259|Pfam:PF09118}.
+SQ   SEQUENCE   637 AA;  68103 MW;  B33DADC90676E440 CRC64;
+     MRPQHSYALA ILYASIVFAA NTDSPTAPRQ PAQSGTVGTF QVVGDSIVSG QQLFLGTVDK
+     VYIVDKTENN PSTIKGHPAW AAEYSLGSNA GRPMDIVTNS FCAVTNGTWV NVGGNQAITT
+     GGAAAPDQVG ASGPYHDPDA LPPSRILTPC DDGNCDWTLV ADMSTRRWYP SLETLDDGSI
+     LIIGGCQWGG FVNNAGQTNP TYEFYPPRGD GKPIVSTILQ NTLPANLYPL TFLLPSRKLL
+     VQSNWQTTIL DLDQGNERRI DDVPDAVRTY PASGGTVMLP LTPQNNWTAT VMFCGGSNIK
+     DNQWQTNWDI AQYPASSSCV QISPDISNSY KSVDPLPEAR TMGNLVLLPT GQVLCLNGAA
+     TGVAGYGTDS WAIGMSYADQ PIFEPVMYNP GAPSGSQWSR DGLSPSSIPR MYHSTATILP
+     DGSVFVTGSN PNADFNKSVK YPTEYRVEKF YPSYFNERRP EPRGLPSQLS YGGEYFNVSI
+     QKDDMFGDTD YLQDAKVVLL RPGFSTHTMN MGQRLVELQV TYTSDRDGSA VLHCSQLPPN
+     PAIMPPGPAL LFVVINGVPS VGVQVMVGSG EIGKQPVQQV VPLPPSVAQP GALQAGPTGD
+     GGSGTKGGNQ TSGALHRSRP TWGNWLGGLI LLLGALF
+//
+ID   W4K4L2_9HOMO            Unreviewed;       661 AA.
+AC   W4K4L2;
+DT   19-MAR-2014, integrated into UniProtKB/TrEMBL.
+DT   19-MAR-2014, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Glyoxal oxidase 2 {ECO:0000313|EMBL:ETW80694.1};
+GN   Name=glox2 {ECO:0000313|EMBL:ETW80694.1};
+GN   ORFNames=HETIRDRAFT_146345 {ECO:0000313|EMBL:ETW80694.1};
+OS   Heterobasidion irregulare TC 32-1.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Russulales; Bondarzewiaceae; Heterobasidion;
+OC   Heterobasidion annosum species complex.
+OX   NCBI_TaxID=747525 {ECO:0000313|EMBL:ETW80694.1, ECO:0000313|Proteomes:UP000030671};
+RN   [1] {ECO:0000313|EMBL:ETW80694.1, ECO:0000313|Proteomes:UP000030671}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=TC 32-1 {ECO:0000313|EMBL:ETW80694.1,
+RC   ECO:0000313|Proteomes:UP000030671};
+RX   PubMed=22463738; DOI=10.1111/j.1469-8137.2012.04128.x;
+RA   Olson A., Aerts A., Asiegbu F., Belbahri L., Bouzid O., Broberg A.,
+RA   Canback B., Coutinho P.M., Cullen D., Dalman K., Deflorio G.,
+RA   van Diepen L.T., Dunand C., Duplessis S., Durling M., Gonthier P.,
+RA   Grimwood J., Fossdal C.G., Hansson D., Henrissat B., Hietala A.,
+RA   Himmelstrand K., Hoffmeister D., Hogberg N., James T.Y., Karlsson M.,
+RA   Kohler A., Kues U., Lee Y.H., Lin Y.C., Lind M., Lindquist E.,
+RA   Lombard V., Lucas S., Lunden K., Morin E., Murat C., Park J.,
+RA   Raffaello T., Rouze P., Salamov A., Schmutz J., Solheim H.,
+RA   Stahlberg J., Velez H., de Vries R.P., Wiebenga A., Woodward S.,
+RA   Yakovlev I., Garbelotto M., Martin F., Grigoriev I.V., Stenlid J.;
+RT   "Insight into trade-off between wood decay and parasitism from the
+RT   genome of a fungal forest pathogen.";
+RL   New Phytol. 194:1001-1013(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KI925459; ETW80694.1; -; Genomic_DNA.
+DR   RefSeq; XP_009547412.1; XM_009549117.1.
+DR   EnsemblFungi; ETW80694; ETW80694; HETIRDRAFT_146345.
+DR   GeneID; 20667133; -.
+DR   KEGG; hir:HETIRDRAFT_146345; -.
+DR   Proteomes; UP000030671; Unassembled WGS sequence.
+DR   Gene3D; 2.130.10.80; -; 1.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR015202; DUF1929.
+DR   InterPro; IPR011043; Gal_Oxase/kelch_b-propeller.
+DR   InterPro; IPR015916; Gal_Oxidase_b-propeller.
+DR   InterPro; IPR009880; Glyoxal_oxidase_N.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   Pfam; PF09118; DUF1929; 1.
+DR   Pfam; PF07250; Glyoxal_oxid_N; 1.
+DR   SUPFAM; SSF50965; SSF50965; 2.
+DR   SUPFAM; SSF81296; SSF81296; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    661       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004844294.
+FT   DOMAIN       65    306       Glyoxal_oxid_N.
+FT                                {ECO:0000259|Pfam:PF07250}.
+FT   DOMAIN      486    594       DUF1929. {ECO:0000259|Pfam:PF09118}.
+SQ   SEQUENCE   661 AA;  69422 MW;  6D52D7EC5C6ACED7 CRC64;
+     MIFSSLLAFA LASAPSALAA TKGGTFEEVG DTLVSAMMVF LGNEGKVYIL DKAEGNPTQV
+     NGHPAWAAVW DVETRKATPM DVQTNPFCAA GMHLPNGSFA TFGGNGATSP GGEIGSVKYD
+     GGYAASYDET YKDYDGRTSI RIITPCDGDI TSPECLWYDG NDGPKMQKQR WYPGAESLPD
+     GSVVLIGGFV SGGYINRNTP NVNPAGDGSE PTFEFYPSRG EAKVMDFMVK TSGLNAYALT
+     YLMPSGKMLV QANYSTILWD YDNNVETPLP DMPGKVIRVY PASGANAMLP LTPKNNYTPT
+     VLFCGGSDMP DSAWGNYSWP MINTFDYPAS ADCQRLTAEP LDGSAPAYEQ DDDMLETRTM
+     GQFVALPDGT MLVLNGGNNG TAGYSTATGQ TATYGEMPWG MSLASGPAGR PAVYNPNAPK
+     GSRWSNAGFA SSKIARLYHS SAILLADGSV FVAGSNPNVD VNTSTIFPTT YKAEIFYPSY
+     FDAPTRPKPT GMPKTLSYGG DPFDITIPAS SYSGSGNDAA ANTSVWLIRG GFTTHALNMG
+     QRSLQLNNTY TVQDDGSITL HVAQVPPNPN LITPGPILMF VTINGIPSNG TQVIVGNGKI
+     GTQPTSAASV LPASIKSDKA KGSGSQKTTS TSQDSGAVSL KGSALLGALM AIVAAVGMIG
+     F
+//
+ID   W4KLS8_9HOMO            Unreviewed;       782 AA.
+AC   W4KLS8;
+DT   19-MAR-2014, integrated into UniProtKB/TrEMBL.
+DT   19-MAR-2014, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Glyoxal oxidase 1 {ECO:0000313|EMBL:ETW86310.1};
+GN   Name=glox1 {ECO:0000313|EMBL:ETW86310.1};
+GN   ORFNames=HETIRDRAFT_44268 {ECO:0000313|EMBL:ETW86310.1};
+OS   Heterobasidion irregulare TC 32-1.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Russulales; Bondarzewiaceae; Heterobasidion;
+OC   Heterobasidion annosum species complex.
+OX   NCBI_TaxID=747525 {ECO:0000313|EMBL:ETW86310.1, ECO:0000313|Proteomes:UP000030671};
+RN   [1] {ECO:0000313|EMBL:ETW86310.1, ECO:0000313|Proteomes:UP000030671}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=TC 32-1 {ECO:0000313|EMBL:ETW86310.1,
+RC   ECO:0000313|Proteomes:UP000030671};
+RX   PubMed=22463738; DOI=10.1111/j.1469-8137.2012.04128.x;
+RA   Olson A., Aerts A., Asiegbu F., Belbahri L., Bouzid O., Broberg A.,
+RA   Canback B., Coutinho P.M., Cullen D., Dalman K., Deflorio G.,
+RA   van Diepen L.T., Dunand C., Duplessis S., Durling M., Gonthier P.,
+RA   Grimwood J., Fossdal C.G., Hansson D., Henrissat B., Hietala A.,
+RA   Himmelstrand K., Hoffmeister D., Hogberg N., James T.Y., Karlsson M.,
+RA   Kohler A., Kues U., Lee Y.H., Lin Y.C., Lind M., Lindquist E.,
+RA   Lombard V., Lucas S., Lunden K., Morin E., Murat C., Park J.,
+RA   Raffaello T., Rouze P., Salamov A., Schmutz J., Solheim H.,
+RA   Stahlberg J., Velez H., de Vries R.P., Wiebenga A., Woodward S.,
+RA   Yakovlev I., Garbelotto M., Martin F., Grigoriev I.V., Stenlid J.;
+RT   "Insight into trade-off between wood decay and parasitism from the
+RT   genome of a fungal forest pathogen.";
+RL   New Phytol. 194:1001-1013(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KI925455; ETW86310.1; -; Genomic_DNA.
+DR   RefSeq; XP_009541811.1; XM_009543516.1.
+DR   EnsemblFungi; ETW86310; ETW86310; HETIRDRAFT_44268.
+DR   GeneID; 20675475; -.
+DR   KEGG; hir:HETIRDRAFT_44268; -.
+DR   Proteomes; UP000030671; Unassembled WGS sequence.
+DR   Gene3D; 2.130.10.80; -; 1.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR015202; DUF1929.
+DR   InterPro; IPR011043; Gal_Oxase/kelch_b-propeller.
+DR   InterPro; IPR015916; Gal_Oxidase_b-propeller.
+DR   InterPro; IPR009880; Glyoxal_oxidase_N.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   Pfam; PF09118; DUF1929; 1.
+DR   Pfam; PF07250; Glyoxal_oxid_N; 1.
+DR   SUPFAM; SSF50965; SSF50965; 1.
+DR   SUPFAM; SSF81296; SSF81296; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    782       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004845493.
+FT   DOMAIN      259    483       Glyoxal_oxid_N.
+FT                                {ECO:0000259|Pfam:PF07250}.
+FT   DOMAIN      646    743       DUF1929. {ECO:0000259|Pfam:PF09118}.
+SQ   SEQUENCE   782 AA;  84579 MW;  ADFC28740313EF5A CRC64;
+     MTRGWVLEFL TLVVLFSSAS TRDLAWNGHT TPGSTVPSTF TPYYVPPGTK SYDSHSPLVH
+     YSGKWTDSYS RSYVGKTLRS TSQVKSVVRF TFTGTGIEWF GNTDKRHGIA NVYLDGKLVQ
+     HVDAYSSVAR KQQRVFWDFN LPLGRHTIKI INSGRKSSRA TGNLIDIDAF VVTQGHIRYR
+     QSVPLQASPR VQPQVSNAVA QPQPQNLAQD SQQDSAQWLL QQKGNTGVHA MQLAIISPSH
+     ALVVDKVEHN PLTVDGHPAW AALYNLNTHA VKPLRVQSNS FCAGGTFLGN GTMINVGGNP
+     VVESHTAAAD FGDADGLQAI RLLEPCDSND ADDCALFEDH ARLRMASARW YNTVLRISDG
+     SAMIMGGSTK GGWMNNATTN NPTIEFFPPK NIHGSNGLPV HLPFLVDTLN SNLFPIAFSL
+     PDGRVFVAAN RDAMIYDWES NSEQRLPQIP NGVRVTYPMT GTALLLPLSS DNDYTAEILL
+     CGGSSIDDAK ASWDISSQDP ASSQCSRMVL NDAGIQAGWQ VEQMPEARTM PDAVLLPTGK
+     ILIVNGAGSG ISGYGNVKDQ VGSSNAANPV LTPVLYDPTL PSGQRFSSGG MPSSSIPRLY
+     HSIATLTPNG DIMIAGSNPN LDRSEVQFGT EYRVEWLTPP YMTADRPVLD RVPTKIGFGE
+     DVKLQVKLPS NGKFDIKVAL MDLGFVTHAV HSNSRLVYLT ASLSDDKQTI TITGPPSGKI
+     YPPGPGWLYV VVDGVPSTGA KVIIGDGQSP PVDTDALQNL LTSTDPDQYE KAKGKQKDEG
+     SE
+//
+ID   W4JSK5_9HOMO            Unreviewed;       996 AA.
+AC   W4JSK5;
+DT   19-MAR-2014, integrated into UniProtKB/TrEMBL.
+DT   19-MAR-2014, sequence version 1.
+DT   09-DEC-2015, entry version 8.
+DE   SubName: Full=Glyoxal oxidase 5 {ECO:0000313|EMBL:ETW76547.1};
+GN   Name=glox5 {ECO:0000313|EMBL:ETW76547.1};
+GN   ORFNames=HETIRDRAFT_156743 {ECO:0000313|EMBL:ETW76547.1};
+OS   Heterobasidion irregulare TC 32-1.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Russulales; Bondarzewiaceae; Heterobasidion;
+OC   Heterobasidion annosum species complex.
+OX   NCBI_TaxID=747525 {ECO:0000313|EMBL:ETW76547.1, ECO:0000313|Proteomes:UP000030671};
+RN   [1] {ECO:0000313|EMBL:ETW76547.1, ECO:0000313|Proteomes:UP000030671}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=TC 32-1 {ECO:0000313|EMBL:ETW76547.1,
+RC   ECO:0000313|Proteomes:UP000030671};
+RX   PubMed=22463738; DOI=10.1111/j.1469-8137.2012.04128.x;
+RA   Olson A., Aerts A., Asiegbu F., Belbahri L., Bouzid O., Broberg A.,
+RA   Canback B., Coutinho P.M., Cullen D., Dalman K., Deflorio G.,
+RA   van Diepen L.T., Dunand C., Duplessis S., Durling M., Gonthier P.,
+RA   Grimwood J., Fossdal C.G., Hansson D., Henrissat B., Hietala A.,
+RA   Himmelstrand K., Hoffmeister D., Hogberg N., James T.Y., Karlsson M.,
+RA   Kohler A., Kues U., Lee Y.H., Lin Y.C., Lind M., Lindquist E.,
+RA   Lombard V., Lucas S., Lunden K., Morin E., Murat C., Park J.,
+RA   Raffaello T., Rouze P., Salamov A., Schmutz J., Solheim H.,
+RA   Stahlberg J., Velez H., de Vries R.P., Wiebenga A., Woodward S.,
+RA   Yakovlev I., Garbelotto M., Martin F., Grigoriev I.V., Stenlid J.;
+RT   "Insight into trade-off between wood decay and parasitism from the
+RT   genome of a fungal forest pathogen.";
+RL   New Phytol. 194:1001-1013(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KI925464; ETW76547.1; -; Genomic_DNA.
+DR   RefSeq; XP_009551437.1; XM_009553142.1.
+DR   EnsemblFungi; ETW76547; ETW76547; HETIRDRAFT_156743.
+DR   GeneID; 20667661; -.
+DR   KEGG; hir:HETIRDRAFT_156743; -.
+DR   Proteomes; UP000030671; Unassembled WGS sequence.
+DR   Gene3D; 2.130.10.80; -; 1.
+DR   Gene3D; 2.60.40.10; -; 1.
+DR   InterPro; IPR015202; DUF1929.
+DR   InterPro; IPR011043; Gal_Oxase/kelch_b-propeller.
+DR   InterPro; IPR015916; Gal_Oxidase_b-propeller.
+DR   InterPro; IPR009880; Glyoxal_oxidase_N.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR014756; Ig_E-set.
+DR   InterPro; IPR002889; WSC_carb-bd.
+DR   InterPro; IPR013994; WSC_carb-bd_subgr.
+DR   Pfam; PF09118; DUF1929; 1.
+DR   Pfam; PF07250; Glyoxal_oxid_N; 1.
+DR   Pfam; PF01822; WSC; 4.
+DR   SMART; SM00321; WSC; 4.
+DR   SUPFAM; SSF50965; SSF50965; 1.
+DR   SUPFAM; SSF81296; SSF81296; 1.
+DR   PROSITE; PS51212; WSC; 4.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030671};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030671}.
+FT   DOMAIN       24    118       WSC. {ECO:0000259|PROSITE:PS51212}.
+FT   DOMAIN      133    226       WSC. {ECO:0000259|PROSITE:PS51212}.
+FT   DOMAIN      261    354       WSC. {ECO:0000259|PROSITE:PS51212}.
+FT   DOMAIN      373    469       WSC. {ECO:0000259|PROSITE:PS51212}.
+SQ   SEQUENCE   996 AA;  105615 MW;  A9AFE7FA9457C168 CRC64;
+     MFPITFSIIN DKMRWSRMTF LEIGPSKDVS RSDNPGARTL TSASFVSTNN MTVEACVSFC
+     DTQSFIYAGV EFAQECYCGD ILSNGGTNAT LSDCNAPCTG NATETCGAGG RLDLFWSGAQ
+     PPPPPTSPEN VGLWHSLGCW NDSTAARVLS VGVNVAGSVS VETCTAACFQ SGYPLSGMEF
+     ADQCFCGTSL INNAVLEPLT DCSMACAGNS SELCGGPNRL NIYNYTGTDL PPITNPGGGG
+     GGGGGNNGAP VFPVTSGLPA PWTYSSCYVD AANGRIFANE LNDNSNLTVE SCIASCAADN
+     FTLAGVEFSV QCFCGDSLIN GAVTAPDADC NMGCGGNATE ACGGPDRLSV YTATGNVTTF
+     PVPIPQNTSL PGQWQYQGCF PDAQPTRIFT YQIFNTNNNS ADACLNQCAA FGYPAAGMEF
+     GDECWCGDIE DVTNSGLTFA PESDCPIACT GDPIHLCGGA LKLQLYFWNG PLNVWHQPEN
+     TGRYEFLIGG VVVPLLATVG INNKVSFLEK SGTSEFANST GAYELDLTLV DDFSLAWREM
+     HVKTDVFCSG SLVLPDKAGR IINVGGWSHP STTGIRFYSP DGSAGVNGTN DWEENSDILA
+     LQADRWYPGA LVMSNGTILV VGGEGGSNGA PTPNLEILPK PPGGSTLKFL DYLNRTDPNN
+     LYPFLSMMPS GRIFIGYYNE ARILDPVTLD TVQELPNMPG SVTSFLAGRT YPMEGSAVLL
+     PQYAPYTDPI TVLICGGSNF GIALDNCVSI QPEVSNATWQ LERMPSKRVM PCMSPLPDGT
+     FLIVNGAQQG VAGFGLADDP NLTALLYDPT QPIGQRISIL NTTIVARLYH SESTLLTDGR
+     VLITGSDPQT NNPDGTPKFP EEMRVEVYIP PYLTAGRTQP SFNITETDWS YGGQYQITTL
+     LHHGTTSTMR VSLVAATSST HGNAMGGRTI FPEFSCSGTI CTITAPPNAF VSPPGWHQLF
+     ILDGPTPSFS HWVRIGGDPA QLGLWPNLPG FTPPGI
+//

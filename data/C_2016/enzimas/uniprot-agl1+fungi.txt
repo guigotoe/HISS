@@ -1,0 +1,1082 @@
+ID   AGLU_SCHPO              Reviewed;         969 AA.
+AC   Q9C0Y4;
+DT   29-AUG-2001, integrated into UniProtKB/Swiss-Prot.
+DT   29-AUG-2001, sequence version 2.
+DT   09-DEC-2015, entry version 106.
+DE   RecName: Full=Alpha-glucosidase;
+DE            EC=3.2.1.20;
+DE   AltName: Full=Maltase;
+DE   Flags: Precursor;
+GN   Name=agl1; Synonyms=agl; ORFNames=SPAPB24D3.10c;
+OS   Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina;
+OC   Schizosaccharomycetes; Schizosaccharomycetales;
+OC   Schizosaccharomycetaceae; Schizosaccharomyces.
+OX   NCBI_TaxID=284812;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 25-36; 175-194;
+RP   375-395 AND 427-451, AND MUTAGENESIS OF ASP-218; ASP-287; ASP-355;
+RP   ASP-481; GLU-484; ASP-647; ASP-676; GLU-714 AND ASP-877.
+RX   PubMed=11298744; DOI=10.1046/j.1432-1327.2001.02104.x;
+RA   Okuyama M., Okuno A., Shimizu N., Mori H., Kimura A., Chiba S.;
+RT   "Carboxyl group of residue Asp647 as possible proton donor in
+RT   catalytic reaction of alpha-glucosidase from Schizosaccharomyces
+RT   pombe.";
+RL   Eur. J. Biochem. 268:2270-2280(2001).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=972 / ATCC 24843;
+RX   PubMed=11859360; DOI=10.1038/nature724;
+RA   Wood V., Gwilliam R., Rajandream M.A., Lyne M.H., Lyne R., Stewart A.,
+RA   Sgouros J.G., Peat N., Hayles J., Baker S.G., Basham D., Bowman S.,
+RA   Brooks K., Brown D., Brown S., Chillingworth T., Churcher C.M.,
+RA   Collins M., Connor R., Cronin A., Davis P., Feltwell T., Fraser A.,
+RA   Gentles S., Goble A., Hamlin N., Harris D.E., Hidalgo J., Hodgson G.,
+RA   Holroyd S., Hornsby T., Howarth S., Huckle E.J., Hunt S., Jagels K.,
+RA   James K.D., Jones L., Jones M., Leather S., McDonald S., McLean J.,
+RA   Mooney P., Moule S., Mungall K.L., Murphy L.D., Niblett D., Odell C.,
+RA   Oliver K., O'Neil S., Pearson D., Quail M.A., Rabbinowitsch E.,
+RA   Rutherford K.M., Rutter S., Saunders D., Seeger K., Sharp S.,
+RA   Skelton J., Simmonds M.N., Squares R., Squares S., Stevens K.,
+RA   Taylor K., Taylor R.G., Tivey A., Walsh S.V., Warren T., Whitehead S.,
+RA   Woodward J.R., Volckaert G., Aert R., Robben J., Grymonprez B.,
+RA   Weltjens I., Vanstreels E., Rieger M., Schaefer M., Mueller-Auer S.,
+RA   Gabel C., Fuchs M., Duesterhoeft A., Fritzc C., Holzer E., Moestl D.,
+RA   Hilbert H., Borzym K., Langer I., Beck A., Lehrach H., Reinhardt R.,
+RA   Pohl T.M., Eger P., Zimmermann W., Wedler H., Wambutt R., Purnelle B.,
+RA   Goffeau A., Cadieu E., Dreano S., Gloux S., Lelaure V., Mottier S.,
+RA   Galibert F., Aves S.J., Xiang Z., Hunt C., Moore K., Hurst S.M.,
+RA   Lucas M., Rochet M., Gaillardin C., Tallada V.A., Garzon A., Thode G.,
+RA   Daga R.R., Cruzado L., Jimenez J., Sanchez M., del Rey F., Benito J.,
+RA   Dominguez A., Revuelta J.L., Moreno S., Armstrong J., Forsburg S.L.,
+RA   Cerutti L., Lowe T., McCombie W.R., Paulsen I., Potashkin J.,
+RA   Shpakovski G.V., Ussery D., Barrell B.G., Nurse P.;
+RT   "The genome sequence of Schizosaccharomyces pombe.";
+RL   Nature 415:871-880(2002).
+CC   -!- FUNCTION: Hydrolyzes malto-oligosaccharides, but has a low
+CC       activity toward soluble starch.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of terminal, non-reducing (1->4)-
+CC       linked alpha-D-glucose residues with release of alpha-D-glucose.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 31 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CU329670; CAC36906.1; -; Genomic_DNA.
+DR   EMBL; AB045751; BAB43946.1; -; mRNA.
+DR   ProteinModelPortal; Q9C0Y4; -.
+DR   MINT; MINT-4702058; -.
+DR   CAZy; GH31; Glycoside Hydrolase Family 31.
+DR   MaxQB; Q9C0Y4; -.
+DR   EnsemblFungi; SPAPB24D3.10c.1; SPAPB24D3.10c.1:pep; SPAPB24D3.10c.
+DR   PomBase; SPAPB24D3.10c; agl1.
+DR   HOGENOM; HOG000041175; -.
+DR   InParanoid; Q9C0Y4; -.
+DR   OrthoDB; EOG77T1CZ; -.
+DR   PhylomeDB; Q9C0Y4; -.
+DR   BRENDA; 3.2.1.20; 5613.
+DR   Reactome; R-SPO-189085; Digestion of dietary carbohydrate.
+DR   NextBio; 20804509; -.
+DR   PRO; PR:Q9C0Y4; -.
+DR   Proteomes; UP000002485; Chromosome I.
+DR   GO; GO:0005576; C:extracellular region; IDA:PomBase.
+DR   GO; GO:0004558; F:alpha-1,4-glucosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:InterPro.
+DR   GO; GO:0032450; F:maltose alpha-glucosidase activity; IDA:PomBase.
+DR   GO; GO:0044654; F:starch alpha-glucosidase activity; IDA:PomBase.
+DR   GO; GO:0000025; P:maltose catabolic process; IDA:PomBase.
+DR   GO; GO:0009313; P:oligosaccharide catabolic process; IC:PomBase.
+DR   InterPro; IPR031727; Gal_mutarotase_N.
+DR   InterPro; IPR011013; Gal_mutarotase_SF_dom.
+DR   InterPro; IPR000322; Glyco_hydro_31.
+DR   InterPro; IPR030458; Glyco_hydro_31_AS.
+DR   InterPro; IPR030459; Glyco_hydro_31_CS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF01055; Glyco_hydro_31; 1.
+DR   Pfam; PF16863; NtCtMGAM_N; 1.
+DR   SUPFAM; SSF51445; SSF51445; 2.
+DR   SUPFAM; SSF74650; SSF74650; 1.
+DR   PROSITE; PS00129; GLYCOSYL_HYDROL_F31_1; 1.
+DR   PROSITE; PS00707; GLYCOSYL_HYDROL_F31_2; 1.
+PE   1: Evidence at protein level;
+KW   Complete proteome; Direct protein sequencing; Glycoprotein;
+KW   Glycosidase; Hydrolase; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     24       {ECO:0000269|PubMed:11298744}.
+FT   CHAIN        25    969       Alpha-glucosidase.
+FT                                /FTId=PRO_0000018581.
+FT   ACT_SITE    481    481       Nucleophile.
+FT   ACT_SITE    484    484
+FT   ACT_SITE    647    647       Proton donor.
+FT   CARBOHYD     37     37       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD     67     67       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD     99     99       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    116    116       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    139    139       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    146    146       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    209    209       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    245    245       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    249    249       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    331    331       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    406    406       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    429    429       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    462    462       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    470    470       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    520    520       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    523    523       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    589    589       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    648    648       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    801    801       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    810    810       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    821    821       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    885    885       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    915    915       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    934    934       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    942    942       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    954    954       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    966    966       N-linked (GlcNAc...). {ECO:0000255}.
+FT   MUTAGEN     218    218       D->N: Almost total loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     287    287       D->N: No loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     355    355       D->E,N: Almost total loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     481    481       D->A,E,N: Loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     484    484       E->A,Q: Loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     484    484       E->D: No loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     647    647       D->A,E,N: Loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     676    676       D->N: No loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     714    714       E->Q: No loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   MUTAGEN     877    877       D->N: Almost total loss of activity.
+FT                                {ECO:0000269|PubMed:11298744}.
+FT   CONFLICT     30     30       L -> F (in Ref. 2; CAC36906).
+FT                                {ECO:0000305}.
+FT   CONFLICT    220    220       P -> A (in Ref. 1; BAB43946).
+FT                                {ECO:0000305}.
+FT   CONFLICT    507    507       T -> V (in Ref. 1; BAB43946).
+FT                                {ECO:0000305}.
+FT   CONFLICT    566    566       D -> N (in Ref. 1; BAB43946).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   969 AA;  108686 MW;  F3122E2CFA551C25 CRC64;
+     MMISTAYQSL FLTALFSAIS IAVGNVYQTL NVIGDRNVTI PTNGIPQRLS VYDPYRGVNC
+     QGYQAVNISE SQNGVTAYLA LLGEPCYAYG TDYPLLFLNV TYEEADRVHI SIKDANNTQF
+     QFTSRKDLWD APLYSPSYNN TNLLYNFSYN ANPFEFWVTR KSDGEVLFDT RGQKLVFEDQ
+     YIELTTNMVE NYNLYGLAET IHGLRLGNNL TRTFWANDEP SPVDQNMYGS HPYYLEQRYK
+     ADGINSTLNE TTYTSSSHGV LMLTANGMDV LLRQDYLQYR MIGGVIDLFV YSGSTESPKE
+     TVKQFVQSIG KPAMHQYWTL GYHSCRWGYT NITEIMDVRQ NYIDADIPVE TFWSDIDYME
+     KYRDFTVDPV SYSKSDMQTF FSDLVSNHQH YVPIIDAAIY AANPYNHTDD SYYPYYAGVE
+     KDIFLKNPNG SIYIGAVWPG FTAFPDFTNP DVVDYWKDCL INLTYAFGSN GTVPFSGIWT
+     DMNEPSSFCV GSCGSAMIDL NPAEPLTGIS KQYSIPEGFN VSNVTEYSSA YSASLSNYYA
+     TATSSVFQIV SPTATPLGLK PDYNIDWPPY AINNEQGNHD IANHIVSPNA TTHDGTQRYD
+     IFNMYGYGET KVSYAALTQI SPNERPFILS RSTFLGSGVY GAHWLGDNHS LWSNMFFSIS
+     GMIVFNMMGI PMVGADVCGF LGDSDEELCS RWMAMGAFSP FYRNHNNIYQ ISQEPYTWSS
+     VAEASRRAMY IRYSLLPYWY TIMAKASQDG TPALRALFVE FPNDPTLADV DRQFMVGDSL
+     LVTPVLEPNV EYVQGVFPGD NSTVWYDWYN HTEIVRQYNE NVTLYAPLEH INVAIRGGSV
+     LPMQQPSLTT YESRQNPFNL LVALDRDGSA TGELYLDDGV SIELNATLSV SFTFSDGVLS
+     AVPTGSYEVS QPLANVTILG LTESPSSITL NGQNVSSFQY SNDTEELLIT GLQNITSSGA
+     FANSWNLTL
+//
+ID   Q92456_HYPJE            Unreviewed;       444 AA.
+AC   Q92456;
+DT   01-FEB-1997, integrated into UniProtKB/TrEMBL.
+DT   01-FEB-1997, sequence version 1.
+DT   17-FEB-2016, entry version 87.
+DE   RecName: Full=Alpha-galactosidase {ECO:0000256|RuleBase:RU361168};
+DE            EC=3.2.1.22 {ECO:0000256|RuleBase:RU361168};
+DE   AltName: Full=Melibiase {ECO:0000256|RuleBase:RU361168};
+GN   Name=agl1 {ECO:0000313|EMBL:CAA93244.1};
+OS   Hypocrea jecorina (Trichoderma reesei).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=51453 {ECO:0000313|EMBL:CAA93244.1};
+RN   [1] {ECO:0000213|PDB:1SZN, ECO:0000213|PDB:1T0O}
+RP   X-RAY CRYSTALLOGRAPHY (1.54 ANGSTROMS) OF 28-444 IN COMPLEX WITH
+RP   GALACTOSE AND MANNOSE, DISULFIDE BONDS, AND GLYCOSYLATION AT ASN-98;
+RP   ASN-184; ASN-242 AND ASN-361.
+RX   PubMed=15136043; DOI=10.1016/j.jmb.2004.03.062;
+RA   Golubev A.M., Nagem R.A., Brandao Neto J.R., Neustroev K.N.,
+RA   Eneyskaya E.V., Kulminskaya A.A., Shabalin K.A., Savel'ev A.N.,
+RA   Polikarpov I.;
+RT   "Crystal structure of alpha-galactosidase from Trichoderma reesei and
+RT   its complex with galactose: implications for catalytic mechanism.";
+RL   J. Mol. Biol. 339:413-422(2004).
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of terminal, non-reducing alpha-D-
+CC       galactose residues in alpha-D-galactosides, including galactose
+CC       oligosaccharides, galactomannans and galactolipids.
+CC       {ECO:0000256|RuleBase:RU361168}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 27 family.
+CC       {ECO:0000256|RuleBase:RU361168}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z69253; CAA93244.1; -; mRNA.
+DR   PIR; S74221; S74221.
+DR   PDB; 1SZN; X-ray; 1.54 A; A=28-444.
+DR   PDB; 1T0O; X-ray; 1.96 A; A=28-444.
+DR   PDBsum; 1SZN; -.
+DR   PDBsum; 1T0O; -.
+DR   ProteinModelPortal; Q92456; -.
+DR   SMR; Q92456; 28-444.
+DR   STRING; 51453.JGI72632; -.
+DR   CAZy; GH27; Glycoside Hydrolase Family 27.
+DR   mycoCLAP; MEL27A_TRIRE; -.
+DR   eggNOG; ENOG410XPF1; LUCA.
+DR   eggNOG; KOG2366; Eukaryota.
+DR   BRENDA; 3.2.1.22; 6451.
+DR   EvolutionaryTrace; Q92456; -.
+DR   GO; GO:0004557; F:alpha-galactosidase activity; IDA:UniProtKB.
+DR   GO; GO:0052692; F:raffinose alpha-galactosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.70; -; 2.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR002241; Glyco_hydro_27.
+DR   InterPro; IPR000111; Glyco_hydro_27/36_CS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF16499; Melibiase_2; 2.
+DR   PRINTS; PR00740; GLHYDRLASE27.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00512; ALPHA_GALACTOSIDASE; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure {ECO:0000213|PDB:1SZN, ECO:0000213|PDB:1T0O};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00441952};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00470159, ECO:0000313|EMBL:CAA93244.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00470159, ECO:0000313|EMBL:CAA93244.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     27       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        28    444       Alpha-galactosidase.
+FT                                {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004320947.
+FT   REGION       81     82       Galactose binding.
+FT                                {ECO:0000213|PDB:1T0O}.
+FT   REGION      157    159       Galactose binding.
+FT                                {ECO:0000213|PDB:1T0O}.
+FT   BINDING      46     46       Galactose. {ECO:0000213|PDB:1T0O}.
+FT   BINDING     131    131       Galactose. {ECO:0000213|PDB:1T0O}.
+FT   BINDING     232    232       Galactose. {ECO:0000213|PDB:1T0O}.
+FT   BINDING     249    249       Galactose. {ECO:0000213|PDB:1T0O}.
+FT   BINDING     253    253       Galactose. {ECO:0000213|PDB:1T0O}.
+FT   BINDING     269    269       Mannose; via carbonyl oxygen.
+FT                                {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT   BINDING     273    273       Mannose. {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT   BINDING     358    358       Mannose. {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT   CARBOHYD     98     98       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT                                /FTId=CAR_5005390089.
+FT   CARBOHYD    184    184       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT                                /FTId=CAR_5005390088.
+FT   CARBOHYD    242    242       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT                                /FTId=CAR_5005390090.
+FT   CARBOHYD    361    361       N-linked (GlcNAc...).
+FT                                {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT                                /FTId=CAR_5005390087.
+FT   DISULFID     51     83       {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT   DISULFID    131    161       {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT   DISULFID    174    187       {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+FT   DISULFID    419    441       {ECO:0000213|PDB:1SZN,
+FT                                ECO:0000213|PDB:1T0O}.
+SQ   SEQUENCE   444 AA;  48516 MW;  D7134781CFFD765A CRC64;
+     MTPHSIDRAA RPSVWSGLAL LLSTAHAIVM PDGVTGKVPS LGWNSWNAYH CDIDESKFLS
+     AAEVIVSSGL LDAGYNYVNI DDCWSMKDGR VDGHIAVNTT RFPDGIDGLA KKVHDLGLKL
+     GIYSTAGTAT CAGYPASLGY EDVDAADFAD WGVDYLKYDN CNVPSDWQDE YVACAPDAVQ
+     TGPNGTCSTA LEPNLAPPGY DWSTSKSAER FNAMRNALAK QSREIVLSLC IWGVADVFSW
+     GNETGISWRM SGDISPEWGS VTHIINMNSF KMNSVGFWGH NDADILEVGN GNLTAAETRT
+     HFALWAAMKS PLLIGTDLAQ LSQENIELLK NKHLLAFNQD SVYGQPATPY KWGVNPDWTF
+     NYTNPAEYWA GPSSKGHLVL MMNTLDHTVR KEAKWSEIPG LSAGRYEVRD VWTDKSLGCL
+     SSYKTAVAAH DTAVILVGKK CRNW
+//
+ID   AGALB_PENSI             Reviewed;         435 AA.
+AC   O94221;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1999, sequence version 1.
+DT   11-NOV-2015, entry version 57.
+DE   RecName: Full=Probable alpha-galactosidase B;
+DE            EC=3.2.1.22;
+DE   AltName: Full=Melibiase B;
+DE   Flags: Precursor;
+GN   Name=agl1;
+OS   Penicillium simplicissimum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Penicillium.
+OX   NCBI_TaxID=69488;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Luonteri E., Alatalo E., Siika-aho M., Tenkanen M., Penttilae M.;
+RT   "Alpha-galactosidases of Penicillium simplicissimum; production,
+RT   purification and characterisation of the gene encoding AGLI.";
+RL   Submitted (NOV-1998) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Hydrolyzes a variety of simple alpha-D-galactoside as
+CC       well as more complex molecules such as oligosaccharides and
+CC       polysaccharides. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of terminal, non-reducing alpha-D-
+CC       galactose residues in alpha-D-galactosides, including galactose
+CC       oligosaccharides, galactomannans and galactolipids.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 27 family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ009956; CAA08915.1; -; mRNA.
+DR   ProteinModelPortal; O94221; -.
+DR   SMR; O94221; 20-435.
+DR   CAZy; GH27; Glycoside Hydrolase Family 27.
+DR   mycoCLAP; MEL27A_PENSI; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0052692; F:raffinose alpha-galactosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.70; -; 2.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR002241; Glyco_hydro_27.
+DR   InterPro; IPR000111; Glyco_hydro_27/36_CS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF16499; Melibiase_2; 2.
+DR   PRINTS; PR00740; GLHYDRLASE27.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00512; ALPHA_GALACTOSIDASE; 1.
+PE   2: Evidence at transcript level;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase; Secreted;
+KW   Signal.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   CHAIN        19    435       Probable alpha-galactosidase B.
+FT                                /FTId=PRO_5000064513.
+FT   REGION      221    225       Substrate binding. {ECO:0000250}.
+FT   ACT_SITE    151    151       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    243    243       Proton donor. {ECO:0000250}.
+FT   CARBOHYD     81     81       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    158    158       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    176    176       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    232    232       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    378    378       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     41     73       {ECO:0000250}.
+FT   DISULFID    123    153       {ECO:0000250}.
+SQ   SEQUENCE   435 AA;  47630 MW;  0B981E28EB8EB283 CRC64;
+     MLTSLSLTAL ALLPSANALV RKDGVGRLPA LGWNSWNAFG CDVDSTKIMT AANEMVHLGL
+     KDLGYEYVNI DDCWSVKNTR NSTTQRIIPD TQKFPDGISG VADQVHQLGL KIGIYSSAGE
+     TTCAGYPASL GYEKVDAEAF AEWGIDYLKY DNCGVPSNWT DQYSSCVPDG SNEPANGTCP
+     GLSNPAPAGY DWTKSNTFTR YTMMRDALLG QTRTILYSLC DWGQADVNTW GNETGNSWRM
+     SGDISANWAR IAQIANENTF RMNYVGFWGH PDPDMLEVGN GDLTAAENRA HFALWAIMKS
+     PLIIGTALDG ISDANLAVLK NKYLIEFNQD PIIGRSAHPY KWGYNPDWTF DPAHPAEYWS
+     GPSSTLKGTL VLMLNSENST STRTAVWKEI PELKGHNAYR VTDAWSGKDL GCVKKQYSAS
+     LASHDVAVLV VKEAC
+//
+ID   W6Q690_PENRO            Unreviewed;       436 AA.
+AC   W6Q690;
+DT   16-APR-2014, integrated into UniProtKB/TrEMBL.
+DT   16-APR-2014, sequence version 1.
+DT   17-FEB-2016, entry version 11.
+DE   RecName: Full=Alpha-galactosidase {ECO:0000256|RuleBase:RU361168};
+DE            EC=3.2.1.22 {ECO:0000256|RuleBase:RU361168};
+DE   AltName: Full=Melibiase {ECO:0000256|RuleBase:RU361168};
+GN   Name=agl1 {ECO:0000313|EMBL:CDM29779.1};
+GN   ORFNames=PROQFM164_S01g003592 {ECO:0000313|EMBL:CDM29779.1};
+OS   Penicillium roqueforti FM164.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Penicillium.
+OX   NCBI_TaxID=1365484 {ECO:0000313|EMBL:CDM29779.1, ECO:0000313|Proteomes:UP000030686};
+RN   [1] {ECO:0000313|EMBL:CDM29779.1, ECO:0000313|Proteomes:UP000030686}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=FM164 {ECO:0000313|EMBL:CDM29779.1,
+RC   ECO:0000313|Proteomes:UP000030686};
+RX   PubMed=24407037; DOI=10.1038/ncomms3876;
+RA   Cheeseman K., Ropars J., Renault P., Dupont J., Gouzy J., Branca A.,
+RA   Abraham A.L., Ceppi M., Conseiller E., Debuchy R., Malagnac F.,
+RA   Goarin A., Silar P., Lacoste S., Sallet E., Bensimon A., Giraud T.,
+RA   Brygoo Y.;
+RT   "Multiple recent horizontal transfers of a large genomic region in
+RT   cheese making fungi.";
+RL   Nat. Commun. 5:2876-2876(2014).
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of terminal, non-reducing alpha-D-
+CC       galactose residues in alpha-D-galactosides, including galactose
+CC       oligosaccharides, galactomannans and galactolipids.
+CC       {ECO:0000256|RuleBase:RU361168}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 27 family.
+CC       {ECO:0000256|RuleBase:RU361168}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HG792015; CDM29779.1; -; Genomic_DNA.
+DR   EnsemblFungi; CDM29779; CDM29779; PROQFM164_S01g003592.
+DR   Proteomes; UP000030686; Unassembled WGS sequence.
+DR   GO; GO:0052692; F:raffinose alpha-galactosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.70; -; 2.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR002241; Glyco_hydro_27.
+DR   InterPro; IPR000111; Glyco_hydro_27/36_CS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF16499; Melibiase_2; 2.
+DR   PRINTS; PR00740; GLHYDRLASE27.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00512; ALPHA_GALACTOSIDASE; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030686};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00441952};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00470159};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00470159};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030686};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    436       Alpha-galactosidase.
+FT                                {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004879942.
+SQ   SEQUENCE   436 AA;  48253 MW;  E523FFE3EEA88670 CRC64;
+     MLAPFTLAVA LHLLPVANAL VRESGVGRLP ALGWNSWNAF GCDINSTKVL TAANEVVNLG
+     LKDLGYEYIN IDDCWSIQNT RDNSTNRIIP DPSKFPDGIS GVAEQVHDLG LKIGIYSSAG
+     DETCAHYPAS LGYETVDAQS FADWGIDYLK YDNCGVPSNW TDSYHYCVPE GSGSHPNGTC
+     PDLSDPAPEG YDWKSSNTYA RYTAMRNALL SLDRTILYSL CDWGQADVNT WGNETGNSWR
+     MSDDINANWA RIAEIANENS FLMKYVDFWG HPDPDMLEVG NGALTLEENR AHFALWAIMK
+     SPLIIGTALD SISDDHVAIL KNKYLIDFNQ DPVIGSPAHP YKWGYNPDWT FDAVHPAEYW
+     SGTSSTLQGT LVLMLNSENV TSTRTATWSE VPQLKSHDAY HVIDAWTSKD LGCVKTEYST
+     SLESHDVAVL VVKRRC
+//
+ID   U6NJ94_LEUGO            Unreviewed;       435 AA.
+AC   U6NJ94;
+DT   22-JAN-2014, integrated into UniProtKB/TrEMBL.
+DT   22-JAN-2014, sequence version 1.
+DT   17-FEB-2016, entry version 10.
+DE   RecName: Full=Alpha-galactosidase {ECO:0000256|RuleBase:RU361168};
+DE            EC=3.2.1.22 {ECO:0000256|RuleBase:RU361168};
+DE   AltName: Full=Melibiase {ECO:0000256|RuleBase:RU361168};
+GN   Name=agl1 {ECO:0000313|EMBL:CDJ79834.1};
+OS   Leucoagaricus gongylophorus (Leaf-cutting ant fungus).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Agaricomycetidae; Agaricales; Agaricaceae;
+OC   Leucoagaricus.
+OX   NCBI_TaxID=79220 {ECO:0000313|EMBL:CDJ79834.1};
+RN   [1] {ECO:0000313|EMBL:CDJ79834.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Ae322 {ECO:0000313|EMBL:CDJ79834.1};
+RA   Grell M.N., Linde T., Nygaard S., Nielsen K.L., Boomsma J.J.,
+RA   Lange L.;
+RT   "The fungal symbiont of Acromyrmex leaf-cutting ants expresses the
+RT   full spectrum of genes to degrade cellulose and other plant cell wall
+RT   polysaccharides.";
+RL   Submitted (OCT-2013) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of terminal, non-reducing alpha-D-
+CC       galactose residues in alpha-D-galactosides, including galactose
+CC       oligosaccharides, galactomannans and galactolipids.
+CC       {ECO:0000256|RuleBase:RU361168}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 27 family.
+CC       {ECO:0000256|RuleBase:RU361168}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HG764405; CDJ79834.1; -; Genomic_DNA.
+DR   GO; GO:0052692; F:raffinose alpha-galactosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.70; -; 1.
+DR   InterPro; IPR013785; Aldolase_TIM.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR002241; Glyco_hydro_27.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF16499; Melibiase_2; 1.
+DR   PRINTS; PR00740; GLHYDRLASE27.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   3: Inferred from homology;
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00441952};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00470159, ECO:0000313|EMBL:CDJ79834.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361168,
+KW   ECO:0000256|SAAS:SAAS00470159, ECO:0000313|EMBL:CDJ79834.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     24       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        25    435       Alpha-galactosidase.
+FT                                {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004677568.
+SQ   SEQUENCE   435 AA;  49004 MW;  CFB033A3B42B3AA3 CRC64;
+     MTFGVVGLAA ITAIVATLSK SSKALDNGVG KLPFMGWNTW NAYHCEINET IVLDNAKLIK
+     SLGLLDAGYN YINIDDCYSE KTRSPEGDII ANKERFPSGM RSLTDQLHVM GFKTGIYSDS
+     GWFTCQLYPG SYGNEDRDIQ TFSDWGFDLL KYDNCAVPFD HIIKEGMVGK FKRMADAIDR
+     LSQRTGKPPL LYSLCQWGRE QPWLWARRFG QSWRTTDDIG PHWDAVRSII HQNSFISWAA
+     DFYGHNDMDL LEVGNGDLTI DEAKTHFTAW ALLKSPLVIS TDLTQATKET LDILTNHELI
+     AINQDLVIGP SITPFRWGLG PDWQNNYTTP AEYWSGETKN GTVFMLINDL DEPSDMFFSL
+     TESPWIRAGR QYSVRDLWTH TDNGTVVRNM TVHNVPPHGV VALLLKDAGD EPDGTEPPCA
+     RPEWCMDQNG TRIDV
+//
+ID   A0A0H5C030_CYBJA        Unreviewed;       561 AA.
+AC   A0A0H5C030;
+DT   14-OCT-2015, integrated into UniProtKB/TrEMBL.
+DT   14-OCT-2015, sequence version 1.
+DT   17-FEB-2016, entry version 4.
+DE   SubName: Full=AGL1 protein {ECO:0000313|EMBL:CEP21088.1};
+GN   Name=AGL1 {ECO:0000313|EMBL:CEP21088.1};
+GN   ORFNames=BN1211_1107 {ECO:0000313|EMBL:CEP21088.1};
+OS   Cyberlindnera jadinii (Torula yeast) (Pichia jadinii).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Phaffomycetaceae; Cyberlindnera.
+OX   NCBI_TaxID=4903 {ECO:0000313|EMBL:CEP21088.1, ECO:0000313|Proteomes:UP000038830};
+RN   [1] {ECO:0000313|EMBL:CEP21088.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBS1600 {ECO:0000313|EMBL:CEP21088.1};
+RA   Jaenicke S.;
+RL   Submitted (DEC-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CDQK01000001; CEP21088.1; -; Genomic_DNA.
+DR   Proteomes; UP000038830; Unassembled WGS sequence.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0043169; F:cation binding; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.80; -; 2.
+DR   InterPro; IPR015902; Glyco_hydro_13.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR006047; Glyco_hydro_13_cat_dom.
+DR   InterPro; IPR006589; Glyco_hydro_13_sub_cat_dom.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR10357; PTHR10357; 3.
+DR   Pfam; PF00128; Alpha-amylase; 1.
+DR   SMART; SM00642; Aamy; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000038830};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000038830}.
+FT   DOMAIN       16    432       Aamy. {ECO:0000259|SMART:SM00642}.
+SQ   SEQUENCE   561 AA;  65052 MW;  2921BE5AB83DBC30 CRC64;
+     MTIPKESWWK DSVVYQVWPA SFKDSNGDGI GDIPGLISKL DHIKEIGADV VWLSPHYESP
+     MDDMGYDISN YNAIYEKFGT MDDMDKLIEE IHKRDMKLIL DLVINHTSSE HAWFKESRSS
+     KDNSKRDWYI WKDERNNWMS HFSGSAWEYD ETTGQYYLRQ FARTQPDLNW ENPETRQAIY
+     DSALDYWFKK GVNGFRIDTA GMYSKVQSFP DAPIVFPDSK WQPAGALSNS GPRIHEFHKE
+     MYEKVTSKYD AMTVGEVGHC SKEDALKYVS AKEKEMNMMF LFDTVDVGSN KGDRFRYDGW
+     TLKDFKDAIQ NQCSFIIDDE TGERNDAWST VFIENHDQPR CVTRFGNTST EELRNRSAKM
+     LALLQVSLTG TLFIYQGQEI GMTNVPRSWD IREYLDINTI NYWAAFNEKD HTEEEKTKLL
+     DIINLLARDN ARTPVQWDSS ANGGFTTGKP WMKVNDNYPD INVESQKNDP DSVLSFYKRA
+     IGVRKQYRDL MVDGDFEIVD YHNDKVFRFT KSKGTKKIDV ILNFSNEEQD VDYDGEVILS
+     NMQGFEGKLA PYEAKLVLVS D
+//
+ID   S9W427_SCHCR            Unreviewed;       979 AA.
+AC   S9W427;
+DT   16-OCT-2013, integrated into UniProtKB/TrEMBL.
+DT   16-OCT-2013, sequence version 1.
+DT   09-DEC-2015, entry version 11.
+DE   SubName: Full=Alpha-glucosidase Agl1 {ECO:0000313|EMBL:EPY53299.1};
+GN   ORFNames=SPOG_03828 {ECO:0000313|EMBL:EPY53299.1};
+OS   Schizosaccharomyces cryophilus (strain OY26 / ATCC MYA-4695 / CBS
+OS   11777 / NBRC 106824 / NRRL Y48691) (Fission yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina;
+OC   Schizosaccharomycetes; Schizosaccharomycetales;
+OC   Schizosaccharomycetaceae; Schizosaccharomyces.
+OX   NCBI_TaxID=653667 {ECO:0000313|EMBL:EPY53299.1, ECO:0000313|Proteomes:UP000015464};
+RN   [1] {ECO:0000313|EMBL:EPY53299.1, ECO:0000313|Proteomes:UP000015464}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=OY26 / ATCC MYA-4695 / CBS 11777 / NBRC 106824 / NRRL Y48691
+RC   {ECO:0000313|Proteomes:UP000015464};
+RX   PubMed=21511999; DOI=10.1126/science.1203357;
+RA   Rhind N., Chen Z., Yassour M., Thompson D.A., Haas B.J., Habib N.,
+RA   Wapinski I., Roy S., Lin M.F., Heiman D.I., Young S.K., Furuya K.,
+RA   Guo Y., Pidoux A., Chen H.M., Robbertse B., Goldberg J.M., Aoki K.,
+RA   Bayne E.H., Berlin A.M., Desjardins C.A., Dobbs E., Dukaj L., Fan L.,
+RA   FitzGerald M.G., French C., Gujja S., Hansen K., Keifenheim D.,
+RA   Levin J.Z., Mosher R.A., Mueller C.A., Pfiffner J., Priest M.,
+RA   Russ C., Smialowska A., Swoboda P., Sykes S.M., Vaughn M.,
+RA   Vengrova S., Yoder R., Zeng Q., Allshire R., Baulcombe D.,
+RA   Birren B.W., Brown W., Ekwall K., Kellis M., Leatherwood J., Levin H.,
+RA   Margalit H., Martienssen R., Nieduszynski C.A., Spatafora J.W.,
+RA   Friedman N., Dalgaard J.Z., Baumann P., Niki H., Regev A., Nusbaum C.;
+RT   "Comparative functional genomics of the fission yeasts.";
+RL   Science 332:930-936(2011).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 31 family.
+CC       {ECO:0000256|RuleBase:RU361185}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KE546988; EPY53299.1; -; Genomic_DNA.
+DR   RefSeq; XP_013021546.1; XM_013166092.1.
+DR   EnsemblFungi; EPY53299; EPY53299; SPOG_03828.
+DR   GeneID; 25038145; -.
+DR   Proteomes; UP000015464; Unassembled WGS sequence.
+DR   GO; GO:0009986; C:cell surface; IEA:EnsemblFungi.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0044247; P:cellular polysaccharide catabolic process; IEA:EnsemblFungi.
+DR   GO; GO:0046379; P:extracellular polysaccharide metabolic process; IEA:EnsemblFungi.
+DR   GO; GO:0009313; P:oligosaccharide catabolic process; IEA:EnsemblFungi.
+DR   InterPro; IPR031727; Gal_mutarotase_N.
+DR   InterPro; IPR011013; Gal_mutarotase_SF_dom.
+DR   InterPro; IPR000322; Glyco_hydro_31.
+DR   InterPro; IPR030458; Glyco_hydro_31_AS.
+DR   InterPro; IPR030459; Glyco_hydro_31_CS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF01055; Glyco_hydro_31; 1.
+DR   Pfam; PF16863; NtCtMGAM_N; 1.
+DR   SUPFAM; SSF51445; SSF51445; 2.
+DR   SUPFAM; SSF74650; SSF74650; 1.
+DR   PROSITE; PS00129; GLYCOSYL_HYDROL_F31_1; 1.
+DR   PROSITE; PS00707; GLYCOSYL_HYDROL_F31_2; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000015464};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361185};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361185};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000015464};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     26       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        27    979       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004558885.
+FT   DOMAIN       77    193       NtCtMGAM_N. {ECO:0000259|Pfam:PF16863}.
+SQ   SEQUENCE   979 AA;  110618 MW;  AA2181651B2F857B CRC64;
+     MRLSSYLFSK SFFLLFLCSL PSVLLAEDSA SSTSYRAEPT PVPPQSGIPQ RVSIYEPYRG
+     GNCHGYRAKD ISETEQGVTG TLELIGSPCY AYGTDYSALY LNVTYETEDR IHVSIRDVNN
+     TQFQFSNRHD VWDAPLYHYS SSVDKSNILY NFSFNADPFE FWITRKSDGE VLFDTRGHPL
+     IFENQYIELT TNMVDNYNIY GLAETIHGLR LGNNLTRTFW ANDEASPLDQ NMYGTHPFYL
+     EQRYKPVDSD SNSDQPTYTS SSHGVLMLTA NGMDVLLRPK YLQYRMIGGI IDLYVYAGSK
+     KPQNTITQFV GSIGFPQMQQ YWSMGFHMCR WGYENISEIM QIRENMRKFN IPIETFWSDI
+     DYMHNLRDFT VDPISYSREQ MIEFFNDIES THQHYVPIVD AAVYAANPSN RSDDTYGPYY
+     EGVEKDIFLK NPDGSLYIGE VWPGFTVFPD FTNPKVQDYW KAGIHNMSYA FGSNSSDYIP
+     FSGLWLDMNE PSSFCVGSCG SELVNLNPVH APFKLPGEPG YLALNYPAGF NLTNATEYAS
+     ASSASLSQYY ATATSSMQVV YPTAVPLGVQ PKFDINHPPY AINTEQGNHD LANHGVSPNA
+     THHDGTLRYN LFNIYGYGEI KVTHKALSDL QPGVRPFILS RSTFLGSGVY SAHWLGDNHS
+     NWPNMFFSIS GMMVFNMLGV PMVGADVCGF QDDTDEELCA RWMAMGAFSP YYRNHNQLGS
+     IHQEPYLWAS VAEASRRAMH IRYSLLPYWY TLFRQASYDG STLIRPLFFE FPDEPLLAGA
+     DRQFMVGDSL LVTPVLEPNT TTVNGVFPGS EDVVWYDWYN HTSIEHKPYE NKTMDAPLEH
+     INVAIRGNKI IPMQVPGYTT HETRQNPFNL LVALDKQGNA YGNLYADDGV SITPNATLWV
+     DFAAKSNKLS SVSFGTYEVD VPLANVTILG VSSSPKQVHF NDDNISSYTY SESTQELVLS
+     NLDKFTSTGA FASNWTISW
+//
+ID   S9QYY8_SCHOY            Unreviewed;       986 AA.
+AC   S9QYY8;
+DT   16-OCT-2013, integrated into UniProtKB/TrEMBL.
+DT   16-OCT-2013, sequence version 1.
+DT   09-DEC-2015, entry version 10.
+DE   SubName: Full=Alpha-glucosidase Agl1 {ECO:0000313|EMBL:EPX71485.1};
+GN   ORFNames=SOCG_01702 {ECO:0000313|EMBL:EPX71485.1};
+OS   Schizosaccharomyces octosporus (strain yFS286) (Fission yeast)
+OS   (Octosporomyces octosporus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina;
+OC   Schizosaccharomycetes; Schizosaccharomycetales;
+OC   Schizosaccharomycetaceae; Schizosaccharomyces.
+OX   NCBI_TaxID=483514 {ECO:0000313|EMBL:EPX71485.1, ECO:0000313|Proteomes:UP000016088};
+RN   [1] {ECO:0000313|EMBL:EPX71485.1, ECO:0000313|Proteomes:UP000016088}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=yFS286 {ECO:0000313|Proteomes:UP000016088};
+RX   PubMed=21511999; DOI=10.1126/science.1203357;
+RA   Rhind N., Chen Z., Yassour M., Thompson D.A., Haas B.J., Habib N.,
+RA   Wapinski I., Roy S., Lin M.F., Heiman D.I., Young S.K., Furuya K.,
+RA   Guo Y., Pidoux A., Chen H.M., Robbertse B., Goldberg J.M., Aoki K.,
+RA   Bayne E.H., Berlin A.M., Desjardins C.A., Dobbs E., Dukaj L., Fan L.,
+RA   FitzGerald M.G., French C., Gujja S., Hansen K., Keifenheim D.,
+RA   Levin J.Z., Mosher R.A., Mueller C.A., Pfiffner J., Priest M.,
+RA   Russ C., Smialowska A., Swoboda P., Sykes S.M., Vaughn M.,
+RA   Vengrova S., Yoder R., Zeng Q., Allshire R., Baulcombe D.,
+RA   Birren B.W., Brown W., Ekwall K., Kellis M., Leatherwood J., Levin H.,
+RA   Margalit H., Martienssen R., Nieduszynski C.A., Spatafora J.W.,
+RA   Friedman N., Dalgaard J.Z., Baumann P., Niki H., Regev A., Nusbaum C.;
+RT   "Comparative functional genomics of the fission yeasts.";
+RL   Science 332:930-936(2011).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 31 family.
+CC       {ECO:0000256|RuleBase:RU361185}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KE503208; EPX71485.1; -; Genomic_DNA.
+DR   RefSeq; XP_013020109.1; XM_013164655.1.
+DR   EnsemblFungi; EPX71485; EPX71485; SOCG_01702.
+DR   GeneID; 25030682; -.
+DR   Proteomes; UP000016088; Unassembled WGS sequence.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   InterPro; IPR031727; Gal_mutarotase_N.
+DR   InterPro; IPR011013; Gal_mutarotase_SF_dom.
+DR   InterPro; IPR000322; Glyco_hydro_31.
+DR   InterPro; IPR030458; Glyco_hydro_31_AS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF01055; Glyco_hydro_31; 1.
+DR   Pfam; PF16863; NtCtMGAM_N; 1.
+DR   SUPFAM; SSF51445; SSF51445; 2.
+DR   SUPFAM; SSF74650; SSF74650; 1.
+DR   PROSITE; PS00129; GLYCOSYL_HYDROL_F31_1; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016088};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361185};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361185};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     26       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        27    986       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004555493.
+FT   DOMAIN       77    193       NtCtMGAM_N. {ECO:0000259|Pfam:PF16863}.
+SQ   SEQUENCE   986 AA;  111819 MW;  8395C256E865A5F7 CRC64;
+     MLFSLDLVSK SIFFIFLWSL PFRSVADDSA SSTSYRVEPT PITPQEGIPQ RISVYQPYRG
+     GNCHGYRAKD ISRTDQGVTG SLELIGSPCY AYGTDYKDLL LNVTYDTEER IHVSIRDANH
+     TQFEFSNRHD IWDAPIYHPS SSVNQFNLLY NFSFNADPFE FWITRKSDGE VLFDTRGHPL
+     IFEDQYIELT TNMVDDYNIY GLAETIHGLR LGNNLTRTFW ANDEASPLDQ NMYGTHPFYL
+     EQRYKPVDSN SNVNYNSSSE QQKKYTSASH GVLMLTANGM DVLLRPKYLQ YRMIGGIIDL
+     YVYAGSEKPQ NTITQFIESI GFPQMHQYWT MGFHMCRWGY ENISQIMQVR ENMRKFNIPI
+     ETFWSDIDYM DSLRDFTVDP ISYSQEQMIE FFHDIESTHQ HYVPIVDAAV YAANPSNRSD
+     DSYGPYYEGI EKDVFLKNPD GSLYIGEVWP GFTVFPDFTN PKVQDYWKHG IQNMSYAFGS
+     NSSSYIPFSG LWLDMNEPSS FCVGSCGSNL VNSNPVHPPF KLPGEPDDLT LNYPEGFNLT
+     NKTEYASASS ASLSQYYATA TSSMQPVYPT AVPIGQQPKH DINHPPYAIN TEQGNHDLAN
+     HGVSPNATHH DGTLRYDLFN IYGYGEIKVT HKALTDLQPK VRPFILSRST FLGSGVYSAH
+     WLGDNHSNWP NMFFSISGMM VFNMLGVPMV GADVCGFQDN ADEELCARWM AMGAFSPFYR
+     NHNQLGSIHQ EPYLWASVAE SSRRAMNIRY SLLPYWYTLF RQASYDGSTL IRPLFFEFPD
+     EPSLAGADRQ FLVGDSLLVS PVLEPNTTTV NGVFPGDENT VWYDWYNHTA IEHKPYENKT
+     MDAPLEHINV AIRGNKIIPM QQPAYTTEET RKNPFSLLVA LDKQGTAYGN LYADDGVSLT
+     PNATLWVDFS AKSNKLSSSS FGTYNDHVPL ANVTILGVSS SPKQVLFNGN IVNSYTYSDS
+     IQELIINNLN NFTSAGAFAS NWTITW
+//
+ID   K0KJ29_WICCF            Unreviewed;       575 AA.
+AC   K0KJ29;
+DT   28-NOV-2012, integrated into UniProtKB/TrEMBL.
+DT   28-NOV-2012, sequence version 1.
+DT   09-DEC-2015, entry version 15.
+DE   SubName: Full=Alpha-glucosidase {ECO:0000313|EMBL:CCH41479.1};
+DE            EC=3.2.1.20 {ECO:0000313|EMBL:CCH41479.1};
+GN   Name=AGL1 {ECO:0000313|EMBL:CCH41479.1};
+GN   ORFNames=BN7_1020 {ECO:0000313|EMBL:CCH41479.1};
+OS   Wickerhamomyces ciferrii (strain F-60-10 / ATCC 14091 / CBS 111 / JCM
+OS   3599 / NBRC 0793 / NRRL Y-1031) (Yeast) (Pichia ciferrii).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Phaffomycetaceae; Wickerhamomyces.
+OX   NCBI_TaxID=1206466 {ECO:0000313|Proteomes:UP000009328};
+RN   [1] {ECO:0000313|EMBL:CCH41479.1, ECO:0000313|Proteomes:UP000009328}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=F-60-10 / ATCC 14091 / CBS 111 / JCM 3599 / NBRC 0793 / NRRL
+RC   Y-1031 {ECO:0000313|Proteomes:UP000009328};
+RX   PubMed=23193139; DOI=10.1128/EC.00258-12;
+RA   Schneider J., Andrea H., Blom J., Jaenicke S., Rueckert C.,
+RA   Schorsch C., Szczepanowski R., Farwick M., Goesmann A., Puehler A.,
+RA   Schaffer S., Tauch A., Koehler T., Brinkrolf K.;
+RT   "Draft genome sequence of Wickerhamomyces ciferrii NRRL Y-1031 F-60-
+RT   10.";
+RL   Eukaryot. Cell 11:1582-1583(2012).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCH41479.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAIF01000020; CCH41479.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCH41479; CCH41479; BN7_1020.
+DR   InParanoid; K0KJ29; -.
+DR   OrthoDB; EOG7M3J7X; -.
+DR   Proteomes; UP000009328; Unassembled WGS sequence.
+DR   GO; GO:0004558; F:alpha-1,4-glucosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0043169; F:cation binding; IEA:InterPro.
+DR   GO; GO:0032450; F:maltose alpha-glucosidase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.80; -; 2.
+DR   InterPro; IPR015902; Glyco_hydro_13.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR006047; Glyco_hydro_13_cat_dom.
+DR   InterPro; IPR006589; Glyco_hydro_13_sub_cat_dom.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR10357; PTHR10357; 3.
+DR   Pfam; PF00128; Alpha-amylase; 1.
+DR   SMART; SM00642; Aamy; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000009328};
+KW   Glycosidase {ECO:0000313|EMBL:CCH41479.1};
+KW   Hydrolase {ECO:0000313|EMBL:CCH41479.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000009328}.
+FT   DOMAIN       16    442       Aamy. {ECO:0000259|SMART:SM00642}.
+SQ   SEQUENCE   575 AA;  66549 MW;  5B1E3446F3FD179A CRC64;
+     MTVKTYPWWK DSTIYQIWPA SFRDSNGDGF GDIPGIIKSL DHIKSLGASV VWLSPHYDSP
+     QDDMGYDISN YEAIYEKYGT MDDMNQLIEE VHKRGLKLVC DLVINHTSSE HAWFKESKSS
+     LDNPKRDWYI WRKPRYDDKG NRLPPTNWLS HFSGSAWNYD ETTDEYYLCL FAKTQPDLNW
+     ENEETRNAIY KSALEFWFKK GVDGFRIDTA GMYSKKFAKD GKSFEDAPIV FPEQYYQPSS
+     DFTTNGPRIH EFHKEMFEKV TSNYDVLTVG EVGHCSKEEA LKYVSANEKE MNMMFLFDVV
+     DVGSDKQDRF RYNGFTLKDF KDAVAAQSDF IKGTDAWSTV FIENHDQPRA VTRFGNTSNK
+     QLWAKSAKLL ALLQTTLTGT LYIYQGQEIG MTNLPRSWDI EEYKDINTIN YWAQYKEKTP
+     NDPEADKKLL DVINLVARDH ARSPVQWDDS ANGGFSTGTP WTRVNDNYKE INVKAQTGDP
+     DSVFSFYQNA IKVRQLHKEL FIHGDFEILD YENDKLFTYV KSSADQKSYV VLNFSNEDVP
+     FKPLISGDLK LINSNVKDVN ENTLTPYEGR VYLVE
+//
+ID   A3LWN5_PICST            Unreviewed;       572 AA.
+AC   A3LWN5;
+DT   03-APR-2007, integrated into UniProtKB/TrEMBL.
+DT   03-APR-2007, sequence version 1.
+DT   09-DEC-2015, entry version 53.
+DE   SubName: Full=Alpha-glucosidase maltase {ECO:0000313|EMBL:ABN67312.1};
+GN   Name=AGL1 {ECO:0000313|EMBL:ABN67312.1};
+GN   ORFNames=PICST_62666 {ECO:0000313|EMBL:ABN67312.1};
+OS   Scheffersomyces stipitis (strain ATCC 58785 / CBS 6054 / NBRC 10063 /
+OS   NRRL Y-11545) (Yeast) (Pichia stipitis).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Debaryomycetaceae;
+OC   Scheffersomyces.
+OX   NCBI_TaxID=322104 {ECO:0000313|EMBL:ABN67312.1, ECO:0000313|Proteomes:UP000002258};
+RN   [1] {ECO:0000313|EMBL:ABN67312.1, ECO:0000313|Proteomes:UP000002258}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 58785 / CBS 6054 / NBRC 10063 / NRRL Y-11545
+RC   {ECO:0000313|Proteomes:UP000002258};
+RX   PubMed=17334359; DOI=10.1038/nbt1290;
+RA   Jeffries T.W., Grigoriev I.V., Grimwood J., Laplaza J.M., Aerts A.,
+RA   Salamov A., Schmutz J., Lindquist E., Dehal P., Shapiro H., Jin Y.-S.,
+RA   Passoth V., Richardson P.M.;
+RT   "Genome sequence of the lignocellulose-bioconverting and xylose-
+RT   fermenting yeast Pichia stipitis.";
+RL   Nat. Biotechnol. 25:319-326(2007).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CP000500; ABN67312.1; -; Genomic_DNA.
+DR   RefSeq; XP_001385341.1; XM_001385304.1.
+DR   ProteinModelPortal; A3LWN5; -.
+DR   STRING; 322104.XP_001385341.1; -.
+DR   EnsemblFungi; ABN67312; ABN67312; PICST_62666.
+DR   GeneID; 4839770; -.
+DR   KEGG; pic:PICST_62666; -.
+DR   eggNOG; COG0366; LUCA.
+DR   eggNOG; KOG0471; Eukaryota.
+DR   HOGENOM; HOG000220641; -.
+DR   InParanoid; A3LWN5; -.
+DR   OMA; DERTDEY; -.
+DR   OrthoDB; EOG7RBZJ4; -.
+DR   Proteomes; UP000002258; Chromosome 6.
+DR   GO; GO:0003824; F:catalytic activity; IEA:InterPro.
+DR   GO; GO:0043169; F:cation binding; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.60.40.1180; -; 1.
+DR   Gene3D; 3.20.20.80; -; 2.
+DR   InterPro; IPR015902; Glyco_hydro_13.
+DR   InterPro; IPR013780; Glyco_hydro_13_b.
+DR   InterPro; IPR006047; Glyco_hydro_13_cat_dom.
+DR   InterPro; IPR006589; Glyco_hydro_13_sub_cat_dom.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR10357; PTHR10357; 3.
+DR   Pfam; PF00128; Alpha-amylase; 1.
+DR   SMART; SM00642; Aamy; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002258};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002258}.
+FT   DOMAIN       15    436       Aamy. {ECO:0000259|SMART:SM00642}.
+SQ   SEQUENCE   572 AA;  67053 MW;  E2E6F42BC0A889EE CRC64;
+     MTITRNWWKT STVYQIWPAS YKDSNGDGIG DIKGIISTLD YLRDLGVDVI WCSPMYDSPQ
+     DDMGYDVRDY EKVYPKYGTN DDMQLLIDEC HSRGMKLILD LVINHTSSEH VWFKESRSSK
+     TNPKRDWYIW KPPKYDEEGN RRPPNNWASY FSGSAWEYDE RTDEYYLRLF ASSQPDLNWE
+     NEETRNAIYE SAVKFWLDKG VDGFRIDTAG LYSKVQTFPD TPIIFPEEEF QSSKLYSQNG
+     PRIHEFHKEM YSKVTSKYDA MTVGEVGHCS REDALKYVSA KEHEMNMMFL FNKVWVGCDR
+     NDRWKFDGWK LTDFKKAVEI DCDFIAGTDA WSTVFIENHD LPRCVTRFGD KKHRSQAAKL
+     LSILGTTLTG TLFIYQGQEI AMENLPRDWS IDEYKDINTI NRYKEFKDKY GNDPDFKEKE
+     EKLMDIINLL ARDNSRSPVQ WDASPNAGFT TGIPWTRVNE NYTTINVESQ IRDPNSVLNF
+     YKKSIQIRKS YQDLLIFGDM KILDYENQKT FTYLKLNENA LSPKAYIVLN FSNEEVNFEK
+     LINGDFELVL SNVDVINEQK LSPFEARLYI VD
+//
+ID   S9RC55_SCHOY            Unreviewed;       969 AA.
+AC   S9RC55;
+DT   16-OCT-2013, integrated into UniProtKB/TrEMBL.
+DT   16-OCT-2013, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Alpha-glucosidase Agl1 {ECO:0000313|EMBL:EPX71699.1};
+GN   ORFNames=SOCG_01913 {ECO:0000313|EMBL:EPX71699.1};
+OS   Schizosaccharomyces octosporus (strain yFS286) (Fission yeast)
+OS   (Octosporomyces octosporus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Taphrinomycotina;
+OC   Schizosaccharomycetes; Schizosaccharomycetales;
+OC   Schizosaccharomycetaceae; Schizosaccharomyces.
+OX   NCBI_TaxID=483514 {ECO:0000313|EMBL:EPX71699.1, ECO:0000313|Proteomes:UP000016088};
+RN   [1] {ECO:0000313|EMBL:EPX71699.1, ECO:0000313|Proteomes:UP000016088}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=yFS286 {ECO:0000313|Proteomes:UP000016088};
+RX   PubMed=21511999; DOI=10.1126/science.1203357;
+RA   Rhind N., Chen Z., Yassour M., Thompson D.A., Haas B.J., Habib N.,
+RA   Wapinski I., Roy S., Lin M.F., Heiman D.I., Young S.K., Furuya K.,
+RA   Guo Y., Pidoux A., Chen H.M., Robbertse B., Goldberg J.M., Aoki K.,
+RA   Bayne E.H., Berlin A.M., Desjardins C.A., Dobbs E., Dukaj L., Fan L.,
+RA   FitzGerald M.G., French C., Gujja S., Hansen K., Keifenheim D.,
+RA   Levin J.Z., Mosher R.A., Mueller C.A., Pfiffner J., Priest M.,
+RA   Russ C., Smialowska A., Swoboda P., Sykes S.M., Vaughn M.,
+RA   Vengrova S., Yoder R., Zeng Q., Allshire R., Baulcombe D.,
+RA   Birren B.W., Brown W., Ekwall K., Kellis M., Leatherwood J., Levin H.,
+RA   Margalit H., Martienssen R., Nieduszynski C.A., Spatafora J.W.,
+RA   Friedman N., Dalgaard J.Z., Baumann P., Niki H., Regev A., Nusbaum C.;
+RT   "Comparative functional genomics of the fission yeasts.";
+RL   Science 332:930-936(2011).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 31 family.
+CC       {ECO:0000256|RuleBase:RU361185}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KE503208; EPX71699.1; -; Genomic_DNA.
+DR   RefSeq; XP_013020319.1; XM_013164865.1.
+DR   EnsemblFungi; EPX71699; EPX71699; SOCG_01913.
+DR   GeneID; 25030892; -.
+DR   Proteomes; UP000016088; Unassembled WGS sequence.
+DR   GO; GO:0030246; F:carbohydrate binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   InterPro; IPR031727; Gal_mutarotase_N.
+DR   InterPro; IPR011013; Gal_mutarotase_SF_dom.
+DR   InterPro; IPR000322; Glyco_hydro_31.
+DR   InterPro; IPR030458; Glyco_hydro_31_AS.
+DR   InterPro; IPR030459; Glyco_hydro_31_CS.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF01055; Glyco_hydro_31; 1.
+DR   Pfam; PF16863; NtCtMGAM_N; 1.
+DR   SUPFAM; SSF51445; SSF51445; 2.
+DR   SUPFAM; SSF74650; SSF74650; 1.
+DR   PROSITE; PS00129; GLYCOSYL_HYDROL_F31_1; 1.
+DR   PROSITE; PS00707; GLYCOSYL_HYDROL_F31_2; 1.
+PE   3: Inferred from homology;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000016088};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361185};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361185}.
+FT   DOMAIN       66    183       NtCtMGAM_N. {ECO:0000259|Pfam:PF16863}.
+SQ   SEQUENCE   969 AA;  109753 MW;  5DBBE32243FE3610 CRC64;
+     MGSFPSILLA QNSSSSPSGT DASYRVIPTP YTPQNGIQQN VSVYEPYRGN ECHGYRAKNI
+     SESQKGITGI LELIGSPCNA YGADYPYLFL NVTYETEERV HISIRDLNSS QFQFSKRHDV
+     WQAPLYYAST SSLNKSNVFY EFSFNADPFE FWITRKTDGE VLFDTRGNHL VFEDQYIELT
+     TNMVDDYNIY GLAETIHGFR LGNNLTRTFW NNDEASPLDR NMYGTHPYYL EQRYKPLNSS
+     NFTNSNQTTY SSSSHGVLML TANGMDVLLR PKYLQYRMIG GVIDLYVYSG SSSPKETTKQ
+     YIKSIGLPQM QQYWTLGYHM CRWGYQNITE IMRVRERMHN SSIPIETFWS DVDYMHNLRD
+     FTVDPTSYPR DQFSQFFHEI ESSHQHYIPI VDAGVYAANP TNRSDDTYGP FYEGFEKDLF
+     LKNPDGSIYI GEVWPGFAVF PDFIHPNVQE YWKHGIQNLS YAFGSNSSNY IPFSGLWLDM
+     NEPSSFCVGS CGSELVNWNP VHPPMMLPGE SSSPVFVYPN ISNPSNTTEF YSAYTAVLSQ
+     YHATATTSFQ TVHSTPGPLG DKPNINHPPY AINQEQGNHD LANHGVSPNA THYDGTLRYN
+     LFNVYGYTEG KVTHQALSEL QPGRRPFILT RSNFVGTGTY AAVWLGDNHS NWPNMYFSIP
+     GMLTYNMLGI PMVGADVCGF ADNSNEELCA RWMELGAFSP FYRNHNSQGS SLQEPYLWGS
+     VAEASRRAMN IRYSLLPYWY TLLNQASSEG NTIVTPLFFE FPDEPHLAEA DRQFMVGDAL
+     LVSPVLDPNT TKVNGVFPGN ESTVWYDWYN HTAIEHKPYE NKTMDAPLEH INVAIRGSKV
+     IPMQQPAYTT EETRENPFNL LVALDKQGTA RGSLYADDGV SVTPNATLWV DFSAKSNELS
+     SVSFGNYNVR VPLANVTILG VSSSPKQVQF NNEAVMSYNY INETKELIIT KLENFTSIGA
+     FAKNWTVSW
+//
+ID   B5M244_RHIIR            Unreviewed;       226 AA.
+AC   B5M244;
+DT   14-OCT-2008, integrated into UniProtKB/TrEMBL.
+DT   14-OCT-2008, sequence version 1.
+DT   14-OCT-2015, entry version 10.
+DE   SubName: Full=AGP-like protein 1 {ECO:0000313|EMBL:ACH68449.1};
+GN   Name=AGL1 {ECO:0000313|EMBL:ACH68449.1};
+OS   Rhizophagus irregularis (Arbuscular mycorrhizal fungus) (Glomus
+OS   intraradices).
+OC   Eukaryota; Fungi; Glomeromycota; Glomeromycetes; Glomerales;
+OC   Glomeraceae; Rhizophagus.
+OX   NCBI_TaxID=4876 {ECO:0000313|EMBL:ACH68449.1};
+RN   [1] {ECO:0000313|EMBL:ACH68449.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=18709392; DOI=10.1007/s00572-008-0194-1;
+RA   Schultz C.J., Harrison M.J.;
+RT   "Novel plant and fungal AGP-like proteins in the Medicago truncatula-
+RT   Glomus intraradices arbuscular mycorrhizal symbiosis.";
+RL   Mycorrhiza 18:403-412(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EU931681; ACH68449.1; -; mRNA.
+DR   ProteinModelPortal; B5M244; -.
+PE   2: Evidence at transcript level;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    226       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002836619.
+SQ   SEQUENCE   226 AA;  20471 MW;  BDAB8C9DC5F04EF2 CRC64;
+     MNKRIFIILA IFFALVTYVA AQGPADGAPA DGKAPADGAP ADGKAPADGA PADGKAPADG
+     APADGKAPAD GKAPADGKAP DAADGKAPAD GKAPADGKAP ADGKAPADGK APADGKAPAD
+     GKAPADGKAP ADGKAPADGK APADGKAPAD GKAPAGAAPG GAAPAPGAAP KDGKAPAPAD
+     GKTPAASPAG GAAPSASAKA AASSGNSLKS SGYSFAAIAV LGAIFA
+//
+ID   D0U264_CRYPA            Unreviewed;       848 AA.
+AC   D0U264;
+DT   15-DEC-2009, integrated into UniProtKB/TrEMBL.
+DT   15-DEC-2009, sequence version 1.
+DT   17-FEB-2016, entry version 22.
+DE   SubName: Full=Argonaute-like protein {ECO:0000313|EMBL:ACY36939.1};
+GN   Name=agl1 {ECO:0000313|EMBL:ACY36939.1};
+OS   Cryphonectria parasitica (Chesnut blight fungus) (Endothia
+OS   parasitica).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Diaporthales; Cryphonectriaceae;
+OC   Cryphonectria-Endothia complex; Cryphonectria.
+OX   NCBI_TaxID=5116 {ECO:0000313|EMBL:ACY36939.1};
+RN   [1] {ECO:0000313|EMBL:ACY36939.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=EP155 {ECO:0000313|EMBL:ACY36939.1};
+RX   PubMed=19822766; DOI=10.1073/pnas.0907552106;
+RA   Sun Q., Choi G.H., Nuss D.L.;
+RT   "A single Argonaute gene is required for induction of RNA silencing
+RT   antiviral defense and promotes viral RNA recombination.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 106:17927-17932(2009).
+CC   -!- SIMILARITY: Contains PAZ domain. {ECO:0000256|SAAS:SAAS00288097}.
+CC   -!- SIMILARITY: Contains Piwi domain. {ECO:0000256|SAAS:SAAS00097270}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GQ250184; ACY36939.1; -; Genomic_DNA.
+DR   GO; GO:0003676; F:nucleic acid binding; IEA:InterPro.
+DR   Gene3D; 3.30.420.10; -; 1.
+DR   InterPro; IPR014811; ArgoL1.
+DR   InterPro; IPR032472; ArgoL2.
+DR   InterPro; IPR003100; PAZ_dom.
+DR   InterPro; IPR003165; Piwi.
+DR   InterPro; IPR012337; RNaseH-like_dom.
+DR   Pfam; PF08699; ArgoL1; 1.
+DR   Pfam; PF16488; ArgoL2; 1.
+DR   Pfam; PF02170; PAZ; 1.
+DR   Pfam; PF02171; Piwi; 1.
+DR   SMART; SM00950; Piwi; 1.
+DR   SUPFAM; SSF101690; SSF101690; 1.
+DR   SUPFAM; SSF53098; SSF53098; 1.
+DR   PROSITE; PS50821; PAZ; 1.
+DR   PROSITE; PS50822; PIWI; 1.
+PE   4: Predicted;
+FT   DOMAIN      259    316       PAZ. {ECO:0000259|PROSITE:PS50821}.
+FT   DOMAIN      482    803       Piwi. {ECO:0000259|PROSITE:PS50822}.
+SQ   SEQUENCE   848 AA;  96501 MW;  A3DF5D19F2955CC0 CRC64;
+     MGQVWATDYK ETLVLQQPLD FKDTEALPLL TVCRETATVQ VHFPPSQVYK EDRRYDVRFQ
+     LDEEMDLGAL FKDLSNGNPP PEGFVKALSV IFGYAPLRDA KTRVLGAGRY FKDSREERQD
+     LVCMSNPDIP KLMTILRGFV QNVRPATGKF LLNVNVTYGI FRPKINLGRL LWPRAALIWG
+     SDEKQRLGDL EKLHGIIQRT KILYKPPKKK GKPTDAQPNR SSVCTDQSHP GGPDDFVNRI
+     TIAGFARRKD SGQGKQTDFP NWEQARCKDG DDDITVKQYF EKYYKIALKH PELPLINRGT
+     PEAPDYIPAE RCWLDFGQAR LAKIEQDDAA EMIRFACQRP FDNATKICNV GHAVLHLGSS
+     NQTLQHFGLS VGNDLLKVQG RELDAPLLAY RQSNVPGVGG LWNLKDVSFC SPQARSWVLI
+     TLQPQPATTL PAIQDFKMEM LRLGMKMGNA LMTFNIKEGG EKHIITGFHS FLKESKARGA
+     TLALIVFPYQ QPSGVYNKIK FLGDVVHGLH TVCVIGRKFV KNGQTQREYF ANVSLKINLK
+     LGGTNHQLTH PPELFRGTMV VGYDAVHPTA VEKEDLPSHM ALVASVDEGL GQWSGCYWTQ
+     KRRQEIADAT NLKQHMKSRL ELWMKERRRR PERIIIYRDG VSDSQYEAVM KDELPQIEAA
+     YRDQFQGEEP KITLVVAVKR HSTRFYPSDP THMTKSGNMR SGTIVDRGIT EARYWEFFLT
+     AHEAIQGTAR PARYVVLRDD IFRTKYKKDG LVKGHDFTEA VNKLEEFTHK VCYLFGRATR
+     AVSLCTPAYY ADILCTRARA YESAIAHEPF KDMLGIRTRT VGAAEDEELR RIREMKVHDD
+     LKNSMFWI
+//

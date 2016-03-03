@@ -1,0 +1,522 @@
+ID   CDH_PHACH               Reviewed;         773 AA.
+AC   Q01738; O00047;
+DT   30-MAY-2000, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   11-NOV-2015, entry version 111.
+DE   RecName: Full=Cellobiose dehydrogenase;
+DE            Short=CDH;
+DE            EC=1.1.99.18;
+DE   AltName: Full=Cellobiose-quinone oxidoreductase;
+DE   Flags: Precursor;
+GN   Name=CDH-1;
+GN   and
+GN   Name=CDH-2;
+OS   Phanerochaete chrysosporium (White-rot fungus) (Sporotrichum
+OS   pruinosum).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Phanerochaetaceae; Phanerochaete.
+OX   NCBI_TaxID=5306;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=ATCC 201542 / OGC101;
+RX   PubMed=8919793;
+RA   Li B., Nagalla S.R., Renganathan V.;
+RT   "Cloning of a cDNA encoding cellobiose dehydrogenase, a
+RT   hemoflavoenzyme from Phanerochaete chrysosporium.";
+RL   Appl. Environ. Microbiol. 62:1329-1335(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 201542 / OGC101;
+RX   PubMed=9023960;
+RA   Li B., Nagalla S.R., Renganathan V.;
+RT   "Cellobiose dehydrogenase from Phanerochaete chrysosporium is encoded
+RT   by two allelic variants.";
+RL   Appl. Environ. Microbiol. 63:796-799(1997).
+RN   [3]
+RP   X-RAY CRYSTALLOGRAPHY (1.9 ANGSTROMS) OF 19-208, AND PYROGLUTAMATE
+RP   FORMATION AT GLN-19.
+RX   PubMed=10673428; DOI=10.1016/S0969-2126(00)00082-4;
+RA   Hallberg B.M., Bergfors T., Boeckbro K., Pettersson G., Henriksson G.,
+RA   Divne C.;
+RT   "A new scaffold for binding haem in the cytochrome domain of the
+RT   extracellular flavocytochrome cellobiose dehydrogenase.";
+RL   Structure 8:79-88(2000).
+CC   -!- FUNCTION: Degrades both lignin and cellulose. Oxidizes cellobiose
+CC       to cellobionolactone.
+CC   -!- CATALYTIC ACTIVITY: Cellobiose + acceptor = cellobiono-1,5-lactone
+CC       + reduced acceptor.
+CC   -!- COFACTOR:
+CC       Name=FAD; Xref=ChEBI:CHEBI:57692;
+CC       Note=Binds 1 FAD per subunit.;
+CC   -!- COFACTOR:
+CC       Name=heme; Xref=ChEBI:CHEBI:30413;
+CC       Note=Binds 1 heme group per subunit.;
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: In the C-terminal section; belongs to the GMC
+CC       oxidoreductase family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; U46081; AAC49277.1; -; mRNA.
+DR   EMBL; U65888; AAB61455.1; -; Genomic_DNA.
+DR   EMBL; U50409; AAB92262.1; -; Genomic_DNA.
+DR   PDB; 1D7B; X-ray; 1.90 A; A/B=20-204.
+DR   PDB; 1D7C; X-ray; 1.90 A; A/B=20-208.
+DR   PDB; 1D7D; X-ray; 1.90 A; A/B=20-204.
+DR   PDB; 1KDG; X-ray; 1.50 A; A/B=228-773.
+DR   PDB; 1NAA; X-ray; 1.80 A; A/B=233-773.
+DR   PDB; 1PL3; X-ray; 1.90 A; A/B=19-204.
+DR   PDBsum; 1D7B; -.
+DR   PDBsum; 1D7C; -.
+DR   PDBsum; 1D7D; -.
+DR   PDBsum; 1KDG; -.
+DR   PDBsum; 1NAA; -.
+DR   PDBsum; 1PL3; -.
+DR   ProteinModelPortal; Q01738; -.
+DR   SMR; Q01738; 19-208, 228-773.
+DR   STRING; 5306.JGI74422; -.
+DR   eggNOG; ENOG410IUIF; Eukaryota.
+DR   eggNOG; COG2303; LUCA.
+DR   OMA; TPRILFQ; -.
+DR   BioCyc; MetaCyc:MONOMER-17578; -.
+DR   BRENDA; 1.1.99.18; 1380.
+DR   EvolutionaryTrace; Q01738; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0047735; F:cellobiose dehydrogenase (acceptor) activity; IEA:UniProtKB-EC.
+DR   GO; GO:0050660; F:flavin adenine dinucleotide binding; IEA:InterPro.
+DR   GO; GO:0046872; F:metal ion binding; IEA:UniProtKB-KW.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.60.40.1210; -; 1.
+DR   Gene3D; 3.50.50.60; -; 3.
+DR   InterPro; IPR015920; Cellobiose_DH_cyt.
+DR   InterPro; IPR023753; FAD/NAD-binding_dom.
+DR   InterPro; IPR000172; GMC_OxRdtase_N.
+DR   InterPro; IPR007867; GMC_OxRtase_C.
+DR   Pfam; PF16010; CDH-cyt; 1.
+DR   Pfam; PF05199; GMC_oxred_C; 1.
+DR   Pfam; PF00732; GMC_oxred_N; 1.
+DR   SUPFAM; SSF51905; SSF51905; 2.
+DR   PROSITE; PS00623; GMC_OXRED_1; 1.
+DR   PROSITE; PS00624; GMC_OXRED_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Cellulose degradation; FAD;
+KW   Flavoprotein; Heme; Iron; Metal-binding; Oxidoreductase;
+KW   Polysaccharide degradation; Pyrrolidone carboxylic acid; Secreted;
+KW   Signal.
+FT   SIGNAL        1     18
+FT   CHAIN        19    773       Cellobiose dehydrogenase.
+FT                                /FTId=PRO_0000012331.
+FT   NP_BIND     236    265       FAD. {ECO:0000255}.
+FT   REGION       19    208       Heme domain.
+FT   REGION      235    773       Oxidoreductase.
+FT   ACT_SITE    707    707       Proton acceptor.
+FT                                {ECO:0000250|UniProtKB:E4QP00}.
+FT   METAL        83     83       Iron (heme axial ligand).
+FT   METAL       181    181       Iron (heme axial ligand).
+FT   MOD_RES      19     19       Pyrrolidone carboxylic acid.
+FT                                {ECO:0000269|PubMed:10673428}.
+FT   STRAND       22     25       {ECO:0000244|PDB:1D7B}.
+FT   TURN         27     29       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       32     38       {ECO:0000244|PDB:1D7B}.
+FT   TURN         39     42       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       43     49       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       54     56       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       62     69       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       74     78       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       81     86       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       88     94       {ECO:0000244|PDB:1D7B}.
+FT   STRAND       97    104       {ECO:0000244|PDB:1D7B}.
+FT   STRAND      106    109       {ECO:0000244|PDB:1D7B}.
+FT   STRAND      119    122       {ECO:0000244|PDB:1D7B}.
+FT   STRAND      130    140       {ECO:0000244|PDB:1D7B}.
+FT   TURN        141    143       {ECO:0000244|PDB:1D7B}.
+FT   STRAND      155    166       {ECO:0000244|PDB:1D7B}.
+FT   STRAND      182    190       {ECO:0000244|PDB:1D7B}.
+FT   HELIX       191    193       {ECO:0000244|PDB:1D7B}.
+FT   HELIX       199    203       {ECO:0000244|PDB:1D7B}.
+FT   STRAND      235    240       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       244    255       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      260    263       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       271    273       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       280    285       {ECO:0000244|PDB:1KDG}.
+FT   TURN        289    291       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       293    300       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      312    314       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       322    325       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       336    339       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       341    343       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       347    349       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       353    362       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       379    389       {ECO:0000244|PDB:1KDG}.
+FT   TURN        390    392       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       398    400       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      408    411       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       423    426       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       428    433       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      438    441       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      446    452       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      455    462       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       468    470       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      471    482       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       485    495       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       501    508       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       511    516       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       520    522       {ECO:0000244|PDB:1KDG}.
+FT   TURN        528    531       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      538    543       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       550    553       {ECO:0000244|PDB:1KDG}.
+FT   TURN        554    558       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       562    571       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       575    577       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      583    590       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      596    606       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       618    620       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      621    628       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      636    640       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      646    650       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       657    670       {ECO:0000244|PDB:1KDG}.
+FT   TURN        671    673       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       674    676       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      681    685       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       691    697       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       700    703       {ECO:0000244|PDB:1KDG}.
+FT   TURN        718    720       {ECO:0000244|PDB:1KDG}.
+FT   STRAND      733    737       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       740    742       {ECO:0000244|PDB:1KDG}.
+FT   HELIX       752    768       {ECO:0000244|PDB:1KDG}.
+SQ   SEQUENCE   773 AA;  82007 MW;  54F721E779AA4D7B CRC64;
+     MLGRSLLALL PFVGLAFSQS ASQFTDPTTG FQFTGITDPV HDVTYGFVFP PLATSGAQST
+     EFIGEVVAPI ASKWIGIALG GAMNNDLLLV AWANGNQIVS STRWATGYVQ PTAYTGTATL
+     TTLPETTINS THWKWVFRCQ GCTEWNNGGG IDVTSQGVLA WAFSNVAVDD PSDPQSTFSE
+     HTDFGFFGID YSTAHSANYQ NYLNGDSGNP TTTSTKPTST SSSVTTGPTV SATPYDYIIV
+     GAGPGGIIAA DRLSEAGKKV LLLERGGPST KQTGGTYVAP WATSSGLTKF DIPGLFESLF
+     TDSNPFWWCK DITVFAGCLV GGGTSVNGAL YWYPNDGDFS SSVGWPSSWT NHAPYTSKLS
+     SRLPSTDHPS TDGQRYLEQS FNVVSQLLKG QGYNQATIND NPNYKDHVFG YSAFDFLNGK
+     RAGPVATYLQ TALARPNFTF KTNVMVSNVV RNGSQILGVQ TNDPTLGPNG FIPVTPKGRV
+     ILSAGAFGTS RILFQSGIGP TDMIQTVQSN PTAAAALPPQ NQWINLPVGM NAQDNPSINL
+     VFTHPSIDAY ENWADVWSNP RPADAAQYLA NQSGVFAGAS PKLNFWRAYS GSDGFTRYAQ
+     GTVRPGAASV NSSLPYNASQ IFTITVYLST GIQSRGRIGI DAALRGTVLT PPWLVNPVDK
+     TVLLQALHDV VSNIGSIPGL TMITPDVTQT LEEYVDAYDP ATMNSNHWVS STTIGSSPQS
+     AVVDSNVKVF GTNNLFIVDA GIIPHLPTGN PQGTLMSAAE QAAAKILALA GGP
+//
+ID   PDH1_AGABI              Reviewed;         594 AA.
+AC   Q3L1D1;
+DT   26-NOV-2014, integrated into UniProtKB/Swiss-Prot.
+DT   08-NOV-2005, sequence version 1.
+DT   09-DEC-2015, entry version 34.
+DE   RecName: Full=Pyranose dehydrogenase {ECO:0000303|PubMed:11086703};
+DE            Short=PDH {ECO:0000303|PubMed:11086703};
+DE            EC=1.1.99.29 {ECO:0000269|PubMed:11086703, ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2};
+DE   AltName: Full=Glucose dehydrogenase {ECO:0000303|Ref.2};
+DE            Short=GDH {ECO:0000303|Ref.2};
+DE   AltName: Full=Pyranose 2-dehydrogenase {ECO:0000303|PubMed:9133318};
+DE   AltName: Full=Pyranose:quinone oxidoreductase {ECO:0000250|UniProtKB:Q3L245};
+DE   Flags: Precursor;
+GN   Name=pdh1 {ECO:0000303|Ref.1};
+OS   Agaricus bisporus (White button mushroom).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Agaricomycetidae; Agaricales; Agaricaceae; Agaricus.
+OX   NCBI_TaxID=5341;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Sygmund C., Fragner D., Halada P., Volc J., Haltrich D.,
+RA   Peterbauer C.K.;
+RT   "Pyranose dehydrogenase of Agaricus bisporus.";
+RL   Submitted (SEP-2004) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   PROTEIN SEQUENCE OF 26-33, FUNCTION, CATALYTIC ACTIVITY,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, SUBCELLULAR LOCATION, SUBUNIT, AND
+RP   GLYCOSYLATION.
+RC   STRAIN=D649;
+RX   DOI=10.1007/s002530051363;
+RA   Morrison S.C., Wood D.A., Wood P.M.;
+RT   "Characterization of a glucose 3-dehydrogenase from the cultivated
+RT   mushroom (Agaricus bisporus).";
+RL   Appl. Microbiol. Biotechnol. 51:58-64(1999).
+RN   [3]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, COFACTOR,
+RP   SUBSTRATE SPECIFICITY, SUBCELLULAR LOCATION, SUBUNIT, AND
+RP   GLYCOSYLATION.
+RC   STRAIN=Horst U3;
+RX   PubMed=9133318; DOI=10.1007/s002030050424;
+RA   Volc J., Kubatova E., Wood D.A., Daniel G.;
+RT   "Pyranose 2-dehydrogenase, a novel sugar oxidoreductase from the
+RT   basidiomycete fungus Agaricus bisporus.";
+RL   Arch. Microbiol. 167:119-125(1997).
+RN   [4]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RC   STRAIN=CCBAS 306;
+RX   PubMed=11086703; DOI=10.1016/S0008-6215(00)00167-1;
+RA   Volc J., Sedmera P., Halada P., Prikrylova V., Haltrich D.;
+RT   "Double oxidation of D-xylose to D-glycero-pentos-2,3-diulose (2,3-
+RT   diketo-D-xylose) by pyranose dehydrogenase from the mushroom Agaricus
+RT   bisporus.";
+RL   Carbohydr. Res. 329:219-225(2000).
+CC   -!- FUNCTION: Catalyzes the single-oxidation or sequential double
+CC       oxidation reaction of carbohydrates primarily at carbon-2 and/or
+CC       carbon-3 with the concomitant reduction of the flavin. The enzyme
+CC       exhibits a broad sugar substrate specificity, oxidizing different
+CC       aldopyranoses to the corresponding C-1, C-2, C-3 or C-1,2, C-2,3
+CC       and C-3,4 (di)dehydro sugars with substrate-specific
+CC       regioselectivity. Accepts only a narrow range of electron
+CC       acceptors such as substituted benzoquinones and complexed metal
+CC       ions and reacts extremely slowly with O(2) as acceptor. May play a
+CC       role in the natural recycling of plant matter by oxidizing all
+CC       major monosaccharides in lignocellulose and by reducing quinone
+CC       compounds or reactive radical species generated during lignin
+CC       depolymerization. {ECO:0000269|PubMed:11086703,
+CC       ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2}.
+CC   -!- CATALYTIC ACTIVITY: Pyranose + acceptor = pyranos-2-ulose +
+CC       reduced acceptor. {ECO:0000269|PubMed:11086703,
+CC       ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2}.
+CC   -!- CATALYTIC ACTIVITY: Pyranose + acceptor = pyranos-3-ulose +
+CC       reduced acceptor. {ECO:0000269|PubMed:11086703,
+CC       ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2}.
+CC   -!- CATALYTIC ACTIVITY: Pyranose + acceptor = pyranos-2,3-diulose +
+CC       reduced acceptor. {ECO:0000269|PubMed:11086703,
+CC       ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2}.
+CC   -!- CATALYTIC ACTIVITY: A pyranoside + acceptor = a pyranosid-3-ulose
+CC       + reduced acceptor. {ECO:0000269|PubMed:11086703,
+CC       ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2}.
+CC   -!- CATALYTIC ACTIVITY: A pyranoside + acceptor = a pyranosid-3,4-
+CC       diulose + reduced acceptor. {ECO:0000269|PubMed:11086703,
+CC       ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2}.
+CC   -!- COFACTOR:
+CC       Name=FAD; Xref=ChEBI:CHEBI:57692;
+CC         Evidence={ECO:0000269|PubMed:9133318};
+CC       Note=Binds 1 FAD covalently per subunit.
+CC       {ECO:0000269|PubMed:9133318};
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=1.83 mM for D-glucose (with 1,4-benzoquinone as electron
+CC         acceptor) {ECO:0000269|Ref.2};
+CC         KM=2.31 mM for D-cellobiose (with 1,4-benzoquinone as electron
+CC         acceptor) {ECO:0000269|Ref.2};
+CC         KM=13.8 mM for D-maltose (with 1,4-benzoquinone as electron
+CC         acceptor) {ECO:0000269|Ref.2};
+CC         KM=22.4 mM for L-arabinose (with 1,4-benzoquinone as electron
+CC         acceptor) {ECO:0000269|Ref.2};
+CC         KM=28 mM for D-xylose (with 1,4-benzoquinone as electron
+CC         acceptor) {ECO:0000269|Ref.2};
+CC         KM=26.1 mM for D-galactose (with 1,4-benzoquinone as electron
+CC         acceptor) {ECO:0000269|Ref.2};
+CC         KM=12.6 mM for sucrose (with 1,4-benzoquinone as electron
+CC         acceptor) {ECO:0000269|Ref.2};
+CC         KM=1.42 mM for 1,4-benzoquinone (with D-glucose as substrate)
+CC         {ECO:0000269|Ref.2};
+CC         Vmax=0.589 umol/sec/mg enzyme for D-glucose (with 1,4-
+CC         benzoquinone as electron acceptor) {ECO:0000269|Ref.2};
+CC         Vmax=0.563 umol/sec/mg enzyme for D-cellobiose (with 1,4-
+CC         benzoquinone as electron acceptor) {ECO:0000269|Ref.2};
+CC         Vmax=0.612 umol/sec/mg enzyme for D-maltose (with 1,4-
+CC         benzoquinone as electron acceptor) {ECO:0000269|Ref.2};
+CC         Vmax=0.951 umol/sec/mg enzyme for L-arabinose (with 1,4-
+CC         benzoquinone as electron acceptor) {ECO:0000269|Ref.2};
+CC         Vmax=0.797 umol/sec/mg enzyme for D-xylose (with 1,4-
+CC         benzoquinone as electron acceptor) {ECO:0000269|Ref.2};
+CC         Vmax=0.576 umol/sec/mg enzyme for D-galactose (with 1,4-
+CC         benzoquinone as electron acceptor) {ECO:0000269|Ref.2};
+CC         Vmax=0.235 umol/sec/mg enzyme for sucrose (with 1,4-benzoquinone
+CC         as electron acceptor) {ECO:0000269|Ref.2};
+CC       pH dependence:
+CC         Optimum pH is 4.5. the enzyme has a second pH optimum at pH 9.
+CC         {ECO:0000269|Ref.1, ECO:0000269|Ref.2};
+CC   -!- SUBUNIT: Monomer. {ECO:0000269|PubMed:9133318, ECO:0000269|Ref.2}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:9133318,
+CC       ECO:0000269|Ref.2}. Note=Also found intracellularly in fungal
+CC       hyphae. {ECO:0000269|PubMed:9133318}.
+CC   -!- PTM: Glycosylated. {ECO:0000269|PubMed:9133318,
+CC       ECO:0000269|Ref.2}.
+CC   -!- SIMILARITY: Belongs to the GMC oxidoreductase family.
+CC       {ECO:0000305}.
+CC   -!- CAUTION: Has been originally mistaken for cellobiose dehydrogenase
+CC       (CDH) due to low activity with cellobiose. {ECO:0000303|Ref.2}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AY764148; AAW92124.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q3L1D1; -.
+DR   BRENDA; 1.1.99.29; 178.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0050660; F:flavin adenine dinucleotide binding; IEA:InterPro.
+DR   GO; GO:0033718; F:pyranose dehydrogenase (acceptor) activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.50.50.60; -; 3.
+DR   InterPro; IPR023753; FAD/NAD-binding_dom.
+DR   InterPro; IPR012132; GMC_OxRdtase.
+DR   InterPro; IPR000172; GMC_OxRdtase_N.
+DR   InterPro; IPR007867; GMC_OxRtase_C.
+DR   Pfam; PF05199; GMC_oxred_C; 1.
+DR   Pfam; PF00732; GMC_oxred_N; 1.
+DR   PIRSF; PIRSF000137; Alcohol_oxidase; 1.
+DR   SUPFAM; SSF51905; SSF51905; 2.
+PE   1: Evidence at protein level;
+KW   Direct protein sequencing; FAD; Flavoprotein; Glycoprotein;
+KW   Oxidoreductase; Secreted; Signal.
+FT   SIGNAL        1     25       {ECO:0000269|Ref.2}.
+FT   CHAIN        26    594       Pyranose dehydrogenase.
+FT                                /FTId=PRO_0000431292.
+FT   ACT_SITE    529    529       Proton acceptor.
+FT                                {ECO:0000250|UniProtKB:E4QP00}.
+FT   ACT_SITE    573    573       {ECO:0000250|UniProtKB:Q3L245}.
+FT   MOD_RES     126    126       Tele-8alpha-FAD histidine.
+FT                                {ECO:0000250|UniProtKB:Q3L245}.
+FT   CARBOHYD     98     98       N-linked (GlcNAc...).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00498}.
+FT   CARBOHYD    113    113       N-linked (GlcNAc...).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00498}.
+FT   CARBOHYD    198    198       N-linked (GlcNAc...).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00498}.
+FT   CARBOHYD    274    274       N-linked (GlcNAc...).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00498}.
+FT   CARBOHYD    341    341       N-linked (GlcNAc...).
+FT                                {ECO:0000255|PROSITE-ProRule:PRU00498}.
+SQ   SEQUENCE   594 AA;  64527 MW;  0DDD0EF992979A80 CRC64;
+     MIPRVAKFNF RLLSLALLGI QVARSAITYQ NPTDLPGDVD YDFIVAGGGT AGLVVASRLS
+     ENPEWNVLVI EAGPSNKDVF ETRVPGLSSE LRPRFDWNYT TIPQDALGGR SLNYSRAKLL
+     GGCSSHNGMV YTRCSRDDWD NYAEITGNQA FSWDSILPVM KRAEKFSKDS SHKPVKGHID
+     PSVHGGDGKL SVVASYTNAS FNDLLLETAK ELSGEFPFKL DMNDGRPLGL TWTQYTIDQR
+     GERSSSATAY LEGTGNNVHV LVNTLVTRIV SAENGTDFRS VEFATDADSP KIQLRAKKEV
+     IVSGGVINSP QILMNSGIGG REVLGANGID TLVDNPSVGK NLSDQAATII MLDTTLPITD
+     YDVDAALIEW KKSHTGPLAQ GGRLNHLTWV RLPDDKLDGL DPSSGENSPH IEFQFGQISH
+     QLPPSGLTRF SFYRHCSPIP PLINLYTVSR GSISLSNNDP FSHPLIDLNM FGEEIDPAIL
+     REGIRSARRM LSSQAFKGFV GETVFPPSDA TSDEDLDTFL KTSTFSYVHG VGTLSMSPQS
+     ASWGVVNPDF RVKGTSGLRV VDASVIPFAP AGHTQEPVYA FAEHASVLIA KSYS
+//
+ID   A0A0A8IDB7_COPCI        Unreviewed;       726 AA.
+AC   A0A0A8IDB7;
+DT   04-MAR-2015, integrated into UniProtKB/TrEMBL.
+DT   04-MAR-2015, sequence version 1.
+DT   09-DEC-2015, entry version 6.
+DE   SubName: Full=Extracellular PQQ-dependent sugar dehydrogenase {ECO:0000313|EMBL:BAP91034.1};
+GN   Name=CcSDH {ECO:0000313|EMBL:BAP91034.1};
+OS   Coprinopsis cinerea (Inky cap fungus) (Hormographiella aspergillata).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Agaricomycetidae; Agaricales; Psathyrellaceae;
+OC   Coprinopsis.
+OX   NCBI_TaxID=5346 {ECO:0000313|EMBL:BAP91034.1};
+RN   [1] {ECO:0000313|EMBL:BAP91034.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=5338 {ECO:0000313|EMBL:BAP91034.1};
+RX   PubMed=25121592; DOI=10.1371/journal.pone.0104851;
+RA   Matsumura H., Umezawa K., Takeda K., Sugimoto N., Ishida T.,
+RA   Samejima M., Ohno H., Yoshida M., Igarashi K., Nakamura N.;
+RT   "Discovery of a eukaryotic pyrroloquinoline quinone-dependent
+RT   oxidoreductase belonging to a new auxiliary activity family in the
+RT   database of carbohydrate-active enzymes.";
+RL   PLoS ONE 9:e104851-e104851(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB901366; BAP91034.1; -; mRNA.
+DR   eggNOG; COG2133; LUCA.
+DR   eggNOG; ENOG410IKDV; Eukaryota.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 2.120.10.30; -; 1.
+DR   Gene3D; 2.60.40.1210; -; 1.
+DR   InterPro; IPR011042; 6-blade_b-propeller_TolB-like.
+DR   InterPro; IPR015920; Cellobiose_DH_cyt.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR011041; Quinoprot_gluc/sorb_DH.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF16010; CDH-cyt; 1.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF50952; SSF50952; 2.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   2: Evidence at transcript level;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    726       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002037469.
+FT   DOMAIN      688    724       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   726 AA;  78379 MW;  8AB6ED5467464747 CRC64;
+     MRSSSLAWAL GLVALANAQG SPTQWYDSIT GVTFSRFYQQ DTDASWGYIF PSASGGQAPD
+     EFIGLFQGPA SAGWIGNSLG GSMRNNPLLV GWVDGSTPRI SARWATDYAP PSIYSGPRLT
+     ILGSSGTNGN IQRIVYRCQN CTRWTGGAGG IPTTGSAVFG WAFHSTTKPL TPSDPSSGLY
+     RHSHAAQYGF DIGNARTTLY DYYLQQLTNA PPLSGGAPTQ PPTQQPPTTT APPPPPPSST
+     FVSCPGAPQP RYQMNVANGF RVAPVLGGLT MPRGITLDTR GNLLVVERGR GLTGHTLDAN
+     GCVTSSKVVI QDTQINHGID VHPSGRRIIA SSGDIAWSWD YDPATMTATN RRTLVTGMNN
+     FYHFTRTVHI SRKYPNLFAL NVGSDGNIDV PTRQQNSGRA QIRVFDYDQL PQNGVPFVSQ
+     YGRVLGYGLR NDVGITEDRA GNIHSIENSL DNAYRMVNGQ RRDIHTNNPA EKVYNLGDPS
+     NPRAIFGGYP DCYTVWEPSD FTDSPKQPGD WFTQDNSGQY TDAWCNANAV KPTLLLPPHT
+     APLDMKFGLG NDTNLYVALH GSWNRQPPQG YKVVVVPGQY SASGEWSPTA PLAQSRTAWS
+     DLLTNRNENQ CSGFGNANCF RPVGLVWSAD GQNLYVSSDT SGEVFIIKRM SGPIVQPPIT
+     QPPITTSPPT PTTPPVVQPP TTVAPPQASQ TLWGQCGGQG WTGPTLCPAN SVCRESNQWY
+     SQCVPA
+//
+ID   Q2L6F0_FUSOX            Unreviewed;       544 AA.
+AC   Q2L6F0;
+DT   07-MAR-2006, integrated into UniProtKB/TrEMBL.
+DT   07-MAR-2006, sequence version 1.
+DT   09-DEC-2015, entry version 54.
+DE   SubName: Full=Putative uncharacterized protein FCD1 {ECO:0000313|EMBL:BAE79276.1};
+GN   Name=FCD1 {ECO:0000313|EMBL:BAE79276.1};
+OS   Fusarium oxysporum f. sp. lycopersici.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium; Fusarium oxysporum species complex.
+OX   NCBI_TaxID=59765 {ECO:0000313|EMBL:BAE79276.1};
+RN   [1] {ECO:0000313|EMBL:BAE79276.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Kawabe M., Mizutani K., Yoshida T., Teraoka T., Yoneyama K.,
+RA   Yamaguchi I., Arie T.;
+RT   "Cloning of the pathogenicity-related gene FPD1 in Fusarium.";
+RL   J. Gen. Plant Pathol. 70:16-20(2004).
+RN   [2] {ECO:0000313|EMBL:BAE79276.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=16919403; DOI=10.1016/j.gene.2006.06.015;
+RA   Kawabe M., Yoshida T., Teraoka T., Arie T.;
+RT   "FCD1 encoding protein homologous to cellobiose: quinone
+RT   oxidoreductase in Fusarium oxysporum.";
+RL   Gene 382:100-110(2006).
+CC   -!- SIMILARITY: Belongs to the GMC oxidoreductase family.
+CC       {ECO:0000256|RuleBase:RU003968}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB205115; BAE79276.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q2L6F0; -.
+DR   GO; GO:0050660; F:flavin adenine dinucleotide binding; IEA:InterPro.
+DR   GO; GO:0016614; F:oxidoreductase activity, acting on CH-OH group of donors; IEA:InterPro.
+DR   Gene3D; 3.50.50.60; -; 2.
+DR   InterPro; IPR023753; FAD/NAD-binding_dom.
+DR   InterPro; IPR000172; GMC_OxRdtase_N.
+DR   InterPro; IPR007867; GMC_OxRtase_C.
+DR   Pfam; PF05199; GMC_oxred_C; 1.
+DR   Pfam; PF00732; GMC_oxred_N; 1.
+DR   SUPFAM; SSF51905; SSF51905; 2.
+DR   PROSITE; PS00623; GMC_OXRED_1; 1.
+DR   PROSITE; PS00624; GMC_OXRED_2; 1.
+PE   3: Inferred from homology;
+KW   FAD {ECO:0000256|RuleBase:RU003968};
+KW   Flavoprotein {ECO:0000256|RuleBase:RU003968};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    544       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004211828.
+FT   DOMAIN      107    130       GMC_OXRED_1.
+FT                                {ECO:0000259|PROSITE:PS00623}.
+FT   DOMAIN      274    288       GMC_OXRED_2.
+FT                                {ECO:0000259|PROSITE:PS00624}.
+SQ   SEQUENCE   544 AA;  58410 MW;  59C57B8A6E7D12B0 CRC64;
+     MKFATIIGSA LLGFASAGNT TTRKTTYDYI VAGAGASGLI VAERLASAGH KVLLVERGGP
+     SFYSTGNRDD LMKWNKTVTA YDVPGMAYYT DISPTIQWCT DIAASAGCLL GGSTMLNALM
+     FVKPRAADFE GWPRGWQWED GVSDAAKSVF ERMPGSILPS ADGKRYDDGA FEVMSKFLES
+     NGWDEVNALE NVEAKDKIFT HPPWLISNGL RGGPVRDILP AAQALDNFSL QLHAKVIRAV
+     RKGPIITGIE VEHDDGSREI IKLSKGGSVV LSSGTHSTPR ILFNSGIGPK KQIRIVQSGS
+     TNVKLPPASQ WIDLPVGQRL KDHPIVVVDF QTKNKLQALP REAFTEPNDE TVELFAEGSG
+     LLSQSAQRLN FWKSVEGNDG VTRYVQGTVN APENNTISAK VYLTHGLTSH GTLEITPGGN
+     TNITQKPFLN TEGDRDALKT FVAELLSYAR KPGSVLSVPN NVTADTILEV SYSGNHHLGS
+     ANMGAKNDGK SVVGPDTRVW GTKNLFVVDG SMHPEVPTGN TQASIMVAAA HAANKILAVS
+     SKRH
+//

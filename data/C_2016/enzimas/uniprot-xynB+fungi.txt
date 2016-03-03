@@ -1,0 +1,2585 @@
+ID   XYNB_ASPNG              Reviewed;         225 AA.
+AC   P55330; B1A5N7; C0LVA6; C6F1T2; Q12557; Q8TG22;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-1996, sequence version 1.
+DT   09-DEC-2015, entry version 83.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   AltName: Full=Endo-1,4-beta-xylanase II;
+DE            Short=Xylanase II;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xyn2, xynB, xynG1;
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=IFO 4066 / RIB 1061;
+RA   Ito K.;
+RL   Submitted (SEP-1994) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Gu S., Sun J., Xu Z., Li W., Zhao H.;
+RL   Submitted (MAR-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Zhu L., Liu W., Dong Z., Yu W.;
+RT   "High-level expression of xylanase B of Aspergillus niger in Pichia
+RT   pastoris.";
+RL   Submitted (JUN-2002) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, BIOPHYSICOCHEMICAL
+RP   PROPERTIES, AND ENZYME REGULATION.
+RX   DOI=10.1016/j.enzmictec.2006.02.014;
+RA   Deng P., Li D., Cao Y., Lu W., Wang C.;
+RT   "Cloning of a gene encoding an acidophilic endo-beta-1,4-xylanase
+RT   obtained from Aspergillus niger CGMCC1067 and constitutive expression
+RT   in Pichia pastoris.";
+RL   Enzyme Microb. Technol. 39:1096-1102(2006).
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [MRNA], FUNCTION, AND BIOPHYSICOCHEMICAL
+RP   PROPERTIES.
+RC   STRAIN=IBT-90;
+RX   DOI=10.1016/j.enzmictec.2005.12.003;
+RA   Korona B., Korona D., Bielecki S.;
+RT   "Efficient expression and secretion of two co-produced xylanases from
+RT   Aspergillus niger in Pichia pastoris directed by their native signal
+RT   peptides and the Saccharomyces cerevisiae a-mating factor.";
+RL   Enzyme Microb. Technol. 39:683-689(2006).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RA   Su Y., Bai J., Chen G.;
+RT   "Isolation and identification of xynB from Aspergillus niger.";
+RL   Submitted (JAN-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=F19;
+RA   Cui L., Zhang Z., Zhu M., Wang C.;
+RT   "Cloning, expression and characterization of the xylanase B from
+RT   Aspergillus niger F19 in Escherichia coli.";
+RL   Submitted (JAN-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=DMS1957;
+RA   Nguyen S.L.T., Quyen D.T.;
+RT   "Gene cloning, sequencing, expression and characterization of a
+RT   xylanase gene from Aspergillus niger DMS1957.";
+RL   Submitted (JUN-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=SCTCC 400264;
+RA   Yi X., Qiao D., Cao Y.;
+RT   "Expression of Xylanase Gene xynB from Aspergillus niger in
+RT   Escherichia coli and Characterization of Its Recombinant Xylanase.";
+RL   Submitted (FEB-2009) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250,
+CC       ECO:0000269|Ref.4, ECO:0000269|Ref.5}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- ENZYME REGULATION: Metal ions, copper, iron and N-bromosuccinimide
+CC       decrease enzyme activity. Manganese, calcium, L-tryptophan, beta-
+CC       mercaptoethanol, L-cysteine and dithiodipyridine stimulate the
+CC       enzyme activity. {ECO:0000269|Ref.4}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 5.0. Retains about 76 percent of its activity
+CC         after being incubated at pH 2.0 for 30 min at 37 degrees
+CC         Celsius. {ECO:0000269|Ref.4, ECO:0000269|Ref.5};
+CC       Temperature dependence:
+CC         Optimum temperature is 50 degrees Celsius. Displays about 95
+CC         percent of peak activity in the temperature range from 37 to 41
+CC         degrees Celsius. {ECO:0000269|Ref.4, ECO:0000269|Ref.5};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D38071; BAA07265.1; -; Genomic_DNA.
+DR   EMBL; AF490982; AAM08362.1; -; mRNA.
+DR   EMBL; AY126481; AAM95167.1; -; Genomic_DNA.
+DR   EMBL; DQ174549; ABA00146.1; -; Genomic_DNA.
+DR   EMBL; AY536639; AAS46914.1; -; mRNA.
+DR   EMBL; EU423881; ACA24724.1; -; Genomic_DNA.
+DR   EMBL; EU430370; ACA51680.1; -; mRNA.
+DR   EMBL; EU848305; ACJ26382.1; -; mRNA.
+DR   EMBL; FJ772090; ACN89393.1; -; mRNA.
+DR   ProteinModelPortal; P55330; -.
+DR   SMR; P55330; 39-224.
+DR   STRING; 5061.CADANGAP00000070; -.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   PaxDb; P55330; -.
+DR   eggNOG; ENOG410IHTC; Eukaryota.
+DR   eggNOG; ENOG410YH6C; LUCA.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IDA:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; IDA:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Xylan degradation.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   PROPEP       19     37
+FT                                /FTId=PRO_0000007993.
+FT   CHAIN        38    225       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000007994.
+FT   DOMAIN       37    225       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    121    121       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    212    212       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+FT   CONFLICT     16     16       A -> V (in Ref. 2; AAM08362, 3; AAM95167,
+FT                                4; ABA00146, 5; AAS46914 and 7;
+FT                                ACA51680). {ECO:0000305}.
+FT   CONFLICT     25     26       AQ -> VE (in Ref. 2; AAM08362, 3;
+FT                                AAM95167, 4; ABA00146, 5; AAS46914 and 7;
+FT                                ACA51680). {ECO:0000305}.
+FT   CONFLICT     33     33       M -> K (in Ref. 2; AAM08362, 3; AAM95167,
+FT                                4; ABA00146, 5; AAS46914 and 7;
+FT                                ACA51680). {ECO:0000305}.
+FT   CONFLICT     70     70       A -> S (in Ref. 2; AAM08362, 3; AAM95167,
+FT                                4; ABA00146, 5; AAS46914 and 7;
+FT                                ACA51680). {ECO:0000305}.
+FT   CONFLICT     76     76       S -> P (in Ref. 8; ACJ26382).
+FT                                {ECO:0000305}.
+FT   CONFLICT    130    130       D -> V (in Ref. 6; ACA24724).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   225 AA;  24057 MW;  C4B8BB007AB2B8FD CRC64;
+     MLTKNLLLCF AAAKAALAVP HDSVAQRSDA LHMLSERSTP SSTGENNGFY YSFWTDGGGD
+     VTYTNGDAGA YTVEWSNVGN FVGGKGWNPG SAQDITYSGT FTPSGNGYLS VYGWTTDPLI
+     EYYIVESYGD YNPGSGGTYK GTVTSDGSVY DIYTATRTNA ASIQGTATFT QYWSVRQNKR
+     VGGTVTTSNH FNAWAKLGMN LGTHNYQIVA TEGYQSSGSS SITVQ
+//
+ID   XYNB_TALFU              Reviewed;         282 AA.
+AC   Q8J0K5;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAR-2003, sequence version 1.
+DT   20-JAN-2016, entry version 56.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   Flags: Precursor;
+GN   Name=xynB;
+OS   Talaromyces funiculosus (Fruitlet core rot fungus) (Penicillium
+OS   funiculosum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=28572;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND PROTEIN SEQUENCE OF 40-49;
+RP   135-153 AND 162-170.
+RC   STRAIN=IMI 134756;
+RX   PubMed=12664153; DOI=10.1007/s00253-002-1184-4;
+RA   Alcocer M.J., Furniss C.S.M., Kroon P.A., Campbell M., Archer D.B.;
+RT   "Comparison of modular and non-modular xylanases as carrier proteins
+RT   for the efficient secretion of heterologous proteins from Penicillium
+RT   funiculosum.";
+RL   Appl. Microbiol. Biotechnol. 60:726-732(2003).
+RN   [2]
+RP   CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND ENZYME
+RP   REGULATION.
+RX   PubMed=15450181; DOI=10.1016/j.bbapap.2004.06.010;
+RA   Brutus A., Villard C., Durand A., Tahir T., Furniss C., Puigserver A.,
+RA   Juge N., Giardina T.;
+RT   "The inhibition specificity of recombinant Penicillium funiculosum
+RT   xylanase B towards wheat proteinaceous inhibitors.";
+RL   Biochim. Biophys. Acta 1701:121-128(2004).
+RN   [3]
+RP   CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND ENZYME
+RP   REGULATION.
+RC   STRAIN=IMI 134756;
+RX   AGRICOLA=IND43674834;
+RA   Furniss C.S.M., Williamson G., Kroon P.A.;
+RT   "The substrate specificity and susceptibility to wheat inhibitor
+RT   proteins of Penicillium funiculosum xylanases from a commercial enzyme
+RT   preparation.";
+RL   J. Sci. Food Agric. 85:574-582(2005).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:15450181,
+CC       ECO:0000269|Ref.3}.
+CC   -!- ENZYME REGULATION: Significantly inhibited by the wheat xylanase
+CC       inhibiting protein I (XIP-I) and the proteinaceous endoxylanase
+CC       Triticum aestivum xylanase inhibitors I (TAXI-I), but not TAXI-II.
+CC       {ECO:0000269|PubMed:15450181, ECO:0000269|Ref.3}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=22 mg/ml for birchwood xylan {ECO:0000269|PubMed:15450181,
+CC         ECO:0000269|Ref.3};
+CC         KM=29 mg/ml for insoluble fractions of wheat arabinoxylans
+CC         {ECO:0000269|PubMed:15450181, ECO:0000269|Ref.3};
+CC         Vmax=506 umol/min/mg enzyme toward birchwood xylan
+CC         {ECO:0000269|PubMed:15450181, ECO:0000269|Ref.3};
+CC         Vmax=1080 umol/min/mg enzyme toward insoluble fractions of wheat
+CC         arabinoxylans {ECO:0000269|PubMed:15450181, ECO:0000269|Ref.3};
+CC       pH dependence:
+CC         Optimum pH is 3.7-4.7 for birchwood xylan.
+CC         {ECO:0000269|PubMed:15450181, ECO:0000269|Ref.3};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ489605; CAD33900.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q8J0K5; -.
+DR   SMR; Q8J0K5; 42-219, 248-282.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   mycoCLAP; XYN11B_PENFN; -.
+DR   BRENDA; 3.2.1.8; 4616.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Direct protein sequencing; Glycoprotein;
+KW   Glycosidase; Hydrolase; Polysaccharide degradation; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     39       {ECO:0000269|PubMed:12664153}.
+FT   CHAIN        40    282       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_5000068593.
+FT   DOMAIN       40    219       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   DOMAIN      246    282       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   COMPBIAS    227    232       Poly-Thr.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    206    206       Proton donor. {ECO:0000250}.
+FT   CARBOHYD     33     33       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   282 AA;  29475 MW;  1ABD021D46A8F614 CRC64;
+     MGISSILLSA LIAGGALALP AAEPVSFDIR DENITLARRA EAINYNQDYI ASGANVQYSP
+     NMAAGSFSIN YNTQGDFVVG LGWQPGDANP ITYSGSFSAS GVGILAVYGW STNPLVEYYV
+     MEVHDGYQTA GTHKGTVTTD GGTYDIWEHQ QVNQPSILGT STFNQYISIR QSPRTSGTVT
+     VQNHFNAWAQ AGMNLGTLNY QVMAVESWSG SGSGQISLSK GTGGGSTTTT PTGPTSTSTA
+     PSSGGTGAAQ WGQCGGIGWT GPTTCVAPYT CKYENAYYSQ CQ
+//
+ID   XYNB_PENOX              Reviewed;         310 AA.
+AC   E7EF85;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   08-MAR-2011, sequence version 1.
+DT   16-SEP-2015, entry version 17.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   Flags: Precursor;
+GN   Name=xynB;
+OS   Penicillium oxalicum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Penicillium.
+OX   NCBI_TaxID=69781;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], SUBCELLULAR LOCATION, FUNCTION,
+RP   CATALYTIC ACTIVITY, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=B3-11-2;
+RX   PubMed=23412069; DOI=10.4014/jmb.1208.08030;
+RA   Wang J., Mai G., Liu G., Yu S.;
+RT   "Molecular cloning and heterologous expression of an acid-stable
+RT   endoxylanase gene from Penicillium oxalicum in Trichoderma reesei.";
+RL   J. Microbiol. Biotechnol. 23:251-259(2013).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=GZ-2;
+RA   Liao H., Xu C., Tan S., Shen Q., Xu Y.;
+RL   Submitted (JUN-2013) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   INDUCTION.
+RX   PubMed=22940308; DOI=10.1016/j.biortech.2012.07.051;
+RA   Liao H., Xu C., Tan S., Wei Z., Ling N., Yu G., Raza W., Zhang R.,
+RA   Shen Q., Xu Y.;
+RT   "Production and characterization of acidophilic xylanolytic enzymes
+RT   from Penicillium oxalicum GZ-2.";
+RL   Bioresour. Technol. 123:117-124(2012).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Hydrolyzes birchwood xylan,
+CC       beechwood xylan, and oat spelt xylan to produce short-chain
+CC       xylooligosaccharides, xylopentaose, xylotriose, and xylobiose as
+CC       the main products. {ECO:0000269|PubMed:22940308,
+CC       ECO:0000269|PubMed:23412069}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:22940308,
+CC       ECO:0000269|PubMed:23412069}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=5 mg/ml for birchwood xylan {ECO:0000269|PubMed:22940308,
+CC         ECO:0000269|PubMed:23412069};
+CC         KM=4.6 mg/ml for beechwood xylan {ECO:0000269|PubMed:22940308,
+CC         ECO:0000269|PubMed:23412069};
+CC         KM=11.3 mg/ml for oat spelt xylan {ECO:0000269|PubMed:22940308,
+CC         ECO:0000269|PubMed:23412069};
+CC         Vmax=2 umol/min/mg enzyme toward birchwood xylan
+CC         {ECO:0000269|PubMed:22940308, ECO:0000269|PubMed:23412069};
+CC         Vmax=2 umol/min/mg enzyme toward beechwood xylan
+CC         {ECO:0000269|PubMed:22940308, ECO:0000269|PubMed:23412069};
+CC         Vmax=2.5 umol/min/mg enzyme toward oat spelt xylan
+CC         {ECO:0000269|PubMed:22940308, ECO:0000269|PubMed:23412069};
+CC       pH dependence:
+CC         Optimum pH is 5.0. {ECO:0000269|PubMed:22940308,
+CC         ECO:0000269|PubMed:23412069};
+CC       Temperature dependence:
+CC         Optimum temperature is 50 degrees Celsius.
+CC         {ECO:0000269|PubMed:22940308, ECO:0000269|PubMed:23412069};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:23412069}.
+CC   -!- INDUCTION: Induced by soluble xylo-oligosaccharides, with
+CC       beechwood xylan being the best inducer.
+CC       {ECO:0000269|PubMed:22940308}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HQ680966; ADV31286.1; -; Genomic_DNA.
+DR   EMBL; KF233758; AGW24301.1; -; mRNA.
+DR   mycoCLAP; XYN11A_PENOX; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    310       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000429615.
+FT   DOMAIN       33    223       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   DOMAIN      275    310       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   COMPBIAS    214    272       Ser-rich.
+FT   ACT_SITE    119    119       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    210    210       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+SQ   SEQUENCE   310 AA;  31282 MW;  0EE37FBE5422BF73 CRC64;
+     MISLSSVAIA LTTVVGALAL PSDQSVNLAA RQAITSSQTG TNNGYYYSFW TNGAGSVSYS
+     NGAAGQFSVN WANQGGGDFT CGKGWNPGKA QDISFSGTFT PNGNAYLSIY GWTTGPLVEY
+     YILENFGSYN PGNGMTHVGT LTSDGSDYDI YKHTQVNQPS IVGTSTFDQY WSIRKNKRSS
+     GTVTTANHFS AWASHGMNLG SHNYQILSVE GYQSSGSASM TVSAGSSSSG GSGSGSGSGS
+     GSGSGSGSQT TTAGSSTGTG TGSGSGSGSG GSGGNCAAQW GQCGGQGWNG PTCCSSGTCK
+     ASNQWYSQCL
+//
+ID   XYNB_TALPU              Reviewed;         208 AA.
+AC   Q96W72; Q12666;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   01-DEC-2001, sequence version 1.
+DT   17-FEB-2016, entry version 71.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   Flags: Precursor;
+GN   Name=xynB;
+OS   Talaromyces purpureogenus (Soft rot fungus) (Penicillium
+OS   purpureogenum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=1266744;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=9099888; DOI=10.1016/S0378-1119(96)00762-7;
+RA   Diaz R., Sapag A., Peirano A., Steiner J., Eyzaguirre J.;
+RT   "Cloning, sequencing and expression of the cDNA of endoxylanase B from
+RT   Penicillium purpurogenum.";
+RL   Gene 187:247-251(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], SUBCELLULAR LOCATION, CATALYTIC
+RP   ACTIVITY, AND INDUCTION.
+RX   PubMed=12137954; DOI=10.1016/S0378-1119(02)00720-5;
+RA   Chavez R., Schachter K., Navarro C., Peirano A., Aguirre C., Bull P.,
+RA   Eyzaguirre J.;
+RT   "Differences in expression of two endoxylanase genes (xynA and xynB)
+RT   from Penicillium purpurogenum.";
+RL   Gene 293:161-168(2002).
+RN   [3]
+RP   SUNCELLULAR LOCATION, FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL
+RP   PROPERTIES, AND ENZYME REGULATION.
+RX   PubMed=7640003; DOI=10.1016/0168-1656(95)00057-W;
+RA   Belancic A., Scarpa J., Peirano A., Diaz R., Steiner J.,
+RA   Eyzaguirre J.;
+RT   "Penicillium purpurogenum produces several xylanases: purification and
+RT   properties of two of the enzymes.";
+RL   J. Biotechnol. 41:71-79(1995).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000269|PubMed:7640003}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:12137954,
+CC       ECO:0000269|PubMed:7640003}.
+CC   -!- ENZYME REGULATION: N-bromosuccinimide completely inhibits the
+CC       catalytic activity. {ECO:0000269|PubMed:7640003}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       pH dependence:
+CC         Optimum pH is 3.5. {ECO:0000269|PubMed:7640003};
+CC       Temperature dependence:
+CC         Optimum temperature is 50 degrees Celsius.
+CC         {ECO:0000269|PubMed:7640003};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:12137954}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z50050; CAA90390.1; -; mRNA.
+DR   EMBL; AF359553; AAK50762.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q96W72; -.
+DR   SMR; Q96W72; 27-207.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   mycoCLAP; XYN11B_PENPU; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Xylan degradation.
+FT   SIGNAL        1     16       {ECO:0000255}.
+FT   CHAIN        17    208       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000429662.
+FT   DOMAIN       17    207       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    101    101       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    194    194       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+FT   CONFLICT     13     19       TTLAAPA -> RHSPPLS (in Ref. 1; CAA90390).
+FT                                {ECO:0000305}.
+FT   CONFLICT    103    103       H -> Y (in Ref. 1; CAA90390).
+FT                                {ECO:0000305}.
+FT   CONFLICT    178    179       KH -> ND (in Ref. 1; CAA90390).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   208 AA;  21869 MW;  6DC554A2CA97C6D3 CRC64;
+     MKVTAAFAGL LATTLAAPAT ELVTRSINYV QNYNGNLGAF SYNEGAGTFS MYWQQGVSND
+     FVVGLGRSTG SSNPITYSAS YSASGGSYLA VYGWVNSPQA EYHVVEAYGN YNPCSSGSAT
+     NLGTVSSDGG TYQVCTDTRV NQPSITGTST FTQFFSVRQG SRTSGTVTIA NHFNFWAKHG
+     FGNSNFNYQV VAVEAWSGTG TASVTVSA
+//
+ID   XYNB_NEOPA              Reviewed;         860 AA.
+AC   Q02290;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   01-NOV-1996, sequence version 1.
+DT   14-OCT-2015, entry version 71.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   Flags: Precursor;
+GN   Name=xynB;
+OS   Neocallimastix patriciarum (Rumen fungus).
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Neocallimastix.
+OX   NCBI_TaxID=4758;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=8172598;
+RA   Black G.W., Hazlewood G.P., Xue G.P., Orpin C.G., Gilbert H.J.;
+RT   "Xylanase B from Neocallimastix patriciarum contains a non-catalytic
+RT   455-residue linker sequence comprised of 57 repeats of an
+RT   octapeptide.";
+RL   Biochem. J. 299:381-387(1994).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Hydrolyzes both unsubstituted
+CC       (oat spelts) and highly substituted (rye and wheat) forms of
+CC       arabinoxylanslans.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 10 (cellulase F)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -!- SIMILARITY: Contains 1 GH10 (glycosyl hydrolase family 10) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01096}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; S71569; AAB30669.1; -; mRNA.
+DR   PIR; S43846; S43846.
+DR   ProteinModelPortal; Q02290; -.
+DR   SMR; Q02290; 826-860.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH10; Glycoside Hydrolase Family 10.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR001000; Glyco_hydro_10.
+DR   InterPro; IPR031158; Glyco_hydro_10_AS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00331; Glyco_hydro_10; 1.
+DR   PRINTS; PR00134; GLHYDRLASE10.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SMART; SM00633; Glyco_10; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS00591; GH10_1; 1.
+DR   PROSITE; PS51760; GH10_2; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism; Disulfide bond; Glycoprotein; Glycosidase;
+KW   Hydrolase; Polysaccharide degradation; Repeat; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     20       {ECO:0000255}.
+FT   CHAIN        21    860       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000429666.
+FT   DOMAIN       21    324       GH10. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01096}.
+FT   REPEAT      375    382       1.
+FT   REPEAT      391    398       2.
+FT   REPEAT      415    422       3.
+FT   REPEAT      431    438       4.
+FT   REPEAT      439    446       5.
+FT   REPEAT      447    454       6.
+FT   REPEAT      455    462       7.
+FT   REPEAT      463    470       8.
+FT   REPEAT      471    478       9.
+FT   REPEAT      479    486       10.
+FT   REPEAT      487    494       11.
+FT   REPEAT      495    502       12.
+FT   REPEAT      503    510       13.
+FT   REPEAT      511    518       14.
+FT   REPEAT      519    526       15.
+FT   REPEAT      527    534       16.
+FT   REPEAT      535    542       17.
+FT   REPEAT      543    550       18.
+FT   REPEAT      551    558       19.
+FT   REPEAT      559    566       20.
+FT   REPEAT      567    574       21.
+FT   REPEAT      575    582       22.
+FT   REPEAT      583    590       23.
+FT   REPEAT      591    598       24.
+FT   REPEAT      599    606       25.
+FT   REPEAT      607    614       26.
+FT   REPEAT      615    622       27.
+FT   REPEAT      623    630       28.
+FT   REPEAT      631    638       29.
+FT   REPEAT      639    646       30.
+FT   REPEAT      647    654       31.
+FT   REPEAT      655    662       32.
+FT   REPEAT      663    670       33.
+FT   REPEAT      671    678       34.
+FT   REPEAT      679    686       35.
+FT   REPEAT      687    694       36.
+FT   REPEAT      695    702       37.
+FT   REPEAT      703    710       38.
+FT   REPEAT      711    718       39.
+FT   REPEAT      719    726       40.
+FT   REPEAT      727    734       41.
+FT   REPEAT      735    742       42.
+FT   REPEAT      743    750       43.
+FT   REPEAT      751    758       44.
+FT   REPEAT      759    766       45.
+FT   REPEAT      767    774       46.
+FT   REPEAT      775    782       47.
+FT   DOMAIN      824    860       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION      375    782       47 X 8 AA tandem repeats of [SKN]-S-K-T-
+FT                                L-P-G-G.
+FT   ACT_SITE    144    144       Proton donor. {ECO:0000250}.
+FT   ACT_SITE    255    255       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10061}.
+FT   CARBOHYD    295    295       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    309    309       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    359    359       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    374    374       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    390    390       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    406    406       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    845    845       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    278    284       {ECO:0000250}.
+SQ   SEQUENCE   860 AA;  88052 MW;  677F9032F0A87085 CRC64;
+     MKFSSANKIL FSGLVASANA YDLLKDYAGD LKIGVAANAM RFSNSNYVNA MKAFNMMVAE
+     NDCKLSGIQQ QKGVYNFNGC DNHYNKAKEL GMEFRGHCLI WHSYQPSWFQ NADANTLKNA
+     IVDHITKTLQ HYEGKIKVWD VVNEAIDDNS NGNGWNMRRS FLYNKVPNFV DLAFQTARKV
+     SPNTKLFYND YNAEGVYAKA ESIYNFVSDL KKRNIPIDGV GLQYHVGAKE QPSYNKINDL
+     IGRYCKLGLE VHITELDVKL QGDQNGQSQA FSNALKACLA NSCCKAFLVW GVGDNDSWLG
+     ANEQALLFNG SYQPKPVYNT LLNILKTSAR PASSSAKTLP GNSKSKTLPG VNSKTLPGNK
+     SKTLPGASKT LPGNKSKTLP GGNSNTLPGN KSKTLPGGNS KTLPGNKSRT LPGGNSKTLP
+     GGKSRTLPGG NSKTLPGGKS KTLPGGNSKT LPGGKSKTLP GGNSKTLPGG SSKTLPGGKS
+     KTLPGGNSKT LPGGSSKTLP GGKSKTLPGG SSKTLPGGKS KTLPGGNSKT LPGGNSKTLP
+     GGSSKTLPGG KSKTLPGGNS KTLPGGSSKT LPGGKSKTLP GGNSKTLPGG NSKTLPGGKS
+     KTLPGGNSKT LPGGSSKTLP GGKSKTLPGG SSKTLPGGKS KTLPGGNSKT LPGGNSKTLP
+     GGSSKTLPGG KSKTLPGGSS KTLPGGKSKT LPGGNSKTLP GGKSKTLPGG NSKTLPGGKS
+     KTLPGGNSKT LPGGKSKTLP GGNSKTLPGG SSKTLPGGKS KTLPGGNSKT LPGGKSKTLP
+     GGNTKTLPGG ACKPTTVTVT QKVTVTVTVE SQPTQGGMNQ GGGNCAAKWG QCGGNGFNGP
+     TCCQNGSRCQ FVNEWYSQCL
+//
+ID   XYNB_EMENI              Reviewed;         221 AA.
+AC   P55333; C8VR70; Q00176; Q5AQR5;
+DT   01-OCT-1996, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2007, sequence version 2.
+DT   11-NOV-2015, entry version 100.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=24 kDa xylanase;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   AltName: Full=Xylanase X24;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=AN9365;
+OS   Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL
+OS   194 / M139) (Aspergillus nidulans).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=227321;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND SUBCELLULAR LOCATION.
+RX   PubMed=8787417;
+RA   Perez-Gonzalez J.A., de Graaff L.H., Visser J., Ramon D.;
+RT   "Molecular cloning and expression in Saccharomyces cerevisiae of two
+RT   Aspergillus nidulans xylanase genes.";
+RL   Appl. Environ. Microbiol. 62:2179-2182(1996).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=16372000; DOI=10.1038/nature04341;
+RA   Galagan J.E., Calvo S.E., Cuomo C., Ma L.-J., Wortman J.R.,
+RA   Batzoglou S., Lee S.-I., Bastuerkmen M., Spevak C.C., Clutterbuck J.,
+RA   Kapitonov V., Jurka J., Scazzocchio C., Farman M.L., Butler J.,
+RA   Purcell S., Harris S., Braus G.H., Draht O., Busch S., D'Enfert C.,
+RA   Bouchier C., Goldman G.H., Bell-Pedersen D., Griffiths-Jones S.,
+RA   Doonan J.H., Yu J., Vienken K., Pain A., Freitag M., Selker E.U.,
+RA   Archer D.B., Penalva M.A., Oakley B.R., Momany M., Tanaka T.,
+RA   Kumagai T., Asai K., Machida M., Nierman W.C., Denning D.W.,
+RA   Caddick M.X., Hynes M., Paoletti M., Fischer R., Miller B.L.,
+RA   Dyer P.S., Sachs M.S., Osmani S.A., Birren B.W.;
+RT   "Sequencing of Aspergillus nidulans and comparative analysis with A.
+RT   fumigatus and A. oryzae.";
+RL   Nature 438:1105-1115(2005).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=19146970; DOI=10.1016/j.fgb.2008.12.003;
+RA   Wortman J.R., Gilsenan J.M., Joardar V., Deegan J., Clutterbuck J.,
+RA   Andersen M.R., Archer D., Bencina M., Braus G., Coutinho P.,
+RA   von Dohren H., Doonan J., Driessen A.J., Durek P., Espeso E.,
+RA   Fekete E., Flipphi M., Estrada C.G., Geysens S., Goldman G.,
+RA   de Groot P.W., Hansen K., Harris S.D., Heinekamp T., Helmstaedt K.,
+RA   Henrissat B., Hofmann G., Homan T., Horio T., Horiuchi H., James S.,
+RA   Jones M., Karaffa L., Karanyi Z., Kato M., Keller N., Kelly D.E.,
+RA   Kiel J.A., Kim J.M., van der Klei I.J., Klis F.M., Kovalchuk A.,
+RA   Krasevec N., Kubicek C.P., Liu B., Maccabe A., Meyer V., Mirabito P.,
+RA   Miskei M., Mos M., Mullins J., Nelson D.R., Nielsen J., Oakley B.R.,
+RA   Osmani S.A., Pakula T., Paszewski A., Paulsen I., Pilsyk S., Pocsi I.,
+RA   Punt P.J., Ram A.F., Ren Q., Robellet X., Robson G., Seiboth B.,
+RA   van Solingen P., Specht T., Sun J., Taheri-Talesh N., Takeshita N.,
+RA   Ussery D., vanKuyk P.A., Visser H., van de Vondervoort P.J.,
+RA   de Vries R.P., Walton J., Xiang X., Xiong Y., Zeng A.P., Brandt B.W.,
+RA   Cornell M.J., van den Hondel C.A., Visser J., Oliver S.G., Turner G.;
+RT   "The 2008 update of the Aspergillus nidulans genome annotation: a
+RT   community effort.";
+RL   Fungal Genet. Biol. 46:S2-13(2009).
+RN   [4]
+RP   INDUCTION.
+RX   PubMed=9495775;
+RA   MacCabe A.P., Orejas M., Perez-Gonzalez J.A., Ramon D.;
+RT   "Opposite patterns of expression of two Aspergillus nidulans xylanase
+RT   genes with respect to ambient pH.";
+RL   J. Bacteriol. 180:1331-1333(1998).
+RN   [5]
+RP   INDUCTION.
+RX   PubMed=11160081; DOI=10.1128/JB.183.5.1517-1523.2001;
+RA   Orejas M., MacCabe A.P., Perez-Gonzalez J.A., Kumar S., Ramon D.;
+RT   "The wide-domain carbon catabolite repressor CreA indirectly controls
+RT   expression of the Aspergillus nidulans xlnB gene, encoding the acidic
+RT   endo-beta-(1,4)-xylanase X(24).";
+RL   J. Bacteriol. 183:1517-1523(2001).
+RN   [6]
+RP   INDUCTION.
+RX   PubMed=18420433; DOI=10.1016/j.fgb.2008.03.002;
+RA   Tamayo E.N., Villanueva A., Hasper A.A., de Graaff L.H., Ramon D.,
+RA   Orejas M.;
+RT   "CreA mediates repression of the regulatory gene xlnR which controls
+RT   the production of xylanolytic enzymes in Aspergillus nidulans.";
+RL   Fungal Genet. Biol. 45:984-993(2008).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000269|PubMed:8787417}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:8787417}.
+CC   -!- INDUCTION: Expressed in the presence of D-xylose under conditions
+CC       of acidic ambient pH, probably under the regulation of the pacC
+CC       transcription factor. Repressed in presence of glucose through the
+CC       action of the creA transcription repressor.
+CC       {ECO:0000269|PubMed:11160081, ECO:0000269|PubMed:18420433,
+CC       ECO:0000269|PubMed:9495775}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z49893; CAA90074.1; -; Genomic_DNA.
+DR   EMBL; AACD01000172; EAA66432.1; -; Genomic_DNA.
+DR   EMBL; BN001308; CBF87481.1; -; Genomic_DNA.
+DR   PIR; S57469; S57469.
+DR   RefSeq; XP_682634.1; XM_677542.1.
+DR   ProteinModelPortal; P55333; -.
+DR   SMR; P55333; 39-221.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   EnsemblFungi; CADANIAT00001152; CADANIAP00001152; CADANIAG00001152.
+DR   EnsemblFungi; EAA66432; EAA66432; AN9365.2.
+DR   GeneID; 2867930; -.
+DR   KEGG; ani:AN9365.2; -.
+DR   HOGENOM; HOG000179135; -.
+DR   InParanoid; P55333; -.
+DR   KO; K01181; -.
+DR   OMA; SEGYHNG; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000000560; Chromosome VIII.
+DR   Proteomes; UP000005890; Partially assembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   CHAIN        19    221       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000008005.
+FT   DOMAIN       33    221       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    208    208       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+FT   CONFLICT     73     73       N -> K (in Ref. 1; CAA90074).
+FT                                {ECO:0000305}.
+FT   CONFLICT     98     98       N -> I (in Ref. 1; CAA90074).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   221 AA;  23504 MW;  B762F0BB4B3F77C3 CRC64;
+     MVSFSSLLLA CSAVTAFAAP SDQSIAERSL SERSTPSSTG TSGGYYYSFW TDGGGDVTYT
+     NGDGGSYTVE WTNVGNFVGG KGWNPGSSQT ISYSGSFNPS GNGYLSVYGW TQNPLIEYYI
+     VESYGDYNPG TAGTHQGTLE SDGSTYDIYT ATRENAPSIE GTATFTQFWS VRQSKRTSGS
+     VTTQNHFDAW SQLGMTLGTH NYQIVAVEGY QSSGSASITV S
+//
+ID   XY11A_BOTFB             Reviewed;         226 AA.
+AC   B3VSG7;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   02-SEP-2008, sequence version 1.
+DT   16-SEP-2015, entry version 26.
+DE   RecName: Full=Endo-1,4-beta-xylanase 11A;
+DE            Short=Xylanase 11A;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase 11A;
+DE   Flags: Precursor;
+GN   Name=xyn11A; Synonyms=xynB;
+OS   Botryotinia fuckeliana (strain B05.10) (Noble rot fungus) (Botrytis
+OS   cinerea).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Leotiomycetes;
+OC   Helotiales; Sclerotiniaceae; Botrytis.
+OX   NCBI_TaxID=332648;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA], PROTEIN SEQUENCE OF 37-43, SUBCELLULAR
+RP   LOCATION, IDENTIFICATION BY MASS SPECTROMETRY, INDUCTION, FUNCTION,
+RP   CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND ENZYME
+RP   REGULATION.
+RX   PubMed=16185656; DOI=10.1016/j.bbrc.2005.09.030;
+RA   Brutus A., Reca I.B., Herga S., Mattei B., Puigserver A., Chaix J.C.,
+RA   Juge N., Bellincampi D., Giardina T.;
+RT   "A family 11 xylanase from the pathogen Botrytis cinerea is inhibited
+RT   by plant endoxylanase inhibitors XIP-I and TAXI-I.";
+RL   Biochem. Biophys. Res. Commun. 337:160-166(2005).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Required for planr infection
+CC       and the appearance of secondary lesions.
+CC       {ECO:0000269|PubMed:16185656}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:16185656}.
+CC   -!- ENZYME REGULATION: Significantly inhibited by the wheat xylanase
+CC       inhibiting protein I (XIP-I) and the proteinaceous endoxylanase
+CC       Triticum aestivum xylanase inhibitors I (TAXI-I), whereas no
+CC       inhibition is detected with TAXI-II.
+CC       {ECO:0000269|PubMed:16185656}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=10 mg/ml for low viscosity xylan
+CC         {ECO:0000269|PubMed:16185656};
+CC         Vmax=0.5 umol/min/mg enzyme toward xylose
+CC         {ECO:0000269|PubMed:16185656};
+CC       pH dependence:
+CC         Optimum pH is 4.5-5.0. {ECO:0000269|PubMed:16185656};
+CC       Temperature dependence:
+CC         Optimum temperature is between 38 and 42 degrees Celsius.
+CC         {ECO:0000269|PubMed:16185656};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:16185656}.
+CC   -!- INDUCTION: Shows constitutive expression during the early stage of
+CC       tobacco leaves infection. {ECO:0000269|PubMed:16185656}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EU798759; ACF16413.1; -; mRNA.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Direct protein sequencing; Glycosidase;
+KW   Hydrolase; Polysaccharide degradation; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     36       {ECO:0000255}.
+FT   CHAIN        37    226       Endo-1,4-beta-xylanase 11A.
+FT                                /FTId=PRO_0000429752.
+FT   DOMAIN       37    226       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    122    122       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    214    214       Proton donor. {ECO:0000250}.
+SQ   SEQUENCE   226 AA;  23856 MW;  A7DDE861EDB6E252 CRC64;
+     MVSASSLLLA ASAIAGVFSA PAAAPVSENL NVLQERALTS SATGTSGGYY YSFWTDGSGG
+     VTYSNGDNGQ YAVSWTGNKG NFVGGKGWAV GSERSISYTG SYKPNGNSYL SVYGWTTFPL
+     IEYYIVEDFG TYDPSSAATE IGSVTSDGST YKILETTRTN QPSIQGTATF KQYWSVRTSK
+     RTSGTVTTAN HFAAWKKLGL TLGSTYDYQI VAVEGYQSGS ASITVS
+//
+ID   XYNB_PHACH              Reviewed;         290 AA.
+AC   B7SIW1;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   10-FEB-2009, sequence version 1.
+DT   11-NOV-2015, entry version 27.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   Flags: Precursor;
+GN   Name=xynB;
+OS   Phanerochaete chrysosporium (White-rot fungus) (Sporotrichum
+OS   pruinosum).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Phanerochaetaceae; Phanerochaete.
+OX   NCBI_TaxID=5306;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], SUBCELLULAR LOCATION,
+RP   IDENTIFICATION BY MASS SPECTROMETRY, FUNCTION, CATALYTIC ACTIVITY, AND
+RP   BIOPHYSICOCHEMICAL PROPERTIES.
+RC   STRAIN=RP78;
+RX   PubMed=15278289; DOI=10.1007/s00294-004-0520-x;
+RA   Decelle B., Tsang A., Storms R.K.;
+RT   "Cloning, functional expression and characterization of three
+RT   Phanerochaete chrysosporium endo-1,4-beta-xylanases.";
+RL   Curr. Genet. 46:166-175(2004).
+RN   [2]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=16348798;
+RA   Dobozi M.S., Szakacs G., Bruschi C.V.;
+RT   "Xylanase Activity of Phanerochaete chrysosporium.";
+RL   Appl. Environ. Microbiol. 58:3466-3471(1992).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000269|PubMed:15278289,
+CC       ECO:0000269|PubMed:16348798}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:15278289,
+CC       ECO:0000269|PubMed:16348798}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=9.96 mg/ml for birchwood xylan {ECO:0000269|PubMed:15278289};
+CC       pH dependence:
+CC         Optimum pH is 4.5. {ECO:0000269|PubMed:15278289};
+CC       Temperature dependence:
+CC         Optimum temperature is 60 degrees Celsius.
+CC         {ECO:0000269|PubMed:15278289};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:15278289}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EU302793; ABZ88798.1; -; Genomic_DNA.
+DR   STRING; 5306.JGI65108; -.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   mycoCLAP; XYN11B_PHACH; -.
+DR   eggNOG; ENOG410IGA5; Eukaryota.
+DR   eggNOG; ENOG410YH6C; LUCA.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    290       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_5000419220.
+FT   DOMAIN       34    222       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   DOMAIN      255    290       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   ACT_SITE    118    118       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    209    209       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+FT   CARBOHYD     26     26       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   290 AA;  30466 MW;  6D0583921B4F6580 CRC64;
+     MVSFNSLLVA VSAATCALAF PFEFHNGTHV FPRQSTPAGT GTNNGYFYSF WTDGGGSVTY
+     NNGPAGEYSV TWSNADNFVA GKGWNPGSAQ AISFTANYQP NGNSYLSVYG WSTNPLVEYY
+     ILEDFGTYNP AVSLTHKGTL TSDGATYDVY EGTRVNEPSI QGTATFNQYW SIRSSKRSSG
+     TVTTANHFAA WKQLGLPLGT FNYQIVATEG YQSSGSSTVT VNPAGGVTSP IAPTGPSSVS
+     TTPSGPSSSP SPVGTCSALY GQCGGQGWTG PTCCSSGTCK FSNNWYSQCL
+//
+ID   XYNB_ASPOR              Reviewed;         221 AA.
+AC   P87037;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1997, sequence version 1.
+DT   11-NOV-2015, entry version 92.
+DE   RecName: Full=Probable endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG, xynG1; ORFNames=AO090001000111;
+OS   Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=510516;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=KBN616;
+RA   Kimura T., Kitamoto N., Kito Y., Karita S., Sakka K., Ohmiya K.;
+RT   "Cloning and sequence of xylanase G1 gene from Aspergillus oryzae
+RT   KBN616.";
+RL   Submitted (APR-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=AS 3.4382;
+RA   Han W., Su Y., Chen G.;
+RT   "Cloning and sequence analysis of the gene encoding xylanase from
+RT   Aspergillus oryzae.";
+RL   Submitted (MAR-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 42149 / RIB 40;
+RX   PubMed=16372010; DOI=10.1038/nature04300;
+RA   Machida M., Asai K., Sano M., Tanaka T., Kumagai T., Terai G.,
+RA   Kusumoto K., Arima T., Akita O., Kashiwagi Y., Abe K., Gomi K.,
+RA   Horiuchi H., Kitamoto K., Kobayashi T., Takeuchi M., Denning D.W.,
+RA   Galagan J.E., Nierman W.C., Yu J., Archer D.B., Bennett J.W.,
+RA   Bhatnagar D., Cleveland T.E., Fedorova N.D., Gotoh O., Horikawa H.,
+RA   Hosoyama A., Ichinomiya M., Igarashi R., Iwashita K., Juvvadi P.R.,
+RA   Kato M., Kato Y., Kin T., Kokubun A., Maeda H., Maeyama N.,
+RA   Maruyama J., Nagasaki H., Nakajima T., Oda K., Okada K., Paulsen I.,
+RA   Sakamoto K., Sawano T., Takahashi M., Takase K., Terabayashi Y.,
+RA   Wortman J.R., Yamada O., Yamagata Y., Anazawa H., Hata Y., Koide Y.,
+RA   Komori T., Koyama Y., Minetoki T., Suharnan S., Tanaka A., Isono K.,
+RA   Kuhara S., Ogasawara N., Kikuchi H.;
+RT   "Genome sequencing and analysis of Aspergillus oryzae.";
+RL   Nature 438:1157-1161(2005).
+RN   [4]
+RP   IDENTIFICATION BY MASS SPECTROMETRY, AND SUBCELLULAR LOCATION.
+RX   PubMed=16672490; DOI=10.1128/AEM.72.5.3448-3457.2006;
+RA   Oda K., Kakizono D., Yamada O., Iefuji H., Akita O., Iwashita K.;
+RT   "Proteomic analysis of extracellular proteins from Aspergillus oryzae
+RT   grown under submerged and solid-state culture conditions.";
+RL   Appl. Environ. Microbiol. 72:3448-3457(2006).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:16672490}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EU586113; ACB97629.1; -; mRNA.
+DR   EMBL; AB003085; BAA19744.1; -; Genomic_DNA.
+DR   EMBL; AP007154; BAE56664.1; -; Genomic_DNA.
+DR   RefSeq; XP_001818666.1; XM_001818614.2.
+DR   ProteinModelPortal; P87037; -.
+DR   SMR; P87037; 32-220.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   mycoCLAP; XYN11G_ASPOR; -.
+DR   EnsemblFungi; CADAORAT00000099; CADAORAP00000098; CADAORAG00000099.
+DR   GeneID; 5990637; -.
+DR   KEGG; aor:AOR_1_174164; -.
+DR   HOGENOM; HOG000179135; -.
+DR   OMA; VTTKNHF; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006564; Chromosome 2.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    221       Probable endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000393169.
+FT   DOMAIN       33    221       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    208    208       Proton donor. {ECO:0000250}.
+SQ   SEQUENCE   221 AA;  23746 MW;  C010E11E5F53C77E CRC64;
+     MVSFSSLLLA VSAVSGALAA PGDSTLVELA KRAITSSETG TNNGYYYSFW TNGGGDVEYT
+     NGNGGQYSVK WTNCDNFVAG KGWNPGSAKT VTYSGEWESN SNSYVSLYGW TQNPLVEYYI
+     VDKYGDYDPS TGATELGTVE SDGGTYKIYK TTRENAPSIE GTSTFNQYWS VRQSGRVGGT
+     ITAQNHFDAW ANVGLQLGTH NYMILATEGY KSSGSATITV E
+//
+ID   XYNB_ASPCL              Reviewed;         221 AA.
+AC   A1CU59;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-MAR-2010, sequence version 2.
+DT   11-NOV-2015, entry version 49.
+DE   RecName: Full=Probable endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=ACLA_085410;
+OS   Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC
+OS   3887 / NRRL 1).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=344612;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=EAW06846.1; Type=Erroneous initiation; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027060; EAW06846.1; ALT_INIT; Genomic_DNA.
+DR   RefSeq; XP_001268272.1; XM_001268271.1.
+DR   GeneID; 4699767; -.
+DR   KEGG; act:ACLA_085410; -.
+DR   EuPathDB; FungiDB:ACLA_085410; -.
+DR   HOGENOM; HOG000179135; -.
+DR   KO; K01181; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006701; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    221       Probable endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000393165.
+FT   DOMAIN       33    221       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    208    208       Proton donor. {ECO:0000250}.
+SQ   SEQUENCE   221 AA;  24058 MW;  45E7DBA2FEEFBAD8 CRC64;
+     MVSFSSLALA LSTVVGVLAA PGSEKYVELA KHQLTHSQTG TKNGYYYSFW TDNRGQVSYT
+     NGKGGQYSVN WKDCGNFVAG KGWNPASAKT VTYSGNWKPS GNSYVSVYGW TQNPLIEFYI
+     VESFGSYNPS TGATELGTVE SDGGTYKIYK TKRVDAPSIE GKKTFDQFWS VRTSHRVGGT
+     VTTKNHFNAW AKSGLKLGTF NYMILATEGY HSSGSATMTV S
+//
+ID   XYNB_ASPFU              Reviewed;         221 AA.
+AC   Q4WLV2;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2005, sequence version 1.
+DT   09-DEC-2015, entry version 68.
+DE   RecName: Full=Probable endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=AFUA_6G12210;
+OS   Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC
+OS   A1100) (Aspergillus fumigatus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=330879;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100;
+RX   PubMed=16372009; DOI=10.1038/nature04332;
+RA   Nierman W.C., Pain A., Anderson M.J., Wortman J.R., Kim H.S.,
+RA   Arroyo J., Berriman M., Abe K., Archer D.B., Bermejo C., Bennett J.W.,
+RA   Bowyer P., Chen D., Collins M., Coulsen R., Davies R., Dyer P.S.,
+RA   Farman M.L., Fedorova N., Fedorova N.D., Feldblyum T.V., Fischer R.,
+RA   Fosker N., Fraser A., Garcia J.L., Garcia M.J., Goble A.,
+RA   Goldman G.H., Gomi K., Griffith-Jones S., Gwilliam R., Haas B.J.,
+RA   Haas H., Harris D.E., Horiuchi H., Huang J., Humphray S., Jimenez J.,
+RA   Keller N., Khouri H., Kitamoto K., Kobayashi T., Konzack S.,
+RA   Kulkarni R., Kumagai T., Lafton A., Latge J.-P., Li W., Lord A.,
+RA   Lu C., Majoros W.H., May G.S., Miller B.L., Mohamoud Y., Molina M.,
+RA   Monod M., Mouyna I., Mulligan S., Murphy L.D., O'Neil S., Paulsen I.,
+RA   Penalva M.A., Pertea M., Price C., Pritchard B.L., Quail M.A.,
+RA   Rabbinowitsch E., Rawlins N., Rajandream M.A., Reichard U.,
+RA   Renauld H., Robson G.D., Rodriguez de Cordoba S., Rodriguez-Pena J.M.,
+RA   Ronning C.M., Rutter S., Salzberg S.L., Sanchez M.,
+RA   Sanchez-Ferrero J.C., Saunders D., Seeger K., Squares R., Squares S.,
+RA   Takeuchi M., Tekaia F., Turner G., Vazquez de Aldana C.R., Weidman J.,
+RA   White O., Woodward J.R., Yu J.-H., Fraser C.M., Galagan J.E., Asai K.,
+RA   Machida M., Hall N., Barrell B.G., Denning D.W.;
+RT   "Genomic sequence of the pathogenic and allergenic filamentous fungus
+RT   Aspergillus fumigatus.";
+RL   Nature 438:1151-1156(2005).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAHF01000006; EAL89062.1; -; Genomic_DNA.
+DR   RefSeq; XP_751100.1; XM_746007.1.
+DR   ProteinModelPortal; Q4WLV2; -.
+DR   SMR; Q4WLV2; 32-221.
+DR   EnsemblFungi; CADAFUAT00002079; CADAFUAP00002079; CADAFUAG00002079.
+DR   GeneID; 3508405; -.
+DR   KEGG; afm:AFUA_6G12210; -.
+DR   EuPathDB; FungiDB:Afu6g12210; -.
+DR   HOGENOM; HOG000179135; -.
+DR   InParanoid; Q4WLV2; -.
+DR   KO; K01181; -.
+DR   OMA; VTTKNHF; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000002530; Chromosome 6.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    221       Probable endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000393168.
+FT   DOMAIN       33    221       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    208    208       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+SQ   SEQUENCE   221 AA;  23810 MW;  730177E76983C1E6 CRC64;
+     MVSFSSLVLA ASTVAGVLAT PGSEQYVELA KRQLTSSQTG TNNGYYYSFW TDGGGQVTYT
+     NGNGGQYQVD WNNCGNFVAG KGWNPASEKA VTYSGSWQTS GNGYLSVYGW TTSPLVEFYI
+     VESYGSYDPS TGATHLGTVE SDGATYNLYK TTRTNAPSIQ GTATFDQYWS VRTSHRQSGT
+     VTTKNHFDAW RNAGLQLGNF DYMIVATEGY QSSGSATITV S
+//
+ID   XYNB_ASPFN              Reviewed;         221 AA.
+AC   B8NJ86;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   03-MAR-2009, sequence version 1.
+DT   11-NOV-2015, entry version 38.
+DE   RecName: Full=Probable endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=AFLA_065190;
+OS   Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM
+OS   12722 / SRRC 167).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=332952;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167;
+RA   Payne W.G.A., Dean R.A., Nierman W.C., Amedeo P., Caler E.G.A.,
+RA   Fedorova N.D., Maiti R., Joardar V., Inman J., Galinsky K.J., Yu J.,
+RA   Bhatnagar D., Cleveland T.E.;
+RT   "Genome sequence of Aspergillus flavus strain NRRL 3357.";
+RL   Submitted (SEP-2007) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EQ963479; EED49697.1; -; Genomic_DNA.
+DR   RefSeq; XP_002380078.1; XM_002380037.1.
+DR   ProteinModelPortal; B8NJ86; -.
+DR   SMR; B8NJ86; 32-220.
+DR   EnsemblFungi; CADAFLAT00007943; CADAFLAP00007943; CADAFLAG00007943.
+DR   GeneID; 7917650; -.
+DR   KEGG; afv:AFLA_065190; -.
+DR   EuPathDB; FungiDB:AFLA_065190; -.
+DR   HOGENOM; HOG000179135; -.
+DR   KO; K01181; -.
+DR   OMA; VTTKNHF; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000001875; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    221       Probable endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000393167.
+FT   DOMAIN       33    221       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    208    208       Proton donor. {ECO:0000250}.
+SQ   SEQUENCE   221 AA;  23746 MW;  C010E11E5F53C77E CRC64;
+     MVSFSSLLLA VSAVSGALAA PGDSTLVELA KRAITSSETG TNNGYYYSFW TNGGGDVEYT
+     NGNGGQYSVK WTNCDNFVAG KGWNPGSAKT VTYSGEWESN SNSYVSLYGW TQNPLVEYYI
+     VDKYGDYDPS TGATELGTVE SDGGTYKIYK TTRENAPSIE GTSTFNQYWS VRQSGRVGGT
+     ITAQNHFDAW ANVGLQLGTH NYMILATEGY KSSGSATITV E
+//
+ID   XYNB_NEOFI              Reviewed;         221 AA.
+AC   A1DNU5;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 1.
+DT   20-JAN-2016, entry version 52.
+DE   RecName: Full=Probable endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=NFIA_058160;
+OS   Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL
+OS   181) (Aspergillus fischerianus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Neosartorya.
+OX   NCBI_TaxID=331117;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027698; EAW16466.1; -; Genomic_DNA.
+DR   RefSeq; XP_001258363.1; XM_001258362.1.
+DR   ProteinModelPortal; A1DNU5; -.
+DR   SMR; A1DNU5; 32-221.
+DR   EnsemblFungi; CADNFIAT00005150; CADNFIAP00005022; CADNFIAG00005150.
+DR   GeneID; 4584879; -.
+DR   KEGG; nfi:NFIA_058160; -.
+DR   EuPathDB; FungiDB:NFIA_058160; -.
+DR   HOGENOM; HOG000179135; -.
+DR   KO; K01181; -.
+DR   OMA; VTTKNHF; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006702; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    221       Probable endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000393170.
+FT   DOMAIN       33    221       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    208    208       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+SQ   SEQUENCE   221 AA;  23853 MW;  54DD44E95505E565 CRC64;
+     MVSFSSLVLA LSTVAGVLAA PGSEQYVELA KRQLTSSQTG TNNGYFYSFW TDGGGKVTYN
+     NGNGGQYQVD WTNCGNFVAG KGWNPGSERT VTYSGSWESS GNGYLSVYGW MTNPLVEYYI
+     VESYGSYDPS TGATHLGTVE SDGGTYNIYK TTRTNAPSIQ GTATFDQYWS VRTSHRVSGT
+     VTTKNHFDAW KKAGLKLGNF DYMIVATEGY QSSGSATLTV S
+//
+ID   XYNB_ASPNC              Reviewed;         225 AA.
+AC   A2Q7I0;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   06-MAR-2007, sequence version 1.
+DT   14-OCT-2015, entry version 54.
+DE   RecName: Full=Probable endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=An01g00780;
+OS   Aspergillus niger (strain CBS 513.88 / FGSC A1513).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=425011;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 513.88 / FGSC A1513;
+RX   PubMed=17259976; DOI=10.1038/nbt1282;
+RA   Pel H.J., de Winde J.H., Archer D.B., Dyer P.S., Hofmann G.,
+RA   Schaap P.J., Turner G., de Vries R.P., Albang R., Albermann K.,
+RA   Andersen M.R., Bendtsen J.D., Benen J.A.E., van den Berg M.,
+RA   Breestraat S., Caddick M.X., Contreras R., Cornell M., Coutinho P.M.,
+RA   Danchin E.G.J., Debets A.J.M., Dekker P., van Dijck P.W.M.,
+RA   van Dijk A., Dijkhuizen L., Driessen A.J.M., d'Enfert C., Geysens S.,
+RA   Goosen C., Groot G.S.P., de Groot P.W.J., Guillemette T.,
+RA   Henrissat B., Herweijer M., van den Hombergh J.P.T.W.,
+RA   van den Hondel C.A.M.J.J., van der Heijden R.T.J.M.,
+RA   van der Kaaij R.M., Klis F.M., Kools H.J., Kubicek C.P.,
+RA   van Kuyk P.A., Lauber J., Lu X., van der Maarel M.J.E.C.,
+RA   Meulenberg R., Menke H., Mortimer M.A., Nielsen J., Oliver S.G.,
+RA   Olsthoorn M., Pal K., van Peij N.N.M.E., Ram A.F.J., Rinas U.,
+RA   Roubos J.A., Sagt C.M.J., Schmoll M., Sun J., Ussery D., Varga J.,
+RA   Vervecken W., van de Vondervoort P.J.J., Wedler H., Woesten H.A.B.,
+RA   Zeng A.-P., van Ooyen A.J.J., Visser J., Stam H.;
+RT   "Genome sequencing and analysis of the versatile cell factory
+RT   Aspergillus niger CBS 513.88.";
+RL   Nat. Biotechnol. 25:221-231(2007).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM269952; CAK43456.1; -; Genomic_DNA.
+DR   RefSeq; XP_001388522.1; XM_001388485.2.
+DR   ProteinModelPortal; A2Q7I0; -.
+DR   SMR; A2Q7I0; 39-224.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   EnsemblFungi; CADANGAT00000077; CADANGAP00000070; CADANGAG00000077.
+DR   GeneID; 4978152; -.
+DR   KEGG; ang:ANI_1_94014; -.
+DR   HOGENOM; HOG000179135; -.
+DR   KO; K01181; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006706; Chromosome 2R.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   CHAIN        19    225       Probable endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_5000219293.
+FT   DOMAIN       37    225       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    121    121       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    212    212       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+SQ   SEQUENCE   225 AA;  24057 MW;  C4B8BB007AB2B8FD CRC64;
+     MLTKNLLLCF AAAKAALAVP HDSVAQRSDA LHMLSERSTP SSTGENNGFY YSFWTDGGGD
+     VTYTNGDAGA YTVEWSNVGN FVGGKGWNPG SAQDITYSGT FTPSGNGYLS VYGWTTDPLI
+     EYYIVESYGD YNPGSGGTYK GTVTSDGSVY DIYTATRTNA ASIQGTATFT QYWSVRQNKR
+     VGGTVTTSNH FNAWAKLGMN LGTHNYQIVA TEGYQSSGSS SITVQ
+//
+ID   XYNB_ASPFC              Reviewed;         221 AA.
+AC   B0Y8Q8;
+DT   23-MAR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   08-APR-2008, sequence version 1.
+DT   09-DEC-2015, entry version 39.
+DE   RecName: Full=Probable endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=AFUB_078210;
+OS   Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163)
+OS   (Aspergillus fumigatus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=451804;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CEA10 / CBS 144.89 / FGSC A1163;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS499599; EDP49789.1; -; Genomic_DNA.
+DR   ProteinModelPortal; B0Y8Q8; -.
+DR   SMR; B0Y8Q8; 32-221.
+DR   EnsemblFungi; CADAFUBT00007759; CADAFUBP00007623; CADAFUBG00007759.
+DR   HOGENOM; HOG000179135; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   PhylomeDB; B0Y8Q8; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000001699; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    221       Probable endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000393166.
+FT   DOMAIN       33    221       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    117    117       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    208    208       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+SQ   SEQUENCE   221 AA;  23810 MW;  730177E76983C1E6 CRC64;
+     MVSFSSLVLA ASTVAGVLAT PGSEQYVELA KRQLTSSQTG TNNGYYYSFW TDGGGQVTYT
+     NGNGGQYQVD WNNCGNFVAG KGWNPASEKA VTYSGSWQTS GNGYLSVYGW TTSPLVEFYI
+     VESYGSYDPS TGATHLGTVE SDGATYNLYK TTRTNAPSIQ GTATFDQYWS VRTSHRQSGT
+     VTTKNHFDAW RNAGLQLGNF DYMIVATEGY QSSGSATITV S
+//
+ID   XYNB_ASPKW              Reviewed;         225 AA.
+AC   P48824; G7XYK8;
+DT   01-FEB-1996, integrated into UniProtKB/Swiss-Prot.
+DT   21-MAR-2012, sequence version 2.
+DT   16-SEP-2015, entry version 76.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Endo-1,4-beta-xylanase G1;
+DE            Short=Xylanase G1;
+DE   Flags: Precursor;
+GN   Name=xlnB; Synonyms=xynB, xynG1; ORFNames=AKAW_10131;
+OS   Aspergillus kawachii (strain NBRC 4308) (White koji mold) (Aspergillus
+OS   awamori var. kawachi).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=1033177;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=NBRC 4308;
+RA   Ito K.;
+RT   "Cloning of the third xylanase gene encoding xylanase B and
+RT   characterization of the xylanase gene family of Aspergillus
+RT   kawachii.";
+RL   Submitted (SEP-1994) to the EMBL/GenBank/DDBJ databases.
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=NBRC 4308;
+RX   PubMed=22045919; DOI=10.1128/EC.05224-11;
+RA   Futagami T., Mori K., Yamashita A., Wada S., Kajiwara Y.,
+RA   Takashita H., Omori T., Takegawa K., Tashiro K., Kuhara S., Goto M.;
+RT   "Genome sequence of the white koji mold Aspergillus kawachii IFO 4308,
+RT   used for brewing the Japanese distilled spirit shochu.";
+RL   Eukaryot. Cell 10:1586-1587(2011).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; D38070; BAA07264.1; -; Genomic_DNA.
+DR   EMBL; DF126487; GAA92017.1; -; Genomic_DNA.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   InParanoid; P48824; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000006812; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     18       {ECO:0000255}.
+FT   CHAIN        19    225       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000007989.
+FT   DOMAIN       37    225       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    121    121       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    212    212       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+FT   CONFLICT    100    100       T -> N (in Ref. 1; BAA07264).
+FT                                {ECO:0000305}.
+FT   CONFLICT    139    144       YKGTVT -> TRGNVS (in Ref. 1; BAA07264).
+FT                                {ECO:0000305}.
+FT   CONFLICT    170    170       T -> S (in Ref. 1; BAA07264).
+FT                                {ECO:0000305}.
+SQ   SEQUENCE   225 AA;  24182 MW;  2457FA9E0DFE1CB2 CRC64;
+     MLTKNLLLCF AAAKAVLAVP HDSVVERSDA LHKLSERSTP SSTGENNGYY YSFWTDGGGD
+     VTYTNGNAGS YSVEWSNVGN FVGGKGWNPG SAKDITYSGT FTPSGNGYLS VYGWTTDPLI
+     EYYIVESYGD YNPGSGGTYK GTVTSDGSVY DIYTATRTNA PSIQGTATFT QYWSVRQNKR
+     VGGTVTTSNH FNAWAKLGMN LGTHNYQILA TEGYQSSGSS SITIQ
+//
+ID   F5CI28_ASPNG            Unreviewed;       225 AA.
+AC   F5CI28;
+DT   28-JUN-2011, integrated into UniProtKB/TrEMBL.
+DT   28-JUN-2011, sequence version 1.
+DT   11-NOV-2015, entry version 30.
+DE   RecName: Full=Endo-1,4-beta-xylanase {ECO:0000256|RuleBase:RU362015};
+DE            EC=3.2.1.8 {ECO:0000256|RuleBase:RU362015};
+GN   Name=xynB {ECO:0000313|EMBL:AEC13626.1};
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061 {ECO:0000313|EMBL:AEC13626.1};
+RN   [1] {ECO:0000313|EMBL:AEC13626.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=C71 {ECO:0000313|EMBL:AEC13626.1};
+RA   Zhang J., Hu W., Zhao D., Zhang D., Chen L., Zhu Y., Han K.;
+RT   "Cloning and expression of endo-1,4-xylanase gene in Escherichia coli
+RT   Bl-21 (DE3).";
+RL   Submitted (MAR-2011) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:AGH29125.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Zhang S.L.;
+RT   "The clone and expression of xynB gene of Aspergillus niger in
+RT   yeast.";
+RL   Submitted (DEC-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [3] {ECO:0000313|EMBL:AGG38091.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=IA-001 {ECO:0000313|EMBL:AGG38091.1};
+RX   PubMed=23788000;
+RA   Fang W., Gao H., Cao Y., Shan A.;
+RT   "Cloning and expression of a xylanase xynB from Aspergillus niger IA-
+RT   001 in Pichia pastoris.";
+RL   J. Basic Microbiol. 0:0-0(2013).
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000256|RuleBase:RU362015}.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC       {ECO:0000256|RuleBase:RU362015}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000256|RuleBase:RU362015}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JF693944; AEC13626.1; -; mRNA.
+DR   EMBL; JX560731; AGG38091.1; -; Genomic_DNA.
+DR   EMBL; KC417493; AGH29125.1; -; Genomic_DNA.
+DR   ProteinModelPortal; F5CI28; -.
+DR   SMR; F5CI28; 39-224.
+DR   STRING; 5061.CADANGAP00000070; -.
+DR   PaxDb; F5CI28; -.
+DR   eggNOG; ENOG410IHTC; Eukaryota.
+DR   eggNOG; ENOG410YH6C; LUCA.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GLYCOSYL_HYDROL_F11_1; 1.
+DR   PROSITE; PS00777; GLYCOSYL_HYDROL_F11_2; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AEC13626.1};
+KW   Glycosidase {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AGG38091.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AGG38091.1};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AEC13626.1}; Signal {ECO:0000256|SAM:SignalP};
+KW   Xylan degradation {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AEC13626.1}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    225       Endo-1,4-beta-xylanase.
+FT                                {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003326937.
+SQ   SEQUENCE   225 AA;  24127 MW;  5B14121662842A10 CRC64;
+     MLTKNLLLCF AAAKAVLAVP HDSVVERSDA LHKLSERSTP SSTGENNGFY YSFWTDGGGD
+     VTYTNGDAGS YTVEWSNVGN FVGGKGWNPG SAQDITYSGT FTPSGNGYLS VYGWTTDPLI
+     EYYIVESYGD YNPGSGGTYK GTVTSDGSVY DIYTATRTNA ASIQGTATFT QYWSVRQNKR
+     VGGTVTTSNH FNAWAKLGMN LGTHNYQIVA TEGYQSSGSS SITVQ
+//
+ID   Q9HEY9_PHACH            Unreviewed;       290 AA.
+AC   Q9HEY9;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   09-DEC-2015, entry version 65.
+DE   RecName: Full=Endo-1,4-beta-xylanase {ECO:0000256|RuleBase:RU362015};
+DE            EC=3.2.1.8 {ECO:0000256|RuleBase:RU362015};
+GN   Name=xynB {ECO:0000313|EMBL:AAG44995.1};
+OS   Phanerochaete chrysosporium (White-rot fungus) (Sporotrichum
+OS   pruinosum).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Phanerochaetaceae; Phanerochaete.
+OX   NCBI_TaxID=5306 {ECO:0000313|EMBL:AAG44995.1};
+RN   [1] {ECO:0000313|EMBL:AAG44995.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ME446 {ECO:0000313|EMBL:AAG44995.1};
+RA   Khan S.N., Loera-Corral O., Aspinall T.V., Sims P.F.G.;
+RT   "Molecular characterization and expression analysis of two endo-1,4-B-
+RT   xylanase genes from Phanerochaete chrysosporium.";
+RL   Submitted (AUG-2000) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000256|RuleBase:RU362015}.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC       {ECO:0000256|RuleBase:RU362015}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000256|RuleBase:RU362015}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF301905; AAG44995.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q9HEY9; -.
+DR   SMR; Q9HEY9; 36-222, 257-290.
+DR   STRING; 5306.JGI65108; -.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   eggNOG; ENOG410IGA5; Eukaryota.
+DR   eggNOG; ENOG410YH6C; LUCA.
+DR   OMA; TWANQNG; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS00776; GLYCOSYL_HYDROL_F11_1; 1.
+DR   PROSITE; PS00777; GLYCOSYL_HYDROL_F11_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AAG44995.1};
+KW   Glycosidase {ECO:0000256|RuleBase:RU362015};
+KW   Hydrolase {ECO:0000256|RuleBase:RU362015};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AAG44995.1}; Signal {ECO:0000256|SAM:SignalP};
+KW   Xylan degradation {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AAG44995.1}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    290       Endo-1,4-beta-xylanase.
+FT                                {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004326714.
+FT   DOMAIN      255    290       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   290 AA;  30424 MW;  6D1C6415370A689D CRC64;
+     MVSFNSLLVA VSAATCALAF PFEFHNGTHV FPRQSTPAGT GTNNGYFYSF WTDGGGSVTY
+     NNGPAGEYSV TWSNADNFVA GKGWNPGSAQ AISFTANYQP NGNSYLSVYG WSTNPLVEYY
+     ILEDFGTYNP AVSLTHKGTL TSDGATYDVY EGTRVNEPSI QGTATFNQYW SIRSSKRSSG
+     TVTTANHFAA WKQLGLPLGT FNYQIVATEG YQSSGSSTVT VNPAGGVTSP TAPTGPSSVS
+     TTPSGPSSSP SPVGSCAALY GQCGGQGWTG PTCCSSGTCK FSNNWYSQCL
+//
+ID   Q9HEZ0_PHACH            Unreviewed;       290 AA.
+AC   Q9HEZ0;
+DT   01-MAR-2001, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2001, sequence version 1.
+DT   09-DEC-2015, entry version 65.
+DE   RecName: Full=Endo-1,4-beta-xylanase {ECO:0000256|RuleBase:RU362015};
+DE            EC=3.2.1.8 {ECO:0000256|RuleBase:RU362015};
+GN   Name=xynB {ECO:0000313|EMBL:AAG44994.1};
+OS   Phanerochaete chrysosporium (White-rot fungus) (Sporotrichum
+OS   pruinosum).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Polyporales; Phanerochaetaceae; Phanerochaete.
+OX   NCBI_TaxID=5306 {ECO:0000313|EMBL:AAG44994.1};
+RN   [1] {ECO:0000313|EMBL:AAG44994.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ME446 {ECO:0000313|EMBL:AAG44994.1};
+RA   Khan S.N., Loera-Corral O., Aspinall T.V., Sims P.F.G.;
+RT   "Molecular characterization and expression analysis of two endo-1,4-B-
+RT   xylanase genes from Phanerochaete chrysosporium.";
+RL   Submitted (AUG-2000) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000256|RuleBase:RU362015}.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC       {ECO:0000256|RuleBase:RU362015}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000256|RuleBase:RU362015}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF301904; AAG44994.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q9HEZ0; -.
+DR   SMR; Q9HEZ0; 36-222, 257-290.
+DR   STRING; 5306.JGI65108; -.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH11; Glycoside Hydrolase Family 11.
+DR   eggNOG; ENOG410IGA5; Eukaryota.
+DR   eggNOG; ENOG410YH6C; LUCA.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+DR   PROSITE; PS00776; GLYCOSYL_HYDROL_F11_1; 1.
+DR   PROSITE; PS00777; GLYCOSYL_HYDROL_F11_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AAG44994.1};
+KW   Glycosidase {ECO:0000256|RuleBase:RU362015};
+KW   Hydrolase {ECO:0000256|RuleBase:RU362015};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AAG44994.1}; Signal {ECO:0000256|SAM:SignalP};
+KW   Xylan degradation {ECO:0000256|RuleBase:RU362015,
+KW   ECO:0000313|EMBL:AAG44994.1}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    290       Endo-1,4-beta-xylanase.
+FT                                {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004326743.
+FT   DOMAIN      255    290       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   290 AA;  30425 MW;  6D1C6415370A667D CRC64;
+     MVSFNSLLVA VSAATCALAF PFEFHNGTHV FPRQSTPAGT GTNNGYFYSF WTDGGGSVTY
+     NNGPAGEYSV TWSNADNFVA GKGWNPGSAQ AISFTANYQP NGNSYLSVYG WSTNPLVEYY
+     ILEDFGTYNP AVSLTHKGTL TSDGATYDVY EGTRVNEPSI QGTATFNQYW SIRSSKRSSG
+     TVTTANHFAA WKQLGLPLGT FNYQIVATEG YQSSGSSTVT VNPAGGVTSP TAPTGPSSVS
+     TTPSGPSSSP SPVGSCAALY GQCGGQGWTG PTCCSSGTCK FSNDWYSQCL
+//
+ID   G3XTQ6_ASPNA            Unreviewed;       225 AA.
+AC   G3XTQ6;
+DT   14-DEC-2011, integrated into UniProtKB/TrEMBL.
+DT   14-DEC-2011, sequence version 1.
+DT   14-OCT-2015, entry version 27.
+DE   RecName: Full=Endo-1,4-beta-xylanase {ECO:0000256|RuleBase:RU362015};
+DE            EC=3.2.1.8 {ECO:0000256|RuleBase:RU362015};
+GN   Name=xynB {ECO:0000313|EMBL:EHA26077.1};
+GN   ORFNames=ASPNIDRAFT_52071 {ECO:0000313|EMBL:EHA26077.1};
+OS   Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB
+OS   Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=380704 {ECO:0000313|EMBL:EHA26077.1, ECO:0000313|Proteomes:UP000009038};
+RN   [1] {ECO:0000313|EMBL:EHA26077.1, ECO:0000313|Proteomes:UP000009038}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a /
+RC   NRRL 328 / USDA 3528.7 {ECO:0000313|Proteomes:UP000009038};
+RX   PubMed=21543515; DOI=10.1101/gr.112169.110;
+RA   Andersen M.R., Salazar M.P., Schaap P.J., van de Vondervoort P.J.I.,
+RA   Culley D., Thykaer J., Frisvad J.C., Nielsen K.F., Albang R.,
+RA   Albermann K., Berka R.M., Braus G.H., Braus-Stromeyer S.A.,
+RA   Corrochano L.M., Dai Z., van Dijck P.W.M., Hofmann G., Lasure L.L.,
+RA   Magnuson J.K., Menke H., Meijer M., Meijer S.L., Nielsen J.B.,
+RA   Nielsen M.L., van Ooyen A.J.J., Pel H.J., Poulsen L., Samson R.A.,
+RA   Stam H., Tsang A., van den Brink J.M., Atkins A., Aerts A.,
+RA   Shapiro H., Pangilinan J., Salamov A., Lou Y., Lindquist E., Lucas S.,
+RA   Grimwood J., Grigoriev I.V., Kubicek C.P., Martinez D.,
+RA   van Peij N.N.M.E., Roubos J.A., Nielsen J., Baker S.E.;
+RT   "Comparative genomics of citric-acid-producing Aspergillus niger ATCC
+RT   1015 versus enzyme-producing CBS 513.88.";
+RL   Genome Res. 21:885-897(2011).
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000256|RuleBase:RU362015}.
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC       {ECO:0000256|RuleBase:RU362015}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000256|RuleBase:RU362015}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EHA26077.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACJE01000004; EHA26077.1; -; Genomic_DNA.
+DR   ProteinModelPortal; G3XTQ6; -.
+DR   SMR; G3XTQ6; 39-224.
+DR   EnsemblFungi; EHA26077; EHA26077; ASPNIDRAFT_52071.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   Proteomes; UP000009038; Unassembled WGS sequence.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GLYCOSYL_HYDROL_F11_1; 1.
+DR   PROSITE; PS00777; GLYCOSYL_HYDROL_F11_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU362015};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000009038};
+KW   Glycosidase {ECO:0000256|RuleBase:RU362015};
+KW   Hydrolase {ECO:0000256|RuleBase:RU362015};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU362015};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000009038};
+KW   Signal {ECO:0000256|SAM:SignalP};
+KW   Xylan degradation {ECO:0000256|RuleBase:RU362015}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    225       Endo-1,4-beta-xylanase.
+FT                                {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003460440.
+SQ   SEQUENCE   225 AA;  24057 MW;  C4B8BB007AB2B8FD CRC64;
+     MLTKNLLLCF AAAKAALAVP HDSVAQRSDA LHMLSERSTP SSTGENNGFY YSFWTDGGGD
+     VTYTNGDAGA YTVEWSNVGN FVGGKGWNPG SAQDITYSGT FTPSGNGYLS VYGWTTDPLI
+     EYYIVESYGD YNPGSGGTYK GTVTSDGSVY DIYTATRTNA ASIQGTATFT QYWSVRQNKR
+     VGGTVTTSNH FNAWAKLGMN LGTHNYQIVA TEGYQSSGSS SITVQ
+//
+ID   B1B533_PENCI            Unreviewed;       327 AA.
+AC   B1B533;
+DT   29-APR-2008, integrated into UniProtKB/TrEMBL.
+DT   29-APR-2008, sequence version 1.
+DT   14-OCT-2015, entry version 33.
+DE   RecName: Full=Beta-xylanase {ECO:0000256|RuleBase:RU361174};
+DE            EC=3.2.1.8 {ECO:0000256|RuleBase:RU361174};
+GN   Name=xynB {ECO:0000313|EMBL:BAG12101.1};
+OS   Penicillium citrinum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Penicillium.
+OX   NCBI_TaxID=5077 {ECO:0000313|EMBL:BAG12101.1};
+RN   [1] {ECO:0000313|EMBL:BAG12101.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=18499053; DOI=10.1263/jbb.105.367;
+RA   Wakiyama M., Tanaka H., Yoshihara K., Hayashi S., Ohta K.;
+RT   "Purification and properties of family-10 endo-1,4-beta-xylanase from
+RT   Penicillium citrinum and structural organization of encoding gene.";
+RL   J. Biosci. Bioeng. 105:367-374(2008).
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000256|RuleBase:RU361174}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 10 (cellulase F)
+CC       family. {ECO:0000256|RuleBase:RU361174}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB359178; BAG12101.1; -; Genomic_DNA.
+DR   ProteinModelPortal; B1B533; -.
+DR   SMR; B1B533; 26-327.
+DR   CAZy; GH10; Glycoside Hydrolase Family 10.
+DR   mycoCLAP; XYN10B_PENCI; -.
+DR   BRENDA; 3.2.1.8; 4608.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001000; Glyco_hydro_10.
+DR   InterPro; IPR031158; Glyco_hydro_10_AS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00331; Glyco_hydro_10; 1.
+DR   PRINTS; PR00134; GLHYDRLASE10.
+DR   SMART; SM00633; Glyco_10; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00591; GLYCOSYL_HYDROL_F10; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000313|EMBL:BAG12101.1};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361174};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361174};
+KW   Polysaccharide degradation {ECO:0000313|EMBL:BAG12101.1};
+KW   Signal {ECO:0000256|SAM:SignalP};
+KW   Xylan degradation {ECO:0000313|EMBL:BAG12101.1}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    327       Beta-xylanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002761935.
+SQ   SEQUENCE   327 AA;  35246 MW;  D1D2FE9A8E3FB173 CRC64;
+     MVQIKTAALA ALFAGQVLST PLEPRQASVS IDAKFKAHGK KYFGNIGEQY TFNRNAKTPA
+     IIKADFGQLT PENSMKWDAT EPNQGQFSFS GSDYLVNFAQ SNGKLIRGHT LVWHSQLPSW
+     VSSISDKNTL INVMKNHITT VMNRYKGKIY AWDVVNEIFN EDGSLRDSVF SRVIGEDFVR
+     IAFETARAAD PNAKLYINDY NLDSASYSKV NGMVSHVKKW IAAGIPIDGI GSQTHLGAGA
+     GSAVSGALNA LASAGTKEVA ITELDIAGAS STDYVNVVNA CLNQPKCVGI TVWGVADPDS
+     WRASSNPLLF DGNYNPKAAY NAIANAL
+//
+ID   XYNB_GIBZE              Reviewed;         228 AA.
+AC   I1RII8;
+DT   09-JUL-2014, integrated into UniProtKB/Swiss-Prot.
+DT   13-JUN-2012, sequence version 1.
+DT   17-FEB-2016, entry version 27.
+DE   RecName: Full=Endo-1,4-beta-xylanase B;
+DE            Short=Xylanase B;
+DE            EC=3.2.1.8;
+DE   AltName: Full=1,4-beta-D-xylan xylanohydrolase B;
+DE   AltName: Full=Xylanase 2;
+DE   Flags: Precursor;
+GN   Name=XYLB; Synonyms=XYL2; ORFNames=FGSG_03624;
+OS   Gibberella zeae (strain PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084)
+OS   (Wheat head blight fungus) (Fusarium graminearum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Nectriaceae;
+OC   Fusarium.
+OX   NCBI_TaxID=229533;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=17823352; DOI=10.1126/science.1143708;
+RA   Cuomo C.A., Gueldener U., Xu J.-R., Trail F., Turgeon B.G.,
+RA   Di Pietro A., Walton J.D., Ma L.-J., Baker S.E., Rep M., Adam G.,
+RA   Antoniw J., Baldwin T., Calvo S.E., Chang Y.-L., DeCaprio D.,
+RA   Gale L.R., Gnerre S., Goswami R.S., Hammond-Kosack K., Harris L.J.,
+RA   Hilburn K., Kennell J.C., Kroken S., Magnuson J.K., Mannhaupt G.,
+RA   Mauceli E.W., Mewes H.-W., Mitterbauer R., Muehlbauer G.,
+RA   Muensterkoetter M., Nelson D., O'Donnell K., Ouellet T., Qi W.,
+RA   Quesneville H., Roncero M.I.G., Seong K.-Y., Tetko I.V., Urban M.,
+RA   Waalwijk C., Ward T.J., Yao J., Birren B.W., Kistler H.C.;
+RT   "The Fusarium graminearum genome reveals a link between localized
+RT   polymorphism and pathogen specialization.";
+RL   Science 317:1400-1402(2007).
+RN   [2]
+RP   GENOME REANNOTATION.
+RC   STRAIN=PH-1 / ATCC MYA-4620 / FGSC 9075 / NRRL 31084;
+RX   PubMed=20237561; DOI=10.1038/nature08850;
+RA   Ma L.-J., van der Does H.C., Borkovich K.A., Coleman J.J.,
+RA   Daboussi M.-J., Di Pietro A., Dufresne M., Freitag M., Grabherr M.,
+RA   Henrissat B., Houterman P.M., Kang S., Shim W.-B., Woloshuk C.,
+RA   Xie X., Xu J.-R., Antoniw J., Baker S.E., Bluhm B.H., Breakspear A.,
+RA   Brown D.W., Butchko R.A.E., Chapman S., Coulson R., Coutinho P.M.,
+RA   Danchin E.G.J., Diener A., Gale L.R., Gardiner D.M., Goff S.,
+RA   Hammond-Kosack K.E., Hilburn K., Hua-Van A., Jonkers W., Kazan K.,
+RA   Kodira C.D., Koehrsen M., Kumar L., Lee Y.-H., Li L., Manners J.M.,
+RA   Miranda-Saavedra D., Mukherjee M., Park G., Park J., Park S.-Y.,
+RA   Proctor R.H., Regev A., Ruiz-Roldan M.C., Sain D., Sakthikumar S.,
+RA   Sykes S., Schwartz D.C., Turgeon B.G., Wapinski I., Yoder O.,
+RA   Young S., Zeng Q., Zhou S., Galagan J., Cuomo C.A., Kistler H.C.,
+RA   Rep M.;
+RT   "Comparative genomics reveals mobile pathogenicity chromosomes in
+RT   Fusarium.";
+RL   Nature 464:367-373(2010).
+RN   [3]
+RP   SUBCELLULAR LOCATION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL
+RP   PROPERTIES, AND ENZYME REGULATION.
+RX   PubMed=15629130; DOI=10.1016/j.bbrc.2004.12.036;
+RA   Belien T., Van Campenhout S., Van Acker M., Volckaert G.;
+RT   "Cloning and characterization of two endoxylanases from the cereal
+RT   phytopathogen Fusarium graminearum and their inhibition profile
+RT   against endoxylanase inhibitors from wheat.";
+RL   Biochem. Biophys. Res. Commun. 327:407-414(2005).
+RN   [4]
+RP   INDUCTION.
+RX   PubMed=16707104; DOI=10.1016/j.bbrc.2006.04.171;
+RA   Hatsch D., Phalip V., Petkovski E., Jeltsch J.M.;
+RT   "Fusarium graminearum on plant cell wall: no fewer than 30 xylanase
+RT   genes transcribed.";
+RL   Biochem. Biophys. Res. Commun. 345:959-966(2006).
+RN   [5]
+RP   INDUCTION.
+RX   PubMed=17924109; DOI=10.1007/s00294-007-0154-x;
+RA   Brunner K., Lichtenauer A.M., Kratochwill K., Delic M., Mach R.L.;
+RT   "Xyr1 regulates xylanase but not cellulase formation in the head
+RT   blight fungus Fusarium graminearum.";
+RL   Curr. Genet. 52:213-220(2007).
+RN   [6]
+RP   FUNCTION, CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND
+RP   ENZYME REGULATION.
+RX   DOI=10.1016/j.enzmictec.2008.12.005;
+RA   Pollet A., Belien T., Fierens K., Delcour J.A., Courtin C.M.;
+RT   "Fusarium graminearum xylanases show different functional stabilities,
+RT   substrate specificities and inhibition sensitivities.";
+RL   Enzyme Microb. Technol. 44:189-195(2009).
+RN   [7]
+RP   SUBCELLULAR LOCATION, IDENTIFICATION BY MASS SPECTROMETRY, FUNCTION,
+RP   CATALYTIC ACTIVITY, BIOPHYSICOCHEMICAL PROPERTIES, AND ENZYME
+RP   REGULATION.
+RX   PubMed=22313372; DOI=10.1021/jf203407p;
+RA   Dong X., Meinhardt S.W., Schwarz P.B.;
+RT   "Isolation and characterization of two endoxylanases from Fusarium
+RT   graminearum.";
+RL   J. Agric. Food Chem. 60:2538-2545(2012).
+RN   [8]
+RP   INDUCTION, FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=23337356; DOI=10.1016/j.plaphy.2012.12.008;
+RA   Sella L., Gazzetti K., Faoro F., Odorizzi S., D'Ovidio R., Schafer W.,
+RA   Favaron F.;
+RT   "A Fusarium graminearum xylanase expressed during wheat infection is a
+RT   necrotizing factor but is not essential for virulence.";
+RL   Plant Physiol. Biochem. 64:1-10(2013).
+RN   [9]
+RP   FUNCTION, AND DISRUPTION PHENOTYPE.
+RX   PubMed=24779355; DOI=10.1094/PHYTO-12-13-0355-R;
+RA   Sella L., Gazzetti K.G., Castiglioni C., Schafer W., Favaron F.;
+RT   "Fusarium graminearum possesses virulence factors common to Fusarium
+RT   head blight of wheat and seedling rot of soybean, but differing in
+RT   their impact on disease severity.";
+RL   Phytopathology 104:1201-1207(2014).
+CC   -!- FUNCTION: Endo-1,4-beta-xylanase involved in the hydrolysis of
+CC       xylan, a major structural heterogeneous polysaccharide found in
+CC       plant biomass representing the second most abundant polysaccharide
+CC       in the biosphere, after cellulose. Plays a important role in
+CC       causing fusarium head blight (FHB) on cereal crops. Induces cell
+CC       death and hydrogen peroxide accumulation in infected wheat leaves.
+CC       {ECO:0000269|PubMed:22313372, ECO:0000269|PubMed:23337356,
+CC       ECO:0000269|PubMed:24779355, ECO:0000269|Ref.6}.
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000269|PubMed:15629130,
+CC       ECO:0000269|PubMed:22313372, ECO:0000269|Ref.6}.
+CC   -!- ENZYME REGULATION: Inhibited by the proteinaceous endoxylanase
+CC       inhibitor I from T.aestivum (TAXI-I).
+CC       {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC       ECO:0000269|Ref.6}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=6.2 mg/ml for wheat flour arabinoxylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         KM=4.3 mg/ml for soluble oat spelt xylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         KM=11.9 mg/ml for soluble birchwood xylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         Vmax=18.4 umol/min/mg enzyme toward xylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC         Vmax=61.7 umol/min/mg enzyme toward arabinoxylan
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC       pH dependence:
+CC         Optimum pH is 7.0. {ECO:0000269|PubMed:15629130,
+CC         ECO:0000269|PubMed:22313372, ECO:0000269|Ref.6};
+CC       Temperature dependence:
+CC         Optimum temperature is 40 degrees Celsius.
+CC         {ECO:0000269|PubMed:15629130, ECO:0000269|PubMed:22313372,
+CC         ECO:0000269|Ref.6};
+CC   -!- PATHWAY: Glycan degradation; xylan degradation.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:15629130,
+CC       ECO:0000269|PubMed:22313372}.
+CC   -!- INDUCTION: Expression is under the control of transcription factor
+CC       XYR1 and highly induced during wheat infection and by xylan.
+CC       {ECO:0000269|PubMed:16707104, ECO:0000269|PubMed:17924109,
+CC       ECO:0000269|PubMed:23337356}.
+CC   -!- DISRUPTION PHENOTYPE: Leads to about 40 percent reduction of
+CC       xylanase activity when grown in culture with xylan as carbon
+CC       source. {ECO:0000269|PubMed:23337356,
+CC       ECO:0000269|PubMed:24779355}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 11 (cellulase G)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 GH11 (glycosyl hydrolase family 11) domain.
+CC       {ECO:0000255|PROSITE-ProRule:PRU01097}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ863566; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; AY575961; -; NOT_ANNOTATED_CDS; Genomic_DNA.
+DR   EMBL; DS231664; ESU09578.1; -; Genomic_DNA.
+DR   RefSeq; XP_011322077.1; XM_011323775.1.
+DR   ProteinModelPortal; I1RII8; -.
+DR   SMR; I1RII8; 41-227.
+DR   GeneID; 23550922; -.
+DR   KEGG; fgr:FGSG_03624; -.
+DR   eggNOG; ENOG410YH6C; LUCA.
+DR   InParanoid; I1RII8; -.
+DR   KO; K01181; -.
+DR   OrthoDB; EOG7VQJQX; -.
+DR   UniPathway; UPA00114; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0009405; P:pathogenesis; IEA:UniProtKB-KW.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 2.60.120.180; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001137; Glyco_hydro_11.
+DR   InterPro; IPR013319; Glyco_hydro_11/12.
+DR   InterPro; IPR018208; Glyco_hydro_11_AS.
+DR   Pfam; PF00457; Glyco_hydro_11; 1.
+DR   PRINTS; PR00911; GLHYDRLASE11.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   PROSITE; PS00776; GH11_1; 1.
+DR   PROSITE; PS00777; GH11_2; 1.
+DR   PROSITE; PS51761; GH11_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal; Virulence;
+KW   Xylan degradation.
+FT   SIGNAL        1     19       {ECO:0000255}.
+FT   CHAIN        20    228       Endo-1,4-beta-xylanase B.
+FT                                /FTId=PRO_0000429610.
+FT   DOMAIN       37    227       GH11. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU01097}.
+FT   ACT_SITE    122    122       Nucleophile. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10062}.
+FT   ACT_SITE    214    214       Proton donor. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU10063}.
+SQ   SEQUENCE   228 AA;  24544 MW;  F21FFE62EC3B0B80 CRC64;
+     MVSFTYLLAA VSAVTGAVAA PNPTKVDAQP PSGLLEKRTS PTTGVNNGFY FSFWTDTPSA
+     VTYTNGNGGQ FSMNWNGNRG NHVGGKGWNP GAARTIKYSG DYRPNGNSYL AVYGWTRNPL
+     VEYYIVENFG TYNPSSGAQK KGEINIDGSI YDIAVSTRNC APSIEGDCKT FQQYWSVRRN
+     KRSSGSVNTG AHFNAWAQAG LRLGSHDYQI LAVEGYQSSG QATMTVSG
+//
+ID   Q5K098_9FUNG            Unreviewed;       203 AA.
+AC   Q5K098;
+DT   15-FEB-2005, integrated into UniProtKB/TrEMBL.
+DT   15-FEB-2005, sequence version 1.
+DT   24-JUN-2015, entry version 38.
+DE   RecName: Full=Beta-xylanase {ECO:0000256|RuleBase:RU361174};
+DE            EC=3.2.1.8 {ECO:0000256|RuleBase:RU361174};
+DE   Flags: Fragment;
+GN   Name=xynB {ECO:0000313|EMBL:CAI11366.1};
+OS   Orpinomyces sp. OUS1.
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Orpinomyces.
+OX   NCBI_TaxID=301046 {ECO:0000313|EMBL:CAI11366.1};
+RN   [1] {ECO:0000313|EMBL:CAI11366.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=OUS1 {ECO:0000313|EMBL:CAI11366.1};
+RA   Nicholson M.J., Theodorou M.K., Brookman J.L.;
+RT   "Molecular analysis of the anaerobic rumen fungus Orpinomyces -
+RT   insights into an AT-rich genome.";
+RL   Microbiology (Mosc.) 15:121-133(2005).
+RN   [2] {ECO:0000313|EMBL:CAI11366.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=OUS1 {ECO:0000313|EMBL:CAI11366.1};
+RA   Nicholson M.J., Theodorou M.K., Brookman J.L.;
+RT   "Molecular analysis of the anaerobic rumen fungus Orpinomyces -
+RT   insights into an AT-rich genome.";
+RL   Microbiology (Mosc.) 0:0-0(0).
+CC   -!- CATALYTIC ACTIVITY: Endohydrolysis of (1->4)-beta-D-xylosidic
+CC       linkages in xylans. {ECO:0000256|RuleBase:RU361174}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 10 (cellulase F)
+CC       family. {ECO:0000256|RuleBase:RU361174}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ863170; CAI11366.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q5K098; -.
+DR   CAZy; GH10; Glycoside Hydrolase Family 10.
+DR   GO; GO:0031176; F:endo-1,4-beta-xylanase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.80; -; 1.
+DR   InterPro; IPR001000; Glyco_hydro_10.
+DR   InterPro; IPR031158; Glyco_hydro_10_AS.
+DR   InterPro; IPR013781; Glyco_hydro_catalytic_dom.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   Pfam; PF00331; Glyco_hydro_10; 1.
+DR   PRINTS; PR00134; GLHYDRLASE10.
+DR   SMART; SM00633; Glyco_10; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   PROSITE; PS00591; GLYCOSYL_HYDROL_F10; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000313|EMBL:CAI11366.1};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361174};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361174};
+KW   Polysaccharide degradation {ECO:0000313|EMBL:CAI11366.1};
+KW   Xylan degradation {ECO:0000313|EMBL:CAI11366.1}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:CAI11366.1}.
+FT   NON_TER     203    203       {ECO:0000313|EMBL:CAI11366.1}.
+SQ   SEQUENCE   203 AA;  23028 MW;  03BFE5BDCE9818F4 CRC64;
+     EFRGHCLIWH AHQPSWFQNA DANTLKNAII DHITKTLQHY EXKIKVWDVV NEAIDDNSNG
+     NGFSMRRSFL YNKVPNFVDI AFQTARKASP NTKLFYNDYN AEGQYPKSES IYNFVADLKK
+     RNIXIDGIGL QYHVGAKSQP SYDKINNLIG RYCKLGLEVH ITELDVKLEG NQNGQTQAFT
+     NALKACLANS CCKAFLVWGV GDN
+//
+ID   A0A0U1LI81_9EURO        Unreviewed;       265 AA.
+AC   A0A0U1LI81;
+DT   17-FEB-2016, integrated into UniProtKB/TrEMBL.
+DT   17-FEB-2016, sequence version 1.
+DT   17-FEB-2016, entry version 1.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CRG82729.1};
+GN   Name=xynB {ECO:0000313|EMBL:CRG82729.1};
+GN   ORFNames=PISL3812_00074 {ECO:0000313|EMBL:CRG82729.1};
+OS   Talaromyces islandicus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=28573 {ECO:0000313|EMBL:CRG82729.1};
+RN   [1] {ECO:0000313|EMBL:CRG82729.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=WF-38-12 {ECO:0000313|EMBL:CRG82729.1};
+RA   Syromyatnikov M.Y., Popov V.N.;
+RL   Submitted (APR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CVMT01000001; CRG82729.1; -; Genomic_DNA.
+PE   4: Predicted;
+SQ   SEQUENCE   265 AA;  28578 MW;  1452060007E35358 CRC64;
+     MYSALVIAFT AITGSLAVPV NDALAARGPA HFVLDGNVTL ARRDAINYQQ DYTSGGSVSY
+     YPSSSGFEVN WSTEDDFVVG VGWNPGGIAA INFGGQFSVS SGTGLLSVYG WSTDPLVEYY
+     IIEDYVNQPS FGTQKGTVYS DGATYVIWEN ERVNQPSIEG TSTFNQYISV RESPRTEGTV
+     TVDNHFNAWG SLGMSLGTMN YQVIAVEGWG GSGSSSLAGQ LIDNQFHHQH PRRTLALAQV
+     PQTSPQLDEL HAIESYPYAG QLFTG
+//

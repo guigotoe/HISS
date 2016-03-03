@@ -1,0 +1,800 @@
+ID   XYL1_ASPNC              Reviewed;         319 AA.
+AC   A2Q8B5;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   06-MAR-2007, sequence version 1.
+DT   11-NOV-2015, entry version 56.
+DE   RecName: Full=Probable NAD(P)H-dependent D-xylose reductase xyl1;
+DE            Short=XR;
+DE            EC=1.1.1.307;
+GN   Name=xyl1; Synonyms=xyrA; ORFNames=An01g03740;
+OS   Aspergillus niger (strain CBS 513.88 / FGSC A1513).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=425011;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 513.88 / FGSC A1513;
+RX   PubMed=17259976; DOI=10.1038/nbt1282;
+RA   Pel H.J., de Winde J.H., Archer D.B., Dyer P.S., Hofmann G.,
+RA   Schaap P.J., Turner G., de Vries R.P., Albang R., Albermann K.,
+RA   Andersen M.R., Bendtsen J.D., Benen J.A.E., van den Berg M.,
+RA   Breestraat S., Caddick M.X., Contreras R., Cornell M., Coutinho P.M.,
+RA   Danchin E.G.J., Debets A.J.M., Dekker P., van Dijck P.W.M.,
+RA   van Dijk A., Dijkhuizen L., Driessen A.J.M., d'Enfert C., Geysens S.,
+RA   Goosen C., Groot G.S.P., de Groot P.W.J., Guillemette T.,
+RA   Henrissat B., Herweijer M., van den Hombergh J.P.T.W.,
+RA   van den Hondel C.A.M.J.J., van der Heijden R.T.J.M.,
+RA   van der Kaaij R.M., Klis F.M., Kools H.J., Kubicek C.P.,
+RA   van Kuyk P.A., Lauber J., Lu X., van der Maarel M.J.E.C.,
+RA   Meulenberg R., Menke H., Mortimer M.A., Nielsen J., Oliver S.G.,
+RA   Olsthoorn M., Pal K., van Peij N.N.M.E., Ram A.F.J., Rinas U.,
+RA   Roubos J.A., Sagt C.M.J., Schmoll M., Sun J., Ussery D., Varga J.,
+RA   Vervecken W., van de Vondervoort P.J.J., Wedler H., Woesten H.A.B.,
+RA   Zeng A.-P., van Ooyen A.J.J., Visser J., Stam H.;
+RT   "Genome sequencing and analysis of the versatile cell factory
+RT   Aspergillus niger CBS 513.88.";
+RL   Nat. Biotechnol. 25:221-231(2007).
+CC   -!- FUNCTION: Catalyzes the initial reaction in the xylose utilization
+CC       pathway by reducing D-xylose into xylitol. Xylose is a major
+CC       component of hemicelluloses such as xylan. Most fungi utilize D-
+CC       xylose via three enzymatic reactions, xylose reductase (XR),
+CC       xylitol dehydrogenase (XDH), and xylulokinase, to form xylulose 5-
+CC       phosphate, which enters pentose phosphate pathway (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Xylitol + NAD(P)(+) = D-xylose + NAD(P)H.
+CC   -!- PATHWAY: Carbohydrate metabolism; D-xylose degradation.
+CC   -!- SIMILARITY: Belongs to the aldo/keto reductase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM269959; CAK36912.1; -; Genomic_DNA.
+DR   ProteinModelPortal; A2Q8B5; -.
+DR   SMR; A2Q8B5; 2-313.
+DR   PRIDE; A2Q8B5; -.
+DR   EnsemblFungi; CADANGAT00000367; CADANGAP00000355; CADANGAG00000367.
+DR   HOGENOM; HOG000250272; -.
+DR   OrthoDB; EOG7WQ83S; -.
+DR   BioCyc; MetaCyc:MONOMER-13190; -.
+DR   UniPathway; UPA00810; -.
+DR   Proteomes; UP000006706; Chromosome 2R.
+DR   GO; GO:0005622; C:intracellular; IDA:ASPGD.
+DR   GO; GO:0032866; F:D-xylose:NADP reductase activity; IMP:ASPGD.
+DR   GO; GO:0047935; F:glucose 1-dehydrogenase (NADP+) activity; IEA:EnsemblFungi.
+DR   GO; GO:0003729; F:mRNA binding; IEA:EnsemblFungi.
+DR   GO; GO:0019568; P:arabinose catabolic process; IMP:ASPGD.
+DR   GO; GO:0071470; P:cellular response to osmotic stress; IEA:EnsemblFungi.
+DR   GO; GO:0034599; P:cellular response to oxidative stress; IEA:EnsemblFungi.
+DR   GO; GO:0042843; P:D-xylose catabolic process; IMP:ASPGD.
+DR   GO; GO:0019388; P:galactose catabolic process; IEA:EnsemblFungi.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Glycoprotein; NAD; NADP;
+KW   Oxidoreductase; Reference proteome; Xylose metabolism.
+FT   CHAIN         1    319       Probable NAD(P)H-dependent D-xylose
+FT                                reductase xyl1.
+FT                                /FTId=PRO_0000393500.
+FT   NP_BIND     166    167       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     215    224       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     271    281       NAD or NADP. {ECO:0000250}.
+FT   ACT_SITE     50     50       Proton donor. {ECO:0000250}.
+FT   BINDING     112    112       Substrate. {ECO:0000250}.
+FT   SITE         79     79       Lowers pKa of active site Tyr.
+FT                                {ECO:0000250}.
+FT   CARBOHYD     26     26       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    141    141       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    167    167       N-linked (GlcNAc...). {ECO:0000255}.
+SQ   SEQUENCE   319 AA;  36095 MW;  C7D6DB56D37E973F CRC64;
+     MASPTVKLNS GYDMPLVGFG LWKVNNDTCA DQIYHAIKEG YRLFDGACDY GNEVEAGQGI
+     ARAIKDGLVK REELFIVSKL WNSFHDGDRV EPICRKQLAD WGIDYFDLYI VHFPISLKYV
+     DPAVRYPPGW KSEKDELEFG NATIQETWTA MESLVDKKLA RSIGISNFSA QLVMDLLRYA
+     RIRPATLQIE HHPYLTQTRL VEYAQKEGLT VTAYSSFGPL SFLELSVQNA VDSPPLFEHQ
+     LVKSIAEKHG RTPAQVLLRW ATQRGIAVIP KSNNPQRLKQ NLDVTGWNLE EEEIKAISGL
+     DRGLRFNDPL GYGLYAPIF
+//
+ID   XYL1_ASPNG              Reviewed;         319 AA.
+AC   Q9P8R5;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2000, sequence version 1.
+DT   09-DEC-2015, entry version 63.
+DE   RecName: Full=NAD(P)H-dependent D-xylose reductase xyl1;
+DE            Short=XR;
+DE            EC=1.1.1.307;
+GN   Name=xyl1; Synonyms=xyrA;
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND INDUCTION.
+RX   PubMed=10760176; DOI=10.1046/j.1365-2958.2000.01843.x;
+RA   Hasper A.A., Visser J., de Graaff L.H.;
+RT   "The Aspergillus niger transcriptional activator XlnR, which is
+RT   involved in the degradation of the polysaccharides xylan and
+RT   cellulose, also regulates D-xylose reductase gene expression.";
+RL   Mol. Microbiol. 36:193-200(2000).
+CC   -!- FUNCTION: Catalyzes the initial reaction in the xylose utilization
+CC       pathway by reducing D-xylose into xylitol. Xylose is a major
+CC       component of hemicelluloses such as xylan. Most fungi utilize D-
+CC       xylose via three enzymatic reactions, xylose reductase (XR),
+CC       xylitol dehydrogenase (XDH), and xylulokinase, to form xylulose 5-
+CC       phosphate, which enters pentose phosphate pathway (By similarity).
+CC       {ECO:0000250, ECO:0000269|PubMed:10760176}.
+CC   -!- CATALYTIC ACTIVITY: Xylitol + NAD(P)(+) = D-xylose + NAD(P)H.
+CC   -!- PATHWAY: Carbohydrate metabolism; D-xylose degradation.
+CC   -!- INDUCTION: Expression controlled by the xylanolytic
+CC       transcriptional activator xlnR. {ECO:0000269|PubMed:10760176}.
+CC   -!- SIMILARITY: Belongs to the aldo/keto reductase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF219625; AAF61912.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q9P8R5; -.
+DR   SMR; Q9P8R5; 2-313.
+DR   STRING; 5061.CADANGAP00000355; -.
+DR   PaxDb; Q9P8R5; -.
+DR   PRIDE; Q9P8R5; -.
+DR   eggNOG; KOG1577; Eukaryota.
+DR   eggNOG; COG0656; LUCA.
+DR   BRENDA; 1.1.1.307; 518.
+DR   UniPathway; UPA00810; -.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042843; P:D-xylose catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism; NAD; Oxidoreductase; Xylose metabolism.
+FT   CHAIN         1    319       NAD(P)H-dependent D-xylose reductase
+FT                                xyl1.
+FT                                /FTId=PRO_0000124658.
+FT   NP_BIND     166    167       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     215    281       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     215    224       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     271    281       NAD or NADP. {ECO:0000250}.
+FT   ACT_SITE     50     50       Proton donor. {ECO:0000250}.
+FT   BINDING     112    112       Substrate. {ECO:0000250}.
+FT   SITE         79     79       Lowers pKa of active site Tyr.
+FT                                {ECO:0000250}.
+SQ   SEQUENCE   319 AA;  36095 MW;  C7D6DB56D37E973F CRC64;
+     MASPTVKLNS GYDMPLVGFG LWKVNNDTCA DQIYHAIKEG YRLFDGACDY GNEVEAGQGI
+     ARAIKDGLVK REELFIVSKL WNSFHDGDRV EPICRKQLAD WGIDYFDLYI VHFPISLKYV
+     DPAVRYPPGW KSEKDELEFG NATIQETWTA MESLVDKKLA RSIGISNFSA QLVMDLLRYA
+     RIRPATLQIE HHPYLTQTRL VEYAQKEGLT VTAYSSFGPL SFLELSVQNA VDSPPLFEHQ
+     LVKSIAEKHG RTPAQVLLRW ATQRGIAVIP KSNNPQRLKQ NLDVTGWNLE EEEIKAISGL
+     DRGLRFNDPL GYGLYAPIF
+//
+ID   XYL1_CANTR              Reviewed;         324 AA.
+AC   O13283;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-JAN-1998, sequence version 1.
+DT   11-NOV-2015, entry version 63.
+DE   RecName: Full=NAD(P)H-dependent D-xylose reductase I,II;
+DE            Short=XR;
+DE            EC=1.1.1.307;
+GN   Name=xyrA;
+OS   Candida tropicalis (Yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Debaryomycetaceae;
+OC   Candida/Lodderomyces clade; Candida.
+OX   NCBI_TaxID=5482;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96745 / CBS 4913 / NBRC 0618 / NRRL Y-5716;
+RA   Yokoyama S., Kinoshita Y., Suzuki T., Kawai K., Horitsu H.,
+RA   Takamizawa K.;
+RT   "Cloning and sequencing of two D-xylose reductase genes (xyrA and
+RT   xyrB) from Candida tropicalis.";
+RL   J. Ferment. Bioeng. 80:603-605(1995).
+CC   -!- FUNCTION: Reduces D-xylose into xylitol. Has a preference for
+CC       NADPH, but can also utilize NADH as cosubstrate (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Xylitol + NAD(P)(+) = D-xylose + NAD(P)H.
+CC   -!- PATHWAY: Carbohydrate metabolism; D-xylose degradation.
+CC   -!- SIMILARITY: Belongs to the aldo/keto reductase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB002105; BAA19476.1; -; Genomic_DNA.
+DR   ProteinModelPortal; O13283; -.
+DR   SMR; O13283; 6-324.
+DR   STRING; 294747.XP_002546515.1; -.
+DR   eggNOG; KOG1577; Eukaryota.
+DR   eggNOG; COG0656; LUCA.
+DR   UniPathway; UPA00810; -.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042843; P:D-xylose catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; NAD; NADP; Oxidoreductase; Xylose metabolism.
+FT   CHAIN         1    324       NAD(P)H-dependent D-xylose reductase
+FT                                I,II.
+FT                                /FTId=PRO_0000124662.
+FT   NP_BIND     171    172       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     220    229       NAD or NADP. {ECO:0000250}.
+FT   NP_BIND     276    286       NAD or NADP. {ECO:0000250}.
+FT   ACT_SITE     54     54       Proton donor. {ECO:0000250}.
+FT   BINDING     116    116       Substrate. {ECO:0000250}.
+FT   SITE         83     83       Lowers pKa of active site Tyr.
+FT                                {ECO:0000250}.
+SQ   SEQUENCE   324 AA;  36575 MW;  3002FFBDA21FA3E0 CRC64;
+     MSTTPTIPTI KLNSGYEMPL VGFGCWKVTN ATAADQIYNA IKTGYRLFDG AEDYGNEKEV
+     GEGINRAIKE GLVKREELFI TSKLWNNFHD PKNVETALNK TLSDLNLDYV DLFLIHFPIA
+     FKFVPIEEKY PPGFYCGDGD NFHYEDVPLL DTWKALEKLV EAGKIKSIGI SNFTGALIYD
+     LIRGATIKPA VLQIEHHPYL QQPKLIEYVQ KAGIAITGYS SFGPQSFLEL ESKRALNTPT
+     LFEHETIKLI ADKHGKSPAQ VLLRWATQRN IAVIPKSNNP ERLAQNLSVV DFDLTKDDLD
+     NIAKLDIGLR FNDPWDWDNI PIFV
+//
+ID   B9WHK9_CANDC            Unreviewed;       331 AA.
+AC   B9WHK9;
+DT   24-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   24-MAR-2009, sequence version 1.
+DT   20-JAN-2016, entry version 43.
+DE   SubName: Full=NAD(P)H-dependent D-xylose reductase I,II, putative {ECO:0000313|EMBL:CAX41651.1};
+DE            EC=1.1.1.- {ECO:0000313|EMBL:CAX41651.1};
+GN   Name=XYRA {ECO:0000313|EMBL:CAX41651.1};
+GN   OrderedLocusNames=Cd36_52690 {ECO:0000313|CGD:CAL0000163207};
+GN   ORFNames=CD36_52690 {ECO:0000313|EMBL:CAX41651.1};
+OS   Candida dubliniensis (strain CD36 / ATCC MYA-646 / CBS 7987 / NCPF
+OS   3949 / NRRL Y-17841) (Yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Debaryomycetaceae;
+OC   Candida/Lodderomyces clade; Candida.
+OX   NCBI_TaxID=573826 {ECO:0000313|EMBL:CAX41651.1, ECO:0000313|Proteomes:UP000002605};
+RN   [1] {ECO:0000313|EMBL:CAX41651.1, ECO:0000313|Proteomes:UP000002605}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CD36 / ATCC MYA-646 / CBS 7987 / NCPF 3949 / NRRL Y-17841
+RC   {ECO:0000313|Proteomes:UP000002605};
+RX   PubMed=19745113; DOI=10.1101/gr.097501.109;
+RA   Jackson A.P., Gamble J.A., Yeomans T., Moran G.P., Saunders D.,
+RA   Harris D., Aslett M., Barrell J.F., Butler G., Citiulo F.,
+RA   Coleman D.C., de Groot P.W.J., Goodwin T.J., Quail M.A., McQuillan J.,
+RA   Munro C.A., Pain A., Poulter R.T., Rajandream M.A., Renauld H.,
+RA   Spiering M.J., Tivey A., Gow N.A.R., Barrell B., Sullivan D.J.,
+RA   Berriman M.;
+RT   "Comparative genomics of the fungal pathogens Candida dubliniensis and
+RT   Candida albicans.";
+RL   Genome Res. 19:2231-2244(2009).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; FM992692; CAX41651.1; -; Genomic_DNA.
+DR   RefSeq; XP_002420572.1; XM_002420527.1.
+DR   STRING; 573826.XP_002420572.1; -.
+DR   EnsemblFungi; CAX41651; CAX41651; CD36_52690.
+DR   GeneID; 8048448; -.
+DR   KEGG; cdu:CD36_52690; -.
+DR   CGD; CAL0000163207; Cd36_52690.
+DR   eggNOG; COG0656; LUCA.
+DR   eggNOG; KOG1577; Eukaryota.
+DR   HOGENOM; HOG000250272; -.
+DR   KO; K17743; -.
+DR   OrthoDB; EOG7WQ83S; -.
+DR   Proteomes; UP000002605; Chromosome 5.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002605};
+KW   Oxidoreductase {ECO:0000313|EMBL:CAX41651.1}.
+FT   DOMAIN       25    313       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     58     58       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   331 AA;  37288 MW;  F0142C803795D83A CRC64;
+     MSTTTPTTPT TPTIKLNSGY EMPIVGFGCW KVTNATAADQ IYNAIKTGYR LFDGAEDYGN
+     EKEVGEGINR AIKEGLVKRE ELFIVSKLWN NYHSPENVEK ALNKTLNDLN LDYLDLFLIH
+     FPIAFKFVPL EEKYPPGFYC GGDGGDNKFH YENVPLLDTW KALEKLVNLG KIKSIGISNF
+     NGGLIYDLIR GATIKPAVLQ IEHHPYLQQP RLIEFVQNQG IAITAYSSFG PQSFLELQSK
+     KALDTPTLFE HEIIKSIADK HGKSSAQILL RWATQRNIAV IPKSNNPDRL AQNLAVVDFD
+     LTDEDLQAIS KLDIGLRFND PWDWDKIPIF V
+//
+ID   G3XRU5_ASPNA            Unreviewed;       319 AA.
+AC   G3XRU5;
+DT   14-DEC-2011, integrated into UniProtKB/TrEMBL.
+DT   14-DEC-2011, sequence version 1.
+DT   09-DEC-2015, entry version 23.
+DE   SubName: Full=D-xylose reductase {ECO:0000313|EMBL:EHA26354.1};
+DE            EC=1.1.1.21 {ECO:0000313|EMBL:EHA26354.1};
+GN   Name=xyrA {ECO:0000313|EMBL:EHA26354.1};
+GN   ORFNames=ASPNIDRAFT_51997 {ECO:0000313|EMBL:EHA26354.1};
+OS   Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB
+OS   Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=380704 {ECO:0000313|EMBL:EHA26354.1, ECO:0000313|Proteomes:UP000009038};
+RN   [1] {ECO:0000313|EMBL:EHA26354.1, ECO:0000313|Proteomes:UP000009038}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a /
+RC   NRRL 328 / USDA 3528.7 {ECO:0000313|Proteomes:UP000009038};
+RX   PubMed=21543515; DOI=10.1101/gr.112169.110;
+RA   Andersen M.R., Salazar M.P., Schaap P.J., van de Vondervoort P.J.I.,
+RA   Culley D., Thykaer J., Frisvad J.C., Nielsen K.F., Albang R.,
+RA   Albermann K., Berka R.M., Braus G.H., Braus-Stromeyer S.A.,
+RA   Corrochano L.M., Dai Z., van Dijck P.W.M., Hofmann G., Lasure L.L.,
+RA   Magnuson J.K., Menke H., Meijer M., Meijer S.L., Nielsen J.B.,
+RA   Nielsen M.L., van Ooyen A.J.J., Pel H.J., Poulsen L., Samson R.A.,
+RA   Stam H., Tsang A., van den Brink J.M., Atkins A., Aerts A.,
+RA   Shapiro H., Pangilinan J., Salamov A., Lou Y., Lindquist E., Lucas S.,
+RA   Grimwood J., Grigoriev I.V., Kubicek C.P., Martinez D.,
+RA   van Peij N.N.M.E., Roubos J.A., Nielsen J., Baker S.E.;
+RT   "Comparative genomics of citric-acid-producing Aspergillus niger ATCC
+RT   1015 versus enzyme-producing CBS 513.88.";
+RL   Genome Res. 21:885-897(2011).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EHA26354.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACJE01000004; EHA26354.1; -; Genomic_DNA.
+DR   ProteinModelPortal; G3XRU5; -.
+DR   SMR; G3XRU5; 2-313.
+DR   PRIDE; G3XRU5; -.
+DR   EnsemblFungi; EHA26354; EHA26354; ASPNIDRAFT_51997.
+DR   OrthoDB; EOG7WQ83S; -.
+DR   Proteomes; UP000009038; Unassembled WGS sequence.
+DR   GO; GO:0004032; F:alditol:NADP+ 1-oxidoreductase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000009038};
+KW   Oxidoreductase {ECO:0000313|EMBL:EHA26354.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000009038}.
+FT   DOMAIN       17    300       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     50     50       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   319 AA;  36095 MW;  C7D6DB56D37E973F CRC64;
+     MASPTVKLNS GYDMPLVGFG LWKVNNDTCA DQIYHAIKEG YRLFDGACDY GNEVEAGQGI
+     ARAIKDGLVK REELFIVSKL WNSFHDGDRV EPICRKQLAD WGIDYFDLYI VHFPISLKYV
+     DPAVRYPPGW KSEKDELEFG NATIQETWTA MESLVDKKLA RSIGISNFSA QLVMDLLRYA
+     RIRPATLQIE HHPYLTQTRL VEYAQKEGLT VTAYSSFGPL SFLELSVQNA VDSPPLFEHQ
+     LVKSIAEKHG RTPAQVLLRW ATQRGIAVIP KSNNPQRLKQ NLDVTGWNLE EEEIKAISGL
+     DRGLRFNDPL GYGLYAPIF
+//
+ID   XYL2_CANTR              Reviewed;         324 AA.
+AC   P87039;
+DT   11-OCT-2004, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1997, sequence version 1.
+DT   11-NOV-2015, entry version 65.
+DE   RecName: Full=NADPH-dependent D-xylose reductase II,III;
+DE            Short=XR;
+DE            EC=1.1.1.307;
+GN   Name=xyrB;
+OS   Candida tropicalis (Yeast).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Debaryomycetaceae;
+OC   Candida/Lodderomyces clade; Candida.
+OX   NCBI_TaxID=5482;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RC   STRAIN=ATCC 96745 / CBS 4913 / NBRC 0618 / NRRL Y-5716;
+RA   Yokoyama S., Kinoshita Y., Suzuki T., Kawai K., Horitsu H.,
+RA   Takamizawa K.;
+RT   "Cloning and sequencing of two D-xylose reductase genes (xyrA and
+RT   xyrB) from Candida tropicalis.";
+RL   J. Ferment. Bioeng. 80:603-605(1995).
+RN   [2]
+RP   CHARACTERIZATION.
+RC   STRAIN=ATCC 96745 / CBS 4913 / NBRC 0618 / NRRL Y-5716;
+RA   Yokoyama S., Suzuki T., Kawai K., Horitsu H., Takamizawa K.;
+RT   "Purification, characterization and structure analysis of NADPH-
+RT   dependent D-xylose reductase from Candida tropicalis.";
+RL   J. Ferment. Bioeng. 79:217-223(1997).
+CC   -!- FUNCTION: Reduces D-xylose into xylitol. Preferentially utilizes
+CC       NADPH as a cosubstrate.
+CC   -!- CATALYTIC ACTIVITY: Xylitol + NAD(P)(+) = D-xylose + NAD(P)H.
+CC   -!- PATHWAY: Carbohydrate metabolism; D-xylose degradation.
+CC   -!- SIMILARITY: Belongs to the aldo/keto reductase family.
+CC       {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB002106; BAA19477.1; -; Genomic_DNA.
+DR   ProteinModelPortal; P87039; -.
+DR   SMR; P87039; 6-324.
+DR   STRING; 294747.XP_002546515.1; -.
+DR   eggNOG; KOG1577; Eukaryota.
+DR   eggNOG; COG0656; LUCA.
+DR   UniPathway; UPA00810; -.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0042843; P:D-xylose catabolic process; IEA:UniProtKB-UniPathway.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; NADP; Oxidoreductase; Xylose metabolism.
+FT   CHAIN         1    324       NADPH-dependent D-xylose reductase
+FT                                II,III.
+FT                                /FTId=PRO_0000124663.
+FT   NP_BIND     171    172       NADP. {ECO:0000250}.
+FT   NP_BIND     220    229       NADP. {ECO:0000250}.
+FT   NP_BIND     276    286       NADP. {ECO:0000250}.
+FT   ACT_SITE     54     54       Proton donor. {ECO:0000250}.
+FT   BINDING     116    116       Substrate. {ECO:0000250}.
+FT   SITE         83     83       Lowers pKa of active site Tyr.
+FT                                {ECO:0000250}.
+SQ   SEQUENCE   324 AA;  36620 MW;  CA2769CA1655A239 CRC64;
+     MSTTPTIPTI KLNSGYEMPL VGFGCWKVNN ETAADQIYNA IKTGYRLFDG AEDYGNEKEV
+     GEGINRAIKE GLVKREELFI TSKLWNNFHD PKNVETALNK TLSDLNLDYV DLFLIHFPIA
+     FKFVPIEEKY PPGFYCGDGD NFHYEDVPLL DTWKALEKLV EAGKIKSIGI SNFTGALIYD
+     LIRGATIKPA VLQIEHHPYL QQPKLIEYVQ KAGIAITGYS SFGPQSFLEL ESKRALNTPT
+     LFEHETIKSI ADKHGKSPAQ VLLRWATQRN IAVIPKSNNP ERLAQNLSVV DFDLTKDDLD
+     NIAKLDIGLR FNDPWDWDNI PIFV
+//
+ID   A0A0K6FTR3_9HOMO        Unreviewed;       319 AA.
+AC   A0A0K6FTR3;
+DT   11-NOV-2015, integrated into UniProtKB/TrEMBL.
+DT   11-NOV-2015, sequence version 1.
+DT   17-FEB-2016, entry version 4.
+DE   SubName: Full=D-xylose reductase (Xyl1), putative {ECO:0000313|EMBL:CUA69636.1};
+GN   Name=xyrA {ECO:0000313|EMBL:CUA69636.1};
+GN   ORFNames=RSOLAG22IIIB_04012 {ECO:0000313|EMBL:CUA69636.1};
+OS   Rhizoctonia solani.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=456999 {ECO:0000313|EMBL:CUA69636.1, ECO:0000313|Proteomes:UP000044841};
+RN   [1] {ECO:0000313|EMBL:CUA69636.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BBA 69670 {ECO:0000313|EMBL:CUA69636.1};
+RA   Noorani M.;
+RL   Submitted (JUL-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CYGV01000890; CUA69636.1; -; Genomic_DNA.
+DR   Proteomes; UP000044841; Unassembled WGS sequence.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000044841}.
+FT   DOMAIN       16    300       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     49     49       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   319 AA;  35528 MW;  3230A8D104F19A20 CRC64;
+     MASITLKRTG QQMPLVGFGL WKVTKSTCAD TVYNAIKSGY RLLDGAGDYG NEKEAGQGVA
+     RAIKDGIVKR EELFITSKLW NTFHAKEHVH SLARKQLADW GVDHFDLFLI HFPVSLKYVD
+     PAKRYPPEWF GDDGKTVELQ NTPIQETWQA MEELVDAGLV KNIGISNMQG SLIIDIFRYA
+     RIAPQVLQIE HHPYLTQEPL IKLAQTLGIA VTAYSSFGPQ SFLELNMGQG VKSLLEGHDT
+     IGSIASAHNK TPAQVLLRWA SQRGIAVIPK SNNQGRLEQN LKSTDFDLTE DQIKAISALN
+     QNIRFNNPAD IDPRMSIFA
+//
+ID   A0A0B7FCC2_THACB        Unreviewed;       319 AA.
+AC   A0A0B7FCC2;
+DT   01-APR-2015, integrated into UniProtKB/TrEMBL.
+DT   01-APR-2015, sequence version 1.
+DT   09-DEC-2015, entry version 5.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CEL53892.1};
+GN   Name=xyrA {ECO:0000313|EMBL:CEL53892.1};
+GN   ORFNames=RSOLAG1IB_06674 {ECO:0000313|EMBL:CEL53892.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CEL53892.1};
+RN   [1] {ECO:0000313|EMBL:CEL53892.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Rhizoctonia solani AG1-IB 7/3/14 {ECO:0000313|EMBL:CEL53892.1};
+RA   Wibberg Daniel;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LN679113; CEL53892.1; -; Genomic_DNA.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+PE   4: Predicted;
+FT   DOMAIN       16    299       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     49     49       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   319 AA;  35425 MW;  71EA05A1D84FFA5D CRC64;
+     MASIALSRTG QKMPLVGFGL WKVTKSTCAD TVYNAIKSGY RLLDGAGDYG NEKEAGEGVA
+     RAIKEGIVKR EDLFITSKLW NTFHAKEHAH SLARKQLADW GVDYFDLFLI HFPVSLKYVD
+     PAKRYPPEWF GDDGKTVELQ NTPIQETWQA LEELADAGLA KNIGISNMQG SLIIDIFRYA
+     RIAPQVLQIE HHPYLTQEPL IKLAKTLGIA VTAYSSFGPQ SFLELNMGQG VQSLLQGHST
+     IESVAKAHNK TPAQVLLRWA SQRGIAIIPK SNNQGRLEQN LASTDFDLTE EQIKSISDLN
+     KGIRFNNPAD IDPRMSIFA
+//
+ID   H6BK30_EXODN            Unreviewed;       327 AA.
+AC   H6BK30;
+DT   18-APR-2012, integrated into UniProtKB/TrEMBL.
+DT   18-APR-2012, sequence version 1.
+DT   09-DEC-2015, entry version 19.
+DE   SubName: Full=D-xylose reductase xyrA {ECO:0000313|EMBL:EHY52484.1};
+GN   ORFNames=HMPREF1120_00696 {ECO:0000313|EMBL:EHY52484.1};
+OS   Exophiala dermatitidis (strain ATCC 34100 / CBS 525.76 / NIH/UT8656)
+OS   (Black yeast) (Wangiella dermatitidis).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Chaetothyriomycetidae; Chaetothyriales; Herpotrichiellaceae;
+OC   Exophiala.
+OX   NCBI_TaxID=858893 {ECO:0000313|EMBL:EHY52484.1, ECO:0000313|Proteomes:UP000007304};
+RN   [1] {ECO:0000313|Proteomes:UP000007304}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 34100 / CBS 525.76 / NIH/UT8656
+RC   {ECO:0000313|Proteomes:UP000007304};
+RX   PubMed=24496724; DOI=10.1534/g3.113.009241;
+RA   Chen Z., Martinez D.A., Gujja S., Sykes S.M., Zeng Q., Szaniszlo P.J.,
+RA   Wang Z., Cuomo C.A.;
+RT   "Comparative genomic and transcriptomic analysis of Wangiella
+RT   dermatitidis, a major cause of phaeohyphomycosis and a model black
+RT   yeast human pathogen.";
+RL   G3 (Bethesda) 0:0-0(2014).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH226130; EHY52484.1; -; Genomic_DNA.
+DR   RefSeq; XP_009152945.1; XM_009154697.1.
+DR   ProteinModelPortal; H6BK30; -.
+DR   EnsemblFungi; EHY52484; EHY52484; HMPREF1120_00696.
+DR   GeneID; 20305335; -.
+DR   InParanoid; H6BK30; -.
+DR   OrthoDB; EOG7WQ83S; -.
+DR   Proteomes; UP000007304; Unassembled WGS sequence.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000007304};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000007304}.
+FT   DOMAIN       18    306       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     51     51       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   327 AA;  37042 MW;  4BEB91C37D3598DC CRC64;
+     MPSVDTVTLA SGQKMPLVGF GLWKVPADKA ADIVYNAIKV GYRLFDGAYD YQNEREAGQG
+     IKRAIDEGLV KREDIFVTTK LWNNYHAKEH ALAMAKAQNE AWGLGYIDLY LIHFPIALKY
+     IEPEKLRYPG WWMDAEQKTI ERANVPIKET WEALEQVVDS GIAKSIGISN AQAQTIYDIQ
+     TYARHPISTL QIEHHPYLVQ QDLVDLAKEE KIVITAYSSF GPQSFLELPP AFRKRPDSVP
+     KLFDVDVVKK AAERTGKTPA QVLLRWSTQR GIAVIPKSNN VDRLKQNLEA TDFDLTDEEI
+     KAISALDKGL RFNDPGFYLH KPLRIFA
+//
+ID   G7XPD7_ASPKW            Unreviewed;       319 AA.
+AC   G7XPD7;
+DT   25-JAN-2012, integrated into UniProtKB/TrEMBL.
+DT   25-JAN-2012, sequence version 1.
+DT   17-FEB-2016, entry version 19.
+DE   SubName: Full=D-xylose reductase (XyrA) {ECO:0000313|EMBL:GAA88683.1};
+GN   ORFNames=AKAW_06797 {ECO:0000313|EMBL:GAA88683.1};
+OS   Aspergillus kawachii (strain NBRC 4308) (White koji mold) (Aspergillus
+OS   awamori var. kawachi).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=1033177 {ECO:0000313|EMBL:GAA88683.1, ECO:0000313|Proteomes:UP000006812};
+RN   [1] {ECO:0000313|EMBL:GAA88683.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=IFO 4308 {ECO:0000313|EMBL:GAA88683.1};
+RX   PubMed=22045919; DOI=10.1128/EC.05224-11;
+RA   Futagami T., Mori K., Yamashita A., Wada S., Kajiwara Y.,
+RA   Takashita H., Omori T., Takegawa K., Tashiro K., Kuhara S., Goto M.;
+RT   "Genome Sequence of the White Koji Mold Aspergillus kawachii IFO 4308,
+RT   Used for Brewing the Japanese Distilled Spirit Shochu.";
+RL   Eukaryot. Cell 10:1586-1587(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DF126464; GAA88683.1; -; Genomic_DNA.
+DR   InParanoid; G7XPD7; -.
+DR   OrthoDB; EOG7WQ83S; -.
+DR   Proteomes; UP000006812; Unassembled WGS sequence.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006812};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006812}.
+FT   DOMAIN       17    300       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     50     50       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   319 AA;  36023 MW;  1FE65165F737F149 CRC64;
+     MASPTVKLNS GYDMPLVGFG LWKVNNDTCA DQIYHAIKEG YRLFDGACDY GNEVEAGQGV
+     ARAIKDGLVK REELFIVSKL WNSFHDGDRV EPICRKQLAD WGIDYFDLYI VHFPISLKYV
+     DPAVRYPPGW MSENDKLEFG NATIQETWTA MESLVDKKLA RSIGISNFSA QLVMDLLRYA
+     RIRPATLQIE HHPYLTQTRL VEYAQKEGLT VTAYSSFGPL SFLELSVQNA VDTPPLFEHQ
+     LVKGIAEKHG RTPAQVLLRW ATQRGVAVIP KSNNPQRLKQ NLDVTGWNLE EEEIKAIAGL
+     DRGLRFNDPL GYGLYAPIF
+//
+ID   A0A0F7TGH3_9EURO        Unreviewed;       319 AA.
+AC   A0A0F7TGH3;
+DT   22-JUL-2015, integrated into UniProtKB/TrEMBL.
+DT   22-JUL-2015, sequence version 1.
+DT   17-FEB-2016, entry version 6.
+DE   SubName: Full=Putative D-xylose reductase (XyrA) {ECO:0000313|EMBL:CEJ54078.1};
+GN   ORFNames=PMG11_00402 {ECO:0000313|EMBL:CEJ54078.1};
+OS   Penicillium brasilianum.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Penicillium.
+OX   NCBI_TaxID=104259 {ECO:0000313|EMBL:CEJ54078.1, ECO:0000313|Proteomes:UP000042958};
+RN   [1] {ECO:0000313|EMBL:CEJ54078.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Zhu J., Qi W., Song R.;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CDHK01000001; CEJ54078.1; -; Genomic_DNA.
+DR   EnsemblFungi; CEJ54078; CEJ54078; PMG11_00402.
+DR   Proteomes; UP000042958; Unassembled WGS sequence.
+DR   GO; GO:0016491; F:oxidoreductase activity; IEA:InterPro.
+DR   Gene3D; 3.20.20.100; -; 1.
+DR   InterPro; IPR001395; Aldo/ket_red/Kv-b.
+DR   InterPro; IPR018170; Aldo/ket_reductase_CS.
+DR   InterPro; IPR020471; Aldo/keto_reductase.
+DR   InterPro; IPR023210; NADP_OxRdtase_dom.
+DR   PANTHER; PTHR11732; PTHR11732; 2.
+DR   Pfam; PF00248; Aldo_ket_red; 1.
+DR   PIRSF; PIRSF000097; AKR; 1.
+DR   PRINTS; PR00069; ALDKETRDTASE.
+DR   SUPFAM; SSF51430; SSF51430; 1.
+DR   PROSITE; PS00798; ALDOKETO_REDUCTASE_1; 1.
+DR   PROSITE; PS00062; ALDOKETO_REDUCTASE_2; 1.
+DR   PROSITE; PS00063; ALDOKETO_REDUCTASE_3; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000042958};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000042958}.
+FT   DOMAIN       17    300       Aldo_ket_red. {ECO:0000259|Pfam:PF00248}.
+FT   ACT_SITE     50     50       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR000097-1}.
+SQ   SEQUENCE   319 AA;  35767 MW;  E399967F1D8CF828 CRC64;
+     MSSPTVKLSS GYEMPLVGFG LWKVNNDTCA DQVYNAIKAG YRLFDGACDY GNEVEVGQGV
+     ARAIKDGLVK REDLFLVSKL WNSFHDGEQV EPIARKQLAD LGIDYFDLYI VHFPVSLEYV
+     PPSVRYPPSW QNSEGEIKLG KATIQETWTA MESLVDKKLA RSIGVSNFSP QLLMDLLRYA
+     RIRPATLQIE HHPYLTQKSL VNYAQQEGLT VTAYSSFGPL SFIELEVKNA QDTPRLFDHA
+     AVTTLASKYN RTPAQVLLRW ATQRGIAVIP KSNDPTRLAQ NLQVTDFDLE AGEIESISAL
+     NQNLRFNDPL NYGLNITIF
+//
+ID   A0A0U1M456_9EURO        Unreviewed;       562 AA.
+AC   A0A0U1M456;
+DT   17-FEB-2016, integrated into UniProtKB/TrEMBL.
+DT   17-FEB-2016, sequence version 1.
+DT   17-FEB-2016, entry version 1.
+DE   SubName: Full=D-xylose reductase (Xyl1), putative {ECO:0000313|EMBL:CRG90345.1};
+GN   Name=xyrA {ECO:0000313|EMBL:CRG90345.1};
+GN   ORFNames=PISL3812_07388 {ECO:0000313|EMBL:CRG90345.1};
+OS   Talaromyces islandicus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=28573 {ECO:0000313|EMBL:CRG90345.1};
+RN   [1] {ECO:0000313|EMBL:CRG90345.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=WF-38-12 {ECO:0000313|EMBL:CRG90345.1};
+RA   Syromyatnikov M.Y., Popov V.N.;
+RL   Submitted (APR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CVMT01000007; CRG90345.1; -; Genomic_DNA.
+PE   4: Predicted;
+SQ   SEQUENCE   562 AA;  62816 MW;  5C1638A00F8B7AAA CRC64;
+     MSSPTIKLNS GYDMPRVGFG LWKVNNDTCA DQVYSAIKAG YRLLDGAADY GNEKEVGQGI
+     ARAIKDGLVK REELFVVSKL WNTFHDGDKV EPIARKQLAD LGIDYFDLYL IHFPVALKYV
+     DPAERYPPGW ANADGKFEFS NATIQETWQA MESLVDKKLA RSIGISNFSA QLIMDLLRYA
+     RIRPATLQIE HHPYLQQKEL VKFVQGEGIA ITAYSSFGPL SFVELDMSKA QNTPTLFEHN
+     VVKSAAEKHG KNPAQVLLRW ATQRDISVIP KSNNPDRLAQ NLDVTGWSLD QDEIDAINGL
+     DINVRFNDPI NKIGLCNPPR PTTIDESINL QTSCLVLPTC EYVFVGNGQW RMFSATAARY
+     YSAILGDGLR TLVSRQIDIK TSRPLRKIAD RRVVLGALQK YGEVVTFKHI KPEDQDAAHG
+     RILAIFDTPE AASKAIDASP LSISLDDESA TNTNDQTGDC EIEISASKVD HYNEFIRKNP
+     YYGPWTMDYS DKRVSDIINT GAPRHELADC FPVTKQSALA AGQEELFDRD IEGVERNMDG
+     FLDVSARSLA EILKEKVDKE DQ
+//

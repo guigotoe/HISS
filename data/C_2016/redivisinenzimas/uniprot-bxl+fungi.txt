@@ -1,0 +1,315 @@
+ID   Q8X212_TALEM            Unreviewed;       796 AA.
+AC   Q8X212;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2002, sequence version 2.
+DT   17-FEB-2016, entry version 43.
+DE   SubName: Full=Beta-xylosidase {ECO:0000313|EMBL:AAL32053.2};
+DE            EC=3.2.1.37 {ECO:0000313|EMBL:AAL32053.2};
+GN   Name=bxl1 {ECO:0000313|EMBL:AAL32053.2};
+OS   Talaromyces emersonii (Thermophilic fungus) (Rasamsonia emersonii).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Rasamsonia.
+OX   NCBI_TaxID=68825 {ECO:0000313|EMBL:AAL32053.2};
+RN   [1] {ECO:0000313|EMBL:AAL32053.2}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBS 814.70 {ECO:0000313|EMBL:AAL32053.2};
+RX   PubMed=12763033; DOI=10.1016/S0006-291X(03)00829-5;
+RA   Reen F.J., Murray P.G., Tuohy M.G.;
+RT   "Molecular characterisation and expression analysis of the first
+RT   hemicellulase gene (bxl1) encoding beta-xylosidase from the
+RT   thermophilic fungus Talaromyces emersonii.";
+RL   Biochem. Biophys. Res. Commun. 305:579-585(2003).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF439746; AAL32053.2; -; Genomic_DNA.
+DR   ProteinModelPortal; Q8X212; -.
+DR   CAZy; GH3; Glycoside Hydrolase Family 3.
+DR   GO; GO:0009044; F:xylan 1,4-beta-xylosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.300; -; 1.
+DR   Gene3D; 3.40.50.1700; -; 1.
+DR   InterPro; IPR026891; Fn3-like.
+DR   InterPro; IPR026892; Glyco_hydro_3.
+DR   InterPro; IPR002772; Glyco_hydro_3_C.
+DR   InterPro; IPR001764; Glyco_hydro_3_N.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR30620; PTHR30620; 1.
+DR   Pfam; PF14310; Fn3-like; 1.
+DR   Pfam; PF00933; Glyco_hydro_3; 1.
+DR   Pfam; PF01915; Glyco_hydro_3_C; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   SUPFAM; SSF52279; SSF52279; 1.
+PE   4: Predicted;
+KW   Glycosidase {ECO:0000313|EMBL:AAL32053.2};
+KW   Hydrolase {ECO:0000313|EMBL:AAL32053.2};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    796       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004317718.
+FT   DOMAIN      129    357       Glyco_hydro_3.
+FT                                {ECO:0000259|Pfam:PF00933}.
+FT   DOMAIN      415    640       Glyco_hydro_3_C.
+FT                                {ECO:0000259|Pfam:PF01915}.
+FT   DOMAIN      709    761       Fn3-like. {ECO:0000259|Pfam:PF14310}.
+SQ   SEQUENCE   796 AA;  86784 MW;  946F099F10099241 CRC64;
+     MMTRTAILTA LAALLPTATW AQDNQTYANY SSQSQPDLFP RTVATIDLSF PDCENGPLST
+     NLVCNTSADP WARAEALVSL FTLEELINNT QNTAPGVPRL GLPQYQVWNE ALHGLDRANF
+     SDSGEYSWAT SFPMPILSMA SFNRTLINQI ASIIATQARA FNNAGRYGLD SYAPNINGFR
+     SPLWGRGQET PGEDAFFLSS AYAYEYITGL QGGVDPEHVK IVATAKHFAG YDLENWGNVS
+     RLGSNAIITQ QDLSEYYTPQ FLASARYAKT RSLMCSYNAV NGVPSCSNSF FLQTLLRESF
+     NFVDDGYVSS DCDAVYNVFN PHGYALNQSG AAADSLLAGT DIDCGQTMPW HLNESFYERY
+     VSRGDIEKSL TRLYANLVRL GYFDGNNSVY RNLNWNDVVT TDAWNISYEA AVEGITLLKN
+     DGTLPLSKKV RSIALIGPWA NATVQMQGNY YGTPPYLISP LEAAKASGFT VNYAFGTNIS
+     TDSTQWFAEA ISAAKKSDVI IYAGGIDNTI EAEGQDRTDL KWPGNQLDLI EQLSKVGKPL
+     VVLQMGGGQV DSSSLKANKN VNALVWGGYP GQSGGAALFD ILTGKRAPAG RLVSTQYPAE
+     YATQFPANDM NLRPNGSNPG QTYIWYTGTP VYEFGHGLFY TEFQESAAAG TNKTSTLDIL
+     DLVPTPHPGY EYIELVPFLN VTVDVKNVGH TPSPYTGLLF ANTTAGPKPY PNKWLVGFDR
+     LATIHPAKTA QVTFPVPLGA IARADENGNK VIFPGEYELA LNNERSVVVS FSLTGNAATL
+     ENWPVWEQAV PGVLQQ
+//
+ID   Q92458_HYPJE            Unreviewed;       797 AA.
+AC   Q92458;
+DT   01-FEB-1997, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-1998, sequence version 2.
+DT   17-FEB-2016, entry version 67.
+DE   SubName: Full=Beta-xylosidase {ECO:0000313|EMBL:CAA93248.1};
+DE            EC=3.2.1.37 {ECO:0000313|EMBL:CAA93248.1};
+GN   Name=bxl1 {ECO:0000313|EMBL:CAA93248.1};
+OS   Hypocrea jecorina (Trichoderma reesei).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Hypocreaceae;
+OC   Trichoderma.
+OX   NCBI_TaxID=51453 {ECO:0000313|EMBL:CAA93248.1};
+RN   [1] {ECO:0000313|EMBL:CAA93248.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=RutC-30 {ECO:0000313|EMBL:CAA93248.1};
+RX   PubMed=8837440;
+RA   Margolles-Clark E., Tenkanen M., Nakari-Setaelae T., Penttilae M.;
+RT   "Cloning of genes encoding alpha-L-arabinofuranosidase and beta-
+RT   xylosidase from Trichoderma reesei by expression in Saccharomyces
+RT   cerevisiae.";
+RL   Appl. Environ. Microbiol. 62:3840-3846(1996).
+RN   [2] {ECO:0000313|EMBL:CAA93248.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=RutC-30 {ECO:0000313|EMBL:CAA93248.1};
+RA   Margolles-Clark E.;
+RL   Submitted (JAN-1998) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Z69257; CAA93248.1; -; mRNA.
+DR   ProteinModelPortal; Q92458; -.
+DR   STRING; 51453.JGI121127; -.
+DR   CAZy; GH3; Glycoside Hydrolase Family 3.
+DR   mycoCLAP; XYL3A_TRIRE; -.
+DR   eggNOG; COG1472; LUCA.
+DR   eggNOG; ENOG410IE0I; Eukaryota.
+DR   OMA; RANFATK; -.
+DR   BioCyc; MetaCyc:MONOMER-16539; -.
+DR   BRENDA; 3.2.1.37; 6451.
+DR   GO; GO:0009044; F:xylan 1,4-beta-xylosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.300; -; 1.
+DR   Gene3D; 3.40.50.1700; -; 1.
+DR   InterPro; IPR026891; Fn3-like.
+DR   InterPro; IPR026892; Glyco_hydro_3.
+DR   InterPro; IPR002772; Glyco_hydro_3_C.
+DR   InterPro; IPR001764; Glyco_hydro_3_N.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   PANTHER; PTHR30620; PTHR30620; 1.
+DR   Pfam; PF14310; Fn3-like; 1.
+DR   Pfam; PF00933; Glyco_hydro_3; 1.
+DR   Pfam; PF01915; Glyco_hydro_3_C; 1.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   SUPFAM; SSF52279; SSF52279; 1.
+PE   2: Evidence at transcript level;
+KW   Glycosidase {ECO:0000313|EMBL:CAA93248.1};
+KW   Hydrolase {ECO:0000313|EMBL:CAA93248.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    797       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004318902.
+FT   DOMAIN      126    373       Glyco_hydro_3.
+FT                                {ECO:0000259|Pfam:PF00933}.
+FT   DOMAIN      414    640       Glyco_hydro_3_C.
+FT                                {ECO:0000259|Pfam:PF01915}.
+FT   DOMAIN      696    763       Fn3-like. {ECO:0000259|Pfam:PF14310}.
+SQ   SEQUENCE   797 AA;  87191 MW;  91D34D1108532879 CRC64;
+     MVNNAALLAA LSALLPTALA QNNQTYANYS AQGQPDLYPE TLATLTLSFP DCEHGPLKNN
+     LVCDSSAGYV ERAQALISLF TLEELILNTQ NSGPGVPRLG LPNYQVWNEA LHGLDRANFA
+     TKGGQFEWAT SFPMPILTTA ALNRTLIHQI ADIISTQARA FSNSGRYGLD VYAPNVNGFR
+     SPLWGRGQET PGEDAFFLSS AYTYEYITGI QGGVDPEHLK VAATVKHFAG YDLENWNNQS
+     RLGFDAIITQ QDLSEYYTPQ FLAAARYAKS RSLMCAYNSV NGVPSCANSF FLQTLLRESW
+     GFPEWGYVSS DCDAVYNVFN PHDYASNQSS AAASSLRAGT DIDCGQTYPW HLNESFVAGE
+     VSRGEIERSV TRLYANLVRL GYFDKKNQYR SLGWKDVVKT DAWNISYEAA VEGIVLLKND
+     GTLPLSKKVR SIALIGPWAN ATTQMQGNYY GPAPYLISPL EAAKKAGYHV NFELGTEIAG
+     NSTTGFAKAI AAAKKSDAII YLGGIDNTIE QEGADRTDIA WPGNQLDLIK QLSEVGKPLV
+     VLQMGGGQVD SSSLKSNKKV NSLVWGGYPG QSGGVALFDI LSGKRAPAGR LVTTQYPAEY
+     VHQFPQNDMN LRPDGKSNPG QTYIWYTGKP VYEFGSGLFY TTFKETLASH PKSLKFNTSS
+     ILSAPHPGYT YSEQIPVFTF EANIKNSGKT ESPYTAMLFV RTSNAGPAPY PNKWLVGFDR
+     LADIKPGHSS KLSIPIPVSA LARVDSHGNR IVYPGKYELA LNTDESVKLE FELVGEEVTI
+     ENWPLEEQQI KDATPDA
+//
+ID   F9XKA8_ZYMTI            Unreviewed;       673 AA.
+AC   F9XKA8;
+DT   19-OCT-2011, integrated into UniProtKB/TrEMBL.
+DT   19-OCT-2011, sequence version 1.
+DT   11-NOV-2015, entry version 22.
+DE   SubName: Full=Beta-xylosidase/Xylanase {ECO:0000313|EMBL:EGP84379.1};
+GN   Name=BXL {ECO:0000313|EMBL:EGP84379.1};
+GN   ORFNames=MYCGRDRAFT_75584 {ECO:0000313|EMBL:EGP84379.1};
+OS   Zymoseptoria tritici (strain CBS 115943 / IPO323) (Speckled leaf
+OS   blotch fungus) (Septoria tritici).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Dothideomycetes; Dothideomycetidae; Capnodiales; Mycosphaerellaceae;
+OC   Zymoseptoria.
+OX   NCBI_TaxID=336722 {ECO:0000313|EMBL:EGP84379.1, ECO:0000313|Proteomes:UP000008062};
+RN   [1] {ECO:0000313|EMBL:EGP84379.1, ECO:0000313|Proteomes:UP000008062}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 115943 / IPO323 {ECO:0000313|Proteomes:UP000008062};
+RX   PubMed=21695235; DOI=10.1371/journal.pgen.1002070;
+RA   Goodwin S.B., Ben M'barek S., Dhillon B., Wittenberg A.H.J.,
+RA   Crane C.F., Hane J.K., Foster A.J., Van der Lee T.A.J., Grimwood J.,
+RA   Aerts A., Antoniw J., Bailey A., Bluhm B., Bowler J., Bristow J.,
+RA   van der Burgt A., Canto-Canche B., Churchill A.C.L., Conde-Ferraez L.,
+RA   Cools H.J., Coutinho P.M., Csukai M., Dehal P., De Wit P.,
+RA   Donzelli B., van de Geest H.C., van Ham R.C.H.J., Hammond-Kosack K.E.,
+RA   Henrissat B., Kilian A., Kobayashi A.K., Koopmann E., Kourmpetis Y.,
+RA   Kuzniar A., Lindquist E., Lombard V., Maliepaard C., Martins N.,
+RA   Mehrabi R., Nap J.P.H., Ponomarenko A., Rudd J.J., Salamov A.,
+RA   Schmutz J., Schouten H.J., Shapiro H., Stergiopoulos I.,
+RA   Torriani S.F.F., Tu H., de Vries R.P., Waalwijk C., Ware S.B.,
+RA   Wiebenga A., Zwiers L.-H., Oliver R.P., Grigoriev I.V., Kema G.H.J.;
+RT   "Finished genome of the fungal wheat pathogen Mycosphaerella
+RT   graminicola reveals dispensome structure, chromosome plasticity, and
+RT   stealth pathogenesis.";
+RL   PLoS Genet. 7:E1002070-E1002070(2011).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 43 family.
+CC       {ECO:0000256|RuleBase:RU361187}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CM001204; EGP84379.1; -; Genomic_DNA.
+DR   RefSeq; XP_003849403.1; XM_003849355.1.
+DR   EnsemblFungi; Mycgr3T75584; Mycgr3P75584; Mycgr3G75584.
+DR   GeneID; 13399099; -.
+DR   KEGG; ztr:MYCGRDRAFT_75584; -.
+DR   InParanoid; F9XKA8; -.
+DR   OrthoDB; EOG7M6DHQ; -.
+DR   Proteomes; UP000008062; Chromosome 9.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.115.10.20; -; 2.
+DR   InterPro; IPR006710; Glyco_hydro_43.
+DR   InterPro; IPR023296; Glyco_hydro_beta-prop.
+DR   PANTHER; PTHR22925; PTHR22925; 2.
+DR   Pfam; PF04616; Glyco_hydro_43; 2.
+DR   SUPFAM; SSF75005; SSF75005; 2.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000313|EMBL:EGP84379.1};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000008062};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361187,
+KW   ECO:0000313|EMBL:EGP84379.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361187,
+KW   ECO:0000313|EMBL:EGP84379.1};
+KW   Polysaccharide degradation {ECO:0000313|EMBL:EGP84379.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000008062};
+KW   Signal {ECO:0000256|SAM:SignalP};
+KW   Xylan degradation {ECO:0000313|EMBL:EGP84379.1}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    673       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003395660.
+SQ   SEQUENCE   673 AA;  73180 MW;  568666A46A121332 CRC64;
+     MRASFASILT GLTALAASVN GSPVAQPDAE LETRAAAYEG YMMAYFTGNS RDGEKIYFAA
+     SNGNDALSWT ELNGGKPALT STMGTTGVRD PFIMRSQDGS RFYILATDLS IGSGTSFGDA
+     QRHGSQYLEI WESTDLVNWG TQRHVKVSTS NAGNTWAPEA QWDSSINKYV VYWASTIYAD
+     SDPNHTANTY QKMMYVTTSD FYTFSAPQVW QDVGTSRIDT TVLLVNGTYY RFTKDEGAGT
+     TGCSDIIEER STRLLNQASG YTQVTSCIGK KAGTSAVEGP TVFKSNPNDV NGNKFYLWVD
+     EYGGRGYIPL ETADIANPAW TVSAKFTLPK SPRHGTVLPI TAAELDRIRG NSRSIGASGA
+     GHGTNGAGKS APNLIPGLYA DPNICVFNKN YYIYATSDGY AGWGGQEFYV WKSSNLVSWT
+     RSDKPFLTLN GTSGNVPWAD GNAWAPTAIS RNGKYYFYFS GNNPTYNRKT IGAAVASSPE
+     GPFTAQPKAM ILNDESVTSG QAIDPAAFYD PNTGKYYLYW GNGNPVMAEL GDDMVSIKAN
+     TLRAISGLTD FREGSFMVYR EPYYHMTYSI DDTGSENYRV GYATALSATG PFTYRGIVLE
+     KDVSQGILAT GHDSIINVPG TDRWYMAYHR FGRPNGDGQH RETTIDKVTF ASNGLMNKVV
+     PTVDGVRTAD TVP
+//
+ID   G3FAQ7_9EURO            Unreviewed;      1106 AA.
+AC   G3FAQ7;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   17-FEB-2016, entry version 16.
+DE   SubName: Full=Beta-glucosidase/beta-xylosidase {ECO:0000313|EMBL:AEN99939.1};
+DE            EC=3.2.1.21 {ECO:0000313|EMBL:AEN99939.1};
+GN   Name=bxl5 {ECO:0000313|EMBL:AEN99939.1};
+OS   Chrysosporium lucknowense.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Onygenales; mitosporic Onygenales; Chrysosporium.
+OX   NCBI_TaxID=85845 {ECO:0000313|EMBL:AEN99939.1};
+RN   [1] {ECO:0000313|EMBL:AEN99939.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=VKM F-3500-D {ECO:0000313|EMBL:AEN99939.1};
+RX   PubMed=22429400; DOI=10.1016/j.biortech.2012.02.105;
+RA   Dotsenko G.S., Sinitsyna O.A., Hinz S.W., Wery J., Sinitsyn A.P.;
+RT   "Characterization of a GH family 3 ?-glycoside hydrolase from
+RT   Chrysosporium lucknowense and its application to the hydrolysis of ?-
+RT   glucan and xylan.";
+RL   Bioresour. Technol. 112:345-349(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JF508852; AEN99939.1; -; Genomic_DNA.
+DR   GO; GO:0008422; F:beta-glucosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.20.20.300; -; 1.
+DR   Gene3D; 3.40.30.10; -; 1.
+DR   Gene3D; 3.40.50.1700; -; 1.
+DR   InterPro; IPR026891; Fn3-like.
+DR   InterPro; IPR004045; Glutathione_S-Trfase_N.
+DR   InterPro; IPR026892; Glyco_hydro_3.
+DR   InterPro; IPR002772; Glyco_hydro_3_C.
+DR   InterPro; IPR001764; Glyco_hydro_3_N.
+DR   InterPro; IPR017853; Glycoside_hydrolase_SF.
+DR   InterPro; IPR012336; Thioredoxin-like_fold.
+DR   PANTHER; PTHR30620; PTHR30620; 2.
+DR   Pfam; PF14310; Fn3-like; 1.
+DR   Pfam; PF00933; Glyco_hydro_3; 1.
+DR   Pfam; PF01915; Glyco_hydro_3_C; 1.
+DR   PRINTS; PR00133; GLHYDRLASE3.
+DR   SUPFAM; SSF51445; SSF51445; 1.
+DR   SUPFAM; SSF52279; SSF52279; 2.
+DR   PROSITE; PS50404; GST_NTER; 1.
+PE   4: Predicted;
+KW   Glycosidase {ECO:0000313|EMBL:AEN99939.1};
+KW   Hydrolase {ECO:0000313|EMBL:AEN99939.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     16       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        17   1106       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003443473.
+FT   DOMAIN      812    909       GST N-terminal.
+FT                                {ECO:0000259|PROSITE:PS50404}.
+SQ   SEQUENCE   1106 AA;  120229 MW;  0F5751C3BD069B35 CRC64;
+     MRFLPSTLLL AAAALAADKG RPSLKNAVYK NPKASVEDRV ADLLSRMTIE EKASQLLQGD
+     IRNWMNETTN ALNQTGLEWS TRYRGSAFYV GVPVPNEWLT KHIKAAQDYI QKETYLGIPA
+     FVQTEGLHGF LAHNATIFSS PIGLGCSWNP SLVEEMAAAI AKEARALGVN QLFAPVADLA
+     RELRHGRVEE MYSEDGLLAG EFARAYVKGA QSAGVSAMVK HFAAFGVTEQ GLNTGPVHGG
+     ERELRTTYLP PYQRAIIDGG VYSIMTAYHS YDGIPAVSDP HLLTDILRDE WGYGYFTMTD
+     AGASDRLCAD FKMCASDPID KEAIVKYILP AGGDVEMGGG SYSFEKIPEL VSSGKVEEEL
+     VDTAVARVLR AKFELGLFEN PFPGLPSEEA NKVIHAPEHV ALAKKLDEES IVLLENHNNV
+     LPLSKDASVA VIGPMAHGFM NYGDYVVVNS STRGITPLDG IKAASRGKVT YAKGCERWSN
+     SQDGFPEAVA AAEAADVAVV VVGTWSRDQN ELWQGLNATT GEHVDVDSLD LVGAQEALVR
+     AIVETGKPTV VVFSSGKPVT APSISEHAAA LVQQFYPSEQ GGAALASILF GDVNPSGRLS
+     VSFPRSVGDL PVYYDYLNSG RGASPDAGVA YENGTLVFGH QYVLGDPRPL YEFGYGLSYS
+     KFEYGDVTVD KTIVTAQDTV TVTVTVKNVS SREGQEVVQV YVKDLIASVV VPNIRLRGFQ
+     KLKLRPGESK RVSIKVNVQD LGVWDARMRY VVEPGDFLFL VGKTPLRYTD WIRQTFFGHN
+     SRNSHPDPLT CSLSDLPTMD TSNNKVITFY DIILDPTAYP ISPNPWKTRY ALNFAKVPYR
+     TTWVPLAAVA ETRNALQLPA NRKHADGSDF PTLPIIRDPL AATTSGSEVV VGDSFDIALH
+     LQNTYLSNNP PSSSSNDPSS AAAGQQQQQQ GQLFPADGSG TVALHRAFNA FVDQIFSQYG
+     APLAGFYMPL DPRTAESDKA AFVRRIPGVT RWEDLEIPKG SEVRSKMLAE FESALDTKLG
+     PCFPSPAPAD GAKGGPQGTG PFMDGRQLPI YADFIVGGWL QFMRGCLPEW EDMRNKWSGG
+     KWGRLLDALE PWADVDGREG VVPARR
+//

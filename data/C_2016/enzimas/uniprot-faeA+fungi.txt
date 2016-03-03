@@ -1,0 +1,2929 @@
+ID   FAEA_ASPAW              Reviewed;         281 AA.
+AC   Q9P979;
+DT   15-NOV-2002, integrated into UniProtKB/Swiss-Prot.
+DT   22-SEP-2009, sequence version 3.
+DT   24-JUN-2015, entry version 64.
+DE   RecName: Full=Feruloyl esterase A;
+DE            EC=3.1.1.73;
+DE   AltName: Full=Ferulic acid esterase A;
+DE            Short=FAEA;
+DE   AltName: Full=Feruloylesterase;
+DE   Flags: Precursor;
+GN   Name=faeA {ECO:0000303|PubMed:15716038};
+OS   Aspergillus awamori (Black koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=105351;
+RN   [1] {ECO:0000305}
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, CATALYTIC ACTIVITY,
+RP   BIOPHYSICOCHEMICAL PROPERTIES, AND MUTAGENESIS OF ASP-92; THR-93;
+RP   ASP-98 AND TYR-101.
+RC   STRAIN=ATCC 38854 / NBRC 4033;
+RX   PubMed=15716038; DOI=10.1016/j.bbagen.2004.12.016;
+RA   Koseki T., Takahashi K., Fushinobu S., Iefuji H., Iwano K.,
+RA   Hashizume K., Matsuzawa H.;
+RT   "Mutational analysis of a feruloyl esterase from Aspergillus awamori
+RT   involved in substrate discrimination and pH dependence.";
+RL   Biochim. Biophys. Acta 1722:200-208(2005).
+CC   -!- FUNCTION: Involved in the degradation of plant cell walls.
+CC       Hydrolyzes the feruloyl-arabinose ester bond in arabinoxylans, and
+CC       the feruloyl-galactose ester bond in pectin. Active against methyl
+CC       ferulate, methyl sinapate, methyl caffeate, and alpha-naphthyl
+CC       esters with chains containing 2 to 8 carbons (C2-C8). Inactive
+CC       against alpha-naphthyl esters with longer chains (C10 or more).
+CC       {ECO:0000269|PubMed:15716038}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide. {ECO:0000269|PubMed:15716038}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.33 mM for alpha-naphthylbutyrate
+CC         {ECO:0000269|PubMed:15716038};
+CC         KM=0.079 mM for alpha-naphthylcaprylate
+CC         {ECO:0000269|PubMed:15716038};
+CC       pH dependence:
+CC         Optimum pH is 5.0. {ECO:0000269|PubMed:15716038};
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250|UniProtKB:O42807}.
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB032760; BAA92937.3; -; Genomic_DNA.
+DR   ESTHER; aspaw-FERA; Lipase_3.
+DR   mycoCLAP; FAE1A_ASPAW; -.
+DR   BRENDA; 3.1.1.73; 494.
+DR   SABIO-RK; Q9P979; -.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0030600; F:feruloyl esterase activity; ISS:UniProtKB.
+DR   GO; GO:0016998; P:cell wall macromolecule catabolic process; ISS:UniProtKB.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   GO; GO:0045490; P:pectin catabolic process; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Disulfide bond; Glycoprotein; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Serine esterase; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    281       Feruloyl esterase A. {ECO:0000255}.
+FT                                /FTId=PRO_0000021225.
+FT   ACT_SITE    154    154       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    215    215       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    268    268       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   BINDING      98     98       Substrate. {ECO:0000250}.
+FT   BINDING     101    101       Substrate. {ECO:0000250}.
+FT   BINDING     268    268       Substrate. {ECO:0000250}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...). {ECO:0000305}.
+FT   DISULFID     50    279       {ECO:0000250}.
+FT   DISULFID    112    115       {ECO:0000250}.
+FT   DISULFID    248    255       {ECO:0000250}.
+FT   MUTAGEN      92     92       D->I: Active against longer alpha-
+FT                                naphthyl esters than wild-type (C10, C12
+FT                                and C16). Km value for the C8 alpha-
+FT                                naphthyl ester is decreased by 1.6-fold
+FT                                compared to wild-type. Decreased activity
+FT                                on arabinoxylan.
+FT                                {ECO:0000269|PubMed:15716038}.
+FT   MUTAGEN      93     93       T->R: Km value for the C4 alpha-naphthyl
+FT                                ester is increased by 1.9-fold compared
+FT                                to wild-type. Km value for the C8 alpha-
+FT                                naphthyl ester is decreased by 4.6-fold
+FT                                compared to wild-type. Slightly decreased
+FT                                activity on arabinoxylan.
+FT                                {ECO:0000269|PubMed:15716038}.
+FT   MUTAGEN      98     98       D->I: Increased optimum pH. Km value for
+FT                                the C4 alpha-naphthyl ester is decreased.
+FT                                Has higher activity on short chain alpha-
+FT                                naphthyl esters than wild-type, but no
+FT                                activity on substrates containing 6 or
+FT                                more carbon atoms. No activity on
+FT                                arabinoxylan, methyl ferulate, methyl
+FT                                sinapate or methyl caffeate.
+FT                                {ECO:0000269|PubMed:15716038}.
+FT   MUTAGEN      98     98       D->N: Increased optimum pH. Km value for
+FT                                the C4 alpha-naphthyl ester is decreased.
+FT                                Has higher activity on short chain alpha-
+FT                                naphthyl esters than wild-type, but no
+FT                                activity on substrates containing 6 or
+FT                                more carbon atoms. Decreased activity on
+FT                                arabinoxylan.
+FT                                {ECO:0000269|PubMed:15716038}.
+FT   MUTAGEN     101    101       Y->F: Increased optimum pH. Active
+FT                                against longer alpha-naphthyl esters than
+FT                                wild-type (C10, C12 and C16). Km value
+FT                                for the C4 alpha-naphthyl ester is
+FT                                increased by 1.9-fold compared to wild-
+FT                                type. Km value for the C8 alpha-naphthyl
+FT                                ester is decreased by 1.9-fold compared
+FT                                to wild-type. Decreased activity on
+FT                                arabinoxylan, methyl ferulate, methyl
+FT                                sinapate or methyl caffeate.
+FT                                {ECO:0000269|PubMed:15716038}.
+SQ   SEQUENCE   281 AA;  30401 MW;  C344247FD0A341FF CRC64;
+     MKQFSAKHAL AVVVTAGHAL AASTQGISED LYTRLVEMAT ISQAAYADLC NIPSTIIKGE
+     KIYNSQTDIN GWILRDDSSK EIITVFRGTG SDTNLQLDTN YTLTPFDTLP QCNGCEVHGG
+     YYIGWVSVQD QVESLVKQQV SQYPDYALTV TGHSLGASLA ALTAAQLSAT YDNIRLYTFG
+     EPRSGNQAFA SYMNDAFQAS SPDTTQYFRV THANDGIPNL PPVEQGYAHG GVEYWSVDPY
+     SAQNTFVCTG DEVQCCEAQG GQGVNNAHTT YFGMTSGACT W
+//
+ID   FAEA_ASPNG              Reviewed;         281 AA.
+AC   O42807; B8XRG2; D2K873; Q96W70;
+DT   24-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1998, sequence version 1.
+DT   11-NOV-2015, entry version 91.
+DE   RecName: Full=Feruloyl esterase A;
+DE            EC=3.1.1.73;
+DE   AltName: Full=Cinnamoyl esterase;
+DE   AltName: Full=FAE-III;
+DE   AltName: Full=Ferulic acid esterase A;
+DE   Flags: Precursor;
+GN   Name=faeA;
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], PROTEIN SEQUENCE OF 22-107 AND
+RP   134-179, MASS SPECTROMETRY, FUNCTION, AND SUBCELLULAR LOCATION.
+RC   STRAIN=ATCC 9029 / NRRL 3 / CBS 120.49 / DSM 2466 / N400;
+RX   PubMed=9406381;
+RA   de Vries R.P., Michelsen B., Poulsen C.H., Kroon P.A.,
+RA   van den Heuvel R.H.H., Faulds C.B., Williamson G.,
+RA   van den Hombergh J.P.T.W., Visser J.;
+RT   "The faeA genes from Aspergillus niger and Aspergillus tubingensis
+RT   encode ferulic acid esterases involved in degradation of complex cell
+RT   wall polysaccharides.";
+RL   Appl. Environ. Microbiol. 63:4638-4644(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=12702357; DOI=10.1111/j.1567-1364.2001.tb00023.x;
+RA   Juge N., Williamson G., Puigserver A., Cummings N.J., Connerton I.F.,
+RA   Faulds C.B.;
+RT   "High-level production of recombinant Aspergillus niger cinnamoyl
+RT   esterase (FAEA) in the methylotrophic yeast Pichia pastoris.";
+RL   FEMS Yeast Res. 1:127-132(2001).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=CIB423.1;
+RA   Zhang S., Pei X., Wu Z.;
+RT   "Cloning and directed evolution of feruloyl esterase from Aspergillus
+RT   niger.";
+RL   Submitted (OCT-2008) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RA   Hu X.S., Li X.L.;
+RT   "Molecular docking of feruloyl esterase A and ferulic acid substrate
+RT   using computer modeling.";
+RL   Submitted (NOV-2009) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   FUNCTION, AND SUBCELLULAR LOCATION.
+RC   STRAIN=ATCC 9029 / NRRL 3 / CBS 120.49 / DSM 2466 / N400;
+RX   DOI=10.1099/00221287-140-4-779;
+RA   Faulds C.B., Williamson G.;
+RT   "Purification and characterisation of a ferulic acid esterase (FAE-
+RT   III) from Aspergillus niger: specificity for the phenolic moiety and
+RT   binding to microcrystalline cellulose.";
+RL   Microbiology 140:779-787(1994).
+RN   [6]
+RP   FUNCTION.
+RX   PubMed=7805053; DOI=10.1016/0008-6215(94)00177-4;
+RA   Ralet M.C., Faulds C.B., Williamson G., Thibault J.F.;
+RT   "Degradation of feruloylated oligosaccharides from sugar-beet pulp and
+RT   wheat bran by ferulic acid esterases from Aspergillus niger.";
+RL   Carbohydr. Res. 263:257-269(1994).
+RN   [7]
+RP   FUNCTION, AND ENZYME REGULATION.
+RX   PubMed=9649839;
+RA   Aliwan F.O., Williamson G.;
+RT   "Identification of active site residues in a ferulic acid esterase
+RT   (FAE-III) from Aspergillus niger.";
+RL   Biochem. Soc. Trans. 26:S164-S164(1998).
+RN   [8]
+RP   INDUCTION.
+RX   PubMed=10584009;
+RA   de Vries R.P., Visser J.;
+RT   "Regulation of the feruloyl esterase (faeA) gene from Aspergillus
+RT   niger.";
+RL   Appl. Environ. Microbiol. 65:5500-5503(1999).
+RN   [9]
+RP   FUNCTION, AND INDUCTION.
+RC   STRAIN=ATCC 9089 / N402;
+RX   PubMed=11931668; DOI=10.1042/0264-6021:3630377;
+RA   de Vries R.P., vanKuyk P.A., Kester H.C., Visser J.;
+RT   "The Aspergillus niger faeB gene encodes a second feruloyl esterase
+RT   involved in pectin and xylan degradation and is specifically induced
+RT   in the presence of aromatic compounds.";
+RL   Biochem. J. 363:377-386(2002).
+RN   [10]
+RP   X-RAY CRYSTALLOGRAPHY (1.08 ANGSTROMS) OF 22-281 IN COMPLEX WITH
+RP   FERULIC ACID.
+RX   PubMed=15103133; DOI=10.1107/S0907444904004937;
+RA   McAuley K.E., Svendsen A., Patkar S.A., Wilson K.S.;
+RT   "Structure of a feruloyl esterase from Aspergillus niger.";
+RL   Acta Crystallogr. D 60:878-887(2004).
+RN   [11]
+RP   X-RAY CRYSTALLOGRAPHY (2.5 ANGSTROMS) OF 22-281, DISULFIDE BONDS,
+RP   FUNCTION, AND MUTAGENESIS OF SER-154.
+RX   PubMed=15081808; DOI=10.1016/j.jmb.2004.03.003;
+RA   Hermoso J.A., Sanz-Aparicio J., Molina R., Juge N., Gonzalez R.,
+RA   Faulds C.B.;
+RT   "The crystal structure of feruloyl esterase A from Aspergillus niger
+RT   suggests evolutive functional convergence in feruloyl esterase
+RT   family.";
+RL   J. Mol. Biol. 338:495-506(2004).
+RN   [12]
+RP   X-RAY CRYSTALLOGRAPHY (2.54 ANGSTROMS) OF 22-281 OF MUTANT SER-154 IN
+RP   COMPLEX WITH SUBSTRATE, AND MUTAGENESIS OF TYR-101 AND TRP-281.
+RX   PubMed=16128806; DOI=10.1111/j.1742-4658.2005.04849.x;
+RA   Faulds C.B., Molina R., Gonzalez R., Husband F., Juge N.,
+RA   Sanz-Aparicio J., Hermoso J.A.;
+RT   "Probing the determinants of substrate specificity of a feruloyl
+RT   esterase, AnFaeA, from Aspergillus niger.";
+RL   FEBS J. 272:4362-4371(2005).
+RN   [13]
+RP   X-RAY CRYSTALLOGRAPHY (1.55 ANGSTROMS) OF 22-281, GLYCOSYLATION,
+RP   FUNCTION, AND BIOPHYSICOCHEMICAL PROPERTIES.
+RX   PubMed=17027758; DOI=10.1016/j.febslet.2006.09.039;
+RA   Benoit I., Asther M., Sulzenbacher G., Record E., Marmuse L.,
+RA   Parsiegla G., Gimbert I., Asther M., Bignon C.;
+RT   "Respective importance of protein folding and glycosylation in the
+RT   thermal stability of recombinant feruloyl esterase A.";
+RL   FEBS Lett. 580:5815-5821(2006).
+CC   -!- FUNCTION: Involved in degradation of plant cell walls. Hydrolyzes
+CC       the feruloyl-arabinose ester bond in arabinoxylans, and the
+CC       feruloyl-galactose ester bond in pectin. Binds to cellulose.
+CC       {ECO:0000269|PubMed:11931668, ECO:0000269|PubMed:15081808,
+CC       ECO:0000269|PubMed:17027758, ECO:0000269|PubMed:7805053,
+CC       ECO:0000269|PubMed:9406381, ECO:0000269|PubMed:9649839,
+CC       ECO:0000269|Ref.5}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide.
+CC   -!- ENZYME REGULATION: Inhibited by the specific serine esterase
+CC       inhibitor diisopropylfluorophosphate.
+CC       {ECO:0000269|PubMed:9649839}.
+CC   -!- BIOPHYSICOCHEMICAL PROPERTIES:
+CC       Kinetic parameters:
+CC         KM=0.31 mM for methyl ferulate {ECO:0000269|PubMed:17027758};
+CC       pH dependence:
+CC         Optimum pH is 5.0. {ECO:0000269|PubMed:17027758};
+CC       Temperature dependence:
+CC         Optimum temperature is 55-60 degrees Celsius.
+CC         {ECO:0000269|PubMed:17027758};
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:9406381,
+CC       ECO:0000269|Ref.5}.
+CC   -!- INDUCTION: By xylose and arabinose, probably via the xylanolytic
+CC       transcriptional activator XlnR. By ferulic acid, vanillic acid and
+CC       other aromatic residues with the following substituants on the
+CC       aromatic ring: a methoxy group at C-3, a hydroxy group at C-4 and
+CC       an unsubstituted C-5. Repressed by simple sugars, probably via the
+CC       carbon catabolite repressor protein CreA.
+CC       {ECO:0000269|PubMed:10584009, ECO:0000269|PubMed:11931668}.
+CC   -!- PTM: Glycosylated. {ECO:0000305|PubMed:17027758}.
+CC   -!- MASS SPECTROMETRY: Mass=29738; Mass_error=50; Method=MALDI;
+CC       Range=22-281; Evidence={ECO:0000269|PubMed:9406381};
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y09330; CAA70510.1; -; Genomic_DNA.
+DR   EMBL; AF361950; AAK60631.1; -; mRNA.
+DR   EMBL; FJ430154; ACJ64498.1; -; mRNA.
+DR   EMBL; GU188042; ACZ95366.1; -; mRNA.
+DR   PDB; 1USW; X-ray; 2.50 A; A=22-281.
+DR   PDB; 1UWC; X-ray; 1.08 A; A/B=22-281.
+DR   PDB; 1UZA; X-ray; 1.50 A; A/B=22-281.
+DR   PDB; 2BJH; X-ray; 2.54 A; A/B/C=22-281.
+DR   PDB; 2HL6; X-ray; 1.55 A; A/B=22-281.
+DR   PDB; 2IX9; X-ray; 1.70 A; A/B=22-281.
+DR   PDBsum; 1USW; -.
+DR   PDBsum; 1UWC; -.
+DR   PDBsum; 1UZA; -.
+DR   PDBsum; 2BJH; -.
+DR   PDBsum; 2HL6; -.
+DR   PDBsum; 2IX9; -.
+DR   ProteinModelPortal; O42807; -.
+DR   SMR; O42807; 22-281.
+DR   STRING; 5061.CADANGAP00007416; -.
+DR   ESTHER; aspni-FAEA; Lipase_3.
+DR   mycoCLAP; FAE1A_ASPNG; -.
+DR   PaxDb; O42807; -.
+DR   eggNOG; KOG4569; Eukaryota.
+DR   eggNOG; COG3675; LUCA.
+DR   BioCyc; MetaCyc:MONOMER-16832; -.
+DR   BRENDA; 3.1.1.73; 518.
+DR   EvolutionaryTrace; O42807; -.
+DR   GO; GO:0005576; C:extracellular region; IDA:UniProtKB.
+DR   GO; GO:0030248; F:cellulose binding; IDA:UniProtKB.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IDA:UniProtKB.
+DR   GO; GO:0016998; P:cell wall macromolecule catabolic process; IDA:UniProtKB.
+DR   GO; GO:0030245; P:cellulose catabolic process; IDA:UniProtKB.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   GO; GO:0045490; P:pectin catabolic process; IDA:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; IDA:UniProtKB.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Direct protein sequencing;
+KW   Disulfide bond; Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Secreted; Serine esterase; Signal; Xylan degradation.
+FT   SIGNAL        1     21       {ECO:0000269|PubMed:9406381}.
+FT   CHAIN        22    281       Feruloyl esterase A.
+FT                                /FTId=PRO_0000021226.
+FT   ACT_SITE    154    154       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    215    215       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    268    268       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   BINDING      98     98       Substrate. {ECO:0000269|PubMed:16128806}.
+FT   BINDING     101    101       Substrate. {ECO:0000269|PubMed:16128806}.
+FT   BINDING     268    268       Substrate. {ECO:0000269|PubMed:16128806}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...).
+FT                                {ECO:0000269|PubMed:17027758}.
+FT   DISULFID     50    279       {ECO:0000269|PubMed:15081808}.
+FT   DISULFID    112    115       {ECO:0000269|PubMed:15081808}.
+FT   DISULFID    248    255       {ECO:0000269|PubMed:15081808}.
+FT   MUTAGEN     101    101       Y->V,S: Decreases feruloyl esterase
+FT                                activity. {ECO:0000269|PubMed:16128806}.
+FT   MUTAGEN     154    154       S->A: Impairs catalytic activity.
+FT                                {ECO:0000269|PubMed:15081808}.
+FT   MUTAGEN     281    281       W->V,S: Decreases feruloyl esterase
+FT                                activity. {ECO:0000269|PubMed:16128806}.
+FT   CONFLICT     13     13       L -> S (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   CONFLICT     23     23       S -> F (in Ref. 4; ACZ95366).
+FT                                {ECO:0000305}.
+FT   CONFLICT     44     44       A -> P (in Ref. 4; ACZ95366).
+FT                                {ECO:0000305}.
+FT   CONFLICT     56     56       I -> T (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   CONFLICT    107    107       D -> E (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   CONFLICT    113    113       N -> S (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   CONFLICT    128    128       V -> I (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   CONFLICT    142    142       Q -> K (in Ref. 4; ACZ95366).
+FT                                {ECO:0000305}.
+FT   CONFLICT    150    150       V -> M (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   CONFLICT    159    159       M -> L (in Ref. 1; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    174    174       V -> I (in Ref. 1; AA sequence).
+FT                                {ECO:0000305}.
+FT   CONFLICT    205    205       T -> I (in Ref. 4; ACZ95366).
+FT                                {ECO:0000305}.
+FT   CONFLICT    208    208       F -> S (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   CONFLICT    224    224       D -> E (in Ref. 2; AAK60631, 3; ACJ64498
+FT                                and 4; ACZ95366). {ECO:0000305}.
+FT   CONFLICT    225    225       E -> Q (in Ref. 2; AAK60631 and 3;
+FT                                ACJ64498). {ECO:0000305}.
+FT   CONFLICT    264    264       V -> A (in Ref. 3; ACJ64498).
+FT                                {ECO:0000305}.
+FT   STRAND       23     25       {ECO:0000244|PDB:1UWC}.
+FT   HELIX        29     44       {ECO:0000244|PDB:1UWC}.
+FT   TURN         45     51       {ECO:0000244|PDB:1UWC}.
+FT   STRAND       56     64       {ECO:0000244|PDB:1UWC}.
+FT   TURN         65     68       {ECO:0000244|PDB:1UWC}.
+FT   STRAND       69     76       {ECO:0000244|PDB:1UWC}.
+FT   TURN         77     80       {ECO:0000244|PDB:1UWC}.
+FT   STRAND       81     86       {ECO:0000244|PDB:1UWC}.
+FT   HELIX        92     98       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      103    105       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      116    118       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       119    142       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      146    153       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       155    168       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      172    180       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       187    196       {ECO:0000244|PDB:1UWC}.
+FT   TURN        197    200       {ECO:0000244|PDB:1UWC}.
+FT   TURN        202    204       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      206    212       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       217    219       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       223    225       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      231    236       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       242    244       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      245    248       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      250    252       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       255    259       {ECO:0000244|PDB:1UWC}.
+FT   HELIX       266    269       {ECO:0000244|PDB:1UWC}.
+FT   STRAND      274    277       {ECO:0000244|PDB:1USW}.
+SQ   SEQUENCE   281 AA;  30537 MW;  8B4322B72710BBF3 CRC64;
+     MKQFSAKYAL ILLATAGQAL AASTQGISED LYNRLVEMAT ISQAAYADLC NIPSTIIKGE
+     KIYNAQTDIN GWILRDDTSK EIITVFRGTG SDTNLQLDTN YTLTPFDTLP QCNDCEVHGG
+     YYIGWISVQD QVESLVKQQA SQYPDYALTV TGHSLGASMA ALTAAQLSAT YDNVRLYTFG
+     EPRSGNQAFA SYMNDAFQVS SPETTQYFRV THSNDGIPNL PPADEGYAHG GVEYWSVDPY
+     SAQNTFVCTG DEVQCCEAQG GQGVNDAHTT YFGMTSGACT W
+//
+ID   FAEA_ASPNC              Reviewed;         281 AA.
+AC   A2QSY5;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   06-MAR-2007, sequence version 1.
+DT   09-DEC-2015, entry version 47.
+DE   RecName: Full=Probable feruloyl esterase A;
+DE            EC=3.1.1.73;
+DE   AltName: Full=Ferulic acid esterase A;
+DE   Flags: Precursor;
+GN   Name=faeA; ORFNames=An09g00120;
+OS   Aspergillus niger (strain CBS 513.88 / FGSC A1513).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=425011;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 513.88 / FGSC A1513;
+RX   PubMed=17259976; DOI=10.1038/nbt1282;
+RA   Pel H.J., de Winde J.H., Archer D.B., Dyer P.S., Hofmann G.,
+RA   Schaap P.J., Turner G., de Vries R.P., Albang R., Albermann K.,
+RA   Andersen M.R., Bendtsen J.D., Benen J.A.E., van den Berg M.,
+RA   Breestraat S., Caddick M.X., Contreras R., Cornell M., Coutinho P.M.,
+RA   Danchin E.G.J., Debets A.J.M., Dekker P., van Dijck P.W.M.,
+RA   van Dijk A., Dijkhuizen L., Driessen A.J.M., d'Enfert C., Geysens S.,
+RA   Goosen C., Groot G.S.P., de Groot P.W.J., Guillemette T.,
+RA   Henrissat B., Herweijer M., van den Hombergh J.P.T.W.,
+RA   van den Hondel C.A.M.J.J., van der Heijden R.T.J.M.,
+RA   van der Kaaij R.M., Klis F.M., Kools H.J., Kubicek C.P.,
+RA   van Kuyk P.A., Lauber J., Lu X., van der Maarel M.J.E.C.,
+RA   Meulenberg R., Menke H., Mortimer M.A., Nielsen J., Oliver S.G.,
+RA   Olsthoorn M., Pal K., van Peij N.N.M.E., Ram A.F.J., Rinas U.,
+RA   Roubos J.A., Sagt C.M.J., Schmoll M., Sun J., Ussery D., Varga J.,
+RA   Vervecken W., van de Vondervoort P.J.J., Wedler H., Woesten H.A.B.,
+RA   Zeng A.-P., van Ooyen A.J.J., Visser J., Stam H.;
+RT   "Genome sequencing and analysis of the versatile cell factory
+RT   Aspergillus niger CBS 513.88.";
+RL   Nat. Biotechnol. 25:221-231(2007).
+CC   -!- FUNCTION: Involved in degradation of plant cell walls. Hydrolyzes
+CC       the feruloyl-arabinose ester bond in arabinoxylans, and the
+CC       feruloyl-galactose ester bond in pectin (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM270190; CAK45846.1; -; Genomic_DNA.
+DR   RefSeq; XP_001393337.1; XM_001393300.2.
+DR   ProteinModelPortal; A2QSY5; -.
+DR   SMR; A2QSY5; 22-281.
+DR   ESTHER; aspni-FAEA; Lipase_3.
+DR   EnsemblFungi; CADANGAT00007553; CADANGAP00007416; CADANGAG00007553.
+DR   GeneID; 4983573; -.
+DR   KEGG; ang:ANI_1_4084; -.
+DR   HOGENOM; HOG000234795; -.
+DR   OrthoDB; EOG725DTS; -.
+DR   Proteomes; UP000006706; Chromosome 1L.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IDA:ASPGD.
+DR   GO; GO:0016788; F:hydrolase activity, acting on ester bonds; IDA:ASPGD.
+DR   GO; GO:0044347; P:cell wall polysaccharide catabolic process; IDA:ASPGD.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   GO; GO:0000272; P:polysaccharide catabolic process; IDA:ASPGD.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Disulfide bond;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    281       Probable feruloyl esterase A.
+FT                                /FTId=PRO_5000220371.
+FT   ACT_SITE    154    154       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    215    215       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    268    268       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   BINDING      98     98       Substrate. {ECO:0000250}.
+FT   BINDING     101    101       Substrate. {ECO:0000250}.
+FT   BINDING     268    268       Substrate. {ECO:0000250}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     50    279       {ECO:0000250}.
+FT   DISULFID    112    115       {ECO:0000250}.
+FT   DISULFID    248    255       {ECO:0000250}.
+SQ   SEQUENCE   281 AA;  30550 MW;  9F5623A33211BBF3 CRC64;
+     MKQFSAKYAL ILLATAGQAL AASTQGISED LYNRLVEMAT ISQAAYADLC NIPSTIIKGE
+     KIYNAQTDIN GWILRDDTSK EIITVFRGTG SDTNLQLDTN YTLTPFDTLP QCNDCEVHGG
+     YYIGWISVQD QVESLVKQQA SQYPDYALTV TGHSLGASMA ALTAAQLSAT YDNVRLYTFG
+     EPRSGNQAFA SYMNDAFQVS SPETTQYFRV THSNDGIPNL PPAEQGYAHG GVEYWSVDPY
+     SAQNTFVCTG DEVQCCEAQG GQGVNDAHTT YFGMTSGACT W
+//
+ID   FAEA_ASPTU              Reviewed;         280 AA.
+AC   O42815;
+DT   24-OCT-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUN-1998, sequence version 1.
+DT   14-OCT-2015, entry version 61.
+DE   RecName: Full=Feruloyl esterase A;
+DE            EC=3.1.1.73;
+DE   AltName: Full=Ferulic acid esterase A;
+DE   Flags: Precursor;
+GN   Name=faeA;
+OS   Aspergillus tubingensis.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5068;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], FUNCTION, AND SUBCELLULAR LOCATION.
+RC   STRAIN=NW756;
+RX   PubMed=9406381;
+RA   de Vries R.P., Michelsen B., Poulsen C.H., Kroon P.A.,
+RA   van den Heuvel R.H.H., Faulds C.B., Williamson G.,
+RA   van den Hombergh J.P.T.W., Visser J.;
+RT   "The faeA genes from Aspergillus niger and Aspergillus tubingensis
+RT   encode ferulic acid esterases involved in degradation of complex cell
+RT   wall polysaccharides.";
+RL   Appl. Environ. Microbiol. 63:4638-4644(1997).
+CC   -!- FUNCTION: Involved in degradation of plant cell walls. Hydrolyzes
+CC       the feruloyl-arabinose ester bond in arabinoxylans, and the
+CC       feruloyl-galactose ester bond in pectin.
+CC       {ECO:0000269|PubMed:9406381}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000269|PubMed:9406381}.
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y09331; CAA70511.1; -; Genomic_DNA.
+DR   ProteinModelPortal; O42815; -.
+DR   SMR; O42815; 22-280.
+DR   ESTHER; asptu-FAEA; Lipase_3.
+DR   BRENDA; 3.1.1.73; 538.
+DR   GO; GO:0005576; C:extracellular region; ISS:UniProtKB.
+DR   GO; GO:0030600; F:feruloyl esterase activity; ISS:UniProtKB.
+DR   GO; GO:0016998; P:cell wall macromolecule catabolic process; ISS:UniProtKB.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   GO; GO:0045490; P:pectin catabolic process; ISS:UniProtKB.
+DR   GO; GO:0045493; P:xylan catabolic process; ISS:UniProtKB.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Disulfide bond; Glycoprotein; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Serine esterase; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    280       Feruloyl esterase A.
+FT                                /FTId=PRO_0000021227.
+FT   ACT_SITE    154    154       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    214    214       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    267    267       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   BINDING      98     98       Substrate. {ECO:0000250}.
+FT   BINDING     101    101       Substrate. {ECO:0000250}.
+FT   BINDING     267    267       Substrate. {ECO:0000250}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     50    278       {ECO:0000250}.
+FT   DISULFID    112    115       {ECO:0000250}.
+FT   DISULFID    247    254       {ECO:0000250}.
+SQ   SEQUENCE   280 AA;  30451 MW;  3601EF04C6E72713 CRC64;
+     MKQFSAKYAI AVVVTAGHAL AASTQGISED LYSRLVEMAT ISQAAYADLC NIPSTIIKGE
+     KIYNSQTDIN GWILRDDSSK EIITVFRGTG SDTNLQLDTN YTLTPFDTLP QCNSCEVHGG
+     YYIGWISVQD QVESLVQQQV SQFPDYALTV TGHSLGASLA ALTAAQLSAT YDNIRLYTFG
+     EPRSNQAFAS YMNDAFQASS PDTTQYFRVT HANDGIPNLP PADEGYAHGV VEYWSVDPYS
+     AQNTFVCTGD EVQCCEAQGG QGVNNAHTTY FGMTSGHCTW
+//
+ID   FAEA_ASPFN              Reviewed;         281 AA.
+AC   B8NIB8;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   20-APR-2010, sequence version 2.
+DT   11-NOV-2015, entry version 32.
+DE   RecName: Full=Probable feruloyl esterase A;
+DE            EC=3.1.1.73;
+DE   AltName: Full=Ferulic acid esterase A;
+DE   Flags: Precursor;
+GN   Name=faeA; ORFNames=AFLA_066140;
+OS   Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM
+OS   12722 / SRRC 167).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=332952;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167;
+RA   Payne W.G.A., Dean R.A., Nierman W.C., Amedeo P., Caler E.G.A.,
+RA   Fedorova N.D., Maiti R., Joardar V., Inman J., Galinsky K.J., Yu J.,
+RA   Bhatnagar D., Cleveland T.E.;
+RT   "Genome sequence of Aspergillus flavus strain NRRL 3357.";
+RL   Submitted (SEP-2007) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Involved in degradation of plant cell walls. Hydrolyzes
+CC       the feruloyl-arabinose ester bond in arabinoxylans, and the
+CC       feruloyl-galactose ester bond in pectin (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=EED49792.1; Type=Erroneous initiation; Note=Translation N-terminally shortened.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EQ963479; EED49792.1; ALT_INIT; Genomic_DNA.
+DR   RefSeq; XP_002380173.1; XM_002380132.1.
+DR   ESTHER; aspor-q2unw5; Lipase_3.
+DR   GeneID; 7912018; -.
+DR   KEGG; afv:AFLA_066140; -.
+DR   EuPathDB; FungiDB:AFLA_066140; -.
+DR   HOGENOM; HOG000234795; -.
+DR   OrthoDB; EOG725DTS; -.
+DR   Proteomes; UP000001875; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Disulfide bond;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    281       Probable feruloyl esterase A.
+FT                                /FTId=PRO_0000393493.
+FT   ACT_SITE    154    154       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    215    215       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    268    268       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   BINDING      98     98       Substrate. {ECO:0000250}.
+FT   BINDING     101    101       Substrate. {ECO:0000250}.
+FT   BINDING     268    268       Substrate. {ECO:0000250}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    173    173       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     50    279       {ECO:0000250}.
+FT   DISULFID    112    115       {ECO:0000250}.
+FT   DISULFID    248    255       {ECO:0000250}.
+SQ   SEQUENCE   281 AA;  30222 MW;  0F6C4DF43D07A550 CRC64;
+     MKNFVSMHAI LLACSAGAGL AAITQGISEG TYSRIVEMAT ISQAAYANLC NIPSTITSAG
+     KIYNAETDIN GWVLRDDSRQ EIITVFRGTG SDTNLQLDTN YTQAPFDTLP QCSGCAVHGG
+     YYVGWISVKD QVEGLVQQQA SQYPDYSLVI TGHSLGASMA AITAAQLSAT YNNITVYTFG
+     EPRTGNQAYA SYVDETFQAT NPDATKFYRV THTNDGIPNL PPTSQGYVHH GTEYWSVEPH
+     GPQNMYLCLG DEVQCCEAQG GQGVNDAHVT YFGMASGACT W
+//
+ID   FAEA_ASPTN              Reviewed;         281 AA.
+AC   Q0CBM7;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 1.
+DT   09-DEC-2015, entry version 42.
+DE   RecName: Full=Probable feruloyl esterase A;
+DE            EC=3.1.1.73;
+DE   AltName: Full=Ferulic acid esterase A;
+DE   Flags: Precursor;
+GN   Name=faeA; ORFNames=ATEG_08907;
+OS   Aspergillus terreus (strain NIH 2624 / FGSC A1156).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=341663;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=NIH 2624 / FGSC A1156;
+RA   Birren B.W., Lander E.S., Galagan J.E., Nusbaum C., Devon K., Henn M.,
+RA   Ma L.-J., Jaffe D.B., Butler J., Alvarez P., Gnerre S., Grabherr M.,
+RA   Kleber M., Mauceli E.W., Brockman W., Rounsley S., Young S.K.,
+RA   LaButti K., Pushparaj V., DeCaprio D., Crawford M., Koehrsen M.,
+RA   Engels R., Montgomery P., Pearson M., Howarth C., Larson L., Luoma S.,
+RA   White J., Alvarado L., Kodira C.D., Zeng Q., Oleary S., Yandava C.,
+RA   Denning D.W., Nierman W.C., Milne T., Madden K.;
+RT   "Annotation of the Aspergillus terreus NIH2624 genome.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: Involved in degradation of plant cell walls. Hydrolyzes
+CC       the feruloyl-arabinose ester bond in arabinoxylans, and the
+CC       feruloyl-galactose ester bond in pectin (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CH476606; EAU31039.1; -; Genomic_DNA.
+DR   RefSeq; XP_001217493.1; XM_001217492.1.
+DR   ProteinModelPortal; Q0CBM7; -.
+DR   SMR; Q0CBM7; 22-281.
+DR   ESTHER; asptn-faea; Lipase_3.
+DR   EnsemblFungi; CADATEAT00006435; CADATEAP00006435; CADATEAG00006435.
+DR   GeneID; 4323090; -.
+DR   EuPathDB; FungiDB:ATEG_08907; -.
+DR   HOGENOM; HOG000234795; -.
+DR   OMA; INGWVLR; -.
+DR   OrthoDB; EOG725DTS; -.
+DR   Proteomes; UP000007963; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Disulfide bond;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    281       Probable feruloyl esterase A.
+FT                                /FTId=PRO_0000393495.
+FT   ACT_SITE    154    154       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    215    215       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    268    268       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   BINDING      98     98       Substrate. {ECO:0000250}.
+FT   BINDING     101    101       Substrate. {ECO:0000250}.
+FT   BINDING     268    268       Substrate. {ECO:0000250}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    173    173       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     50    279       {ECO:0000250}.
+FT   DISULFID    112    115       {ECO:0000250}.
+FT   DISULFID    248    255       {ECO:0000250}.
+SQ   SEQUENCE   281 AA;  30294 MW;  E554B76F61A4D312 CRC64;
+     MKQFSAKFAL ALSAAAGQAL AASTQGISED LYNRLVEMAT ISQAAYANMC NIPSTITVGE
+     KIYNAQTDIN GWVLRDDSTK EIITVFRGTG SDTNLQLDTN YTLTPFSTFS ECSGCEVHGG
+     YFIGWSSVQD QVMSLVKEQA DQYPDYTLTV TGHSLGASMA TLAAAQLSGT YDNITLYTFG
+     EPRSGNEAFA SYMNDKFTAT SADTTKYFRV THSNDGIPNL PPAEQGYVHG GVEYWSVDPY
+     SAQNTYVCTG DEVQCCEAQG GQGVNDAHTT YFGMTSGACT W
+//
+ID   FAEA_ASPOR              Reviewed;         281 AA.
+AC   Q2UNW5;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   24-JAN-2006, sequence version 1.
+DT   11-NOV-2015, entry version 49.
+DE   RecName: Full=Probable feruloyl esterase A;
+DE            EC=3.1.1.73;
+DE   AltName: Full=Ferulic acid esterase A;
+DE   Flags: Precursor;
+GN   Name=faeA; ORFNames=AO090001000207;
+OS   Aspergillus oryzae (strain ATCC 42149 / RIB 40) (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=510516;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 42149 / RIB 40;
+RX   PubMed=16372010; DOI=10.1038/nature04300;
+RA   Machida M., Asai K., Sano M., Tanaka T., Kumagai T., Terai G.,
+RA   Kusumoto K., Arima T., Akita O., Kashiwagi Y., Abe K., Gomi K.,
+RA   Horiuchi H., Kitamoto K., Kobayashi T., Takeuchi M., Denning D.W.,
+RA   Galagan J.E., Nierman W.C., Yu J., Archer D.B., Bennett J.W.,
+RA   Bhatnagar D., Cleveland T.E., Fedorova N.D., Gotoh O., Horikawa H.,
+RA   Hosoyama A., Ichinomiya M., Igarashi R., Iwashita K., Juvvadi P.R.,
+RA   Kato M., Kato Y., Kin T., Kokubun A., Maeda H., Maeyama N.,
+RA   Maruyama J., Nagasaki H., Nakajima T., Oda K., Okada K., Paulsen I.,
+RA   Sakamoto K., Sawano T., Takahashi M., Takase K., Terabayashi Y.,
+RA   Wortman J.R., Yamada O., Yamagata Y., Anazawa H., Hata Y., Koide Y.,
+RA   Komori T., Koyama Y., Minetoki T., Suharnan S., Tanaka A., Isono K.,
+RA   Kuhara S., Ogasawara N., Kikuchi H.;
+RT   "Genome sequencing and analysis of Aspergillus oryzae.";
+RL   Nature 438:1157-1161(2005).
+CC   -!- FUNCTION: Involved in degradation of plant cell walls. Hydrolyzes
+CC       the feruloyl-arabinose ester bond in arabinoxylans, and the
+CC       feruloyl-galactose ester bond in pectin (By similarity).
+CC       {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250}.
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AP007154; BAE56750.1; -; Genomic_DNA.
+DR   RefSeq; XP_001818752.1; XM_001818700.1.
+DR   ProteinModelPortal; Q2UNW5; -.
+DR   SMR; Q2UNW5; 22-281.
+DR   ESTHER; aspor-q2unw5; Lipase_3.
+DR   EnsemblFungi; CADAORAT00000186; CADAORAP00000184; CADAORAG00000186.
+DR   GeneID; 5990723; -.
+DR   KEGG; aor:AOR_1_350164; -.
+DR   HOGENOM; HOG000234795; -.
+DR   OMA; INGWVLR; -.
+DR   OrthoDB; EOG725DTS; -.
+DR   Proteomes; UP000006564; Chromosome 2.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00120; LIPASE_SER; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Complete proteome; Disulfide bond;
+KW   Glycoprotein; Hydrolase; Polysaccharide degradation;
+KW   Reference proteome; Secreted; Serine esterase; Signal;
+KW   Xylan degradation.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    281       Probable feruloyl esterase A.
+FT                                /FTId=PRO_0000393494.
+FT   ACT_SITE    154    154       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    215    215       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   ACT_SITE    268    268       Charge relay system.
+FT                                {ECO:0000255|PROSITE-ProRule:PRU10037}.
+FT   BINDING      98     98       Substrate. {ECO:0000250}.
+FT   BINDING     101    101       Substrate. {ECO:0000250}.
+FT   BINDING     268    268       Substrate. {ECO:0000250}.
+FT   CARBOHYD    100    100       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    173    173       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     50    279       {ECO:0000250}.
+FT   DISULFID    112    115       {ECO:0000250}.
+FT   DISULFID    248    255       {ECO:0000250}.
+SQ   SEQUENCE   281 AA;  30246 MW;  B1C961A0FF378716 CRC64;
+     MKNFFSMHAI LLACSAGAGL AAITQGISEG TYSRIVEMAT ISQAAYANLC NIPPAITSAG
+     KIYNAETDIN GWVLRDDSRQ EIITVFRGTG SDTNLQLDTN YTQAPFDTLP QCSGCAVHGG
+     YYVGWVSVKD QVEGLIHQQA SQYPDYSLVV TGHSLGASMA AITAAQLSAT YNNITVYTFG
+     EPRTGNQAYA SYVDETFQAT NPDATKFYRV THTNDGIPNL PPTSQGYVHH GTEYWSVEPH
+     GPQNMYLCLG DEVQCCEAQG GQGVNDAHVT YFGMASGACT W
+//
+ID   A0A024BK76_ASPOZ        Unreviewed;       281 AA.
+AC   A0A024BK76;
+DT   09-JUL-2014, integrated into UniProtKB/TrEMBL.
+DT   09-JUL-2014, sequence version 1.
+DT   17-FEB-2016, entry version 7.
+DE   SubName: Full=FaeA {ECO:0000313|EMBL:AHZ18111.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:AHZ18111.1};
+GN   Name=faeA {ECO:0000313|EMBL:AHZ18111.1};
+OS   Aspergillus oryzae (Yellow koji mold).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5062 {ECO:0000313|EMBL:AHZ18111.1};
+RN   [1] {ECO:0000313|EMBL:AHZ18111.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Zeng Y., Yin X., Zhu T.D., Yao Y., Li X.Q., Wu M.C., He Y.;
+RT   "Gene cloning, expression of a feruloyl esterase A with catalytic
+RT   hydrolysis and synthesis abilities from Aspergillus oryzae.";
+RL   Submitted (FEB-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ512992; AHZ18111.1; -; mRNA.
+DR   eggNOG; COG3675; LUCA.
+DR   eggNOG; KOG4569; Eukaryota.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   2: Evidence at transcript level;
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645,
+KW   ECO:0000313|EMBL:AHZ18111.1}; Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    281       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001526967.
+FT   DOMAIN       84    223       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   281 AA;  30285 MW;  04DCF6F424F0E150 CRC64;
+     MKNFFSMHAI LLACSAGAGL AAITQGISEG TYSRIVEMAT ISQAAYANLC NIPSTITSAG
+     KIYNAETDIN GWVLRDDSRQ EIITVFRGTG SDTNLQLDTN YTQAPFDTLP QCSGCAVHGG
+     YYVGWISVKD QVEGLVQQQA SQYPDYSLVI TGHSLGASMA AITAAQLSAT YNNITVYTFG
+     EPRTGNQAYA SYVDETFQAT NPDATKFYRV THTNDGIPNL PPTSQGYVHH GTEYWSVEPH
+     GPQNMYLCLG DEIQCCEAQG GQGVNDAHVT YFGMASGACT W
+//
+ID   A0A0H5C7F1_CYBJA        Unreviewed;       432 AA.
+AC   A0A0H5C7F1;
+DT   14-OCT-2015, integrated into UniProtKB/TrEMBL.
+DT   14-OCT-2015, sequence version 1.
+DT   17-FEB-2016, entry version 4.
+DE   SubName: Full=FaeA protein {ECO:0000313|EMBL:CEP24076.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:CEP24076.1};
+GN   Name=faeA {ECO:0000313|EMBL:CEP24076.1};
+GN   ORFNames=BN1211_4793 {ECO:0000313|EMBL:CEP24076.1};
+OS   Cyberlindnera jadinii (Torula yeast) (Pichia jadinii).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Saccharomycotina;
+OC   Saccharomycetes; Saccharomycetales; Phaffomycetaceae; Cyberlindnera.
+OX   NCBI_TaxID=4903 {ECO:0000313|EMBL:CEP24076.1, ECO:0000313|Proteomes:UP000038830};
+RN   [1] {ECO:0000313|EMBL:CEP24076.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBS1600 {ECO:0000313|EMBL:CEP24076.1};
+RA   Jaenicke S.;
+RL   Submitted (DEC-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CDQK01000005; CEP24076.1; -; Genomic_DNA.
+DR   Proteomes; UP000038830; Unassembled WGS sequence.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000038830};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645,
+KW   ECO:0000313|EMBL:CEP24076.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000038830}.
+FT   DOMAIN      270    415       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   432 AA;  48339 MW;  74EB57EA9A916E0B CRC64;
+     MMCLGVVPGS SCVSLELVTG LKSFSGTFKC LKLLLYTSFT YNHWTLKPPR HLFLSVQGAS
+     SFTSDASIRG ETISAIPQNR PEALTLKNKK ILSLEYRVWY ALLSLLFPKA VDDHILFRKL
+     VSTSFSLNDL MTKKRESWGT SHNCVGLLSS PAEYVVKDSH SGPVHYSTMY VQTSSMKSSS
+     QPGGAEHGQP RQLSDLNTAV SIATQRYCIS PVSGISPPFQ CDNDCDSFHG IEVVHQWSSE
+     GRLPLRGPSQ SLLETSGYMA LWHEQLMILI VLRGTRSFKD TLTDLNTEMV AYQESPSTCV
+     NCKVHKGFYM SYLLTWDGIK THIDYYTQLY PDYEVRVMGH SLGGAISVFI GLKLALLDDS
+     KDIKVVTMGQ PMVGNPQFAQ FIDSTFKLDL DEPFIEGSIL RITHRNDPVV KLPMYDNRNW
+     LSGSQFEHSD NI
+//
+ID   V6BP73_PLEER            Unreviewed;       555 AA.
+AC   V6BP73;
+DT   19-FEB-2014, integrated into UniProtKB/TrEMBL.
+DT   19-FEB-2014, sequence version 1.
+DT   17-FEB-2016, entry version 17.
+DE   RecName: Full=Carboxylic ester hydrolase {ECO:0000256|RuleBase:RU361235};
+DE            EC=3.1.1.- {ECO:0000256|RuleBase:RU361235};
+GN   Name=faea {ECO:0000313|EMBL:CDI44666.1};
+OS   Pleurotus eryngii (Boletus of the steppes).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Agaricomycetidae; Agaricales; Pleurotaceae; Pleurotus.
+OX   NCBI_TaxID=5323 {ECO:0000313|EMBL:CDI44666.1};
+RN   [1] {ECO:0000313|EMBL:CDI44666.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=613.91 {ECO:0000313|EMBL:CDI44666.1};
+RX   PubMed=24607359; DOI=10.1016/j.funbio.2014.01.010;
+RA   Nieter A., Haase-Aschoff P., Linke D., Nimtz M., Berger R.G.;
+RT   "A halotolerant type A feruloyl esterase from Pleurotus eryngii.";
+RL   Fungal Biol. 118:348-357(2014).
+CC   -!- SIMILARITY: Belongs to the type-B carboxylesterase/lipase family.
+CC       {ECO:0000256|RuleBase:RU361235}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HG530448; CDI44666.1; -; mRNA.
+DR   ESTHER; pleer-v6bp73; Fungal_carboxylesterase_lipase.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002018; CarbesteraseB.
+DR   InterPro; IPR019826; Carboxylesterase_B_AS.
+DR   Pfam; PF00135; COesterase; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   PROSITE; PS00122; CARBOXYLESTERASE_B_1; 1.
+PE   2: Evidence at transcript level;
+KW   Hydrolase {ECO:0000256|RuleBase:RU361235,
+KW   ECO:0000256|SAAS:SAAS00427783};
+KW   Signal {ECO:0000256|RuleBase:RU361235}.
+FT   SIGNAL        1     19       {ECO:0000256|RuleBase:RU361235}.
+FT   CHAIN        20    555       Carboxylic ester hydrolase.
+FT                                {ECO:0000256|RuleBase:RU361235}.
+FT                                /FTId=PRO_5005148871.
+FT   DOMAIN       19    521       COesterase. {ECO:0000259|Pfam:PF00135}.
+SQ   SEQUENCE   555 AA;  59291 MW;  791FB02CEAA36AEF CRC64;
+     MAILRGVATA LALLPFIAAQ APQVQVGNTA VIGRSIPEFG QELFGGIPFA EPPVGQLRLS
+     NPVLKTRLGT PTFDASNFGP ACLQSASVPL MSEDCLRINV LRPAGIPTGV VLPVMAWVYG
+     GGFDFGDSSI YNASAIVAQS VIRGTPVVFV SLNYRLGPLG FPQGVEAQKR GALNLGLKDQ
+     LAALEWVQAN IGLFGGDKSK VTIFGQSAGS ISLSILFLNS NIKRLARAAI FESGFTATSL
+     NFPASHREQS WANFVKDVPQ CASTAGSKDT FSCLRSDSID EATLLKAGSL ADDQSGELFA
+     WDPTIDGPGG ILPDIPSKLL ARGQFARLPF IAGTVLDEGT TFTPKFITTE DQIRQSIIAN
+     FTPSPFGPAV LAKSAETILQ LYPDVPALGS PFGTGNETFG LSSQYKRAAA IFGDVSFQSQ
+     RRFWIQTLSK AGLKTFGYLF ADPQSSDPVN GVPHASEIPY VYGALGILGG TVTPQALALS
+     RIMVDYWVSF ATSLDPNDGK GLPRPLWTQY TPSNQAIMLL NSTGTTMIPD DYRKKQIDFI
+     NSNPAVWHHR RSFST
+//
+ID   Q8WZI7_TALFU            Unreviewed;       345 AA.
+AC   Q8WZI7;
+DT   01-MAR-2002, integrated into UniProtKB/TrEMBL.
+DT   01-MAR-2002, sequence version 1.
+DT   20-JAN-2016, entry version 53.
+DE   SubName: Full=Ferulic acid esterase A {ECO:0000313|EMBL:CAC85738.1};
+GN   Name=faeA {ECO:0000313|EMBL:CAC85738.1};
+OS   Talaromyces funiculosus (Fruitlet core rot fungus) (Penicillium
+OS   funiculosum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=28572 {ECO:0000313|EMBL:CAC85738.1};
+RN   [1] {ECO:0000313|EMBL:CAC85738.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Furniss C.S.M.;
+RL   Submitted (JUN-2001) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CAC85738.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Furniss C., Williamson G., Fish N., Kroon P.;
+RT   "A second modular cinnamoyl esterase from Penicillium funiculosum.";
+RL   Submitted (DEC-2001) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AJ312296; CAC85738.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q8WZI7; -.
+DR   SMR; Q8WZI7; 22-56.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   ESTHER; penfu-FAEA; Esterase_phb.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0008236; F:serine-type peptidase activity; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR001375; Peptidase_S9.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00326; Peptidase_S9; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   4: Predicted;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    345       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004316146.
+FT   DOMAIN       20     56       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   345 AA;  36181 MW;  51A90E9BC9233E56 CRC64;
+     MVKSYIIGAF VLELASVVLG QQSLWGQCGG TGWTGPTTCV SGACCQEQNP YYSQCIQGNC
+     SPASSTSSTS STKTTTTSAS STTTSTSASG TSLSSGCGKA LSLKSGTYTT TVAGQQRQYT
+     LTLPSNYNPN KAYQLIFGYH WLGGTMGNVV SGSYYGIQPL AGDNAIFVAP QGLNNGWGNT
+     NGDDIIFTDQ MLSTLENALC IDETQIYSMG WSYGGAMSYA LACARPDVFR AVAVMSGANL
+     SGCSPGTQPV AYYGQHGVSD TVLPFSLGEG IRDTFVKDDH CTPTNPPAPA AGSGTHIKTE
+     YSGCDSEHPV WWIAFDGPHE PLATDAGASS SWTPGQIWSF FSLFH
+//
+ID   A0A068FNL1_ASPTE        Unreviewed;       281 AA.
+AC   A0A068FNL1;
+DT   01-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2014, sequence version 1.
+DT   17-FEB-2016, entry version 8.
+DE   SubName: Full=Feruloyl esterase A {ECO:0000313|EMBL:AID68652.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:AID68652.1};
+GN   Name=FaeA {ECO:0000313|EMBL:AID68652.1};
+OS   Aspergillus terreus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=33178 {ECO:0000313|EMBL:AID68652.1};
+RN   [1] {ECO:0000313|EMBL:AID68652.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBE 332.1 {ECO:0000313|EMBL:AID68652.1};
+RA   Zhang S.-B., Li Y.-X., Zhai H.-C., Cai J.-P., Liu Y.;
+RT   "Expression, Purification and Characterization of a feruloyl esterase
+RT   from Aspergillus terrus.";
+RL   Submitted (APR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KJ703110; AID68652.1; -; mRNA.
+DR   ProteinModelPortal; A0A068FNL1; -.
+DR   eggNOG; COG3675; LUCA.
+DR   eggNOG; KOG4569; Eukaryota.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   2: Evidence at transcript level;
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645,
+KW   ECO:0000313|EMBL:AID68652.1}; Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    281       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001651875.
+FT   DOMAIN       84    223       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   281 AA;  30294 MW;  E554B76F61A4D312 CRC64;
+     MKQFSAKFAL ALSAAAGQAL AASTQGISED LYNRLVEMAT ISQAAYANMC NIPSTITVGE
+     KIYNAQTDIN GWVLRDDSTK EIITVFRGTG SDTNLQLDTN YTLTPFSTFS ECSGCEVHGG
+     YFIGWSSVQD QVMSLVKEQA DQYPDYTLTV TGHSLGASMA TLAAAQLSGT YDNITLYTFG
+     EPRSGNEAFA SYMNDKFTAT SADTTKYFRV THSNDGIPNL PPAEQGYVHG GVEYWSVDPY
+     SAQNTYVCTG DEVQCCEAQG GQGVNDAHTT YFGMTSGACT W
+//
+ID   R9UUB4_ASPFL            Unreviewed;       281 AA.
+AC   R9UUB4;
+DT   18-SEP-2013, integrated into UniProtKB/TrEMBL.
+DT   18-SEP-2013, sequence version 1.
+DT   17-FEB-2016, entry version 11.
+DE   SubName: Full=Feruloyl esterase A {ECO:0000313|EMBL:AGN75069.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:AGN75069.1};
+GN   Name=FaeA {ECO:0000313|EMBL:AGN75069.1};
+OS   Aspergillus flavus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5059 {ECO:0000313|EMBL:AGN75069.1};
+RN   [1] {ECO:0000313|EMBL:AGN75069.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=CBE332.1 {ECO:0000313|EMBL:AGN75069.1};
+RX   PubMed=23981381; DOI=10.1016/j.pep.2013.08.009;
+RA   Zhang S.B., Zhai H.C., Wang L., Yu G.H.;
+RT   "Expression, purification and characterization of a feruloyl esterase
+RT   A from Aspergillus flavus.";
+RL   Protein Expr. Purif. 92:36-40(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KC748203; AGN75069.1; -; mRNA.
+DR   eggNOG; COG3675; LUCA.
+DR   eggNOG; KOG4569; Eukaryota.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   2: Evidence at transcript level;
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645,
+KW   ECO:0000313|EMBL:AGN75069.1}; Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    281       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004481077.
+FT   DOMAIN       84    223       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   281 AA;  30279 MW;  E0C18B358D0BC28B CRC64;
+     MKNFVSMYAI LLACSAGAGL AAITQGISEG TYSRIVEMAT ISQAAYANLC NIPSTITSAG
+     KIYNAETDIN GWVLRDDSRQ EIITVFRGTG SDTNLQLDTN YTQAPFDTLP QCSGCAVHGG
+     YYVGWISVKD QVEGLVQQQA SQYPDYSLVI TGHSLGASMA AITAAQLSTT YNNITVYTFG
+     EPRTGNQAYA SYVDETFQAT NPDATKFYRV THTNDGIPNL PPTSQGYVHH GTEYWSVEPH
+     GPQNMYLCLG DEVQCCEAQG GQGVNDAHVT YFGMASGACT W
+//
+ID   V5TEY2_9EURO            Unreviewed;       281 AA.
+AC   V5TEY2;
+DT   19-FEB-2014, integrated into UniProtKB/TrEMBL.
+DT   19-FEB-2014, sequence version 1.
+DT   17-FEB-2016, entry version 9.
+DE   SubName: Full=Type A feruloyl esterase {ECO:0000313|EMBL:AHB63528.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:AHB63528.1};
+GN   Name=faeA {ECO:0000313|EMBL:AHB63528.1};
+OS   Aspergillus usamii.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=186680 {ECO:0000313|EMBL:AHB63528.1};
+RN   [1] {ECO:0000313|EMBL:AHB63528.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=24052228;
+RA   Gong Y.Y., Yin X., Zhang H.M., Wu M.C., Tang C.D., Wang J.Q.,
+RA   Pang Q.F.;
+RT   "Cloning, expression of a feruloyl esterase from Aspergillus usamii
+RT   E001 and its applicability in generating ferulic acid from wheat
+RT   bran.";
+RL   J. Ind. Microbiol. Biotechnol. 40:1433-1441(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KF805148; AHB63528.1; -; Genomic_DNA.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645,
+KW   ECO:0000313|EMBL:AHB63528.1}; Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    281       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004740952.
+FT   DOMAIN       84    223       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   281 AA;  30522 MW;  9F5623A321B331C8 CRC64;
+     MKQFSAKYAL ILLATAGQAL AASTQGISED LYNRLVEMAT ISQAAYADLC NIPSTIIKGE
+     KIYNAQTDIN GWILRDDTSK EIITVFRGTG SDTNLQLDTN YTLTPFDTLP QCNDCEVHGG
+     YYIGWISVQD QVESLVKQQA SQYPDYALTV TGHSLGASMA ALTAAQLSAT YDNVRLYTFG
+     EPRSGNQAFA SYMNDAFQVS SPETTQYFRV THSNDGIPNL PPAEQGYAHG GVEYWSADPY
+     SAQNTFVCTG DEVQCCEAQG GQGVNDAHTT YFGMTSGACT W
+//
+ID   G4XKN4_9EURO            Unreviewed;       279 AA.
+AC   G4XKN4;
+DT   14-DEC-2011, integrated into UniProtKB/TrEMBL.
+DT   14-DEC-2011, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Feruloyl esterase A1 {ECO:0000313|EMBL:AEP33616.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:AEP33616.1};
+GN   Name=faeA1 {ECO:0000313|EMBL:AEP33616.1};
+OS   Chrysosporium lucknowense.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Onygenales; mitosporic Onygenales; Chrysosporium.
+OX   NCBI_TaxID=85845 {ECO:0000313|EMBL:AEP33616.1};
+RN   [1] {ECO:0000313|EMBL:AEP33616.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Kuhnel S., Pouvreau L., Appeldoorn M.M., Hinz S.W.A., Schols H.A.,
+RA   Gruppen H.;
+RT   "The ferulic acid esterases of Chrysosporium lucknowense C1:
+RT   Purification, characterization and their potential application in
+RT   biorefinery.";
+RL   Enzyme Microb. Technol. 0:0-0(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JF826027; AEP33616.1; -; Genomic_DNA.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0008236; F:serine-type peptidase activity; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR001375; Peptidase_S9.
+DR   Pfam; PF00326; Peptidase_S9; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Hydrolase {ECO:0000313|EMBL:AEP33616.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    279       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003470890.
+FT   DOMAIN      113    163       Peptidase_S9. {ECO:0000259|Pfam:PF00326}.
+SQ   SEQUENCE   279 AA;  29202 MW;  B6C09F40F721AE3E CRC64;
+     MISVPALALA LLAAVQVVES ASAGCGKAPP SSGTKSMTVN GKQRQYILQL PNNYDANKAH
+     RVVIGYHWRD GSMNDVANGG FYDLRSRAGD STIFVAPNGL NAGWANVGGE DITFTDQIVD
+     MLKNDLCVDE TQFFATGWSY GGAMSHSVAC SRPDVFKAVA VIAGAQLSGC AGGTTPVAYL
+     GIHGAADNVL PIDLGRQLRD KWLQTNGCNY QGAQDPAPGQ QAHIKTTYSC SRAPVTWIGH
+     GGGHVPDPTG NNGVKFAPQE TWDFFDAAVG AAGAQSPMT
+//
+ID   G4XKN5_9EURO            Unreviewed;       302 AA.
+AC   G4XKN5;
+DT   14-DEC-2011, integrated into UniProtKB/TrEMBL.
+DT   14-DEC-2011, sequence version 1.
+DT   09-DEC-2015, entry version 10.
+DE   SubName: Full=Feruloyl esterase A2 {ECO:0000313|EMBL:AEP33617.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:AEP33617.1};
+GN   Name=faeA2 {ECO:0000313|EMBL:AEP33617.1};
+OS   Chrysosporium lucknowense.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Onygenales; mitosporic Onygenales; Chrysosporium.
+OX   NCBI_TaxID=85845 {ECO:0000313|EMBL:AEP33617.1};
+RN   [1] {ECO:0000313|EMBL:AEP33617.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Kuhnel S., Pouvreau L., Appeldoorn M.M., Hinz S.W.A., Schols H.A.,
+RA   Gruppen H.;
+RT   "The ferulic acid esterases of Chrysosporium lucknowense C1:
+RT   Purification, characterization and their potential application in
+RT   biorefinery.";
+RL   Enzyme Microb. Technol. 0:0-0(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JF826028; AEP33617.1; -; Genomic_DNA.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR003140; PLipase/COase/thioEstase.
+DR   Pfam; PF02230; Abhydrolase_2; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Hydrolase {ECO:0000313|EMBL:AEP33617.1};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     26       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        27    302       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003470898.
+FT   DOMAIN      150    227       Abhydrolase_2.
+FT                                {ECO:0000259|Pfam:PF02230}.
+SQ   SEQUENCE   302 AA;  31842 MW;  A34BDD01074A2A66 CRC64;
+     MSRYLLGRLI VATVAITVAS LRGVTAATPS PGCGKTPTLI TDGSATTPLT LTSNGKTRRF
+     YVKLPDDYDN SHPYRLIFAL HALGGTAQQV TTGTGGYLPW YGIPDLAAND TVGAVYVAPD
+     GLNNGWANQG GEDVAFLEAV METVEQDVCV DRDLRFSTGF SYGAAMSYTL ACALGRRIRA
+     VAVLSGSPVI SGGCAGAGSG ASEPVAYYGQ HGMSDPVLPV AGGREMRDHF VRTNGCDAGR
+     GPPREPARGS GTHVKTVYDG CDPDYPVVWN AFDGDHTPQP VDRGATTTFS AVETWEFFSQ
+     FK
+//
+ID   G3XLZ4_ASPNA            Unreviewed;       281 AA.
+AC   G3XLZ4;
+DT   14-DEC-2011, integrated into UniProtKB/TrEMBL.
+DT   14-DEC-2011, sequence version 1.
+DT   17-FEB-2016, entry version 22.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:EHA28107.1};
+GN   Name=faeA {ECO:0000313|EMBL:EHA28107.1};
+GN   ORFNames=ASPNIDRAFT_51662 {ECO:0000313|EMBL:EHA28107.1};
+OS   Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB
+OS   Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=380704 {ECO:0000313|EMBL:EHA28107.1, ECO:0000313|Proteomes:UP000009038};
+RN   [1] {ECO:0000313|EMBL:EHA28107.1, ECO:0000313|Proteomes:UP000009038}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a /
+RC   NRRL 328 / USDA 3528.7 {ECO:0000313|Proteomes:UP000009038};
+RX   PubMed=21543515; DOI=10.1101/gr.112169.110;
+RA   Andersen M.R., Salazar M.P., Schaap P.J., van de Vondervoort P.J.I.,
+RA   Culley D., Thykaer J., Frisvad J.C., Nielsen K.F., Albang R.,
+RA   Albermann K., Berka R.M., Braus G.H., Braus-Stromeyer S.A.,
+RA   Corrochano L.M., Dai Z., van Dijck P.W.M., Hofmann G., Lasure L.L.,
+RA   Magnuson J.K., Menke H., Meijer M., Meijer S.L., Nielsen J.B.,
+RA   Nielsen M.L., van Ooyen A.J.J., Pel H.J., Poulsen L., Samson R.A.,
+RA   Stam H., Tsang A., van den Brink J.M., Atkins A., Aerts A.,
+RA   Shapiro H., Pangilinan J., Salamov A., Lou Y., Lindquist E., Lucas S.,
+RA   Grimwood J., Grigoriev I.V., Kubicek C.P., Martinez D.,
+RA   van Peij N.N.M.E., Roubos J.A., Nielsen J., Baker S.E.;
+RT   "Comparative genomics of citric-acid-producing Aspergillus niger ATCC
+RT   1015 versus enzyme-producing CBS 513.88.";
+RL   Genome Res. 21:885-897(2011).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EHA28107.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACJE01000001; EHA28107.1; -; Genomic_DNA.
+DR   ProteinModelPortal; G3XLZ4; -.
+DR   SMR; G3XLZ4; 22-281.
+DR   EnsemblFungi; EHA28107; EHA28107; ASPNIDRAFT_51662.
+DR   OrthoDB; EOG725DTS; -.
+DR   Proteomes; UP000009038; Unassembled WGS sequence.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000009038};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000009038};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    281       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003459746.
+FT   DOMAIN       84    223       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   281 AA;  30550 MW;  9F5623A33211BBF3 CRC64;
+     MKQFSAKYAL ILLATAGQAL AASTQGISED LYNRLVEMAT ISQAAYADLC NIPSTIIKGE
+     KIYNAQTDIN GWILRDDTSK EIITVFRGTG SDTNLQLDTN YTLTPFDTLP QCNDCEVHGG
+     YYIGWISVQD QVESLVKQQA SQYPDYALTV TGHSLGASMA ALTAAQLSAT YDNVRLYTFG
+     EPRSGNQAFA SYMNDAFQVS SPETTQYFRV THSNDGIPNL PPAEQGYAHG GVEYWSVDPY
+     SAQNTFVCTG DEVQCCEAQG GQGVNDAHTT YFGMTSGACT W
+//
+ID   Q4WAT0_ASPFU            Unreviewed;       234 AA.
+AC   Q4WAT0;
+DT   05-JUL-2005, integrated into UniProtKB/TrEMBL.
+DT   05-JUL-2005, sequence version 1.
+DT   09-DEC-2015, entry version 52.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EAL84656.1};
+DE            EC=3.1.1.73 {ECO:0000313|EMBL:EAL84656.1};
+GN   ORFNames=AFUA_7G02380 {ECO:0000313|EMBL:EAL84656.1};
+OS   Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC
+OS   A1100) (Aspergillus fumigatus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=330879 {ECO:0000313|EMBL:EAL84656.1, ECO:0000313|Proteomes:UP000002530};
+RN   [1] {ECO:0000313|EMBL:EAL84656.1, ECO:0000313|Proteomes:UP000002530}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100
+RC   {ECO:0000313|Proteomes:UP000002530};
+RX   PubMed=16372009; DOI=10.1038/nature04332;
+RA   Nierman W.C., Pain A., Anderson M.J., Wortman J.R., Kim H.S.,
+RA   Arroyo J., Berriman M., Abe K., Archer D.B., Bermejo C., Bennett J.W.,
+RA   Bowyer P., Chen D., Collins M., Coulsen R., Davies R., Dyer P.S.,
+RA   Farman M.L., Fedorova N., Fedorova N.D., Feldblyum T.V., Fischer R.,
+RA   Fosker N., Fraser A., Garcia J.L., Garcia M.J., Goble A.,
+RA   Goldman G.H., Gomi K., Griffith-Jones S., Gwilliam R., Haas B.J.,
+RA   Haas H., Harris D.E., Horiuchi H., Huang J., Humphray S., Jimenez J.,
+RA   Keller N., Khouri H., Kitamoto K., Kobayashi T., Konzack S.,
+RA   Kulkarni R., Kumagai T., Lafton A., Latge J.-P., Li W., Lord A.,
+RA   Lu C., Majoros W.H., May G.S., Miller B.L., Mohamoud Y., Molina M.,
+RA   Monod M., Mouyna I., Mulligan S., Murphy L.D., O'Neil S., Paulsen I.,
+RA   Penalva M.A., Pertea M., Price C., Pritchard B.L., Quail M.A.,
+RA   Rabbinowitsch E., Rawlins N., Rajandream M.A., Reichard U.,
+RA   Renauld H., Robson G.D., Rodriguez de Cordoba S., Rodriguez-Pena J.M.,
+RA   Ronning C.M., Rutter S., Salzberg S.L., Sanchez M.,
+RA   Sanchez-Ferrero J.C., Saunders D., Seeger K., Squares R., Squares S.,
+RA   Takeuchi M., Tekaia F., Turner G., Vazquez de Aldana C.R., Weidman J.,
+RA   White O., Woodward J.R., Yu J.-H., Fraser C.M., Galagan J.E., Asai K.,
+RA   Machida M., Hall N., Barrell B.G., Denning D.W.;
+RT   "Genomic sequence of the pathogenic and allergenic filamentous fungus
+RT   Aspergillus fumigatus.";
+RL   Nature 438:1151-1156(2005).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EAL84656.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAHF01000015; EAL84656.1; -; Genomic_DNA.
+DR   RefSeq; XP_746694.1; XM_741601.1.
+DR   ProteinModelPortal; Q4WAT0; -.
+DR   EnsemblFungi; CADAFUAT00001203; CADAFUAP00001203; CADAFUAG00001203.
+DR   GeneID; 3504251; -.
+DR   KEGG; afm:AFUA_7G02380; -.
+DR   EuPathDB; FungiDB:Afu7g02380; -.
+DR   InParanoid; Q4WAT0; -.
+DR   KO; K09252; -.
+DR   OMA; ESVRITC; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000002530; Chromosome 7.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002530};
+KW   Hydrolase {ECO:0000313|EMBL:EAL84656.1};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002530};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    234       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004245944.
+SQ   SEQUENCE   234 AA;  25681 MW;  9898825BA76FE81A CRC64;
+     MKVHFDILLS IASLATATAS AGCGKPLPND QGAEGIYPTD FTTSDDTLRP YIIHIPSNYD
+     ENRAVPLTFS FHGRSKTAES QEQLSQFSNE AWNPDAIAVY PQGLDNQWQG DPDSSGVDDV
+     AFTMEMLDNF EKRYCIDSSR VYAAGKSNGG GFTNLLACDP TAFKSIDYCG ICPRFGCLLP
+     GRTRGRLQSR KARPTRQSLT MEVVDAESVY PLCHISSGSE QRGTDSSCRN KLQR
+//
+ID   G3J3X9_CORMM            Unreviewed;       286 AA.
+AC   G3J3X9;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   17-FEB-2016, entry version 16.
+DE   SubName: Full=Ferulic acid esterase A faeA {ECO:0000313|EMBL:EGX95754.1};
+GN   ORFNames=CCM_00408 {ECO:0000313|EMBL:EGX95754.1};
+OS   Cordyceps militaris (strain CM01) (Caterpillar fungus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+OC   Cordyceps.
+OX   NCBI_TaxID=983644 {ECO:0000313|EMBL:EGX95754.1, ECO:0000313|Proteomes:UP000001610};
+RN   [1] {ECO:0000313|EMBL:EGX95754.1, ECO:0000313|Proteomes:UP000001610}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CM01 {ECO:0000313|EMBL:EGX95754.1,
+RC   ECO:0000313|Proteomes:UP000001610};
+RX   PubMed=22112802; DOI=10.1186/gb-2011-12-11-r116;
+RA   Zheng P., Xia Y., Xiao G., Xiong C., Hu X., Zhang S., Zheng H.,
+RA   Huang Y., Zhou Y., Wang S., Zhao G.-P., Liu X., St. Leger R.J.,
+RA   Wang C.;
+RT   "Genome sequence of the insect pathogenic fungus Cordyceps militaris,
+RT   a valued traditional Chinese medicine.";
+RL   Genome Biol. 12:R116-R116(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH126399; EGX95754.1; -; Genomic_DNA.
+DR   RefSeq; XP_006665631.1; XM_006665568.1.
+DR   EnsemblFungi; EGX95754; EGX95754; CCM_00408.
+DR   GeneID; 18162443; -.
+DR   KEGG; cmt:CCM_00408; -.
+DR   InParanoid; G3J3X9; -.
+DR   OrthoDB; EOG725DTS; -.
+DR   Proteomes; UP000001610; Unassembled WGS sequence.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    286       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003445879.
+FT   DOMAIN       79    215       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   286 AA;  30717 MW;  3EB3A17AA19ED649 CRC64;
+     MRWFLLASIG LVHAVAYAQT PVSSDVFDKM VRYAAFSAAS YQEDCPTPPF GSSIVQSFDD
+     ADTGTRAAIF RDEKAKEIIV AFRGTSSPRE LDADLAFALV PLSVPGTSCS DCKVHDGFQR
+     CYTAIMKPLA TALQGLLCEA DWRLVVTGHS LGGGISAIAA PSFAGLGFQV SEVFTFGEPR
+     NGNAAWAQYA SSVVPDEQYY RVTHFTDGIP QIPPTVLGYV HHSPEYYQSE ETNNTAASTW
+     KCDIDSPKCN AGQDFGTTLV NNAHVSYSNT VVGSSLFVPA CGAVWP
+//
+ID   FAEA_TALSN              Reviewed;          49 AA.
+AC   P0CT85;
+DT   14-OCT-2015, integrated into UniProtKB/Swiss-Prot.
+DT   14-OCT-2015, sequence version 1.
+DT   09-DEC-2015, entry version 2.
+DE   RecName: Full=Feruloyl esterase A {ECO:0000303|PubMed:15006424};
+DE            EC=3.1.1.73 {ECO:0000269|PubMed:15006424};
+DE   AltName: Full=Ferulic acid esterase A;
+DE            Short=FAE;
+DE   Flags: Fragments;
+OS   Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 /
+OS   NRRL 1006) (Penicillium stipitatum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=441959;
+RN   [1]
+RP   PARTIAL PROTEIN SEQUENCE, FUNCTION, AND CATALYTIC ACTIVITY.
+RC   STRAIN=ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006;
+RX   PubMed=15006424; DOI=10.1016/j.jbiotec.2003.12.003;
+RA   Garcia-Conesa M.T., Crepin V.F., Goldson A.J., Williamson G.,
+RA   Cummings N.J., Connerton I.F., Faulds C.B., Kroon P.A.;
+RT   "The feruloyl esterase system of Talaromyces stipitatus: production of
+RT   three discrete feruloyl esterases, including a novel enzyme, TsFaeC,
+RT   with a broad substrate specificity.";
+RL   J. Biotechnol. 108:227-241(2004).
+CC   -!- FUNCTION: Involved in degradation of plant cell walls. Hydrolyzes
+CC       the feruloyl-arabinose ester bond in arabinoxylans as well as the
+CC       feruloyl-galactose and feruloyl-arabinose ester bonds in pectin
+CC       (By similarity). Active against methyl esters of sinapate (MSA),
+CC       but not caffeate (MCA) (PubMed:15006424).
+CC       {ECO:0000250|UniProtKB:O42807, ECO:0000269|PubMed:15006424}.
+CC   -!- CATALYTIC ACTIVITY: Feruloyl-polysaccharide + H(2)O = ferulate +
+CC       polysaccharide. {ECO:0000269|PubMed:15006424}.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000250|UniProtKB:O42807}.
+CC   -!- SIMILARITY: Belongs to the faeA family. {ECO:0000305}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0030600; F:feruloyl esterase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0045493; P:xylan catabolic process; IEA:UniProtKB-KW.
+PE   1: Evidence at protein level;
+KW   Carbohydrate metabolism; Direct protein sequencing; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Serine esterase;
+KW   Xylan degradation.
+FT   CHAIN         1    >49       Feruloyl esterase A.
+FT                                /FTId=PRO_0000433996.
+FT   NON_CONS     28     29
+FT   NON_CONS     39     40
+FT   NON_TER      49     49
+SQ   SEQUENCE   49 AA;  5216 MW;  DA38F77428FFEECC CRC64;
+     ASTQGISEDL YNRLVEMATI IQAAYADLAI YNAQTDINGA SGNQAFASY
+//
+ID   A0A0B2WUV4_9HYPO        Unreviewed;       284 AA.
+AC   A0A0B2WUV4;
+DT   04-MAR-2015, integrated into UniProtKB/TrEMBL.
+DT   04-MAR-2015, sequence version 1.
+DT   17-FEB-2016, entry version 9.
+DE   SubName: Full=Ferulic acid esterase A faeA {ECO:0000313|EMBL:KHN97404.1};
+GN   ORFNames=MAM_05001 {ECO:0000313|EMBL:KHN97404.1};
+OS   Metarhizium album ARSEF 1941.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Clavicipitaceae;
+OC   Metarhizium.
+OX   NCBI_TaxID=1081103 {ECO:0000313|EMBL:KHN97404.1, ECO:0000313|Proteomes:UP000030816};
+RN   [1] {ECO:0000313|EMBL:KHN97404.1, ECO:0000313|Proteomes:UP000030816}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ARSEF 1941 {ECO:0000313|EMBL:KHN97404.1,
+RC   ECO:0000313|Proteomes:UP000030816};
+RX   PubMed=25368161; DOI=10.1073/pnas.1412662111;
+RA   Hu X., Xiao G., Zheng P., Shang Y., Su Y., Zhang X., Liu X., Zhan S.,
+RA   St Leger R.J., Wang C.;
+RT   "Trajectory and genomic determinants of fungal-pathogen speciation and
+RT   host adaptation.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 111:16796-16801(2014).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KHN97404.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AZHE01000011; KHN97404.1; -; Genomic_DNA.
+DR   EnsemblFungi; KHN97404; KHN97404; MAM_05001.
+DR   Proteomes; UP000030816; Unassembled WGS sequence.
+DR   GO; GO:0016787; F:hydrolase activity; IEA:UniProtKB-KW.
+DR   GO; GO:0006629; P:lipid metabolic process; IEA:InterPro.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002921; Fungal_lipase-like.
+DR   Pfam; PF01764; Lipase_3; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030816};
+KW   Hydrolase {ECO:0000256|SAAS:SAAS00467645};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030816};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    284       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002081607.
+FT   DOMAIN       78    213       Lipase_3. {ECO:0000259|Pfam:PF01764}.
+SQ   SEQUENCE   284 AA;  30119 MW;  D65C1A028C5E03A8 CRC64;
+     MLLAIAAAGF FPLLVLAQQP VSPDVFDKIT RYTAFAAASY DDHCAKPPFG SRIVTTFNDI
+     ATDTQATLFR DDAAKEVIIS FRGTSTPKDL DSDLAFGLVP LSAAGTSCSS CKVHEGFQSA
+     FNAISRQVMS AIKSELSSDS RLIVTGHSLG GGIAAIATSS LIGQGIQVAE TYTFGEPRNG
+     DAQWAKYIAR QIPDSNYYRV THSNDGVPQI PPTVLGYVHH GPEYFQSRDA GNTARTTFKC
+     GPDAKSCSAG QDFGSNPINR SHLTYSNTIV GSSLFVAACG AVFP
+//
+ID   B8LWX8_TALSN            Unreviewed;       298 AA.
+AC   B8LWX8;
+DT   03-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   03-MAR-2009, sequence version 1.
+DT   09-DEC-2015, entry version 20.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EED24611.1};
+GN   ORFNames=TSTA_079660 {ECO:0000313|EMBL:EED24611.1};
+OS   Talaromyces stipitatus (strain ATCC 10500 / CBS 375.48 / QM 6759 /
+OS   NRRL 1006) (Penicillium stipitatum).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=441959 {ECO:0000313|Proteomes:UP000001745};
+RN   [1] {ECO:0000313|Proteomes:UP000001745}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 10500 / CBS 375.48 / QM 6759 / NRRL 1006
+RC   {ECO:0000313|Proteomes:UP000001745};
+RX   PubMed=25676766; DOI=10.1128/genomeA.01559-14;
+RA   Nierman W.C., Fedorova-Abrams N.D., Andrianopoulos A.;
+RT   "Genome sequence of the AIDS-associated pathogen Penicillium marneffei
+RT   (ATCC18224) and its near taxonomic relative Talaromyces stipitatus
+RT   (ATCC10500).";
+RL   Genome Announc. 3:E0155914-E0155914(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EQ962652; EED24611.1; -; Genomic_DNA.
+DR   RefSeq; XP_002341998.1; XM_002341957.1.
+DR   EnsemblFungi; EED24611; EED24611; TSTA_079660.
+DR   GeneID; 8103905; -.
+DR   EuPathDB; FungiDB:TSTA_079660; -.
+DR   eggNOG; COG3509; LUCA.
+DR   eggNOG; ENOG410IWXW; Eukaryota.
+DR   InParanoid; B8LWX8; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000001745; Unassembled WGS sequence.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR029059; AB_hydrolase_5.
+DR   Pfam; PF12695; Abhydrolase_5; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001745};
+KW   Membrane {ECO:0000256|SAM:Phobius};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001745};
+KW   Transmembrane {ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|SAM:Phobius}.
+FT   TRANSMEM     12     32       Helical. {ECO:0000256|SAM:Phobius}.
+FT   TRANSMEM     44     67       Helical. {ECO:0000256|SAM:Phobius}.
+FT   DOMAIN       91    241       Abhydrolase_5.
+FT                                {ECO:0000259|Pfam:PF12695}.
+SQ   SEQUENCE   298 AA;  32248 MW;  4B78A7D5A687B87B CRC64;
+     MSHLFTDSIR LITASISDAV GLIYSGIIKI LAGDVLSPRR LARMLFELVL GGLLLIAPAI
+     TDVQFLLSSN RTRSYWVHAP DNFQSGQTYP AVILFHGSGR LGSDADGLAM ELDLRLSLPL
+     VQTAYSADKY FIYPNGVGGA WAGPSYAEVS VPEDLQFVSD MINDLKSKYS IDSNRIYAAG
+     MSNGGGFVGT LACSELGSRF AAFASVAGSF YTDVDGNGCL TSRSPLPFLE IHGGSDRGVH
+     YSGGIGYGGP LPSIPVWYAD TLPSYGSNRF YILRLIWAYL KVELLGREKQ MYIQLNDP
+//
+ID   A1CG01_ASPCL            Unreviewed;       314 AA.
+AC   A1CG01;
+DT   23-JAN-2007, integrated into UniProtKB/TrEMBL.
+DT   23-JAN-2007, sequence version 1.
+DT   09-DEC-2015, entry version 33.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EAW10881.1};
+GN   ORFNames=ACLA_065130 {ECO:0000313|EMBL:EAW10881.1};
+OS   Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC
+OS   3887 / NRRL 1).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=344612 {ECO:0000313|Proteomes:UP000006701};
+RN   [1] {ECO:0000313|Proteomes:UP000006701}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1
+RC   {ECO:0000313|Proteomes:UP000006701};
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027053; EAW10881.1; -; Genomic_DNA.
+DR   RefSeq; XP_001272307.1; XM_001272306.1.
+DR   ProteinModelPortal; A1CG01; -.
+DR   EnsemblFungi; CADACLAT00006306; CADACLAP00006151; CADACLAG00006306.
+DR   GeneID; 4704602; -.
+DR   KEGG; act:ACLA_065130; -.
+DR   EuPathDB; FungiDB:ACLA_065130; -.
+DR   HOGENOM; HOG000186084; -.
+DR   OMA; IAFTMEM; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000006701; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR029059; AB_hydrolase_5.
+DR   Pfam; PF12695; Abhydrolase_5; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006701};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006701};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    314       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002633545.
+FT   DOMAIN       73    222       Abhydrolase_5.
+FT                                {ECO:0000259|Pfam:PF12695}.
+SQ   SEQUENCE   314 AA;  34173 MW;  C33D0C539B0E189E CRC64;
+     MKVYFIGILP LVPGLVQAAG SAGCEKPLPK HHGAGGSYPT DFTTSDGTKR SYIIHIPSSY
+     DVNQAAPLIF SFHGRSKTAE NQEALSQFSN EEWNPNAIAV YPQGLDKQWQ GDPASSGVDD
+     IAFTMEMLDH FEQRYCIDSS RVYAAGKSNG GGFTDLLACD ATASRRIAAF APVSGAYYQD
+     VSEDACDAET VPIDCSPGRN PIPVIEFHGT ADKTIPYAGG GRRGECLPSV PHFVREWSKR
+     DGFGLQNKTT NFYDGNVQKY QYGRGNALGT VTHYRIKGLG HDWPSVAPNS DNPDGTYLNA
+     TPIIMDFFGR WTLP
+//
+ID   A1D9B6_NEOFI            Unreviewed;       312 AA.
+AC   A1D9B6;
+DT   23-JAN-2007, integrated into UniProtKB/TrEMBL.
+DT   23-JAN-2007, sequence version 1.
+DT   20-JAN-2016, entry version 37.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EAW20977.1};
+GN   ORFNames=NFIA_115130 {ECO:0000313|EMBL:EAW20977.1};
+OS   Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL
+OS   181) (Aspergillus fischerianus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Neosartorya.
+OX   NCBI_TaxID=331117 {ECO:0000313|Proteomes:UP000006702};
+RN   [1] {ECO:0000313|Proteomes:UP000006702}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181
+RC   {ECO:0000313|Proteomes:UP000006702};
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027692; EAW20977.1; -; Genomic_DNA.
+DR   RefSeq; XP_001262874.1; XM_001262873.1.
+DR   ProteinModelPortal; A1D9B6; -.
+DR   EnsemblFungi; CADNFIAT00010544; CADNFIAP00010268; CADNFIAG00010544.
+DR   GeneID; 4589510; -.
+DR   KEGG; nfi:NFIA_115130; -.
+DR   EuPathDB; FungiDB:NFIA_115130; -.
+DR   HOGENOM; HOG000186084; -.
+DR   OMA; GVWEEVW; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000006702; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR029059; AB_hydrolase_5.
+DR   Pfam; PF12695; Abhydrolase_5; 1.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000006702};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000006702};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    312       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002634192.
+FT   DOMAIN       72    248       Abhydrolase_5.
+FT                                {ECO:0000259|Pfam:PF12695}.
+SQ   SEQUENCE   312 AA;  34017 MW;  943469B806CA2CF3 CRC64;
+     MKVHFDILLS IASLATATAS AGCAKPLPKD QGAGGSYPTD FTTSDGTLRS YIIHIPSNYD
+     ESRAIPLIFS FHGRSKTAES QEQLSQFSNE AWNPDAIAVY PQGLDNQWQG DPDSSGVDDV
+     AFTMEMLDHF EERYCIDSSR VYAAGKSNGG GFTNLLACDP TASRRIAAFA PVSGAYYQDV
+     PEDACNAETV PIKCNPGRRP TPIIEFHGTA DTTIPYNGGG RRGECLPSVP HFVREWAKRD
+     GLGLQNQTTS LYNGNVLEYQ YGRGEALGTV THYLIEGLGH DWPSVNPNSD NPDGTFLDAT
+     PIIMDFFSRW TL
+//
+ID   B8MYQ9_ASPFN            Unreviewed;       326 AA.
+AC   B8MYQ9;
+DT   03-MAR-2009, integrated into UniProtKB/TrEMBL.
+DT   03-MAR-2009, sequence version 1.
+DT   14-OCT-2015, entry version 24.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EED57501.1};
+GN   ORFNames=AFLA_081980 {ECO:0000313|EMBL:EED57501.1};
+OS   Aspergillus flavus (strain ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM
+OS   12722 / SRRC 167).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=332952 {ECO:0000313|EMBL:EED57501.1, ECO:0000313|Proteomes:UP000001875};
+RN   [1] {ECO:0000313|Proteomes:UP000001875}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 200026 / FGSC A1120 / NRRL 3357 / JCM 12722 / SRRC 167
+RC   {ECO:0000313|Proteomes:UP000001875};
+RA   Payne W.G.A., Dean R.A., Nierman W.C., Amedeo P., Caler E.G.A.,
+RA   Fedorova N.D., Maiti R., Joardar V., Inman J., Galinsky K.J., Yu J.,
+RA   Bhatnagar D., Cleveland T.E.;
+RT   "Genome sequence of Aspergillus flavus strain NRRL 3357.";
+RL   Submitted (SEP-2007) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; EQ963472; EED57501.1; -; Genomic_DNA.
+DR   RefSeq; XP_002373113.1; XM_002373072.1.
+DR   EnsemblFungi; CADAFLAT00000978; CADAFLAP00000978; CADAFLAG00000978.
+DR   GeneID; 7909998; -.
+DR   KEGG; afv:AFLA_081980; -.
+DR   EuPathDB; FungiDB:AFLA_081980; -.
+DR   HOGENOM; HOG000186084; -.
+DR   OMA; IAFTMEM; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000001875; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 2.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001875};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001875};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    326       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002875461.
+SQ   SEQUENCE   326 AA;  35569 MW;  A10FD3796E55D9E4 CRC64;
+     MKFLSVILLT TTAGLASAAG SAGCGQPLPP SQNPGGSSYG VNFTLSAGTQ RFYRIHIPSN
+     YNVKTPTPLI FSFHGRGKTA ESQEKLSQFS NEDWNPDAIA VYPQGLNKEW QGDPHSKDVD
+     DIAFTMEMLD YFQEKFCIDS TRVYAAGKSN GGGFTNLLAC DPTASTRIAA FAPVSGAYYQ
+     DVSEEACHPT TVPIKCSPGR PSIPILEFHG TADKTIPYGG GGRRGECLPS IPHFVREWSK
+     RLGYGLHNTT KELYDGNVQE YQYGNGDNRG IVTHYRIGGL GHDWPSVRPN SDNPNGTYLD
+     ATPIIVKFFK QWVLPGSSED NQSEAR
+//
+ID   E9DX11_METAQ            Unreviewed;       238 AA.
+AC   E9DX11;
+DT   05-APR-2011, integrated into UniProtKB/TrEMBL.
+DT   05-APR-2011, sequence version 1.
+DT   14-OCT-2015, entry version 14.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EFY91874.1};
+GN   ORFNames=MAC_02159 {ECO:0000313|EMBL:EFY91874.1};
+OS   Metarhizium acridum (strain CQMa 102).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Clavicipitaceae;
+OC   Metarhizium.
+OX   NCBI_TaxID=655827 {ECO:0000313|Proteomes:UP000002499};
+RN   [1] {ECO:0000313|EMBL:EFY91874.1, ECO:0000313|Proteomes:UP000002499}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CQMa 102 {ECO:0000313|EMBL:EFY91874.1,
+RC   ECO:0000313|Proteomes:UP000002499};
+RX   PubMed=21253567; DOI=10.1371/journal.pgen.1001264;
+RA   Gao Q., Jin K., Ying S.-H., Zhang Y., Xiao G., Shang Y., Duan Z.,
+RA   Hu X., Xie X.-Q., Zhou G., Peng G., Luo Z., Huang W., Wang B.,
+RA   Fang W., Wang S., Zhong Y., Ma L.-J., St Leger R.J., Zhao G.-P.,
+RA   Pei Y., Feng M.-G., Xia Y., Wang C.;
+RT   "Genome sequencing and comparative transcriptomics of the model
+RT   entomopathogenic fungi Metarhizium anisopliae and M. acridum.";
+RL   PLoS Genet. 7:E1001264-E1001264(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GL698479; EFY91874.1; -; Genomic_DNA.
+DR   RefSeq; XP_007808499.1; XM_007810308.1.
+DR   EnsemblFungi; EFY91874; EFY91874; MAC_02159.
+DR   GeneID; 19246470; -.
+DR   KEGG; maw:MAC_02159; -.
+DR   InParanoid; E9DX11; -.
+DR   OrthoDB; EOG7HMSBD; -.
+DR   Proteomes; UP000002499; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002499};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002499};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    238       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003234839.
+SQ   SEQUENCE   238 AA;  25321 MW;  0FD13C06DA449794 CRC64;
+     MLFLALLGVI NTNPVAALSA TSDPYTGGDT SGCGKIHTAQ VIGLPIYRGI QSSGVHRSYS
+     VHLPYSYDKN HEYPTILGFH GSSSIGLFFQ ADTKLDEARF TRDKVMVYPN GLGGAWAGAN
+     YSKATVGQDL QFVWDLLADL RQNFCIDSAR IYATGLSIGG GFVDTIACNS TVGGEFAAMA
+     PASGSFYTNN DANHHLCEPA RVPMPILEFH GGADVDVKYG GGQGEGGIEP AIPHWYAH
+//
+ID   A0A0U1LJX1_9EURO        Unreviewed;       287 AA.
+AC   A0A0U1LJX1;
+DT   17-FEB-2016, integrated into UniProtKB/TrEMBL.
+DT   17-FEB-2016, sequence version 1.
+DT   17-FEB-2016, entry version 1.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CRG83314.1};
+GN   Name=faeA {ECO:0000313|EMBL:CRG83314.1};
+GN   ORFNames=PISL3812_00665 {ECO:0000313|EMBL:CRG83314.1};
+OS   Talaromyces islandicus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=28573 {ECO:0000313|EMBL:CRG83314.1};
+RN   [1] {ECO:0000313|EMBL:CRG83314.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=WF-38-12 {ECO:0000313|EMBL:CRG83314.1};
+RA   Syromyatnikov M.Y., Popov V.N.;
+RL   Submitted (APR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CVMT01000001; CRG83314.1; -; Genomic_DNA.
+PE   4: Predicted;
+SQ   SEQUENCE   287 AA;  30319 MW;  12480EBBEEFB3B0D CRC64;
+     MLSRLANIVL FLSGTAFAQP AVSEDVYKNI LRYTGFAAAA YSDSCATPPS GSTVVKTFND
+     GSTDTQATLF RDDTAKEIII AFRGSSSPKD LDTDFEFKSV PLTAVGTSCQ SCKVHSGFQT
+     AYSSIASQII SAVKDELSSS GYYTLTITGH SLGAGLSSIA TSSFIGSGIK VASTYTYGEP
+     RNGDSAWVSY LGSQIPDDNY FRVTHYNDGV PQIPPTVLGF EHHGPEYWQS KKSGNSAATT
+     YNCGANSTSC NAGQDYGDNP INGAHLTYSN TVVAASLHNP SCGYSLL
+//
+ID   A0A0U1M9W4_9EURO        Unreviewed;       285 AA.
+AC   A0A0U1M9W4;
+DT   17-FEB-2016, integrated into UniProtKB/TrEMBL.
+DT   17-FEB-2016, sequence version 1.
+DT   17-FEB-2016, entry version 1.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CRG91706.1};
+GN   Name=faeA {ECO:0000313|EMBL:CRG91706.1};
+GN   ORFNames=PISL3812_08757 {ECO:0000313|EMBL:CRG91706.1};
+OS   Talaromyces islandicus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Trichocomaceae; Talaromyces.
+OX   NCBI_TaxID=28573 {ECO:0000313|EMBL:CRG91706.1};
+RN   [1] {ECO:0000313|EMBL:CRG91706.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=WF-38-12 {ECO:0000313|EMBL:CRG91706.1};
+RA   Syromyatnikov M.Y., Popov V.N.;
+RL   Submitted (APR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CVMT01000010; CRG91706.1; -; Genomic_DNA.
+PE   4: Predicted;
+SQ   SEQUENCE   285 AA;  30607 MW;  5D1B8B2E4C9EFD1C CRC64;
+     MRYSLLSVAF PYLALGVPIW DNKGKTPVTH AVYEKLVQYA GYPGISLGQC STASTGATSI
+     QFFNITSTDT QAVLWKLPSE KSILVSIPGT NSSKDWATDF DFFFTNYSSP GVECQGGCLV
+     HNGFFGAWNS LAAELLPALE KALDANPDYS TIITGHSLGG AIAQLAFASL SDAKYKVIAA
+     YTYGQPRVGN QAFANYIDGL AGASEDKIGN FHRVTHYNDG VPLLPPRIFG FSHSLTEFWE
+     STNKSEESTT YRCYGQESFE CNDSAGGFGA NAAHGSYAGF GLACH
+//
+ID   A0A0C2IY41_9PEZI        Unreviewed;       323 AA.
+AC   A0A0C2IY41;
+DT   01-APR-2015, integrated into UniProtKB/TrEMBL.
+DT   01-APR-2015, sequence version 1.
+DT   14-OCT-2015, entry version 4.
+DE   SubName: Full=Ferulic acid esterase (FaeA) {ECO:0000313|EMBL:KIH89947.1};
+GN   ORFNames=SPBR_00864 {ECO:0000313|EMBL:KIH89947.1};
+OS   Sporothrix brasiliensis 5110.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Ophiostomatales; Ophiostomataceae;
+OC   Sporothrix.
+OX   NCBI_TaxID=1398154 {ECO:0000313|EMBL:KIH89947.1, ECO:0000313|Proteomes:UP000031575};
+RN   [1] {ECO:0000313|EMBL:KIH89947.1, ECO:0000313|Proteomes:UP000031575}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=5110 {ECO:0000313|EMBL:KIH89947.1};
+RX   PubMed=25351875; DOI=10.1186/1471-2164-15-943;
+RA   Teixeira M.M., de Almeida L.G., Kubitschek-Barreira P., Alves F.L.,
+RA   Kioshima E.S., Abadio A.K., Fernandes L., Derengowski L.S.,
+RA   Ferreira K.S., Souza R.C., Ruiz J.C., de Andrade N.C., Paes H.C.,
+RA   Nicola A.M., Albuquerque P., Gerber A.L., Martins V.P., Peconick L.D.,
+RA   Neto A.V., Chaucanez C.B., Silva P.A., Cunha O.L., de Oliveira F.F.,
+RA   dos Santos T.C., Barros A.L., Soares M.A., de Oliveira L.M.,
+RA   Marini M.M., Villalobos-Duno H., Cunha M.M., de Hoog S.,
+RA   da Silveira J.F., Henrissat B., Nino-Vega G.A., Cisalpino P.S.,
+RA   Mora-Montes H.M., Almeida S.R., Stajich J.E., Lopes-Bezerra L.M.,
+RA   Vasconcelos A.T., Felipe M.S.;
+RT   "Comparative genomics of the major fungal agents of human and animal
+RT   Sporotrichosis: Sporothrix schenckii and Sporothrix brasiliensis.";
+RL   BMC Genomics 15:943-943(2014).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KIH89947.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AWTV01000008; KIH89947.1; -; Genomic_DNA.
+DR   EnsemblFungi; KIH89947; KIH89947; SPBR_00864.
+DR   Proteomes; UP000031575; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000031575};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    323       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002150898.
+SQ   SEQUENCE   323 AA;  34823 MW;  1B67C6976C8A48A2 CRC64;
+     MFTLSLQMVA CLVGVLSMAT ASPCTTKAVT GCHKALPYGQ SRGAVTNASI TSNGLDRNYL
+     VFVPPNYENK KPTQVILSFH GGTKTALQQL ELDNLTLPEF NTDSIVVYPQ GINNFWQGVP
+     GVTVDDVQFT SDLLDHVSRQ YCVDTRRIMV TGKSDGAGFC NVLACDAGLS ARIAAFAPVS
+     GAYYVDTLPC DADTVAIPCN NARRDIPLLA FHGGADTVIA YGGGERKKAC LPSVPHWIQS
+     WAARENLGAS NHTVPYAQDT VIYEFSRGTQ KGLVNLVYDR VNGHDWPSTQ PNADNQNAGQ
+     APTSFNATPM ILDFFAKHTL TDL
+//
+ID   A0A0L1J5U5_ASPNO        Unreviewed;       321 AA.
+AC   A0A0L1J5U5;
+DT   11-NOV-2015, integrated into UniProtKB/TrEMBL.
+DT   11-NOV-2015, sequence version 1.
+DT   20-JAN-2016, entry version 3.
+DE   SubName: Full=Ferulic acid esterase (FaeA) {ECO:0000313|EMBL:KNG87114.1};
+GN   ORFNames=ANOM_005301 {ECO:0000313|EMBL:KNG87114.1};
+OS   Aspergillus nomius NRRL 13137.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=1509407 {ECO:0000313|EMBL:KNG87114.1, ECO:0000313|Proteomes:UP000037505};
+RN   [1] {ECO:0000313|Proteomes:UP000037505}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=NRRL 13137 {ECO:0000313|Proteomes:UP000037505};
+RA   Moore M.G., Shannon B.M., Brian M.M.;
+RT   "The Genome of the Aflatoxigenic Filamentous Fungus Aspergillus
+RT   nomius.";
+RL   Submitted (JUN-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KNG87114.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JNOM01000092; KNG87114.1; -; Genomic_DNA.
+DR   Proteomes; UP000037505; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR029059; AB_hydrolase_5.
+DR   Pfam; PF12695; Abhydrolase_5; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000037505};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000037505};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    321       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5005553429.
+FT   DOMAIN       71    218       Abhydrolase_5.
+FT                                {ECO:0000259|Pfam:PF12695}.
+SQ   SEQUENCE   321 AA;  34892 MW;  2AA3145BB8707AFE CRC64;
+     MKFLSAIFLY AAAGLASTAS SSGCGKPLPA NQSPGGSSYG VNFTTSDGTR RFYRIHIPSS
+     YDVNKPIPLI FSFHGRGKTA ESQEKLSQFS NEDWNPDAIA VYPQGLNKEW QGDPHSKDVD
+     DVAFTMEMLD DLQEKYCVDS ARVYAAGKSN GGGFTNLLAC DPTASTRIAA FAPVAGAYYQ
+     DVSEEECRPA TVPIKCSPGR PSIPIIEFHG TADKTIPYGG GGRRGKCLPS IPHFVREWSK
+     RLGYGLHNKT KELYGGNVQE YQYGSGGGLG IVTHYRIQGL GHDWPSVQPN SDNPNGTYLD
+     ATPIIVKFFK RWTLPGTSEE T
+//
+ID   Q870B0_PIRSE            Unreviewed;       140 AA.
+AC   Q870B0;
+DT   01-JUN-2003, integrated into UniProtKB/TrEMBL.
+DT   01-JUN-2003, sequence version 1.
+DT   09-DEC-2015, entry version 40.
+DE   SubName: Full=Feruloyl esterase FaeA {ECO:0000313|EMBL:AAP30751.1};
+DE   Flags: Fragment;
+OS   Piromyces sp. (strain E2).
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Piromyces.
+OX   NCBI_TaxID=73868 {ECO:0000313|EMBL:AAP30751.1};
+RN   [1] {ECO:0000313|EMBL:AAP30751.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=14527719; DOI=10.1016/S0378-1119(03)00705-4;
+RA   Harhangi H.R., Akhmanova A., Steenbakkers P.J., Jetten M.S.,
+RA   van der Drift C., Op den Camp H.J.;
+RT   "Genomic DNA analysis of genes encoding (hemi-)cellulolytic enzymes of
+RT   the anaerobic fungus Piromyces sp. E2.";
+RL   Gene 314:73-80(2003).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF500791; AAP30751.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q870B0; -.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   Gene3D; 3.90.1220.10; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR002883; CBM10/Dockerin_dom.
+DR   InterPro; IPR009034; Dockerin_dom_fun.
+DR   Pfam; PF02013; CBM_10; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+DR   SUPFAM; SSF64571; SSF64571; 1.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils}.
+FT   DOMAIN       92    129       CBM_10. {ECO:0000259|Pfam:PF02013}.
+FT   COILED      140    140       {ECO:0000256|SAM:Coils}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAP30751.1}.
+FT   NON_TER     140    140       {ECO:0000313|EMBL:AAP30751.1}.
+SQ   SEQUENCE   140 AA;  16110 MW;  34269783341A0503 CRC64;
+     EFNNLKIHNL YMTCGDADDL VYQSFPGYVR AMKNWNRVEN FKDYTYPGGT HDFPVWYKGF
+     NDFIHMIFAD MRQKSEPVVI EEPSIEPAPV TCSSRITAQG YKCCNSGCVL VYTDDDGNWG
+     VRKRSWCGCI RMNAVVPRLS
+//
+ID   J4WEN5_BEAB2            Unreviewed;       341 AA.
+AC   J4WEN5;
+DT   31-OCT-2012, integrated into UniProtKB/TrEMBL.
+DT   31-OCT-2012, sequence version 1.
+DT   14-OCT-2015, entry version 14.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EJP68450.1};
+GN   ORFNames=BBA_02452 {ECO:0000313|EMBL:EJP68450.1};
+OS   Beauveria bassiana (strain ARSEF 2860) (White muscardine disease
+OS   fungus) (Tritirachium shiotae).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+OC   Beauveria.
+OX   NCBI_TaxID=655819 {ECO:0000313|EMBL:EJP68450.1, ECO:0000313|Proteomes:UP000002762};
+RN   [1] {ECO:0000313|EMBL:EJP68450.1, ECO:0000313|Proteomes:UP000002762}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ARSEF 2860 {ECO:0000313|EMBL:EJP68450.1,
+RC   ECO:0000313|Proteomes:UP000002762};
+RX   PubMed=22761991; DOI=10.1038/srep00483;
+RA   Xiao G., Ying S.-H., Zheng P., Wang Z.-L., Zhang S., Xie X.-Q.,
+RA   Shang Y., St Leger R.J., Zhao G.-P., Wang C., Feng M.-G.;
+RT   "Genomic perspectives on the evolution of fungal entomopathogenicity
+RT   in Beauveria bassiana.";
+RL   Sci. Rep. 2:483-483(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH725154; EJP68450.1; -; Genomic_DNA.
+DR   RefSeq; XP_008595771.1; XM_008597549.1.
+DR   EnsemblFungi; EJP68450; EJP68450; BBA_02452.
+DR   GeneID; 19885464; -.
+DR   InParanoid; J4WEN5; -.
+DR   OrthoDB; EOG7HMSBD; -.
+DR   Proteomes; UP000002762; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002762};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002762};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     35       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        36    341       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003782495.
+SQ   SEQUENCE   341 AA;  36808 MW;  C2B415725AE1D65F CRC64;
+     MTQRESEISG GFTQAAKVVA MQLSALLSIA SFAAAAPAST TFAPYTGGDT SGCGKTHLFN
+     GLAQLRTLKS SGQDRRYLAH LPADYDAKRQ YPVIVGFHGS SSIGFFFAAD TGLDLPRYTS
+     DKITVYPDGL GGAWAGANYS TASVGEDLQF VWDVLADLRG AFCVDSARIY ATGLSSGGGF
+     VNTVACNATV GGEFAAFAPA SGAFYTDNDD HFKDCRPARV PTPMLEFHGG ADESVRYDGG
+     QGQGGIEPSI PNWLKRWADR NECDTPNEQQ DLYNGDVHHL SWTCKGQEGV LQHYKTDSQK
+     HDWPSPWPNF SQLAALDKPT HLEASALIQD FFMKYTRPAK S
+//
+ID   J5K3A3_BEAB2            Unreviewed;       321 AA.
+AC   J5K3A3;
+DT   31-OCT-2012, integrated into UniProtKB/TrEMBL.
+DT   31-OCT-2012, sequence version 1.
+DT   16-SEP-2015, entry version 13.
+DE   SubName: Full=Ferulic acid esterase (FaeA) {ECO:0000313|EMBL:EJP68556.1};
+GN   ORFNames=BBA_02558 {ECO:0000313|EMBL:EJP68556.1};
+OS   Beauveria bassiana (strain ARSEF 2860) (White muscardine disease
+OS   fungus) (Tritirachium shiotae).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+OC   Beauveria.
+OX   NCBI_TaxID=655819 {ECO:0000313|EMBL:EJP68556.1, ECO:0000313|Proteomes:UP000002762};
+RN   [1] {ECO:0000313|EMBL:EJP68556.1, ECO:0000313|Proteomes:UP000002762}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ARSEF 2860 {ECO:0000313|EMBL:EJP68556.1,
+RC   ECO:0000313|Proteomes:UP000002762};
+RX   PubMed=22761991; DOI=10.1038/srep00483;
+RA   Xiao G., Ying S.-H., Zheng P., Wang Z.-L., Zhang S., Xie X.-Q.,
+RA   Shang Y., St Leger R.J., Zhao G.-P., Wang C., Feng M.-G.;
+RT   "Genomic perspectives on the evolution of fungal entomopathogenicity
+RT   in Beauveria bassiana.";
+RL   Sci. Rep. 2:483-483(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH725154; EJP68556.1; -; Genomic_DNA.
+DR   RefSeq; XP_008595877.1; XM_008597655.1.
+DR   EnsemblFungi; EJP68556; EJP68556; BBA_02558.
+DR   GeneID; 19885570; -.
+DR   InParanoid; J5K3A3; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000002762; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002762};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002762}.
+SQ   SEQUENCE   321 AA;  34504 MW;  D9398DBAE8F9E2CD CRC64;
+     MVFSVAAGAA TTLASSVACA RDGASSSTSN IVITSDHQQR SFLLWVSAEY NPNSPAAVLL
+     SFHGGGTNAT DQLQLDGFTT ADDANATPIV VYPQGLNDTW QGVPGDTVND VLFTHDILNY
+     LETNYNVDTT RIYASGKSDG GGFCNVLACD ACASQRIAAF APVSGAFYVD TLPCHPDTVK
+     LPCSPGRSNV AFIEFHGGND TTISYQGGER KNECLPAIPH FVRQWSVRNG LGLQNHSSEI
+     AANTTSYTYG SGADAGLVTH VYESDIGHDW PSTAPNEDNS RKGHHVASYN ATPIILDFFS
+     KYRFPPKRKY RAKRYNCKLT A
+//
+ID   J4W4N0_BEAB2            Unreviewed;       456 AA.
+AC   J4W4N0;
+DT   31-OCT-2012, integrated into UniProtKB/TrEMBL.
+DT   31-OCT-2012, sequence version 1.
+DT   14-OCT-2015, entry version 14.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EJP65330.1};
+GN   ORFNames=BBA_05661 {ECO:0000313|EMBL:EJP65330.1};
+OS   Beauveria bassiana (strain ARSEF 2860) (White muscardine disease
+OS   fungus) (Tritirachium shiotae).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+OC   Beauveria.
+OX   NCBI_TaxID=655819 {ECO:0000313|EMBL:EJP65330.1, ECO:0000313|Proteomes:UP000002762};
+RN   [1] {ECO:0000313|EMBL:EJP65330.1, ECO:0000313|Proteomes:UP000002762}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ARSEF 2860 {ECO:0000313|EMBL:EJP65330.1,
+RC   ECO:0000313|Proteomes:UP000002762};
+RX   PubMed=22761991; DOI=10.1038/srep00483;
+RA   Xiao G., Ying S.-H., Zheng P., Wang Z.-L., Zhang S., Xie X.-Q.,
+RA   Shang Y., St Leger R.J., Zhao G.-P., Wang C., Feng M.-G.;
+RT   "Genomic perspectives on the evolution of fungal entomopathogenicity
+RT   in Beauveria bassiana.";
+RL   Sci. Rep. 2:483-483(2012).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH725164; EJP65330.1; -; Genomic_DNA.
+DR   RefSeq; XP_008598980.1; XM_008600758.1.
+DR   EnsemblFungi; EJP65330; EJP65330; BBA_05661.
+DR   GeneID; 19888673; -.
+DR   InParanoid; J4W4N0; -.
+DR   OrthoDB; EOG7CCC2C; -.
+DR   Proteomes; UP000002762; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002762};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002762};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    456       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003782270.
+SQ   SEQUENCE   456 AA;  51036 MW;  66F97292AA290D81 CRC64;
+     MKISVSGLVA TIFLAAADAA SNVTHGRGSP GCGKQITHIG KEEWNARFVV SRYWRAFVTY
+     TPEKYDENTP QPLIMAFHGT GRPHWEFSQQ TRFSKPGINP NMMRSWYGAN NAEPWVDDFK
+     FTEMALEHLM NNYCIDVDRV YLVGHTGGGG FANILACDPR FSRHFAAMAL MGPTLYRDLD
+     DDYCKNARLP MPILEAHGLQ DPTSPYGGLT IKERVVGAIP PIPDWIKRWV RRNNCNPVPH
+     QEYYVDKRIT SEKYTCHGQY GFVEHIKAQD HGYYWMTAKD DLDISQRTMF FLQQQVRPGN
+     LSIPLDSRGL FTTFGGNSSS SGNSTNHKDT FFPRPNMTRW DDITATRSSK TSSLFTTSSS
+     GAVSTASGYP ESHNKTTTSH QDRPAYTTAS TSSTRTFYAS MAPYSSTYST GTFYVTMPHG
+     SSTSSTFTRT FDASPTNTPS PDSHPDHTDE VQACHN
+//
+ID   V5GBL0_BYSSN            Unreviewed;       325 AA.
+AC   V5GBL0;
+DT   22-JAN-2014, integrated into UniProtKB/TrEMBL.
+DT   22-JAN-2014, sequence version 1.
+DT   09-DEC-2015, entry version 8.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:GAD99411.1};
+GN   ORFNames=PVAR5_8126 {ECO:0000313|EMBL:GAD99411.1};
+OS   Byssochlamys spectabilis (strain No. 5 / NBRC 109023) (Paecilomyces
+OS   variotii).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Thermoascaceae; Byssochlamys.
+OX   NCBI_TaxID=1356009 {ECO:0000313|EMBL:GAD99411.1, ECO:0000313|Proteomes:UP000018001};
+RN   [1] {ECO:0000313|EMBL:GAD99411.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Oka T., Ekino K., Fukuda K., Nomura Y.;
+RT   "Draft Genome Sequence of the Formaldehyde-Resistant Fungus
+RT   Byssochlamys spectabilis No. 5 (Anamorph Paecilomyces variotii No. 5)
+RT   (NBRC109023).";
+RL   Genome Announc. 2:e01162-13(2014).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:GAD99411.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; BAUL01000296; GAD99411.1; -; Genomic_DNA.
+DR   EnsemblFungi; GAD99411; GAD99411; PVAR5_8126.
+DR   Proteomes; UP000018001; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR029059; AB_hydrolase_5.
+DR   Pfam; PF12695; Abhydrolase_5; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000018001};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000018001};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     20       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        21    325       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004736949.
+FT   DOMAIN      117    235       Abhydrolase_5.
+FT                                {ECO:0000259|Pfam:PF12695}.
+SQ   SEQUENCE   325 AA;  35482 MW;  B4CF50E0E8212B04 CRC64;
+     MRGYIPILLT VFSVVETVVA SRGSPGCGKP LPNNESPGKF TNVPLFMTSD NVPRSYIVNI
+     PSGYNPNKPA PLIFSFHGRG KTAYSQLRLS AFYNETWNPD AISVYPQGLK GSEGEPQWQG
+     DPNSVGVNDV GFVLDMINSF SENYCIDTDR IFASGKSNGG GFTGLLACDE TASKSIAAFA
+     PVSGAYYQAL NKNGTCDAAH TPIKCSPAAR KIPILEFHGD ADHTIPYDGG ERRGECLPTI
+     PHWAREWSKR DGYGPRSYLT SSFDNNVLKY EYGNLDSSLG IVTHYMIRGL GHAWPSTQPN
+     SDNPNGTYID ATPLIMDFFS KYPLH
+//
+ID   E9EHL3_METAQ            Unreviewed;       477 AA.
+AC   E9EHL3;
+DT   05-APR-2011, integrated into UniProtKB/TrEMBL.
+DT   05-APR-2011, sequence version 1.
+DT   16-SEP-2015, entry version 13.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EFY84612.1};
+GN   ORFNames=MAC_09361 {ECO:0000313|EMBL:EFY84612.1};
+OS   Metarhizium acridum (strain CQMa 102).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Clavicipitaceae;
+OC   Metarhizium.
+OX   NCBI_TaxID=655827 {ECO:0000313|Proteomes:UP000002499};
+RN   [1] {ECO:0000313|EMBL:EFY84612.1, ECO:0000313|Proteomes:UP000002499}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CQMa 102 {ECO:0000313|EMBL:EFY84612.1,
+RC   ECO:0000313|Proteomes:UP000002499};
+RX   PubMed=21253567; DOI=10.1371/journal.pgen.1001264;
+RA   Gao Q., Jin K., Ying S.-H., Zhang Y., Xiao G., Shang Y., Duan Z.,
+RA   Hu X., Xie X.-Q., Zhou G., Peng G., Luo Z., Huang W., Wang B.,
+RA   Fang W., Wang S., Zhong Y., Ma L.-J., St Leger R.J., Zhao G.-P.,
+RA   Pei Y., Feng M.-G., Xia Y., Wang C.;
+RT   "Genome sequencing and comparative transcriptomics of the model
+RT   entomopathogenic fungi Metarhizium anisopliae and M. acridum.";
+RL   PLoS Genet. 7:E1001264-E1001264(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; GL698615; EFY84612.1; -; Genomic_DNA.
+DR   RefSeq; XP_007815701.1; XM_007817510.1.
+DR   EnsemblFungi; EFY84612; EFY84612; MAC_09361.
+DR   GeneID; 19253672; -.
+DR   KEGG; maw:MAC_09361; -.
+DR   InParanoid; E9EHL3; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000002499; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000002499};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000002499}.
+SQ   SEQUENCE   477 AA;  52617 MW;  C25140CEBE275384 CRC64;
+     MLGLKTYWLQ NECHAIVSEK DIGNFGATEL AIQPRKNGSV PKLPKPLALD NATPVKLHVQ
+     RRLRSCGFYL VCLQLRLSPS PPRKYKVLGR QNISTHALPK TMLLTFAFLF TLIEASAMPS
+     EVSPALPAGC YKPLPQGQFA GGVSTIHVTS DGERRTFLLS IPPEYHSDTP AAAVLSYHGG
+     GRNAEDQLKL DQLTNPEFNS AAFVIYPQGI DVRRCISFHP AASIRYEKNA DKHKETWQGV
+     PGATSDDILF TSDILDYVQY RYCIDPTRIS ATGKSDGGGF CNLLACDPRL SSRVAAFAPV
+     SGAFYIHSRP CRPQTVEFSC RSSRADVPFL EFHGGKDKVI SYKGGSRKKE CLPSIPHFIQ
+     QWASLDGLGI DNTTTRVSQN TVLYTFGHGS KAGLVEHVYD SAIGHDWPST VPNIDNQNPG
+     HHVASFNATP MILDFFAKHP LSLGLGQPPE RRVQTRKTLM SSGAEDEKLY HQRVLRE
+//
+ID   B0YC52_ASPFC            Unreviewed;       234 AA.
+AC   B0YC52;
+DT   08-APR-2008, integrated into UniProtKB/TrEMBL.
+DT   08-APR-2008, sequence version 1.
+DT   09-DEC-2015, entry version 26.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EDP48183.1};
+GN   ORFNames=AFUB_088950 {ECO:0000313|EMBL:EDP48183.1};
+OS   Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163)
+OS   (Aspergillus fumigatus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=451804 {ECO:0000313|Proteomes:UP000001699};
+RN   [1] {ECO:0000313|Proteomes:UP000001699}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CEA10 / CBS 144.89 / FGSC A1163
+RC   {ECO:0000313|Proteomes:UP000001699};
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS499601; EDP48183.1; -; Genomic_DNA.
+DR   ProteinModelPortal; B0YC52; -.
+DR   EnsemblFungi; CADAFUBT00008809; CADAFUBP00008647; CADAFUBG00008809.
+DR   OrthoDB; EOG74N5SF; -.
+DR   PhylomeDB; B0YC52; -.
+DR   Proteomes; UP000001699; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001699};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    234       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002758860.
+SQ   SEQUENCE   234 AA;  25681 MW;  9898825BA76FE81A CRC64;
+     MKVHFDILLS IASLATATAS AGCGKPLPND QGAEGIYPTD FTTSDDTLRP YIIHIPSNYD
+     ENRAVPLTFS FHGRSKTAES QEQLSQFSNE AWNPDAIAVY PQGLDNQWQG DPDSSGVDDV
+     AFTMEMLDNF EKRYCIDSSR VYAAGKSNGG GFTNLLACDP TAFKSIDYCG ICPRFGCLLP
+     GRTRGRLQSR KARPTRQSLT MEVVDAESVY PLCHISSGSE QRGTDSSCRN KLQR
+//
+ID   A0A084C0P9_ASPFM        Unreviewed;       234 AA.
+AC   A0A084C0P9;
+DT   29-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   29-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 6.
+DE   SubName: Full=Ferulic acid esterase FaeA {ECO:0000313|EMBL:KEY83378.1};
+GN   ORFNames=BA78_7054 {ECO:0000313|EMBL:KEY83378.1};
+OS   Aspergillus fumigatus var. RP-2014.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=1476192 {ECO:0000313|EMBL:KEY83378.1, ECO:0000313|Proteomes:UP000028372};
+RN   [1] {ECO:0000313|EMBL:KEY83378.1, ECO:0000313|Proteomes:UP000028372}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=RP-2014 {ECO:0000313|Proteomes:UP000028372};
+RA   Couger B., Weirick T., Damasio A.R.L., Segato F., Polizeli M.L.T.M.,
+RA   Almedia R.S., Goldman G.H., Prade R.;
+RT   "The genome of a pathogenic albino Aspergillus fumigatus.";
+RL   Submitted (MAR-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KEY83378.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JHOI01000379; KEY83378.1; -; Genomic_DNA.
+DR   EnsemblFungi; KEY83378; KEY83378; BA78_7054.
+DR   Proteomes; UP000028372; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000028372};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    234       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001772683.
+SQ   SEQUENCE   234 AA;  25808 MW;  C360EBAB5E0E91F2 CRC64;
+     MKVHFDILLS IASLATVTAS AGCGKPLPND QGAEGIYPTD FTTSDDTLRP YIIHIPSNYD
+     ENRAVPLTFS FHGRSKTAES QEQLSQFSNE AWNPDAIAVY PQGLDNQWQG DPDSSGVDDV
+     AFTMEMLDNF EKRYCIDSSR VYAAGKSNGG GFTNLLACDP TAFKSIDYCG ICPRFGCLLP
+     GRTRGRLQSR KARPTRQSLT MEVVDAESVY PLCHISSGSE QRRTDSSCRN KLQR
+//
+ID   U9TQE8_RHIID            Unreviewed;       324 AA.
+AC   U9TQE8;
+DT   22-JAN-2014, integrated into UniProtKB/TrEMBL.
+DT   22-JAN-2014, sequence version 1.
+DT   09-DEC-2015, entry version 8.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:ESA10370.1};
+GN   ORFNames=GLOINDRAFT_29530 {ECO:0000313|EMBL:ESA10370.1};
+OS   Rhizophagus irregularis (strain DAOM 181602 / DAOM 197198 / MUCL
+OS   43194) (Arbuscular mycorrhizal fungus) (Glomus intraradices).
+OC   Eukaryota; Fungi; Glomeromycota; Glomeromycetes; Glomerales;
+OC   Glomeraceae; Rhizophagus.
+OX   NCBI_TaxID=747089 {ECO:0000313|EMBL:ESA10370.1, ECO:0000313|Proteomes:UP000018888};
+RN   [1] {ECO:0000313|Proteomes:UP000018888}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=DAOM 181602 / DAOM 197198 / MUCL 43194
+RC   {ECO:0000313|Proteomes:UP000018888};
+RX   PubMed=24277808; DOI=10.1073/pnas.1313452110;
+RA   Tisserant E., Malbreil M., Kuo A., Kohler A., Symeonidi A.,
+RA   Balestrini R., Charron P., Duensing N., Frei dit Frey N.,
+RA   Gianinazzi-Pearson V., Gilbert L.B., Handa Y., Herr J.R., Hijri M.,
+RA   Koul R., Kawaguchi M., Krajinski F., Lammers P.J., Masclaux F.G.,
+RA   Murat C., Morin E., Ndikumana S., Pagni M., Petitpierre D.,
+RA   Requena N., Rosikiewicz P., Riley R., Saito K., San Clemente H.,
+RA   Shapiro H., van Tuinen D., Becard G., Bonfante P., Paszkowski U.,
+RA   Shachar-Hill Y.Y., Tuskan G.A., Young J.P.W., Sanders I.R.,
+RA   Henrissat B., Rensing S.A., Grigoriev I.V., Corradi N., Roux C.,
+RA   Martin F.;
+RT   "Genome of an arbuscular mycorrhizal fungus provides insight into the
+RT   oldest plant symbiosis.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 110:20117-20122(2013).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KI287183; ESA10370.1; -; Genomic_DNA.
+DR   EnsemblFungi; ESA10370; ESA10370; GLOINDRAFT_29530.
+DR   Proteomes; UP000018888; Unassembled WGS sequence.
+DR   GO; GO:0009289; C:pilus; IEA:InterPro.
+DR   GO; GO:0003677; F:DNA binding; IEA:InterPro.
+DR   GO; GO:0006355; P:regulation of transcription, DNA-templated; IEA:InterPro.
+DR   Gene3D; 1.10.10.10; -; 2.
+DR   InterPro; IPR006793; FaeA.
+DR   InterPro; IPR016032; Sig_transdc_resp-reg_C-effctor.
+DR   InterPro; IPR000792; Tscrpt_reg_LuxR_C.
+DR   InterPro; IPR011991; WHTH_DNA-bd_dom.
+DR   Pfam; PF04703; FaeA; 1.
+DR   Pfam; PF00196; GerE; 1.
+DR   SMART; SM00421; HTH_LUXR; 1.
+DR   SUPFAM; SSF46894; SSF46894; 1.
+PE   4: Predicted;
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000018888};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000018888}.
+FT   DOMAIN      151    208       HTH_LUXR. {ECO:0000259|SMART:SM00421}.
+FT   COILED      240    263       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   324 AA;  37764 MW;  CD87E9C14122B65D CRC64;
+     MMDDTRGTYL PVYVATENNY FSQGVVFLLE ELFEDEFSGN ITVSLVKKLQ EADLIVQVQS
+     PGEKAFDWVD CQRFRAHNDY KFKLLKKKWL SVYPRSEHYD KNFHCPVVSS VLAMRNSVAT
+     IRRKLFMLFF ADLMCGPPDL RKPNCNKCPG PYQLTWREQL MLGYLSQGLG HDEISRKMGC
+     SIKALSGYRR SIMRKVNITR YSDFVSWLGT KSVSDKYAEV VNNHERDADE DQLIWKTTLS
+     GDMERQLDDK ERALQSIKRL TKKRLRKSEL DDEVWLTTRE IANEMDISIY SMRYLLCQME
+     SNGKVISIKT GKGRSHTLRW KLAS
+//
+ID   G3JCN8_CORMM            Unreviewed;       233 AA.
+AC   G3JCN8;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   14-OCT-2015, entry version 12.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EGX93850.1};
+GN   ORFNames=CCM_02120 {ECO:0000313|EMBL:EGX93850.1};
+OS   Cordyceps militaris (strain CM01) (Caterpillar fungus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+OC   Cordyceps.
+OX   NCBI_TaxID=983644 {ECO:0000313|EMBL:EGX93850.1, ECO:0000313|Proteomes:UP000001610};
+RN   [1] {ECO:0000313|EMBL:EGX93850.1, ECO:0000313|Proteomes:UP000001610}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CM01 {ECO:0000313|EMBL:EGX93850.1,
+RC   ECO:0000313|Proteomes:UP000001610};
+RX   PubMed=22112802; DOI=10.1186/gb-2011-12-11-r116;
+RA   Zheng P., Xia Y., Xiao G., Xiong C., Hu X., Zhang S., Zheng H.,
+RA   Huang Y., Zhou Y., Wang S., Zhao G.-P., Liu X., St. Leger R.J.,
+RA   Wang C.;
+RT   "Genome sequence of the insect pathogenic fungus Cordyceps militaris,
+RT   a valued traditional Chinese medicine.";
+RL   Genome Biol. 12:R116-R116(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH126400; EGX93850.1; -; Genomic_DNA.
+DR   RefSeq; XP_006667336.1; XM_006667273.1.
+DR   EnsemblFungi; EGX93850; EGX93850; CCM_02120.
+DR   GeneID; 18164148; -.
+DR   KEGG; cmt:CCM_02120; -.
+DR   InParanoid; G3JCN8; -.
+DR   OrthoDB; EOG7HMSBD; -.
+DR   Proteomes; UP000001610; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    233       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003446036.
+SQ   SEQUENCE   233 AA;  24219 MW;  675F50200A036AAC CRC64;
+     MQLSAVLAAA GWIPTAMASS TPAPYTGGDI SGCGKTHLFN ALPKMRTVKS GGRDRSYLAH
+     VPAGYDKNHR YPAIVGFHGS GGVGFFFEAD TGLDQARYTG DKITVYPDGL GGAWAGASYS
+     AATVAEDLQF VWDLLADVRG AFCVDSARIY ATGLSSGGGF VDTLACNATV GGEFAAFAPA
+     SGSFYTNNDG NYKDCTPARV PTPMLEFHGG QDASVRYNGG QGEGGMEPSI PDW
+//
+ID   G3JIT0_CORMM            Unreviewed;       484 AA.
+AC   G3JIT0;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   14-OCT-2015, entry version 12.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EGX91129.1};
+GN   ORFNames=CCM_05286 {ECO:0000313|EMBL:EGX91129.1};
+OS   Cordyceps militaris (strain CM01) (Caterpillar fungus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+OC   Cordyceps.
+OX   NCBI_TaxID=983644 {ECO:0000313|EMBL:EGX91129.1, ECO:0000313|Proteomes:UP000001610};
+RN   [1] {ECO:0000313|EMBL:EGX91129.1, ECO:0000313|Proteomes:UP000001610}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CM01 {ECO:0000313|EMBL:EGX91129.1,
+RC   ECO:0000313|Proteomes:UP000001610};
+RX   PubMed=22112802; DOI=10.1186/gb-2011-12-11-r116;
+RA   Zheng P., Xia Y., Xiao G., Xiong C., Hu X., Zhang S., Zheng H.,
+RA   Huang Y., Zhou Y., Wang S., Zhao G.-P., Liu X., St. Leger R.J.,
+RA   Wang C.;
+RT   "Genome sequence of the insect pathogenic fungus Cordyceps militaris,
+RT   a valued traditional Chinese medicine.";
+RL   Genome Biol. 12:R116-R116(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH126402; EGX91129.1; -; Genomic_DNA.
+DR   RefSeq; XP_006670494.1; XM_006670431.1.
+DR   EnsemblFungi; EGX91129; EGX91129; CCM_05286.
+DR   GeneID; 18167305; -.
+DR   KEGG; cmt:CCM_05286; -.
+DR   InParanoid; G3JIT0; -.
+DR   OrthoDB; EOG72RN89; -.
+DR   Proteomes; UP000001610; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 2.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    484       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003446267.
+SQ   SEQUENCE   484 AA;  53896 MW;  49CBB913131217A0 CRC64;
+     MKLSVFGVVA AVLISASDAS SNVTYGRGSP GCGKKVKHLG SEYFVPKWNV SGVWRQYRTY
+     TPKHYEKDKP VPLLLAFHAN AKPQPRFAMQ SRFSDPTINP NMMVQYMIAY KVRIPAVQHC
+     QTPRTVARNK LLNKRPKCFQ KRWVGPTSAH KDANDIEFVA RALEVLMNNY CIDVDRVFLT
+     GHAGGGGLAN ILACHPRLSR HFAGMALMGP TLYQDLNDDF CKGARLPMPV LEAHGLLDET
+     SPYWGEPART VGAVPAVLDW LRRWVRRNDC DPVPRRSHLV KKAVVSHKYT CQGQFGFVEH
+     ITAARQNYNW LTTKSAIDIS PVMIDFFNRW VRPGNLSIPL DAKGRFVVDE GPKKPKHTST
+     KPTRTRSRRP TTLKTSTRPS RTSTSTSPMP TKTKKQASGR GEPTFATFGV DIVSTPPEPS
+     RTKEQPSRQG WPTFATWGVD IVSTLPEPPR TTSGRGEPTF ATFGVDIVST LTEPPQTSPT
+     TTTQ
+//
+ID   G3JMD3_CORMM            Unreviewed;       292 AA.
+AC   G3JMD3;
+DT   16-NOV-2011, integrated into UniProtKB/TrEMBL.
+DT   16-NOV-2011, sequence version 1.
+DT   14-OCT-2015, entry version 12.
+DE   SubName: Full=Ferulic acid esterase (FaeA), putative {ECO:0000313|EMBL:EGX90021.1};
+GN   ORFNames=CCM_06441 {ECO:0000313|EMBL:EGX90021.1};
+OS   Cordyceps militaris (strain CM01) (Caterpillar fungus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Cordycipitaceae;
+OC   Cordyceps.
+OX   NCBI_TaxID=983644 {ECO:0000313|EMBL:EGX90021.1, ECO:0000313|Proteomes:UP000001610};
+RN   [1] {ECO:0000313|EMBL:EGX90021.1, ECO:0000313|Proteomes:UP000001610}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CM01 {ECO:0000313|EMBL:EGX90021.1,
+RC   ECO:0000313|Proteomes:UP000001610};
+RX   PubMed=22112802; DOI=10.1186/gb-2011-12-11-r116;
+RA   Zheng P., Xia Y., Xiao G., Xiong C., Hu X., Zhang S., Zheng H.,
+RA   Huang Y., Zhou Y., Wang S., Zhao G.-P., Liu X., St. Leger R.J.,
+RA   Wang C.;
+RT   "Genome sequence of the insect pathogenic fungus Cordyceps militaris,
+RT   a valued traditional Chinese medicine.";
+RL   Genome Biol. 12:R116-R116(2011).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JH126403; EGX90021.1; -; Genomic_DNA.
+DR   RefSeq; XP_006671645.1; XM_006671582.1.
+DR   EnsemblFungi; EGX90021; EGX90021; CCM_06441.
+DR   GeneID; 18168455; -.
+DR   KEGG; cmt:CCM_06441; -.
+DR   InParanoid; G3JMD3; -.
+DR   OrthoDB; EOG74N5SF; -.
+DR   Proteomes; UP000001610; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000001610};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    292       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003446316.
+SQ   SEQUENCE   292 AA;  31128 MW;  7359B861F268992D CRC64;
+     MKFSTSILFP LAAGAFASAS GSTSTITITS NKLTRSFLLW VSSTYSSKTP GSVLLSFHGG
+     NKTAKDQLEL DGFTTADTNA VSIVVYPQGV KGVPGDTIND VLFTNDILDY LESKYNVDTA
+     RIYASGKSDG GGFCNILACD ARASRRIAAF APVSGAFYVA ASPCHPDTVP LLARCRGRAD
+     VPLIEFHGGN DSTIHYAAQW ALRNELGLQN QTSAVAPNTV AYKYGSGDKA GLVTHVFESD
+     IGHDWPSTAP NADNSKKGPP CGELQCHAHH FGLFFQISLT AWSFDRDTTS EK
+//
+ID   A0A0F2M1Q8_SPOSC        Unreviewed;       323 AA.
+AC   A0A0F2M1Q8;
+DT   24-JUN-2015, integrated into UniProtKB/TrEMBL.
+DT   24-JUN-2015, sequence version 1.
+DT   09-DEC-2015, entry version 6.
+DE   SubName: Full=Ferulic acid esterase (FaeA) {ECO:0000313|EMBL:KJR82071.1};
+GN   ORFNames=SPSK_03518 {ECO:0000313|EMBL:KJR82071.1};
+OS   Sporothrix schenckii 1099-18.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Sordariomycetidae; Ophiostomatales; Ophiostomataceae;
+OC   Sporothrix.
+OX   NCBI_TaxID=1397361 {ECO:0000313|EMBL:KJR82071.1, ECO:0000313|Proteomes:UP000033710};
+RN   [1] {ECO:0000313|EMBL:KJR82071.1, ECO:0000313|Proteomes:UP000033710}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=1099-18 {ECO:0000313|EMBL:KJR82071.1,
+RC   ECO:0000313|Proteomes:UP000033710};
+RX   PubMed=25351875; DOI=10.1186/1471-2164-15-943;
+RA   Teixeira M.M., de Almeida L.G., Kubitschek-Barreira P., Alves F.L.,
+RA   Kioshima E.S., Abadio A.K., Fernandes L., Derengowski L.S.,
+RA   Ferreira K.S., Souza R.C., Ruiz J.C., de Andrade N.C., Paes H.C.,
+RA   Nicola A.M., Albuquerque P., Gerber A.L., Martins V.P., Peconick L.D.,
+RA   Neto A.V., Chaucanez C.B., Silva P.A., Cunha O.L., de Oliveira F.F.,
+RA   dos Santos T.C., Barros A.L., Soares M.A., de Oliveira L.M.,
+RA   Marini M.M., Villalobos-Duno H., Cunha M.M., de Hoog S.,
+RA   da Silveira J.F., Henrissat B., Nino-Vega G.A., Cisalpino P.S.,
+RA   Mora-Montes H.M., Almeida S.R., Stajich J.E., Lopes-Bezerra L.M.,
+RA   Vasconcelos A.T., Felipe M.S.;
+RT   "Comparative genomics of the major fungal agents of human and animal
+RT   Sporotrichosis: Sporothrix schenckii and Sporothrix brasiliensis.";
+RL   BMC Genomics 15:943-943(2014).
+RN   [2] {ECO:0000313|EMBL:KJR82071.1, ECO:0000313|Proteomes:UP000033710}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=1099-18 {ECO:0000313|EMBL:KJR82071.1,
+RC   ECO:0000313|Proteomes:UP000033710};
+RX   PubMed=25480940;
+RA   Teixeira Mde M., Rodrigues A.M., Tsui C.K., de Almeida L.G.,
+RA   Van Diepeningen A.D., van den Ende B.G., Fernandes G.F., Kano R.,
+RA   Hamelin R.C., Lopes-Bezerra L.M., Vasconcelos A.T., de Hoog S.,
+RA   de Camargo Z.P., Felipe M.S.;
+RT   "Asexual propagation of a virulent clone complex in a human and feline
+RT   outbreak of sporotrichosis.";
+RL   Eukaryot. Cell 14:158-169(2015).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KJR82071.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AXCR01000010; KJR82071.1; -; Genomic_DNA.
+DR   EnsemblFungi; KJR82071; KJR82071; SPSK_03518.
+DR   Proteomes; UP000033710; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000033710};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000033710};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    323       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002454977.
+SQ   SEQUENCE   323 AA;  34689 MW;  2C4F6D14FC710ACF CRC64;
+     MFTFSLQTVA CLVGVLSMAT ASPCTTKAVT GCHKSLPHGQ SRGGVTNVSI TSNGLDRNYL
+     VFVPPNYDKK KPTQVILSYH GGTKTALQQL QLDNLTLPEF NTDSIVIYPQ GINNFWQGVP
+     GVTVDDVQFT SDLLDHVSRQ YCVDTRRIMA TGKSDGAGFC NVLACDAGLS ARIAAFAPVS
+     GAYYVDALPC AADTVAIPCN NARRDIPLLA FHGGADTVIA YGGGERKKAC LPSVPHWIQS
+     WAARENLGAS NHTVPYAQDT VIYEFSRGTQ KGLVNLVYDS VNGHDWPSTQ PNADNQNAGQ
+     APTSFNATPM ILDFFAKHTL TDL
+//
+ID   Q9P8Y0_ORPSP            Unreviewed;       530 AA.
+AC   Q9P8Y0;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   24-JUN-2015, entry version 29.
+DE   SubName: Full=Feruloyl esterase A {ECO:0000313|EMBL:AAF70241.1};
+DE   Flags: Fragment;
+GN   Name=faeA {ECO:0000313|EMBL:AAF70241.1};
+OS   Orpinomyces sp. (strain PC-2).
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Orpinomyces.
+OX   NCBI_TaxID=50059 {ECO:0000313|EMBL:AAF70241.1};
+RN   [1] {ECO:0000313|EMBL:AAF70241.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=PC-2 {ECO:0000313|EMBL:AAF70241.1};
+RX   PubMed=10671457; DOI=10.1128/JB.182.5.1346-1351.2000;
+RA   Blum D.L., Kataeva I.A., Li X.L., Ljungdahl L.G.;
+RT   "Feruloyl esterase activity of the Clostridium thermocellum
+RT   cellulosome can be attributed to previously unknown domains of XynY
+RT   and XynZ.";
+RL   J. Bacteriol. 182:1346-1351(2000).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF164351; AAF70241.1; -; mRNA.
+DR   ProteinModelPortal; Q9P8Y0; -.
+DR   ESTHER; orpsp-FAEA; A85-Feruloyl-Esterase.
+DR   BRENDA; 3.1.1.73; 4441.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR000801; Esterase_put.
+DR   Pfam; PF00756; Esterase; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   2: Evidence at transcript level;
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAF70241.1}.
+SQ   SEQUENCE   530 AA;  59013 MW;  E39FB4C8E3219244 CRC64;
+     VVSCETTYGI TLRDTKEKFT VFKDGSAATD IVESEDGSVS WIATAAGGAG GGVAFYVKAN
+     KEEINIANYE SIDIEMEYTP VENKWNDAAK NPSFCMRILP WDSTGMFGGY EDLEYFDTPA
+     KSGNFKYTIK IPSFFADKIL SSSDLDSILS FAIKFNDYER GNTDGDQIKI QLKNVKFNPK
+     ENAPEDKAFD DGLRDSQRGT VVEMKYSSRD YTVKESEADK YEKHAWVYLP AGYEADNKDK
+     KYPLVVLLHG YGQNENTWGL SNKGRGGKIK GYMDRGMASG NVEKFVLVAA TGVASKNWGP
+     NGSGVDLDGF NAFGGELRND LLPYIRAHFN VKVDRDHTAL AGLSMGGGQT ISIGIGETLD
+     EISNYGSFSP ALFQTAEEFF GKVKGNFKEE LRIHNLYMTC GDADTLVYDT YPSYVEALKN
+     WDAVEFMKEY TYPGGTHDFP VWYRGFNEFI QIVFKNQKVK EEPIHADPVE DPSDEPVSVD
+     PSVSVEEPND SESSSEDEPV VKKTIKHTIA KKKPSKTRTV TKKVIKKKNN
+//
+ID   A0A0J5SG43_ASPFM        Unreviewed;       196 AA.
+AC   A0A0J5SG43;
+DT   14-OCT-2015, integrated into UniProtKB/TrEMBL.
+DT   14-OCT-2015, sequence version 1.
+DT   09-DEC-2015, entry version 3.
+DE   SubName: Full=Ferulic acid esterase (FaeA) {ECO:0000313|EMBL:KMK55947.1};
+GN   ORFNames=Y699_08936 {ECO:0000313|EMBL:KMK55947.1};
+OS   Aspergillus fumigatus Z5.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=1437362 {ECO:0000313|EMBL:KMK55947.1};
+RN   [1] {ECO:0000313|EMBL:KMK55947.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Z5 {ECO:0000313|EMBL:KMK55947.1};
+RX   PubMed=26076650; DOI=10.1186/s12864-015-1658-2;
+RA   Miao Y., Liu D., Li G., Li P., Xu Y., Shen Q., Zhang R.;
+RT   "Genome-wide transcriptomic analysis of a superior biomass-degrading
+RT   strain of A. fumigatus revealed active lignocellulose-degrading
+RT   genes.";
+RL   BMC Genomics 16:459-459(2015).
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KQ087370; KMK55947.1; -; Genomic_DNA.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   InterPro; IPR010126; Esterase_phb.
+DR   Pfam; PF10503; Esterase_phd; 1.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    196       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5005264458.
+SQ   SEQUENCE   196 AA;  21389 MW;  39229BCDE7768FAC CRC64;
+     MKVHFDILLS IASLATATAS AGCGKPLPND QGAEGIYPTD FTTSDDTLRP YIIHIPSNYD
+     ENRAVPLTFS FHGRSKTAES QEQLSQFSNE AWNPDAIAVY PQGLDNQWQG DPDSSGVDDV
+     AFTMEMLDNF EKRYCIDSSR VYAAGKSNGG GFTNLLACDP TAFKSIDYCG ICPRFGCLLP
+     GRTRGRLQSR KGADQL
+//
+ID   A0A086NUC0_METAN        Unreviewed;       250 AA.
+AC   A0A086NUC0;
+DT   29-OCT-2014, integrated into UniProtKB/TrEMBL.
+DT   29-OCT-2014, sequence version 1.
+DT   09-DEC-2015, entry version 7.
+DE   SubName: Full=Putative ferulic acid esterase (FaeA) {ECO:0000313|EMBL:KFG84738.1};
+GN   ORFNames=MANI_010274 {ECO:0000313|EMBL:KFG84738.1};
+OS   Metarhizium anisopliae (Entomophthora anisopliae).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+OC   Sordariomycetes; Hypocreomycetidae; Hypocreales; Clavicipitaceae;
+OC   Metarhizium.
+OX   NCBI_TaxID=5530 {ECO:0000313|EMBL:KFG84738.1, ECO:0000313|Proteomes:UP000029112};
+RN   [1] {ECO:0000313|EMBL:KFG84738.1, ECO:0000313|Proteomes:UP000029112}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=E6 {ECO:0000313|EMBL:KFG84738.1,
+RC   ECO:0000313|Proteomes:UP000029112};
+RA   Staats C.C., Junges A., Guedes R.L., Thompson C.E., de Moraes G.L.,
+RA   Boldo J.T., de Almeida L.G., Andreis F.C., Gerber A.L., Sbaraini N.,
+RA   da Paixao R.L., Broetto L., Landel M., Santi L., da Silva W.O.,
+RA   Silveira C.P., Serrano T.R., de Oliveira E.S., Kmetzsch L.,
+RA   Vainstein M.H., Vasconcelos A.T., Schrank A.;
+RL   Submitted (JUN-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:KFG84738.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; JNNZ01000040; KFG84738.1; -; Genomic_DNA.
+DR   EnsemblFungi; KFG84738; KFG84738; MANI_010274.
+DR   Proteomes; UP000029112; Unassembled WGS sequence.
+DR   Gene3D; 3.40.50.1820; -; 1.
+DR   InterPro; IPR029058; AB_hydrolase.
+DR   SUPFAM; SSF53474; SSF53474; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000029112};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     22       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        23    250       {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5001812804.
+SQ   SEQUENCE   250 AA;  26769 MW;  D29D60082D737647 CRC64;
+     MANKVTMLVL AFLVININPV ATLAVASNPY TGGDTSGCGK MHTAQVIGLP IYRGIQSSGV
+     HRSYSVHLPS QYDKHHEYPT ILGFHGSSSI GLFFQADTKL DEARFTRDKI MVYPNGLGGA
+     WAGANYSQAT VGQDLQFVWD LLADLRQNFC IDSSRIYATG LSSGGGFVDT IACNSTVGGE
+     FAAMAPASGS FYTNNNANHH LCQPARVPMP ILEFHGGADA DVKYGGGQGE GGIEPAIPNW
+     YAHHLTDLWQ
+//

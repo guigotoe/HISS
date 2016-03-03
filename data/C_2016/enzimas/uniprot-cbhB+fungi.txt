@@ -1,0 +1,2505 @@
+ID   CBHB_EMENI              Reviewed;         526 AA.
+AC   Q8NK02; C8VSY4; Q5BG36;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-OCT-2002, sequence version 1.
+DT   20-JAN-2016, entry version 79.
+DE   RecName: Full=1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; ORFNames=AN0494;
+OS   Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL
+OS   194 / M139) (Aspergillus nidulans).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=227321;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=12409103; DOI=10.1016/S1087-1845(02)00504-2;
+RA   Lockington R.A., Rodbourn L., Barnett S., Carter C.J., Kelly J.M.;
+RT   "Regulation by carbon and nitrogen sources of a family of cellulases
+RT   in Aspergillus nidulans.";
+RL   Fungal Genet. Biol. 37:190-196(2002).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=16372000; DOI=10.1038/nature04341;
+RA   Galagan J.E., Calvo S.E., Cuomo C., Ma L.-J., Wortman J.R.,
+RA   Batzoglou S., Lee S.-I., Bastuerkmen M., Spevak C.C., Clutterbuck J.,
+RA   Kapitonov V., Jurka J., Scazzocchio C., Farman M.L., Butler J.,
+RA   Purcell S., Harris S., Braus G.H., Draht O., Busch S., D'Enfert C.,
+RA   Bouchier C., Goldman G.H., Bell-Pedersen D., Griffiths-Jones S.,
+RA   Doonan J.H., Yu J., Vienken K., Pain A., Freitag M., Selker E.U.,
+RA   Archer D.B., Penalva M.A., Oakley B.R., Momany M., Tanaka T.,
+RA   Kumagai T., Asai K., Machida M., Nierman W.C., Denning D.W.,
+RA   Caddick M.X., Hynes M., Paoletti M., Fischer R., Miller B.L.,
+RA   Dyer P.S., Sachs M.S., Osmani S.A., Birren B.W.;
+RT   "Sequencing of Aspergillus nidulans and comparative analysis with A.
+RT   fumigatus and A. oryzae.";
+RL   Nature 438:1105-1115(2005).
+RN   [3]
+RP   GENOME REANNOTATION.
+RC   STRAIN=FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139;
+RX   PubMed=19146970; DOI=10.1016/j.fgb.2008.12.003;
+RA   Wortman J.R., Gilsenan J.M., Joardar V., Deegan J., Clutterbuck J.,
+RA   Andersen M.R., Archer D., Bencina M., Braus G., Coutinho P.,
+RA   von Dohren H., Doonan J., Driessen A.J., Durek P., Espeso E.,
+RA   Fekete E., Flipphi M., Estrada C.G., Geysens S., Goldman G.,
+RA   de Groot P.W., Hansen K., Harris S.D., Heinekamp T., Helmstaedt K.,
+RA   Henrissat B., Hofmann G., Homan T., Horio T., Horiuchi H., James S.,
+RA   Jones M., Karaffa L., Karanyi Z., Kato M., Keller N., Kelly D.E.,
+RA   Kiel J.A., Kim J.M., van der Klei I.J., Klis F.M., Kovalchuk A.,
+RA   Krasevec N., Kubicek C.P., Liu B., Maccabe A., Meyer V., Mirabito P.,
+RA   Miskei M., Mos M., Mullins J., Nelson D.R., Nielsen J., Oakley B.R.,
+RA   Osmani S.A., Pakula T., Paszewski A., Paulsen I., Pilsyk S., Pocsi I.,
+RA   Punt P.J., Ram A.F., Ren Q., Robellet X., Robson G., Seiboth B.,
+RA   van Solingen P., Specht T., Sun J., Taheri-Talesh N., Takeshita N.,
+RA   Ussery D., vanKuyk P.A., Visser H., van de Vondervoort P.J.,
+RA   de Vries R.P., Walton J., Xiang X., Xiong Y., Zeng A.P., Brandt B.W.,
+RA   Cornell M.J., van den Hondel C.A., Visser J., Oliver S.G., Turner G.;
+RT   "The 2008 update of the Aspergillus nidulans genome annotation: a
+RT   community effort.";
+RL   Fungal Genet. Biol. 46:S2-13(2009).
+RN   [4]
+RP   FUNCTION.
+RX   PubMed=16844780; DOI=10.1073/pnas.0604632103;
+RA   Bauer S., Vasu P., Persson S., Mort A.J., Somerville C.R.;
+RT   "Development and application of a suite of polysaccharide-degrading
+RT   enzymes for analyzing plant cell walls.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 103:11417-11422(2006).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250,
+CC       ECO:0000269|PubMed:16844780}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF420020; AAM54070.1; -; Genomic_DNA.
+DR   EMBL; AACD01000007; EAA66593.1; -; Genomic_DNA.
+DR   EMBL; BN001308; CBF89371.1; -; Genomic_DNA.
+DR   RefSeq; XP_658098.1; XM_653006.1.
+DR   ProteinModelPortal; Q8NK02; -.
+DR   SMR; Q8NK02; 24-460, 492-526.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH7; Glycoside Hydrolase Family 7.
+DR   mycoCLAP; CBH7B_EMENI; -.
+DR   EnsemblFungi; CADANIAT00002195; CADANIAP00002195; CADANIAG00002195.
+DR   EnsemblFungi; EAA66593; EAA66593; AN0494.2.
+DR   GeneID; 2876273; -.
+DR   KEGG; ani:AN0494.2; -.
+DR   HOGENOM; HOG000182210; -.
+DR   InParanoid; Q8NK02; -.
+DR   KO; K01225; -.
+DR   OMA; RGSCDIS; -.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   Proteomes; UP000000560; Chromosome VIII.
+DR   Proteomes; UP000005890; Partially assembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IDA:UniProtKB.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   GO; GO:0009251; P:glucan catabolic process; IDA:UniProtKB.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     23       {ECO:0000255}.
+FT   CHAIN        24    526       1,4-beta-D-glucan cellobiohydrolase B.
+FT                                /FTId=PRO_0000393550.
+FT   DOMAIN      490    526       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       24    458       Catalytic.
+FT   REGION      459    490       Ser/Thr-rich linker.
+FT   ACT_SITE    235    235       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    240    240       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    293    293       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    400    400       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    498    515       {ECO:0000250}.
+FT   DISULFID    509    525       {ECO:0000250}.
+SQ   SEQUENCE   526 AA;  56123 MW;  9A9CD7C5BEBCB6C9 CRC64;
+     MASSFQLYKA LLFFSSLLSA VQAQKVGTQQ AEVHPGLTWQ TCTSSGSCTT VNGEVTIDAN
+     WRWLHTVNGY TNCYTGNEWD TSICTSNEVC AEQCAVDGAN YASTYGITTS GSSLRLNFVT
+     QSQQKNIGSR VYLMDDEDTY TMFYLLNKEF TFDVDVSELP CGLNGAVYFV SMDADGGKSR
+     YATNEAGAKY GTGYCDSQCP RDLKFINGVA NVEGWESSDT NPNGGVGNHG SCCAEMDIWE
+     ANSISTAFTP HPCDTPGQTL CTGDSCGGTY SNDRYGGTCD PDGCDFNSYR QGNKTFYGPG
+     LTVDTNSPVT VVTQFLTDDN TDTGTLSEIK RFYVQNGVVI PNSESTYPAN PGNSITTEFC
+     ESQKELFGDV DVFSAHGGMA GMGAALEQGM VLVLSLWDDN YSNMLWLDSN YPTDADPTQP
+     GIARGTCPTD SGVPSEVEAQ YPNAYVVYSN IKFGPIGSTF GNGGGSGPTT TVTTSTATST
+     TSSATSTATG QAQHWEQCGG NGWTGPTVCA SPWACTVVNS WYSQCL
+//
+ID   CBHB_ASPNG              Reviewed;         536 AA.
+AC   Q9UVS8;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-2000, sequence version 1.
+DT   09-DEC-2015, entry version 65.
+DE   RecName: Full=1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB;
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND INDUCTION.
+RC   STRAIN=ATCC 9029 / NRRL 3 / CBS 120.49 / DSM 2466 / N400;
+RX   PubMed=10508057;
+RA   Gielkens M.M., Dekkers E., Visser J., de Graaff L.H.;
+RT   "Two cellobiohydrolase-encoding genes from Aspergillus niger require
+RT   D-xylose and the xylanolytic transcriptional activator XlnR for their
+RT   expression.";
+RL   Appl. Environ. Microbiol. 65:4340-4345(1999).
+RN   [2]
+RP   FUNCTION, AND INDUCTION.
+RX   PubMed=15182839; DOI=10.1016/j.biortech.2003.12.013;
+RA   Hanif A., Yasmeen A., Rajoka M.I.;
+RT   "Induction, production, repression, and de-repression of exoglucanase
+RT   synthesis in Aspergillus niger.";
+RL   Bioresour. Technol. 94:311-319(2004).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250,
+CC       ECO:0000269|PubMed:15182839}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- INDUCTION: Expression is under the control of the xylanolytic
+CC       transcriptional activator xlnR. {ECO:0000269|PubMed:10508057,
+CC       ECO:0000269|PubMed:15182839}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF156269; AAF04492.1; -; Genomic_DNA.
+DR   ProteinModelPortal; Q9UVS8; -.
+DR   SMR; Q9UVS8; 22-461, 502-536.
+DR   STRING; 5061.CADANGAP00001127; -.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH7; Glycoside Hydrolase Family 7.
+DR   mycoCLAP; CBH7B_ASPNG; -.
+DR   PaxDb; Q9UVS8; -.
+DR   eggNOG; ENOG410IE3Y; Eukaryota.
+DR   eggNOG; ENOG41101KD; LUCA.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism; Cellulose degradation; Disulfide bond;
+KW   Glycoprotein; Glycosidase; Hydrolase; Polysaccharide degradation;
+KW   Secreted; Signal.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    536       1,4-beta-D-glucan cellobiohydrolase B.
+FT                                /FTId=PRO_5000056395.
+FT   DOMAIN      500    536       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       22    458       Catalytic.
+FT   REGION      459    500       Ser/Thr-rich linker.
+FT   ACT_SITE    233    233       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    238    238       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    351    351       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    414    414       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    508    525       {ECO:0000250}.
+FT   DISULFID    519    535       {ECO:0000250}.
+SQ   SEQUENCE   536 AA;  56219 MW;  EB904612E2FA3A60 CRC64;
+     MSSFQIYRAA LLLSILATAN AQQVGTYTTE THPSLTWQTC TSDGSCTTND GEVVIDANWR
+     WVHSTSSATN CYTGNEWDTS ICTDDVTCAA NCALDGATYE ATYGVTTSGS ELRLNFVTQG
+     SSKNIGSRLY LMSDDSNYEL FKLLGQEFTF DVDVSNLPCG LNGALYFVAM DADGGTSEYS
+     GNKAGAKYGT GYCDSQCPRD LKFINGEANC DGWEPSSNNV NTGVGDHGSC CAEMDVWEAN
+     SISNAFTAHP CDSVSQTMCD GDSCGGTYSA SGDRYSGTCD PDGCDYNPYR LGNTDFYGPG
+     LTVDTNSPFT VVTQFITDDG TSSGTLTEIK RLYVQNGEVI ANGASTYSSV NGSSITSAFC
+     ESEKTLFGDE NVFDKHGGLE GMGEAMAKGM VLVLSLWDDY AADMLWLDSD YPVNSSASTP
+     GVARGTCSTD SGVPATVEAE SPNAYVTYSN IKFGPIGSTY SSGSSSGSGS SSSSSSTTTK
+     ATSTTLKTTS TTSSGSSSTS AAQAYGQCGG QGWTGPTTCV SGYTCTYENA YYSQCL
+//
+ID   CBHB_ASPAC              Reviewed;         540 AA.
+AC   O59843;
+DT   15-DEC-1998, integrated into UniProtKB/Swiss-Prot.
+DT   01-AUG-1998, sequence version 1.
+DT   14-OCT-2015, entry version 79.
+DE   RecName: Full=1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=1,4-beta-D-glucan cellobiohydrolase I;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; Synonyms=cbhI;
+OS   Aspergillus aculeatus.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5053;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   STRAIN=F-50;
+RX   DOI=10.1016/S0922-338X(97)80345-5;
+RA   Takada G., Kawaguchi T., Sumitani J., Arai M.;
+RT   "Cloning, nucleotide sequence, and transcriptional analysis of
+RT   Aspergillus aculeatus No.F-50 cellobiohydrolase I (cbhI) gene.";
+RL   J. Ferment. Bioeng. 85:1-9(1998).
+RN   [2]
+RP   FUNCTION.
+RX   PubMed=16233469; DOI=10.1263/jbb.95.627;
+RA   Kanamasa S., Mochizuki M., Takada G., Kawaguchi T., Sumitani J.,
+RA   Araii M.;
+RT   "Overexpression of Aspergillus aculeatus cellobiohydrolase I in
+RT   Aspergillus oryzae.";
+RL   J. Biosci. Bioeng. 95:627-629(2003).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000269|PubMed:16233469}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AB002821; BAA25183.1; -; mRNA.
+DR   ProteinModelPortal; O59843; -.
+DR   SMR; O59843; 23-462, 507-540.
+DR   CAZy; CBM1; Carbohydrate-Binding Module Family 1.
+DR   CAZy; GH7; Glycoside Hydrolase Family 7.
+DR   mycoCLAP; CBH7A_ASPAC; -.
+DR   PRIDE; O59843; -.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism; Cellulose degradation; Disulfide bond;
+KW   Glycoprotein; Glycosidase; Hydrolase; Polysaccharide degradation;
+KW   Signal.
+FT   SIGNAL        1     22       {ECO:0000255}.
+FT   CHAIN        23    540       1,4-beta-D-glucan cellobiohydrolase B.
+FT                                /FTId=PRO_0000007918.
+FT   DOMAIN      505    540       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       23    459       Catalytic.
+FT   REGION      460    505       Ser/Thr-rich linker.
+FT   ACT_SITE    234    234       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    239    239       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    434    434       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    458    458       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    513    529       {ECO:0000250}.
+FT   DISULFID    524    539       {ECO:0000250}.
+SQ   SEQUENCE   540 AA;  57099 MW;  002D7FD28DF194D0 CRC64;
+     MVDSFSIYKT ALLLSMLATS NAQQVGTYTA ETHPSLTWQT CSGSGSCTTT SGSVVIDANW
+     RWVHEVGGYT NCYSGNTWDS SICSTDTTCA SECALEGATY ESTYGVTTSG SSLRLNFVTT
+     ASQKNIGSRL YLLADDSTYE TFKLFNREFT FDVDVSNLPC GLNGALYFVS MDADGGVSRF
+     PTNKAGAKYG TGYCDSQCPR DLKFIDGQAN IEGWEPSSTD VNAGTGNHGS CCPEMDIWEA
+     NSISSAFTAH PCDSVQQTMC TGDTCGGTYS DTTDRYSGTC DPDGCDFNPY RFGNTNFYGP
+     GKTVDNSKPF TVVTQFITHD GTDTGTLTEI RRLYVQNGVV IGNGPSTYTA ASGNSITESF
+     CKAEKTLFGD TNVFETHGGL SAMGDALGDG MVLVLSLWDD HAADMLWLDS DYPTTSCASS
+     PGVARGTCPT TTGNATYVEA NYPNSYVTYS NIKFGTLNST YSGTSSGGSS SSSTTLTTKA
+     STSTTSSKTT TTTSKTSTTS SSSTNVAQLY GQCGGQGWTG PTTCASGTCT KQNDYYSQCL
+//
+ID   CBHB_ASPFU              Reviewed;         532 AA.
+AC   Q4WM08;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   05-JUL-2005, sequence version 1.
+DT   20-JAN-2016, entry version 71.
+DE   RecName: Full=Probable 1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; ORFNames=AFUA_6G11610;
+OS   Neosartorya fumigata (strain ATCC MYA-4609 / Af293 / CBS 101355 / FGSC
+OS   A1100) (Aspergillus fumigatus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=330879;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC MYA-4609 / Af293 / CBS 101355 / FGSC A1100;
+RX   PubMed=16372009; DOI=10.1038/nature04332;
+RA   Nierman W.C., Pain A., Anderson M.J., Wortman J.R., Kim H.S.,
+RA   Arroyo J., Berriman M., Abe K., Archer D.B., Bermejo C., Bennett J.W.,
+RA   Bowyer P., Chen D., Collins M., Coulsen R., Davies R., Dyer P.S.,
+RA   Farman M.L., Fedorova N., Fedorova N.D., Feldblyum T.V., Fischer R.,
+RA   Fosker N., Fraser A., Garcia J.L., Garcia M.J., Goble A.,
+RA   Goldman G.H., Gomi K., Griffith-Jones S., Gwilliam R., Haas B.J.,
+RA   Haas H., Harris D.E., Horiuchi H., Huang J., Humphray S., Jimenez J.,
+RA   Keller N., Khouri H., Kitamoto K., Kobayashi T., Konzack S.,
+RA   Kulkarni R., Kumagai T., Lafton A., Latge J.-P., Li W., Lord A.,
+RA   Lu C., Majoros W.H., May G.S., Miller B.L., Mohamoud Y., Molina M.,
+RA   Monod M., Mouyna I., Mulligan S., Murphy L.D., O'Neil S., Paulsen I.,
+RA   Penalva M.A., Pertea M., Price C., Pritchard B.L., Quail M.A.,
+RA   Rabbinowitsch E., Rawlins N., Rajandream M.A., Reichard U.,
+RA   Renauld H., Robson G.D., Rodriguez de Cordoba S., Rodriguez-Pena J.M.,
+RA   Ronning C.M., Rutter S., Salzberg S.L., Sanchez M.,
+RA   Sanchez-Ferrero J.C., Saunders D., Seeger K., Squares R., Squares S.,
+RA   Takeuchi M., Tekaia F., Turner G., Vazquez de Aldana C.R., Weidman J.,
+RA   White O., Woodward J.R., Yu J.-H., Fraser C.M., Galagan J.E., Asai K.,
+RA   Machida M., Hall N., Barrell B.G., Denning D.W.;
+RT   "Genomic sequence of the pathogenic and allergenic filamentous fungus
+RT   Aspergillus fumigatus.";
+RL   Nature 438:1151-1156(2005).
+RN   [2]
+RP   INDUCTION.
+RX   PubMed=16984401; DOI=10.1111/j.1574-6968.2006.00462.x;
+RA   Bromley M., Gordon C., Rovira-Graells N., Oliver J.;
+RT   "The Aspergillus fumigatus cellobiohydrolase B (cbhB) promoter is
+RT   tightly regulated and can be exploited for controlled protein
+RT   expression and RNAi.";
+RL   FEMS Microbiol. Lett. 264:246-254(2006).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- INDUCTION: Expressed at high levels in the presence of
+CC       carboxymethylcellulose and repressed in the presence of glucose.
+CC       {ECO:0000269|PubMed:16984401}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AAHF01000006; EAL89006.1; -; Genomic_DNA.
+DR   RefSeq; XP_751044.1; XM_745951.1.
+DR   PDB; 4V1Z; X-ray; 1.78 A; A=28-466.
+DR   PDB; 4V20; X-ray; 1.50 A; A=28-466.
+DR   PDBsum; 4V1Z; -.
+DR   PDBsum; 4V20; -.
+DR   ProteinModelPortal; Q4WM08; -.
+DR   SMR; Q4WM08; 27-463, 500-532.
+DR   EnsemblFungi; CADAFUAT00002184; CADAFUAP00002184; CADAFUAG00002184.
+DR   GeneID; 3508349; -.
+DR   KEGG; afm:AFUA_6G11610; -.
+DR   EuPathDB; FungiDB:Afu6g11610; -.
+DR   HOGENOM; HOG000182210; -.
+DR   InParanoid; Q4WM08; -.
+DR   KO; K01225; -.
+DR   OMA; RGSCDIS; -.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   Proteomes; UP000002530; Chromosome 6.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Carbohydrate metabolism; Cellulose degradation;
+KW   Complete proteome; Disulfide bond; Glycoprotein; Glycosidase;
+KW   Hydrolase; Polysaccharide degradation; Reference proteome; Secreted;
+KW   Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   CHAIN        27    532       Probable 1,4-beta-D-glucan
+FT                                cellobiohydrolase B.
+FT                                /FTId=PRO_0000393548.
+FT   DOMAIN      496    532       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       27    461       Catalytic.
+FT   REGION      462    496       Thr-rich linker.
+FT   ACT_SITE    238    238       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    243    243       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    296    296       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    504    521       {ECO:0000250}.
+FT   DISULFID    515    531       {ECO:0000250}.
+FT   STRAND       42     45       {ECO:0000244|PDB:4V20}.
+FT   STRAND       51     54       {ECO:0000244|PDB:4V20}.
+FT   STRAND       57     60       {ECO:0000244|PDB:4V20}.
+FT   HELIX        62     64       {ECO:0000244|PDB:4V20}.
+FT   STRAND       67     69       {ECO:0000244|PDB:4V20}.
+FT   STRAND       75     78       {ECO:0000244|PDB:4V20}.
+FT   TURN         84     86       {ECO:0000244|PDB:4V20}.
+FT   HELIX        90     96       {ECO:0000244|PDB:4V20}.
+FT   STRAND       97     99       {ECO:0000244|PDB:4V20}.
+FT   HELIX       104    108       {ECO:0000244|PDB:4V20}.
+FT   STRAND      110    113       {ECO:0000244|PDB:4V20}.
+FT   STRAND      116    130       {ECO:0000244|PDB:4V20}.
+FT   STRAND      132    139       {ECO:0000244|PDB:4V20}.
+FT   STRAND      151    158       {ECO:0000244|PDB:4V20}.
+FT   STRAND      166    173       {ECO:0000244|PDB:4V20}.
+FT   TURN        177    183       {ECO:0000244|PDB:4V20}.
+FT   HELIX       190    193       {ECO:0000244|PDB:4V20}.
+FT   STRAND      207    209       {ECO:0000244|PDB:4V20}.
+FT   STRAND      231    235       {ECO:0000244|PDB:4V20}.
+FT   STRAND      238    244       {ECO:0000244|PDB:4V20}.
+FT   STRAND      249    254       {ECO:0000244|PDB:4V20}.
+FT   STRAND      256    260       {ECO:0000244|PDB:4V20}.
+FT   STRAND      262    265       {ECO:0000244|PDB:4V20}.
+FT   HELIX       266    269       {ECO:0000244|PDB:4V20}.
+FT   STRAND      279    282       {ECO:0000244|PDB:4V20}.
+FT   TURN        291    295       {ECO:0000244|PDB:4V20}.
+FT   STRAND      299    301       {ECO:0000244|PDB:4V20}.
+FT   STRAND      304    307       {ECO:0000244|PDB:4V20}.
+FT   STRAND      312    320       {ECO:0000244|PDB:4V20}.
+FT   STRAND      329    338       {ECO:0000244|PDB:4V20}.
+FT   STRAND      341    344       {ECO:0000244|PDB:4V20}.
+FT   STRAND      356    358       {ECO:0000244|PDB:4V20}.
+FT   HELIX       360    370       {ECO:0000244|PDB:4V20}.
+FT   HELIX       375    378       {ECO:0000244|PDB:4V20}.
+FT   HELIX       381    391       {ECO:0000244|PDB:4V20}.
+FT   STRAND      393    401       {ECO:0000244|PDB:4V20}.
+FT   TURN        403    407       {ECO:0000244|PDB:4V20}.
+FT   HELIX       408    411       {ECO:0000244|PDB:4V20}.
+FT   STRAND      412    415       {ECO:0000244|PDB:4V20}.
+FT   TURN        423    425       {ECO:0000244|PDB:4V20}.
+FT   HELIX       437    443       {ECO:0000244|PDB:4V20}.
+FT   STRAND      448    458       {ECO:0000244|PDB:4V20}.
+FT   TURN        459    464       {ECO:0000244|PDB:4V20}.
+SQ   SEQUENCE   532 AA;  56457 MW;  03EBC7D15A5EAE78 CRC64;
+     MLASTFSYRM YKTALILAAL LGSGQAQQVG TSQAEVHPSM TWQSCTAGGS CTTNNGKVVI
+     DANWRWVHKV GDYTNCYTGN TWDTTICPDD ATCASNCALE GANYESTYGV TASGNSLRLN
+     FVTTSQQKNI GSRLYMMKDD STYEMFKLLN QEFTFDVDVS NLPCGLNGAL YFVAMDADGG
+     MSKYPTNKAG AKYGTGYCDS QCPRDLKFIN GQANVEGWQP SSNDANAGTG NHGSCCAEMD
+     IWEANSISTA FTPHPCDTPG QVMCTGDACG GTYSSDRYGG TCDPDGCDFN SFRQGNKTFY
+     GPGMTVDTKS KFTVVTQFIT DDGTSSGTLK EIKRFYVQNG KVIPNSESTW TGVSGNSITT
+     EYCTAQKSLF QDQNVFEKHG GLEGMGAALA QGMVLVMSLW DDHSANMLWL DSNYPTTASS
+     TTPGVARGTC DISSGVPADV EANHPDAYVV YSNIKVGPIG STFNSGGSNP GGGTTTTTTT
+     QPTTTTTTAG NPGGTGVAQH YGQCGGIGWT GPTTCASPYT CQKLNDYYSQ CL
+//
+ID   CBHB_NEOFI              Reviewed;         530 AA.
+AC   A1DNL0;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 1.
+DT   20-JAN-2016, entry version 48.
+DE   RecName: Full=Probable 1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; ORFNames=NFIA_057300;
+OS   Neosartorya fischeri (strain ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL
+OS   181) (Aspergillus fischerianus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Neosartorya.
+OX   NCBI_TaxID=331117;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1020 / DSM 3700 / FGSC A1164 / NRRL 181;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027698; EAW16381.1; -; Genomic_DNA.
+DR   RefSeq; XP_001258278.1; XM_001258277.1.
+DR   ProteinModelPortal; A1DNL0; -.
+DR   SMR; A1DNL0; 27-463, 496-530.
+DR   EnsemblFungi; CADNFIAT00004422; CADNFIAP00004294; CADNFIAG00004422.
+DR   GeneID; 4584793; -.
+DR   KEGG; nfi:NFIA_057300; -.
+DR   EuPathDB; FungiDB:NFIA_057300; -.
+DR   HOGENOM; HOG000182210; -.
+DR   KO; K01225; -.
+DR   OMA; RGSCDIS; -.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   Proteomes; UP000006702; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   CHAIN        27    530       Probable 1,4-beta-D-glucan
+FT                                cellobiohydrolase B.
+FT                                /FTId=PRO_0000393551.
+FT   DOMAIN      494    530       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       27    461       Catalytic.
+FT   REGION      462    494       Ser/Thr-rich linker.
+FT   ACT_SITE    238    238       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    243    243       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    296    296       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    502    519       {ECO:0000250}.
+FT   DISULFID    513    529       {ECO:0000250}.
+SQ   SEQUENCE   530 AA;  56046 MW;  0CEA2686BA4F4539 CRC64;
+     MLASTFSYRM YKTALILAAL LGSGQAQQVG TSQAEVHPSM TWQSCTAGGS CTTNNGKVVI
+     DANWRWVHKV GDYTNCYTGN TWDKTLCPDD ATCASNCALE GANYQSTYGA TTSGDSLRLN
+     FVTTSQQKNI GSRLYMMKDD TTYEMFKLLN QEFTFDVDVS NLPCGLNGAL YFVAMDADGG
+     MSKYPTNKAG AKYGTGYCDS QCPRDLKFIN GQANVEGWQP SSNDANAGTG NHGSCCAEMD
+     IWEANSISTA FTPHPCDTPG QVMCTGDACG GTYSSDRYGG TCDPDGCDFN SFRQGNKTFY
+     GPGMTVDTKS KFTVVTQFIT DDGTASGTLK EIKRFYVQNG KVIPNSESTW SGVGGNSITN
+     DYCTAQKSLF KDQNVFAKHG GMEGMGAALA QGMVLVMSLW DDHAANMLWL DSNYPTTASS
+     STPGVARGTC DISSGVPADV EANHPDASVV YSNIKVGPIG STFNSGGSNP GGGTTTTAKP
+     TTTTTTAGSP GGTGVAQHYG QCGGNGWQGP TTCASPYTCQ KLNDFYSQCL
+//
+ID   CBHB_ASPCL              Reviewed;         539 AA.
+AC   A1CU44;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 1.
+DT   20-JAN-2016, entry version 43.
+DE   RecName: Full=Probable 1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; ORFNames=ACLA_085260;
+OS   Aspergillus clavatus (strain ATCC 1007 / CBS 513.65 / DSM 816 / NCTC
+OS   3887 / NRRL 1).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=344612;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1007 / CBS 513.65 / DSM 816 / NCTC 3887 / NRRL 1;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS027060; EAW06831.1; -; Genomic_DNA.
+DR   RefSeq; XP_001268257.1; XM_001268256.1.
+DR   ProteinModelPortal; A1CU44; -.
+DR   SMR; A1CU44; 27-463, 505-539.
+DR   EnsemblFungi; CADACLAT00007517; CADACLAP00007326; CADACLAG00007517.
+DR   GeneID; 4699868; -.
+DR   KEGG; act:ACLA_085260; -.
+DR   EuPathDB; FungiDB:ACLA_085260; -.
+DR   HOGENOM; HOG000182210; -.
+DR   KO; K01225; -.
+DR   OMA; RGSCDIS; -.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   Proteomes; UP000006701; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   CHAIN        27    539       Probable 1,4-beta-D-glucan
+FT                                cellobiohydrolase B.
+FT                                /FTId=PRO_0000393546.
+FT   DOMAIN      503    539       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       27    461       Catalytic.
+FT   REGION      462    503       Thr-rich linker.
+FT   ACT_SITE    238    238       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    243    243       Proton donor. {ECO:0000250}.
+FT   CARBOHYD     90     90       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    296    296       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    495    495       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    511    528       {ECO:0000250}.
+FT   DISULFID    522    538       {ECO:0000250}.
+SQ   SEQUENCE   539 AA;  57042 MW;  27D7BD8E58C17687 CRC64;
+     MLPSTISYRI YKNALFFAAL FGAVQAQKVG TSKAEVHPSM AWQTCAADGT CTTKNGKVVI
+     DANWRWVHDV KGYTNCYTGN TWNAELCPDN ESCAENCALE GADYAATYGA TTSGNALSLK
+     FVTQSQQKNI GSRLYMMKDD NTYETFKLLN QEFTFDVDVS NLPCGLNGAL YFVSMDADGG
+     LSRYTGNEAG AKYGTGYCDS QCPRDLKFIN GLANVEGWTP SSSDANAGNG GHGSCCAEMD
+     IWEANSISTA YTPHPCDTPG QAMCNGDSCG GTYSSDRYGG TCDPDGCDFN SYRQGNKSFY
+     GPGMTVDTKK KMTVVTQFLT NDGTATGTLS EIKRFYVQDG KVIANSESTW PNLGGNSLTN
+     DFCKAQKTVF GDMDTFSKHG GMEGMGAALA EGMVLVMSLW DDHNSNMLWL DSNSPTTGTS
+     TTPGVARGSC DISSGDPKDL EANHPDASVV YSNIKVGPIG STFNSGGSNP GGSTTTTKPA
+     TSTTTTKATT TATTNTTGPT GTGVAQPWAQ CGGIGYSGPT QCAAPYTCTK QNDYYSQCL
+//
+ID   CBHB_ASPNC              Reviewed;         536 AA.
+AC   A2QAI7;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   06-MAR-2007, sequence version 1.
+DT   09-DEC-2015, entry version 46.
+DE   RecName: Full=Probable 1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; ORFNames=An01g11660;
+OS   Aspergillus niger (strain CBS 513.88 / FGSC A1513).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=425011;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CBS 513.88 / FGSC A1513;
+RX   PubMed=17259976; DOI=10.1038/nbt1282;
+RA   Pel H.J., de Winde J.H., Archer D.B., Dyer P.S., Hofmann G.,
+RA   Schaap P.J., Turner G., de Vries R.P., Albang R., Albermann K.,
+RA   Andersen M.R., Bendtsen J.D., Benen J.A.E., van den Berg M.,
+RA   Breestraat S., Caddick M.X., Contreras R., Cornell M., Coutinho P.M.,
+RA   Danchin E.G.J., Debets A.J.M., Dekker P., van Dijck P.W.M.,
+RA   van Dijk A., Dijkhuizen L., Driessen A.J.M., d'Enfert C., Geysens S.,
+RA   Goosen C., Groot G.S.P., de Groot P.W.J., Guillemette T.,
+RA   Henrissat B., Herweijer M., van den Hombergh J.P.T.W.,
+RA   van den Hondel C.A.M.J.J., van der Heijden R.T.J.M.,
+RA   van der Kaaij R.M., Klis F.M., Kools H.J., Kubicek C.P.,
+RA   van Kuyk P.A., Lauber J., Lu X., van der Maarel M.J.E.C.,
+RA   Meulenberg R., Menke H., Mortimer M.A., Nielsen J., Oliver S.G.,
+RA   Olsthoorn M., Pal K., van Peij N.N.M.E., Ram A.F.J., Rinas U.,
+RA   Roubos J.A., Sagt C.M.J., Schmoll M., Sun J., Ussery D., Varga J.,
+RA   Vervecken W., van de Vondervoort P.J.J., Wedler H., Woesten H.A.B.,
+RA   Zeng A.-P., van Ooyen A.J.J., Visser J., Stam H.;
+RT   "Genome sequencing and analysis of the versatile cell factory
+RT   Aspergillus niger CBS 513.88.";
+RL   Nat. Biotechnol. 25:221-231(2007).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AM269981; CAK44068.1; -; Genomic_DNA.
+DR   RefSeq; XP_001389576.1; XM_001389539.2.
+DR   ProteinModelPortal; A2QAI7; -.
+DR   SMR; A2QAI7; 22-461, 502-536.
+DR   EnsemblFungi; CADANGAT00001164; CADANGAP00001127; CADANGAG00001164.
+DR   GeneID; 4977345; -.
+DR   KEGG; ang:ANI_1_1574014; -.
+DR   HOGENOM; HOG000182210; -.
+DR   KO; K01225; -.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   Proteomes; UP000006706; Chromosome 2R.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     21       {ECO:0000255}.
+FT   CHAIN        22    536       Probable 1,4-beta-D-glucan
+FT                                cellobiohydrolase B.
+FT                                /FTId=PRO_5000219450.
+FT   DOMAIN      500    536       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       22    458       Catalytic.
+FT   REGION      459    500       Ser/Thr-rich linker.
+FT   ACT_SITE    233    233       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    238    238       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    351    351       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    414    414       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    508    525       {ECO:0000250}.
+FT   DISULFID    519    535       {ECO:0000250}.
+SQ   SEQUENCE   536 AA;  56205 MW;  EB9040AC12C8EA60 CRC64;
+     MSSFQVYRAA LLLSILATAN AQQVGTYTTE THPSLTWQTC TSDGSCTTND GEVVIDANWR
+     WVHSTSSATN CYTGNEWDTS ICTDDVTCAA NCALDGATYE ATYGVTTSGS ELRLNFVTQG
+     SSKNIGSRLY LMSDDSNYEL FKLLGQEFTF DVDVSNLPCG LNGALYFVAM DADGGTSEYS
+     GNKAGAKYGT GYCDSQCPRD LKFINGEANC DGWEPSSNNV NTGVGDHGSC CAEMDVWEAN
+     SISNAFTAHP CDSVSQTMCD GDSCGGTYSA SGDRYSGTCD PDGCDYNPYR LGNTDFYGPG
+     LTVDTNSPFT VVTQFITDDG TSSGTLTEIK RLYVQNGEVI ANGASTYSSV NGSSITSAFC
+     ESEKTLFGDE NVFDKHGGLE GMGEAMAKGM VLVLSLWDDY AADMLWLDSD YPVNSSASTP
+     GVARGTCSTD SGVPATVEAE SPNAYVTYSN IKFGPIGSTY SSGSSSGSGS SSSSSSTTTK
+     ATSTTLKTTS TTSSGSSSTS AAQAYGQCGG QGWTGPTTCV SGYTCTYENA YYSQCL
+//
+ID   CBHB_ASPTN              Reviewed;         541 AA.
+AC   Q0CMT2;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   17-OCT-2006, sequence version 1.
+DT   09-DEC-2015, entry version 41.
+DE   RecName: Full=Probable 1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; ORFNames=ATEG_05002;
+OS   Aspergillus terreus (strain NIH 2624 / FGSC A1156).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=341663;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=NIH 2624 / FGSC A1156;
+RA   Birren B.W., Lander E.S., Galagan J.E., Nusbaum C., Devon K., Henn M.,
+RA   Ma L.-J., Jaffe D.B., Butler J., Alvarez P., Gnerre S., Grabherr M.,
+RA   Kleber M., Mauceli E.W., Brockman W., Rounsley S., Young S.K.,
+RA   LaButti K., Pushparaj V., DeCaprio D., Crawford M., Koehrsen M.,
+RA   Engels R., Montgomery P., Pearson M., Howarth C., Larson L., Luoma S.,
+RA   White J., Alvarado L., Kodira C.D., Zeng Q., Oleary S., Yandava C.,
+RA   Denning D.W., Nierman W.C., Milne T., Madden K.;
+RT   "Annotation of the Aspergillus terreus NIH2624 genome.";
+RL   Submitted (SEP-2005) to the EMBL/GenBank/DDBJ databases.
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CH476600; EAU34071.1; -; Genomic_DNA.
+DR   RefSeq; XP_001214180.1; XM_001214180.1.
+DR   ProteinModelPortal; Q0CMT2; -.
+DR   SMR; Q0CMT2; 24-461, 507-541.
+DR   EnsemblFungi; CADATEAT00005220; CADATEAP00005220; CADATEAG00005220.
+DR   GeneID; 4321099; -.
+DR   EuPathDB; FungiDB:ATEG_05002; -.
+DR   HOGENOM; HOG000182210; -.
+DR   OMA; RGSCDIS; -.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   Proteomes; UP000007963; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Reference proteome; Secreted; Signal.
+FT   SIGNAL        1     23       {ECO:0000255}.
+FT   CHAIN        24    541       Probable 1,4-beta-D-glucan
+FT                                cellobiohydrolase B.
+FT                                /FTId=PRO_0000393549.
+FT   DOMAIN      505    541       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       24    458       Catalytic.
+FT   REGION      459    505       Ser/Thr-rich linker.
+FT   ACT_SITE    235    235       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    240    240       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    293    293       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    513    530       {ECO:0000250}.
+FT   DISULFID    524    540       {ECO:0000250}.
+SQ   SEQUENCE   541 AA;  57294 MW;  B72B0BA4C5C9C263 CRC64;
+     MPSTYDIYKK LLLLASFLSA SQAQQVGTSK AEVHPSLTWQ TCTSGGSCTT VNGKVVVDAN
+     WRWVHNVDGY NNCYTGNTWD TTLCPDDETC ASNCALEGAD YSGTYGVTTS GNSLRLNFVT
+     QASQKNIGSR LYLMEDDSTY KMFKLLNQEF TFDVDVSNLP CGLNGAVYFV SMDADGGMAK
+     YPANKAGAKY GTGYCDSQCP RDLKFINGMA NVEGWEPSAN DANAGTGNHG SCCAEMDIWE
+     ANSISTAYTP HPCDTPGQVM CTGDSCGGTY SSDRYGGTCD PDGCDFNSYR QGNKTFYGPG
+     MTVDTKSKIT VVTQFLTNDG TASGTLSEIK RFYVQNGKVI PNSESTWSGV SGNSITTAYC
+     NAQKTLFGDT DVFTKHGGME GMGAALAEGM VLVLSLWDDH NSNMLWLDSN YPTDKPSTTP
+     GVARGSCDIS SGDPKDVEAN DANAYVVYSN IKVGPIGSTF SGSTGGGSSS STTATSKTTT
+     TSATKTTTTT TKTTTTTSAS STSTGGAQHW AQCGGIGWTG PTTCVAPYTC QKQNDYYSQC
+     L
+//
+ID   CBHB_ASPFC              Reviewed;         532 AA.
+AC   B0Y8K2;
+DT   20-APR-2010, integrated into UniProtKB/Swiss-Prot.
+DT   08-APR-2008, sequence version 1.
+DT   09-DEC-2015, entry version 34.
+DE   RecName: Full=Probable 1,4-beta-D-glucan cellobiohydrolase B;
+DE            EC=3.2.1.91;
+DE   AltName: Full=Beta-glucancellobiohydrolase B;
+DE   AltName: Full=Exocellobiohydrolase B;
+DE   AltName: Full=Exoglucanase B;
+DE   Flags: Precursor;
+GN   Name=cbhB; ORFNames=AFUB_077630;
+OS   Neosartorya fumigata (strain CEA10 / CBS 144.89 / FGSC A1163)
+OS   (Aspergillus fumigatus).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=451804;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=CEA10 / CBS 144.89 / FGSC A1163;
+RX   PubMed=18404212; DOI=10.1371/journal.pgen.1000046;
+RA   Fedorova N.D., Khaldi N., Joardar V.S., Maiti R., Amedeo P.,
+RA   Anderson M.J., Crabtree J., Silva J.C., Badger J.H., Albarraq A.,
+RA   Angiuoli S., Bussey H., Bowyer P., Cotty P.J., Dyer P.S., Egan A.,
+RA   Galens K., Fraser-Liggett C.M., Haas B.J., Inman J.M., Kent R.,
+RA   Lemieux S., Malavazi I., Orvis J., Roemer T., Ronning C.M.,
+RA   Sundaram J.P., Sutton G., Turner G., Venter J.C., White O.R.,
+RA   Whitty B.R., Youngman P., Wolfe K.H., Goldman G.H., Wortman J.R.,
+RA   Jiang B., Denning D.W., Nierman W.C.;
+RT   "Genomic islands in the pathogenic filamentous fungus Aspergillus
+RT   fumigatus.";
+RL   PLoS Genet. 4:E1000046-E1000046(2008).
+CC   -!- FUNCTION: The biological conversion of cellulose to glucose
+CC       generally requires three types of hydrolytic enzymes: (1)
+CC       Endoglucanases which cut internal beta-1,4-glucosidic bonds; (2)
+CC       Exocellobiohydrolases that cut the dissaccharide cellobiose from
+CC       the non-reducing end of the cellulose polymer chain; (3) Beta-1,4-
+CC       glucosidases which hydrolyze the cellobiose and other short cello-
+CC       oligosaccharides to glucose. {ECO:0000250}.
+CC   -!- CATALYTIC ACTIVITY: Hydrolysis of (1->4)-beta-D-glucosidic
+CC       linkages in cellulose and cellotetraose, releasing cellobiose from
+CC       the non-reducing ends of the chains.
+CC   -!- SUBCELLULAR LOCATION: Secreted {ECO:0000305}.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000255|PROSITE-ProRule:PRU00597}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; DS499599; EDP49733.1; -; Genomic_DNA.
+DR   ProteinModelPortal; B0Y8K2; -.
+DR   SMR; B0Y8K2; 27-463, 500-532.
+DR   EnsemblFungi; CADAFUBT00007703; CADAFUBP00007567; CADAFUBG00007703.
+DR   HOGENOM; HOG000182210; -.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   PhylomeDB; B0Y8K2; -.
+DR   Proteomes; UP000001699; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:UniProtKB-SubCell.
+DR   GO; GO:0016162; F:cellulose 1,4-beta-cellobiosidase activity; IEA:UniProtKB-EC.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism; Cellulose degradation; Complete proteome;
+KW   Disulfide bond; Glycoprotein; Glycosidase; Hydrolase;
+KW   Polysaccharide degradation; Secreted; Signal.
+FT   SIGNAL        1     26       {ECO:0000255}.
+FT   CHAIN        27    532       Probable 1,4-beta-D-glucan
+FT                                cellobiohydrolase B.
+FT                                /FTId=PRO_0000393547.
+FT   DOMAIN      496    532       CBM1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00597}.
+FT   REGION       27    461       Catalytic.
+FT   REGION      462    496       Thr-rich linker.
+FT   ACT_SITE    238    238       Nucleophile. {ECO:0000250}.
+FT   ACT_SITE    243    243       Proton donor. {ECO:0000250}.
+FT   CARBOHYD    296    296       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID    504    521       {ECO:0000250}.
+FT   DISULFID    515    531       {ECO:0000250}.
+SQ   SEQUENCE   532 AA;  56457 MW;  03EBC7D15A5EAE78 CRC64;
+     MLASTFSYRM YKTALILAAL LGSGQAQQVG TSQAEVHPSM TWQSCTAGGS CTTNNGKVVI
+     DANWRWVHKV GDYTNCYTGN TWDTTICPDD ATCASNCALE GANYESTYGV TASGNSLRLN
+     FVTTSQQKNI GSRLYMMKDD STYEMFKLLN QEFTFDVDVS NLPCGLNGAL YFVAMDADGG
+     MSKYPTNKAG AKYGTGYCDS QCPRDLKFIN GQANVEGWQP SSNDANAGTG NHGSCCAEMD
+     IWEANSISTA FTPHPCDTPG QVMCTGDACG GTYSSDRYGG TCDPDGCDFN SFRQGNKTFY
+     GPGMTVDTKS KFTVVTQFIT DDGTSSGTLK EIKRFYVQNG KVIPNSESTW TGVSGNSITT
+     EYCTAQKSLF QDQNVFEKHG GLEGMGAALA QGMVLVMSLW DDHSANMLWL DSNYPTTASS
+     TTPGVARGTC DISSGVPADV EANHPDAYVV YSNIKVGPIG STFNSGGSNP GGGTTTTTTT
+     QPTTTTTTAG NPGGTGVAQH YGQCGGIGWT GPTTCASPYT CQKLNDYYSQ CL
+//
+ID   A0A0F7LG82_ASPNG        Unreviewed;       536 AA.
+AC   A0A0F7LG82;
+DT   22-JUL-2015, integrated into UniProtKB/TrEMBL.
+DT   22-JUL-2015, sequence version 1.
+DT   09-DEC-2015, entry version 5.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:AKH61141.1};
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061 {ECO:0000313|EMBL:AKH61141.1};
+RN   [1] {ECO:0000313|EMBL:AKH61141.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=ATCC 10574 {ECO:0000313|EMBL:AKH61141.1};
+RA   Woon J.S.K., Abu Bakar F.D., Abdul Murad A.M.;
+RT   "Isolation, molecular cloning and expression of Cellobiohydrolase B
+RT   (CbhB) from Aspergillus niger in Escherichia coli.";
+RL   Submitted (MAR-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; KR052992; AKH61141.1; -; mRNA.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Coiled coil {ECO:0000256|SAM:Coils};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164,
+KW   ECO:0000313|EMBL:AKH61141.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164,
+KW   ECO:0000313|EMBL:AKH61141.1};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    536       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5005437248.
+FT   DOMAIN      500    536       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+FT   COILED      533    536       {ECO:0000256|SAM:Coils}.
+SQ   SEQUENCE   536 AA;  56279 MW;  A6FD360E9B9F330C CRC64;
+     MSSFQIYRAA LLLSILATAN AQQVGTYTTE THPSLTWQTC TSDGSCTTND GEVVIDANWR
+     WVHSTSSATN CYTGNEWDTS ICTDDVTCAA NCALDGATYE ATYGVTTSGS ELRLNFVTQG
+     SSKNIGSRLY LMSDDSNYEL FKLLGQEFTF DVDVSNLPCG LNGALYFVAM DADGGTSEYS
+     GNKAGAKYGT GYCDSQCPRD LKFINGEANC DGWEPSSNNV NTGVGDHGSC CAEMDVWEAN
+     SISNAFTAHP CDSVSQTMCD GDSCGGTYSA SGDRYSGTCD PDGCDYNPYR LGNTDFYGPG
+     LTVDTNSPFT VVTQFITDDG TSSGTLTEIK RLYVQNGEVI ANGASTYFSV NGSSITSAFC
+     ESEKTLFGDE NVFDKHGGLE GMGEAMAKGM VLVLSLWDDY AADMLWLDSD YPVNSSASTP
+     GVARGTCSTD SGVPATVEAE SPNAYVTYSN IKFGPIGSTY SSGSSSGSGS SSSSSSTTTK
+     ATSTTLKTTS TTSSGSSSTS AAQAYGQCGG QGWTGPTTCV SGYTCTYENA YYSQCL
+//
+ID   W6R7Z3_PENRO            Unreviewed;       530 AA.
+AC   W6R7Z3;
+DT   16-APR-2014, integrated into UniProtKB/TrEMBL.
+DT   16-APR-2014, sequence version 1.
+DT   09-DEC-2015, entry version 11.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CDM37977.1};
+GN   ORFNames=PROQFM164_S08g000028 {ECO:0000313|EMBL:CDM37977.1};
+OS   Penicillium roqueforti FM164.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Penicillium.
+OX   NCBI_TaxID=1365484 {ECO:0000313|EMBL:CDM37977.1, ECO:0000313|Proteomes:UP000030686};
+RN   [1] {ECO:0000313|EMBL:CDM37977.1, ECO:0000313|Proteomes:UP000030686}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=FM164 {ECO:0000313|EMBL:CDM37977.1,
+RC   ECO:0000313|Proteomes:UP000030686};
+RX   PubMed=24407037; DOI=10.1038/ncomms3876;
+RA   Cheeseman K., Ropars J., Renault P., Dupont J., Gouzy J., Branca A.,
+RA   Abraham A.L., Ceppi M., Conseiller E., Debuchy R., Malagnac F.,
+RA   Goarin A., Silar P., Lacoste S., Sallet E., Bensimon A., Giraud T.,
+RA   Brygoo Y.;
+RT   "Multiple recent horizontal transfers of a large genomic region in
+RT   cheese making fungi.";
+RL   Nat. Commun. 5:2876-2876(2014).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HG792022; CDM37977.1; -; Genomic_DNA.
+DR   EnsemblFungi; CDM37977; CDM37977; PROQFM164_S08g000028.
+DR   Proteomes; UP000030686; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000030686};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000030686};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     24       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        25    530       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004880186.
+FT   DOMAIN      494    530       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   530 AA;  56139 MW;  7473780B12C124AA CRC64;
+     MASTLSNFYK DALLLVALLR TAQAQQVGTN TAEVHPSLTW QKCTTGGSCT SQSGKVVVDA
+     NWRWVHNTAG FTNCYTGNEW DTTICPDDIT CATNCALEGA DYSGTYGVTT SGSSLRLNFV
+     TQASQKNIGS RLYLMADDSK YEMFQLLNQE FTFNVDVSNL PCGLNGALYF VSMDADGGMA
+     RYPANKAGAK YGTGYCDSQC PRDLKFINGQ ANVEGWEPSS NDVNAGTGNY GSCCAEMDIW
+     EANSISTAVT PHPCDDPTQT RCSGDACGGT YSNDRYSGTC DPDGCDFNPY RMGNQSFYGP
+     SKIVDTKSPF TVVTQFITND GTSTGTLSEI KRFYVQNGKV IPQSVSTISA VTGNSISDSF
+     CSAQKAAFGD RDVFTQHGGM VGMGAGLADG MVLVMSLWDD HAANMLWLDS TYPTASSSTT
+     PGAARGSCDI YSGQPIDVEA NNAGAYVIYS NIKVGPLGST FSSTNSSGTT TTVTTSSTTT
+     KATSTTTTTT SSTTGAPQYA QCGGINWTGA TTCASPYTCQ KQSDYYSQCL
+//
+ID   G3XQZ3_ASPNA            Unreviewed;       493 AA.
+AC   G3XQZ3;
+DT   14-DEC-2011, integrated into UniProtKB/TrEMBL.
+DT   14-DEC-2011, sequence version 1.
+DT   09-DEC-2015, entry version 20.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:EHA26941.1};
+GN   ORFNames=ASPNIDRAFT_51773 {ECO:0000313|EMBL:EHA26941.1};
+OS   Aspergillus niger (strain ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB
+OS   Ac4 / NCTC 3858a / NRRL 328 / USDA 3528.7).
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=380704 {ECO:0000313|EMBL:EHA26941.1, ECO:0000313|Proteomes:UP000009038};
+RN   [1] {ECO:0000313|EMBL:EHA26941.1, ECO:0000313|Proteomes:UP000009038}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=ATCC 1015 / CBS 113.46 / FGSC A1144 / LSHB Ac4 / NCTC 3858a /
+RC   NRRL 328 / USDA 3528.7 {ECO:0000313|Proteomes:UP000009038};
+RX   PubMed=21543515; DOI=10.1101/gr.112169.110;
+RA   Andersen M.R., Salazar M.P., Schaap P.J., van de Vondervoort P.J.I.,
+RA   Culley D., Thykaer J., Frisvad J.C., Nielsen K.F., Albang R.,
+RA   Albermann K., Berka R.M., Braus G.H., Braus-Stromeyer S.A.,
+RA   Corrochano L.M., Dai Z., van Dijck P.W.M., Hofmann G., Lasure L.L.,
+RA   Magnuson J.K., Menke H., Meijer M., Meijer S.L., Nielsen J.B.,
+RA   Nielsen M.L., van Ooyen A.J.J., Pel H.J., Poulsen L., Samson R.A.,
+RA   Stam H., Tsang A., van den Brink J.M., Atkins A., Aerts A.,
+RA   Shapiro H., Pangilinan J., Salamov A., Lou Y., Lindquist E., Lucas S.,
+RA   Grimwood J., Grigoriev I.V., Kubicek C.P., Martinez D.,
+RA   van Peij N.N.M.E., Roubos J.A., Nielsen J., Baker S.E.;
+RT   "Comparative genomics of citric-acid-producing Aspergillus niger ATCC
+RT   1015 versus enzyme-producing CBS 513.88.";
+RL   Genome Res. 21:885-897(2011).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:EHA26941.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; ACJE01000004; EHA26941.1; -; Genomic_DNA.
+DR   EnsemblFungi; EHA26941; EHA26941; ASPNIDRAFT_51773.
+DR   OrthoDB; EOG7ZGXCF; -.
+DR   Proteomes; UP000009038; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 2.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 2.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000009038};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000009038};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    493       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003460120.
+FT   DOMAIN      457    493       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   493 AA;  51713 MW;  1CAACCA33AD00641 CRC64;
+     MSSFQIYRAA LLLSILATAN AQQVGTYTTE THPSLTWQTC TSDGSCTTND GEVVIDANWR
+     WVHSTSSATN CYTGNEWDTS ICTDDVTCAA NCALDGATYE ATYGVTTSGS ELRLNFVTQG
+     SSKNIGSRLY LMSDDSNYEL FKLLGGTGYC DSQCPRDLKF INGEANCDGW EPSSNNVNTG
+     VGDHGSCCAE MDVWEANSIS NAFTAHPCDS VSQTMCDGDS CGGTYSASGD RYSGTCDPDG
+     CDYNPYRLGN TDFYGPGLTV DTNSPFTVVT QFITDDGTSS GTLTEIKRLY VQNGEVIANG
+     ASTYSSVNGS SITSAFCESE KTLFGDENVF DKHGGLEGMG EAMAKGMVLV LSLWDDYAAD
+     MLWLDSDYPV NSSASTPGVA RGTCSTDSGV PATVEAESPN AYVTYSNIKF GPIGSTYSSG
+     SSSGSGSSSS SSSTTTKATS TTLKTTSTTS SGSSSTSAAQ AYGQCGGQGW TGPTTCVSGY
+     TCTYENAYYS QCL
+//
+ID   F6KST3_ASPNG            Unreviewed;       536 AA.
+AC   F6KST3;
+DT   27-JUL-2011, integrated into UniProtKB/TrEMBL.
+DT   27-JUL-2011, sequence version 1.
+DT   09-DEC-2015, entry version 16.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:AEF58998.1};
+OS   Aspergillus niger.
+OC   Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina; Eurotiomycetes;
+OC   Eurotiomycetidae; Eurotiales; Aspergillaceae; Aspergillus.
+OX   NCBI_TaxID=5061 {ECO:0000313|EMBL:AEF58998.1};
+RN   [1] {ECO:0000313|EMBL:AEF58998.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Zhang T., Chen H.;
+RT   "Cloning of a 1,4-beta-D-glucan cellobiohydrolase-encoding gene from
+RT   Aspergillus niger AN524 and its expression in Pichia pastoris.";
+RL   Submitted (NOV-2010) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; HQ604862; AEF58998.1; -; Genomic_DNA.
+DR   STRING; 5061.CADANGAP00001127; -.
+DR   PaxDb; F6KST3; -.
+DR   eggNOG; ENOG410IE3Y; Eukaryota.
+DR   eggNOG; ENOG41101KD; LUCA.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     21       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        22    536       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5003338201.
+FT   DOMAIN      500    536       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   536 AA;  56308 MW;  F820DA6DCADD5281 CRC64;
+     MSSFQVYRAA LLLSILATAN AQQVGTYTTE THPSLTWQTC TSDGSCTTND GAVVIDANWR
+     WVHSTSSSTN CYTGNEWDTS ICTDDVTCAA NCALDGATYE ATYGVTTSGD ELRLNFVTQG
+     SSKNIGSRLY LMSDDSTYEM FKLLGQEFTF DVDVSNLPCG LNGALYFVAM DADGGTSEYS
+     GNKAGAKYGT GYCDSQCPRD LKFINGEANC DGWEPSSNNV NTGVGDHGSC CPEMDIWEAN
+     SISNAFTAHP CDSVSQTMCD GDSCGRTYSA SGDRYSGTCD PDGCDYNPYR LGNTDFYGPG
+     LTVDTNSPFT VVTQFITDDG TSSGTLTEIK RLYVQNGEVI ANGASTYSSV NGSSITSDFC
+     ESEKTLFGDE NVFDTHGGLA GMGEAMANGM VLVLSLWDDY AANMLWLDSD YPVNSSASTP
+     GVARGTCSTD SGVPATVEAD SPNAYVTYSN IKFGPIGSTY SSGSSSGSGS SSSSSSTTTK
+     ATSTTLKTTT TTSSGSSSTS AAQAYGQCGG QSWTGPTTCV SGYTCTYQNA YYSQCL
+//
+ID   M5CB80_THACB            Unreviewed;       518 AA.
+AC   M5CB80;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 12.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO33072.1};
+GN   ORFNames=BN14_07141 {ECO:0000313|EMBL:CCO33072.1},
+GN   RSOLAG1IB_03146 {ECO:0000313|EMBL:CEL59213.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO33072.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO33072.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Isolate 7/3/14 {ECO:0000313|EMBL:CCO33072.1};
+RA   Jelonek L.;
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CCO33072.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065},
+RC   and Isolate 7/3/14 {ECO:0000313|EMBL:CCO33072.1};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+RN   [3] {ECO:0000313|EMBL:CEL59213.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Rhizoctonia solani AG1-IB 7/3/14 {ECO:0000313|EMBL:CEL59213.1};
+RA   Wibberg Daniel;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01010906; CCO33072.1; -; Genomic_DNA.
+DR   EMBL; LN679103; CEL59213.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO33072; CCO33072; BN14_07141.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164,
+KW   ECO:0000313|EMBL:CEL59213.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164,
+KW   ECO:0000313|EMBL:CEL59213.1};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     19       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        20    518       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004064245.
+FT   DOMAIN      482    518       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   518 AA;  55036 MW;  61B5ECADB5D8553B CRC64;
+     MSLRSKVLVS LALIAAARAQ QVGTSKAEVH PTLTWQKCTK SGGCATQSQG KIVLDANWRW
+     VHNTGGYTNC YTGQAWDSTL CSDPVKCAQN CALEGADYSG TYGISASGNS LTMKFVTKTD
+     NTNVGSRVYL LADDSNYQMF KLKNQEFTFD VDVSNLPCGL NGALYFSQMD ADGGASKYPN
+     NKAGAKYGTG YCDAQCPRDL KFINGEANVI GWNGSSNDAN SGSGRYGTCC SEMDIWEGNV
+     VSTAYTPHPC TVNGQTRCDS TGTECASFCD QPGCDFNSFR MGDKSFYGAG LTVDTKKKIT
+     VVTQFITADG TSSGALKEIR RLYVQDGKVI QNSKTNIPGM AAYDSITDQF CSAQKTAFND
+     NNDFAAKGGF TKFGQDFEKG MVLVLSIWDD HAANMLWLDS NYPTSGNPAT PGIARGTCAT
+     TSGVPKDVET NSPNASVTYS NIRFGDIGST YSGSSVPITT TTGPVTTTTT TIPPTTTTTP
+     GGTAAHYAQC GGKGYTGPTA CAAPYKCTYS SEYYSQCL
+//
+ID   M5C0X6_THACB            Unreviewed;       508 AA.
+AC   M5C0X6;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 12.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO32610.1};
+GN   ORFNames=BN14_06673 {ECO:0000313|EMBL:CCO32610.1},
+GN   RSOLAG1IB_10160 {ECO:0000313|EMBL:CEL62047.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO32610.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO32610.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Isolate 7/3/14 {ECO:0000313|EMBL:CCO32610.1};
+RA   Jelonek L.;
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CCO32610.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065},
+RC   and Isolate 7/3/14 {ECO:0000313|EMBL:CCO32610.1};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+RN   [3] {ECO:0000313|EMBL:CEL62047.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Rhizoctonia solani AG1-IB 7/3/14 {ECO:0000313|EMBL:CEL62047.1};
+RA   Wibberg Daniel;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01010121; CCO32610.1; -; Genomic_DNA.
+DR   EMBL; LN679159; CEL62047.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO32610; CCO32610; BN14_06673.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    508       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004063747.
+FT   DOMAIN      472    508       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   508 AA;  53846 MW;  E9CD51951B9DDD74 CRC64;
+     MYSAVVLLSL YLAAVKAQQV GTNKAEVHPP LPWQKCTKSG GCVSQSNGKV VLDANWRWVH
+     TTTGYTNCYT GQKWDASICP DGATCAKNCA VDGADYSGTY GITTSGNALT LKFVTKGDGT
+     NVGSRVYLMA SDDTKYELFK LKNQEFTFDV DVSNLPCGLN GALYFSEMDA DGGLSKYPNN
+     KAGAKYGTGY CDAQCPKDIK FINGEANVAG WNGAPNDPNS GTGNYGTCCT EMDIWEANSM
+     ATAYTPHPCD VSGQTRCSGT QCSSYCDQPG CDFNSYRMGD KSYYGKGLTV DTNKKMTVVT
+     QFITSDGTAN GALTEIRRIY VQDGKVIQNS KTKVPGLDAY DSITDKFCSA QKTAFNDQNV
+     FGNKGGLATM DKSFTKGHVL VLSIWDDHAA NMLWLDSDYP VGANTNTPGV ARGACATTSG
+     VPSDVETNSP NASVTFSNIK FGDIGSTFGS SSGTPTTPTT SAPATTTTAS SGTVPHWGQC
+     GGIGYTGPTV CQSPYTCTKN GDYYSQCL
+//
+ID   M5CEJ3_THACB            Unreviewed;       511 AA.
+AC   M5CEJ3;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 11.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO37654.1};
+GN   ORFNames=BN14_11812 {ECO:0000313|EMBL:CCO37654.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO37654.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO37654.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCO37654.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01017404; CCO37654.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO37654; CCO37654; BN14_11812.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    511       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004064136.
+FT   DOMAIN      475    510       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   511 AA;  54822 MW;  1EB7F8AE1A7354A3 CRC64;
+     MYSTFALISL YLAAVRAQQV GTSKPEVHPA LPWSKCTKSG GCVSQSQGKV VLDANWRWVH
+     GTSGYTNCYT GQTWDRTLCP DGATCAKNCA LEGADYPGTY GITTSGDALT LKFVTQSSTR
+     NVGSRVYLMA SDDVKYEMFK LKNQEFTFDV DVSQLPCGLN GALYFVEMDA DGGVGRFPNN
+     KAGAKYGTGY CDAQCARDIK FINGEGNVED WTGSTTDPNS GKGKYGSCCN EMDIWEANSI
+     SNAYTPHPCT PTGQARCDST TSQCADFCDQ PGCDWNPYRM GDKELYGPGK VVDTTKKITV
+     VTQFITNDNT ATGKLVEMRR LYVQDGKVIQ NTKSTISGLT QYDSITDDFC DAQKTVFQDT
+     NAYAQHGGMA RMDASFQNGH VLVMSLWDDH AANMHWLNSN YPLDRPATQP GVARGTCSNT
+     SGVPKDVESQ SPNASVTFSN IKFGDIGSTY GAGSTPTTPS GTTTSTAPSP TSPSGSAPLY
+     GQCGGQGWTG PTTCASGTCK VSNQYYSQCL P
+//
+ID   A0A0K6FWM3_9HOMO        Unreviewed;       508 AA.
+AC   A0A0K6FWM3;
+DT   11-NOV-2015, integrated into UniProtKB/TrEMBL.
+DT   11-NOV-2015, sequence version 1.
+DT   17-FEB-2016, entry version 4.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CUA70548.1};
+GN   ORFNames=RSOLAG22IIIB_08962 {ECO:0000313|EMBL:CUA70548.1};
+OS   Rhizoctonia solani.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=456999 {ECO:0000313|EMBL:CUA70548.1, ECO:0000313|Proteomes:UP000044841};
+RN   [1] {ECO:0000313|EMBL:CUA70548.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BBA 69670 {ECO:0000313|EMBL:CUA70548.1};
+RA   Noorani M.;
+RL   Submitted (JUL-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CYGV01001158; CUA70548.1; -; Genomic_DNA.
+DR   Proteomes; UP000044841; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    508       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5005502688.
+FT   DOMAIN      472    508       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   508 AA;  53605 MW;  6D1FE518B4BFB18F CRC64;
+     MYSAVVLLSL YLAAVNAQQV GTNKAEVHPP LPWQKCTKSG GCVTQSSGKV VLDANWRWVH
+     TTTGYTNCYT GQKWDSSICP DGATCAKSCA VDGADYSGTY GITASGGALT LKFVTKGDGT
+     NVGSRVYLMA SDDTKYEMFK LKNQEFTFDV DVSNLPCGLN GALYFAEMDA DGGMAKYPNN
+     KAGAKYGTGY CDAQCPRDIK FINGEANVAG WTGSTNDPNS GTGNYGTCCN EMDIWEANSM
+     ATAYTPHPCS VTGQTRCSGS QCTSYCDQPG CDFNSYRMGD KTFYGKGLTV DTSKKITVVT
+     QFITSDGTAN GDLTEIRRVY VQDGKVIQNS KTKVAGMDTY DSITEKFCAA QKTAFNDQNV
+     FASKGGLATM GKSFANGHVL VLSIWDDHTA NMLWLDSDYP VGGNTNTPGV ARGACATTSG
+     VPSDIETNSP NASVTFSNIK FGDIGSTYGG SSTTPGTPTT TSPATTTTAS SGTAPHYGQC
+     GGIGWTGPTV CASPYTCVKN GDYYSQCL
+//
+ID   A0A0K6GBE7_9HOMO        Unreviewed;       508 AA.
+AC   A0A0K6GBE7;
+DT   11-NOV-2015, integrated into UniProtKB/TrEMBL.
+DT   11-NOV-2015, sequence version 1.
+DT   17-FEB-2016, entry version 4.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CUA75811.1};
+GN   ORFNames=RSOLAG22IIIB_11999 {ECO:0000313|EMBL:CUA75811.1};
+OS   Rhizoctonia solani.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=456999 {ECO:0000313|EMBL:CUA75811.1, ECO:0000313|Proteomes:UP000044841};
+RN   [1] {ECO:0000313|EMBL:CUA75811.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BBA 69670 {ECO:0000313|EMBL:CUA75811.1};
+RA   Noorani M.;
+RL   Submitted (JUL-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CYGV01001612; CUA75811.1; -; Genomic_DNA.
+DR   Proteomes; UP000044841; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    508       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5005503243.
+FT   DOMAIN      472    508       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   508 AA;  53596 MW;  4E5673A48424AEA9 CRC64;
+     MNTALFLSLA LVGSVRAQQV GTLTSETHPS LTWQKCTTSG GCVTQSSGKI VLDSNWRWVH
+     TTSGYTNCYT GNAWNATICP DPATCASNCA LDGANYSGTY GITTSGNALT LKFVTKTENT
+     NVGSRVYLLA DDSNYQMFKL KNQEFTFDVE VSNLPCGLNG ALYFSEMAAD GGMSKYSTNK
+     AGAKYGTGYC DAQCPKDIKF INGEANVLDW TPSSNDVNAG TGRYGTCCNE MDVWEANQIS
+     AAYTPHPCTV TGQTRCSGSD CSSGYCDPAG CDFNSYRMGV KNFYGQGSSY TVDTTKKITV
+     VTQFITADGT ATGALSEIRR LYVQDGKVIQ NSKTNISGMS AYDSITEAFC TAQKTAFSDT
+     NIFAAKGGYT NMGKAFDNGM VLVMSIWDDH AANMLWLDSN YPVGASASQP GVARGTCATT
+     SGVPADVEAN SPNASVTYSN IRFGDIGSTY SGTGSTTTTT SAASSTTSAS SSGAAHYAQC
+     GGIGWTGATT CVSPYTCTVV NSYYYQCL
+//
+ID   A0A0K6GD52_9HOMO        Unreviewed;       508 AA.
+AC   A0A0K6GD52;
+DT   11-NOV-2015, integrated into UniProtKB/TrEMBL.
+DT   11-NOV-2015, sequence version 1.
+DT   17-FEB-2016, entry version 4.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CUA76416.1};
+GN   ORFNames=RSOLAG22IIIB_12268 {ECO:0000313|EMBL:CUA76416.1};
+OS   Rhizoctonia solani.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=456999 {ECO:0000313|EMBL:CUA76416.1, ECO:0000313|Proteomes:UP000044841};
+RN   [1] {ECO:0000313|EMBL:CUA76416.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BBA 69670 {ECO:0000313|EMBL:CUA76416.1};
+RA   Noorani M.;
+RL   Submitted (JUL-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CYGV01001682; CUA76416.1; -; Genomic_DNA.
+DR   Proteomes; UP000044841; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    508       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5005503256.
+FT   DOMAIN      472    508       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   508 AA;  53699 MW;  CDA014299B7CBD10 CRC64;
+     MNTALFLSLA LVGSVRAQQV GTVTTETHPS LTWQKCTTSG GCVTQSSGKI VLDSNWRWVH
+     TTSGYTNCYT GNAWDTTICP DPATCASNCA LDGANYSGTY GITTSGNALT LKFVTKTENT
+     NVGSRVYLLA DDSNYQMFKL KNQEFTFDVE VSNLPCGLNG ALYFSEMAAD GGMSKYSTNK
+     AGAKYGTGYC DAQCPKDIKF INGEANVLDW TPSSNDVNAG TGRYGTCCNE MDVWEANQIS
+     TAYTPHPCTV TGQTRCSGSD CSSGYCDPAG CDFNSYRMGV KNFYGQGSSY TVDTTKKITV
+     VTQFITADGT ATGALSEIRR LYVQDGKVIQ NSKTNISGMS AYDSITEAFC TAQKTAFSDT
+     NIFAAKGGYT NMGKAFDNGM VLVMSIWDDH AANMLWLDSN YPVGADASQP GVARGTCATT
+     SGVPADVEAN SPNASVTYSN IRFGDIGSTY SGTASTTTTT SAASSTTSAS SSGAAHYAQC
+     GGIGWTGATT CVSPYTCTVV NSYYYQCL
+//
+ID   M5BS98_THACB            Unreviewed;       450 AA.
+AC   M5BS98;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   14-OCT-2015, entry version 10.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=CBH1 {ECO:0000313|EMBL:CCO30076.1};
+GN   Synonyms=cbhB {ECO:0000313|EMBL:CEL59236.1};
+GN   ORFNames=BN14_04100 {ECO:0000313|EMBL:CCO30076.1},
+GN   RSOLAG1IB_03169 {ECO:0000313|EMBL:CEL59236.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO30076.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO30076.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Isolate 7/3/14 {ECO:0000313|EMBL:CCO30076.1};
+RA   Jelonek L.;
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CCO30076.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065},
+RC   and Isolate 7/3/14 {ECO:0000313|EMBL:CCO30076.1};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+RN   [3] {ECO:0000313|EMBL:CEL59236.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Rhizoctonia solani AG1-IB 7/3/14 {ECO:0000313|EMBL:CEL59236.1};
+RA   Wibberg Daniel;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01005898; CCO30076.1; -; Genomic_DNA.
+DR   EMBL; LN679103; CEL59236.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO30076; CCO30076; BN14_04100.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     18       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        19    450       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5004063752.
+SQ   SEQUENCE   450 AA;  48515 MW;  EFFC565942A8E8F1 CRC64;
+     MNTATLLLSL SLLSAVRAQQ VGTQKAEVHP TLTWQKCTKS GGCQTQSQGK IVLDANWRWV
+     HNTGGYTNCY TGQAWDSSLC SDPVKCAQGC AVDGADYSGT YGINANGNSL TMKFVTKTEN
+     TNVGSRVYLL ADDNKYQMFK LKNQEFTFDV DVSNLPCGLN GALYFSQMDA DGGMAKYPNN
+     KAGAKYGTGY CDAQCPKDIK FINGEANVLD WKGSSNDANS GTGRYGTCCN EMDIWEGNSI
+     STAYTPHPCT VQGQTRCSGS QCTDYCDQPG CDFNSYRMGV KNFYGKGFTV DTSKKITVVT
+     QFITADGTAS GALKEIRRLY VQNGKVIQNS KTNISGMAAY DSITEPFCTA QKTAFSDTNV
+     FAQKGGYTNM GKAFDSGMVL VLSIWDDHAA NMLWLDSNYP TDRPATQPGV ARGTCATTSG
+     VPKDVETNNA NASVTYSNIK FGDIGSTYSA
+//
+ID   M5CFT3_THACB            Unreviewed;       205 AA.
+AC   M5CFT3;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 10.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO34917.1};
+GN   ORFNames=BN14_09027 {ECO:0000313|EMBL:CCO34917.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO34917.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO34917.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCO34917.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01013846; CCO34917.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO34917; CCO34917; BN14_09027.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0016021; C:integral component of membrane; IEA:UniProtKB-KW.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Membrane {ECO:0000256|SAM:Phobius};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Transmembrane {ECO:0000256|SAM:Phobius};
+KW   Transmembrane helix {ECO:0000256|SAM:Phobius}.
+FT   TRANSMEM      6     29       Helical. {ECO:0000256|SAM:Phobius}.
+SQ   SEQUENCE   205 AA;  21880 MW;  D72DB193BE3BC14A CRC64;
+     MSLKSVIGSS LIIGPAMYFL ALLPLYLAAT SAQQVGTLKT EVHPALPWQK CTKSGGCVTQ
+     SQGKVVLDAN WRWVHTTSGY TNCYTGQKWD ALICPDGVTC AQNCAVDGAD YSGTYGIITS
+     GNALTLKFVT KGASTNVGSR VYLMASDDTN YEMFKLKNQE FTFDVDVSNL PCGLNGALYF
+     SEMSADGGKS KYTNNKAGAN SSTAR
+//
+ID   M5C569_THACB            Unreviewed;       376 AA.
+AC   M5C569;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 11.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO34556.1};
+GN   ORFNames=BN14_08658 {ECO:0000313|EMBL:CCO34556.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO34556.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO34556.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- SIMILARITY: Contains 1 CBM1 (fungal-type carbohydrate-binding)
+CC       domain. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCO34556.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01013276; CCO34556.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO34556; CCO34556; BN14_08658.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Disulfide bond {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065}.
+FT   DOMAIN      340    375       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   376 AA;  40307 MW;  B92A1EC82A068E11 CRC64;
+     MFKLKNQEFT FDVDVSKLPC GLNGALYFVE MDADGGVGRF PNNKAGAKYG TGYCDAQCAR
+     DIKFINGEGN VEDWTGSTTD PNSGKGKYGS CCNEMDIWEA NSISNAYTPH PCTPTGQARC
+     DSTTSQCADF CDQPGCDWNP YRMGDKNLYG PGKVVDTNKK ITVVTQFITN DNTATGKLVE
+     MRRLYVQDGK VIQNTKSTIS GLTQYDSITD NFCAAQKTVF QDTNAYAQHG GMARMDESFQ
+     NGHVLVMSLW DDHAANMHWL NSNYPLDRPA TQPGVARGTC SNTSGVPKDV EAQSPNASVT
+     FSNIKFGDIG STYGTGSNPV TPVPSGTTTS TPPSPTSPSG SAPLYGQCGG QGWTGPTTCA
+     SGTCKVSNQY YSQCLP
+//
+ID   A0A0B7FX97_THACB        Unreviewed;       476 AA.
+AC   A0A0B7FX97;
+DT   01-APR-2015, integrated into UniProtKB/TrEMBL.
+DT   01-APR-2015, sequence version 1.
+DT   14-OCT-2015, entry version 4.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CEL62340.1};
+GN   ORFNames=RSOLAG1IB_10393 {ECO:0000313|EMBL:CEL62340.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CEL62340.1};
+RN   [1] {ECO:0000313|EMBL:CEL62340.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Rhizoctonia solani AG1-IB 7/3/14 {ECO:0000313|EMBL:CEL62340.1};
+RA   Wibberg Daniel;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LN679166; CEL62340.1; -; Genomic_DNA.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164,
+KW   ECO:0000313|EMBL:CEL62340.1};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164,
+KW   ECO:0000313|EMBL:CEL62340.1};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Signal {ECO:0000256|SAM:SignalP}.
+FT   SIGNAL        1     17       {ECO:0000256|SAM:SignalP}.
+FT   CHAIN        18    476       Glucanase. {ECO:0000256|SAM:SignalP}.
+FT                                /FTId=PRO_5002114484.
+SQ   SEQUENCE   476 AA;  50307 MW;  3417526A9A1FB80D CRC64;
+     MNTVIFLSLA LVGSVRAQQA GTVTAETHPS LPWQKCTKSG GCVTQSSGKI VLDSNWRWVH
+     TTSGYTNCYT GNTWDSTLCP DPTTCASNCA LDGADYSGTY GITTSGNALT LKFVTKTSTT
+     NIGSRVYLLA DDSNYQMFKL KNQEFTFDVD VSNLPCGLNG ALYFSEMAAD GGLSKYTGNK
+     AGAKYGTGYC DAQCPKDIKF ISGEANVLDW TPSSNDVNAG TGRYGTCCNE MDVWEANAVS
+     TAYTPHPCTV SGQTRCSGTD CSSGYCDPAG CDFNSYRMGV KNFYGQGSSY TVDTTKKITV
+     VTQFITVDGT ATGALSEIRR LYVQDGKVIQ NSKTNISGMS AYDSVTEAFC TAQKTAFSDT
+     NIFASKGGYT NMGKAFDNGM VLVMSIWDDH AANMLWLDSN YPVGADASKP GVARGSCATT
+     SGVPSDVESN SPNSSVTFSN IRFGDIGSTY SGTTTTTTAS TGTTLTTSSA PVSDFA
+//
+ID   Q9P8Q8_9FUNG            Unreviewed;       376 AA.
+AC   Q9P8Q8;
+DT   01-OCT-2000, integrated into UniProtKB/TrEMBL.
+DT   01-OCT-2000, sequence version 1.
+DT   27-MAY-2015, entry version 46.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361186};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361186};
+DE   Flags: Fragment;
+GN   Name=cbhB {ECO:0000313|EMBL:AAF34679.1};
+OS   Piromyces rhizinflatus.
+OC   Eukaryota; Fungi; Neocallimastigomycota; Neocallimastigomycetes;
+OC   Neocallimastigales; Neocallimastigaceae; Piromyces.
+OX   NCBI_TaxID=73428 {ECO:0000313|EMBL:AAF34679.1};
+RN   [1] {ECO:0000313|EMBL:AAF34679.1}
+RP   NUCLEOTIDE SEQUENCE.
+RA   Liu J.-H., Tsai C.-F., Cheng K.-J.;
+RT   "Cloning, expression and characterization of three homologous
+RT   cellobiohydrolase genes from anaerobic fungus Piromyces rhizinflata.";
+RL   Submitted (JAN-2000) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:AAF34679.1}
+RP   NUCLEOTIDE SEQUENCE.
+RX   PubMed=16887700; DOI=10.1016/S1075-9964(03)00087-8;
+RA   Tsai C.F., Qiu X., Liu J.H.;
+RT   "A comparative analysis of two cDNA clones of the cellulase gene
+RT   family from anaerobic fungus Piromyces rhizinflata.";
+RL   Anaerobe 9:131-140(2003).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase family 6.
+CC       {ECO:0000256|RuleBase:RU361186}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; AF222692; AAF34679.1; -; mRNA.
+DR   ProteinModelPortal; Q9P8Q8; -.
+DR   CAZy; GH6; Glycoside Hydrolase Family 6.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 3.20.20.40; -; 1.
+DR   InterPro; IPR016288; Beta_cellobiohydrolase.
+DR   Pfam; PF01341; Glyco_hydro_6; 1.
+DR   PIRSF; PIRSF001100; Beta_cellobiohydrolase; 1.
+DR   PRINTS; PR00733; GLHYDRLASE6.
+DR   SUPFAM; SSF51989; SSF51989; 1.
+PE   2: Evidence at transcript level;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361186};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361186};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361186};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361186};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361186}.
+FT   ACT_SITE    125    125       {ECO:0000256|PIRSR:PIRSR001100-1}.
+FT   ACT_SITE    167    167       Proton donor.
+FT                                {ECO:0000256|PIRSR:PIRSR001100-1}.
+FT   ACT_SITE    333    333       Nucleophile.
+FT                                {ECO:0000256|PIRSR:PIRSR001100-1}.
+FT   NON_TER       1      1       {ECO:0000313|EMBL:AAF34679.1}.
+SQ   SEQUENCE   376 AA;  40294 MW;  A9839FC24E10F5BE CRC64;
+     ETLPQQSNSA KTLPQQSDSA KTIPQPTSAE SQTSKTLPQT GGSGNGSSQN FFLNEIYANP
+     KFIEEVEDSI EKLTPELQAK AEKVKDVPTA VWLAWDGSPG EVEGHLVAAG SKTVVFLLYM
+     IPTRDCNSNA SAGGAASLDK YKGYIDDISN TIKSHPESKV VMVVEPDTLG NLVTGNSEAC
+     KNVHTLHKNA LSYAVDVFGA MSNVSVYLDA AHGMWLGPHT DKVASVIKEI LNNAPNGKIR
+     GLSTNVSNYQ PVSSEYQYHQ KLAASLAAVG VNDVHFIVDT GRSGVDVTET FSKQQTWCNF
+     IGAGLGPRPQ GNPDASMPLL DAYMWLKTPG EADGSAVGDR ADPVCSHEDS LQVAPDAGQW
+     FHDYFVLLLK NANPPF
+//
+ID   M5CDE5_THACB            Unreviewed;       116 AA.
+AC   M5CDE5;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   16-SEP-2015, entry version 8.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO37125.1};
+GN   ORFNames=BN14_11276 {ECO:0000313|EMBL:CCO37125.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO37125.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO37125.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCO37125.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01016806; CCO37125.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO37125; CCO37125; BN14_11276.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065}.
+SQ   SEQUENCE   116 AA;  12550 MW;  C02964D373094DE5 CRC64;
+     MGPHHKRLRQ LLHRPENCAV DGADYSGTYG ITTSGNALTL KFVTKGENTN VGSRVYLMAS
+     DDTNYEMFKL KNQEFTFDVD VSNLPCGLNG ALYFSEMSAD GGKSNALGTS SSSTAR
+//
+ID   A0A0K6GFL3_9HOMO        Unreviewed;       212 AA.
+AC   A0A0K6GFL3;
+DT   11-NOV-2015, integrated into UniProtKB/TrEMBL.
+DT   11-NOV-2015, sequence version 1.
+DT   17-FEB-2016, entry version 4.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CUA77169.1};
+GN   ORFNames=RSOLAG22IIIB_06543 {ECO:0000313|EMBL:CUA77169.1};
+OS   Rhizoctonia solani.
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=456999 {ECO:0000313|EMBL:CUA77169.1, ECO:0000313|Proteomes:UP000044841};
+RN   [1] {ECO:0000313|EMBL:CUA77169.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=BBA 69670 {ECO:0000313|EMBL:CUA77169.1};
+RA   Noorani M.;
+RL   Submitted (JUL-2015) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CYGV01001789; CUA77169.1; -; Genomic_DNA.
+DR   Proteomes; UP000044841; Unassembled WGS sequence.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Complete proteome {ECO:0000313|Proteomes:UP000044841};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000044841}.
+SQ   SEQUENCE   212 AA;  22921 MW;  5690A43A06E9A727 CRC64;
+     MFDVDARNVR WGFGGGLYFS QMDGDGGICK HSGNKAGAKY GTGYCKPKCP RNIKLINGQQ
+     GSDTNPGTGF GCYGTCCNEI DIREANSYST ASIANPCTVQ EQTRCSGSEY TSCCHSDGCD
+     FNPYRLGNLP YYGHNMTVDT NKKPTVITQF ITADNTTTSA LGEIRRLYIQ NGKVVQNARS
+     SIPELAGFDS IAEEYCSAQK AAFGDPDVCA KR
+//
+ID   M5CBP4_THACB            Unreviewed;       142 AA.
+AC   M5CBP4;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCO37408.1};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO37408.1};
+GN   ORFNames=BN14_11564 {ECO:0000313|EMBL:CCO37408.1},
+GN   BN14_11586 {ECO:0000313|EMBL:CCO37430.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO37408.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO37408.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Isolate 7/3/14 {ECO:0000313|EMBL:CCO37408.1};
+RA   Jelonek L.;
+RL   Submitted (OCT-2012) to the EMBL/GenBank/DDBJ databases.
+RN   [2] {ECO:0000313|EMBL:CCO37408.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065},
+RC   and Isolate 7/3/14 {ECO:0000313|EMBL:CCO37408.1};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCO37408.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01017126; CCO37408.1; -; Genomic_DNA.
+DR   EMBL; CAOJ01017141; CCO37430.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO37408; CCO37408; BN14_11564.
+DR   EnsemblFungi; CCO37430; CCO37430; BN14_11586.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065}.
+FT   DOMAIN      106    142       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   142 AA;  14812 MW;  8A8A59719A5684C2 CRC64;
+     MATMDKSFQA GVVLVMSIWD DHAAHMLWLD SNYPLDRDAS KPGVARGTCA TSSGDPKDVE
+     AQSPNASVTF SNIRFGDIGS TYSSTSQPGT TTAGTTAVPT PTSPSGTVPQ FGQCGGQGYS
+     GPTTCAAPYT CKVTNQWYSQ CL
+//
+ID   M5CE85_THACB            Unreviewed;       139 AA.
+AC   M5CE85;
+DT   29-MAY-2013, integrated into UniProtKB/TrEMBL.
+DT   29-MAY-2013, sequence version 1.
+DT   09-DEC-2015, entry version 9.
+DE   SubName: Full=Uncharacterized protein {ECO:0000313|EMBL:CCO37490.1};
+GN   Name=cbhB {ECO:0000313|EMBL:CCO37490.1};
+GN   ORFNames=BN14_11646 {ECO:0000313|EMBL:CCO37490.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CCO37490.1, ECO:0000313|Proteomes:UP000012065};
+RN   [1] {ECO:0000313|EMBL:CCO37490.1, ECO:0000313|Proteomes:UP000012065}
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=AG1-IB / isolate 7/3/14 {ECO:0000313|Proteomes:UP000012065};
+RX   PubMed=23280342; DOI=10.1016/j.jbiotec.2012.12.010;
+RA   Wibberg D., Jelonek L., Rupp O., Hennig M., Eikmeyer F., Goesmann A.,
+RA   Hartmann A., Borriss R., Grosch R., Puehler A., Schlueter A.;
+RT   "Establishment and interpretation of the genome sequence of the
+RT   phytopathogenic fungus Rhizoctonia solani AG1-IB isolate 7/3/14.";
+RL   J. Biotechnol. 0:0-0(2013).
+CC   -!- CAUTION: The sequence shown here is derived from an
+CC       EMBL/GenBank/DDBJ whole genome shotgun (WGS) entry which is
+CC       preliminary data. {ECO:0000313|EMBL:CCO37490.1}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; CAOJ01017200; CCO37490.1; -; Genomic_DNA.
+DR   EnsemblFungi; CCO37490; CCO37490; BN14_11646.
+DR   Proteomes; UP000012065; Unassembled WGS sequence.
+DR   GO; GO:0005576; C:extracellular region; IEA:InterPro.
+DR   GO; GO:0030248; F:cellulose binding; IEA:InterPro.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0005975; P:carbohydrate metabolic process; IEA:InterPro.
+DR   InterPro; IPR000254; Cellulose-bd_dom_fun.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00734; CBM_1; 1.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   ProDom; PD001821; CBD_fun; 1.
+DR   SMART; SM00236; fCBD; 1.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+DR   SUPFAM; SSF57180; SSF57180; 1.
+DR   PROSITE; PS00562; CBM1_1; 1.
+DR   PROSITE; PS51164; CBM1_2; 1.
+PE   4: Predicted;
+KW   Complete proteome {ECO:0000313|Proteomes:UP000012065};
+KW   Reference proteome {ECO:0000313|Proteomes:UP000012065}.
+FT   DOMAIN      103    139       CBM1 (fungal-type carbohydrate-binding).
+FT                                {ECO:0000259|PROSITE:PS51164}.
+SQ   SEQUENCE   139 AA;  14509 MW;  ABD628E47EC528A8 CRC64;
+     MDKSFQAGVV LVMSIWDDHA AHMLWLDSNY PLDRDASKPG VARGTCATSS GDPKDVEAQS
+     PNASVTFSNI RFGDIGSTYS STSQPGTTTA GTTAVPTPTS PSGTVPQFGQ CGGQGYSGPT
+     TCAAPYTCKV TNQWYSQCL
+//
+ID   A0A0B7FSP1_THACB        Unreviewed;       323 AA.
+AC   A0A0B7FSP1;
+DT   01-APR-2015, integrated into UniProtKB/TrEMBL.
+DT   01-APR-2015, sequence version 1.
+DT   27-MAY-2015, entry version 3.
+DE   RecName: Full=Glucanase {ECO:0000256|RuleBase:RU361164};
+DE            EC=3.2.1.- {ECO:0000256|RuleBase:RU361164};
+GN   Name=cbhB {ECO:0000313|EMBL:CEL59238.1};
+GN   ORFNames=RSOLAG1IB_03171 {ECO:0000313|EMBL:CEL59238.1};
+OS   Thanatephorus cucumeris (strain AG1-IB / isolate 7/3/14) (Lettuce
+OS   bottom rot fungus) (Rhizoctonia solani).
+OC   Eukaryota; Fungi; Dikarya; Basidiomycota; Agaricomycotina;
+OC   Agaricomycetes; Cantharellales; Ceratobasidiaceae;
+OC   mitosporic Ceratobasidiaceae; Rhizoctonia.
+OX   NCBI_TaxID=1108050 {ECO:0000313|EMBL:CEL59238.1};
+RN   [1] {ECO:0000313|EMBL:CEL59238.1}
+RP   NUCLEOTIDE SEQUENCE.
+RC   STRAIN=Rhizoctonia solani AG1-IB 7/3/14 {ECO:0000313|EMBL:CEL59238.1};
+RA   Wibberg Daniel;
+RL   Submitted (NOV-2014) to the EMBL/GenBank/DDBJ databases.
+CC   -!- SIMILARITY: Belongs to the glycosyl hydrolase 7 (cellulase C)
+CC       family. {ECO:0000256|RuleBase:RU361164}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; LN679103; CEL59238.1; -; Genomic_DNA.
+DR   GO; GO:0004553; F:hydrolase activity, hydrolyzing O-glycosyl compounds; IEA:InterPro.
+DR   GO; GO:0030245; P:cellulose catabolic process; IEA:UniProtKB-KW.
+DR   Gene3D; 2.70.100.10; -; 1.
+DR   InterPro; IPR013320; ConA-like_dom.
+DR   InterPro; IPR001722; Glyco_hydro_7.
+DR   Pfam; PF00840; Glyco_hydro_7; 1.
+DR   PRINTS; PR00734; GLHYDRLASE7.
+DR   SUPFAM; SSF49899; SSF49899; 1.
+PE   3: Inferred from homology;
+KW   Carbohydrate metabolism {ECO:0000256|RuleBase:RU361164};
+KW   Cellulose degradation {ECO:0000256|RuleBase:RU361164};
+KW   Glycosidase {ECO:0000256|RuleBase:RU361164};
+KW   Hydrolase {ECO:0000256|RuleBase:RU361164};
+KW   Polysaccharide degradation {ECO:0000256|RuleBase:RU361164}.
+SQ   SEQUENCE   323 AA;  34831 MW;  6BF02C86DE086016 CRC64;
+     MANDSSYQIF KPKNREFTFD VDASNLSCGL NGALYFVQMD ADGGMSKYPT NKAGAKYGTG
+     YCDAKCPRNL HFINGEANII DWQPSPTDPD DGLGRYGACC NEVDIWDANS FSTAYIANPC
+     AVQGLTRCSG SECTSYCDRD GCDFNPYRLG SRAYYGKGMT IDTTQKITIV TQFITADNTT
+     TGALREIRRL YIQNGKLIQN VKSSISELSS YDSISEEYCS VQKTVFKDPN TFAAKGGFGA
+     LDKALDSGLV LVMSISGDSS IAQTQWLDGI YPPDRSSTEA GVSRGLCQLP SGPAPSLPVE
+     PSPSASVTFS NLRFGDIGST YSV
+//
